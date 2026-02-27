@@ -127,6 +127,14 @@ class AppLocalizations {
   String get loseShort => _getString('loseShort');
   String get pausedShort => _getString('pausedShort');
 
+  // MARK: Counter strings
+  String get currentLevel => _getString('currentLevel');
+  String get remainingMines => _getString('remainingMines');
+  String get gameTime => _getString('gameTime');
+  String get operationCount => _getString('operationCount');
+  String get previousLevel => _getString('previousLevel');
+  String get nextLevelShort => _getString('nextLevelShort');
+
   // MARK: Parameterized strings
   String getLevel(int level) =>
       _getStringWithParam('level', {'level': level.toString()});

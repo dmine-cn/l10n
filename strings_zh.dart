@@ -84,4 +84,11 @@ const Map<String, String> stringsZh = {
   'winShort': '通关！',
   'loseShort': '踩雷失败',
   'pausedShort': '暂停',
+  // Counter strings
+  'currentLevel': '当前关次',
+  'remainingMines': '剩余地雷数',
+  'gameTime': '游戏用时（秒）',
+  'operationCount': '操作次数',
+  'previousLevel': '上一关',
+  'nextLevelShort': '下一关',
 };

@@ -86,4 +86,11 @@ const Map<String, String> stringsEn = {
   'winShort': 'Win!',
   'loseShort': 'Mine Failure',
   'pausedShort': 'Paused',
+  // Counter strings
+  'currentLevel': 'Current Level',
+  'remainingMines': 'Remaining Mines',
+  'gameTime': 'Game Time (seconds)',
+  'operationCount': 'Operations',
+  'previousLevel': 'Previous Level',
+  'nextLevelShort': 'Next Level',
 };
