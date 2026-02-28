@@ -1,6 +1,6 @@
 /// English language strings for the DMine application
 const Map<String, String> stringsEn = {
-  'appTitle': 'DMine Minesweeper Challenge',
+  'appTitle': 'DMine',
   'settings': 'Settings',
   'gameSettings': 'Game Settings',
   'showTimer': 'Show Timer',
@@ -49,7 +49,7 @@ const Map<String, String> stringsEn = {
   'language': 'Language',
   // Home page
   'newBattle': 'New Battle',
-  'continueChallenge': 'Continue Challenge',
+  'continueChallenge': 'Continue',
   'error': 'Error',
   'initializationFailed': 'Initialization failed',
   // Game page
@@ -62,7 +62,7 @@ const Map<String, String> stringsEn = {
   'nextLevelMines': 'Mines',
   'mineIncrease': 'Increase',
   'ok': 'OK',
-  'continueNextLevel': 'Continue to Next Level',
+  'continueNextLevel': 'Next Level',
   'restart': 'Restart',
   'level': 'Level {level}',
   'operationFailed': 'Operation failed',
