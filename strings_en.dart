@@ -93,4 +93,48 @@ const Map<String, String> stringsEn = {
   'operationCount': 'Operations',
   'previousLevel': 'Previous Level',
   'nextLevelShort': 'Next Level',
+  // Battlefront strings
+  'completed': 'Completed',
+  'inProgress': 'In Progress',
+  'continueGame': 'Continue Game',
+  'replay': 'Replay',
+  'created': 'Created',
+  'updated': 'Updated',
+  // Battlefront UI strings
+  'noBattlefronts': 'No battlefronts',
+  'battlefrontCount': '{count} battlefront(s)',
+  'levelPrefix': 'LV{level}',
+  'minesCount': '{count} mines',
+  'notStarted': 'Not started',
+  'victory': 'Victory',
+  'defeat': 'Defeat',
+  'gameDurationParam': 'Game duration: {seconds}s',
+  'actionsCountParam': 'Actions: {count}',
+  'miningMethodParam': 'Mining method: {method}',
+  'startTimeParam': 'Start time: {time}',
+  'endTimeParam': 'End time: {time}',
+  'returnButton': 'Return',
+  'battlefrontDetails': 'Battlefront Details',
+  'clickToEditName': 'Click to edit name',
+  'clickToAddDescription': 'Click to add description...',
+  // Dialog strings
+  'confirm': 'Confirm',
+  'cancel': 'Cancel',
+  'yes': 'Yes',
+  'no': 'No',
+  'save': 'Save',
+  'edit': 'Edit',
+  'levelFormat': 'Level {level}',
+  // Level record strings
+  'levelCount': '{count} levels',
+  'noLevelRecords': 'No level records',
+  // Battlefront operations and messages
+  'deleteBattlefrontTitle': 'Delete Battlefront',
+  'deleteBattlefrontContent':
+      'Are you sure you want to delete battlefront "{name}"? This action cannot be undone.',
+  'battlefrontLockedCannotDelete':
+      'Battlefront is locked and cannot be deleted',
+  'unknownNavigationLevel': 'Unknown navigation level',
+  'noBattlefrontSelected': 'No battlefront selected',
+  'noBattlefrontToContinue': 'No battlefront found to continue',
 };

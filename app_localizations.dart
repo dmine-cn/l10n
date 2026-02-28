@@ -26,7 +26,8 @@ class AppLocalizations {
 
   String _getString(String key) {
     return _localizedValues[locale.languageCode]?[key] ??
-        _localizedValues['en']![key]!;
+        _localizedValues['en']?[key] ??
+        key; // 如果都不存在，返回键名本身作为默认值
   }
 
   // 使用快捷方法来处理带参数的字符串
@@ -135,11 +136,70 @@ class AppLocalizations {
   String get previousLevel => _getString('previousLevel');
   String get nextLevelShort => _getString('nextLevelShort');
 
+  // MARK: 战线状态和操作
+  String get completed => _getString('completed');
+  String get inProgress => _getString('inProgress');
+  String get continueGame => _getString('continueGame');
+  String get replay => _getString('replay');
+  String get created => _getString('created');
+  String get updated => _getString('updated');
+
+  // MARK: 对话框
+  String get confirm => _getString('confirm');
+  String get cancel => _getString('cancel');
+  String get yes => _getString('yes');
+  String get no => _getString('no');
+  String get save => _getString('save');
+  String get edit => _getString('edit');
+
+  // MARK: 战线UI字符串
+  String get noBattlefronts => _getString('noBattlefronts');
+  String get notStarted => _getString('notStarted');
+  String get victory => _getString('victory');
+  String get defeat => _getString('defeat');
+  String get returnButton => _getString('returnButton');
+  String get battlefrontDetails => _getString('battlefrontDetails');
+  String get clickToEditName => _getString('clickToEditName');
+  String get clickToAddDescription => _getString('clickToAddDescription');
+
+  // MARK: 关次记录字符串
+  String get noLevelRecords => _getString('noLevelRecords');
+
+  // MARK: 战线操作和消息
+  String get deleteBattlefrontTitle => _getString('deleteBattlefrontTitle');
+  String get battlefrontLockedCannotDelete =>
+      _getString('battlefrontLockedCannotDelete');
+  String get unknownNavigationLevel => _getString('unknownNavigationLevel');
+  String get noBattlefrontSelected => _getString('noBattlefrontSelected');
+  String get noBattlefrontToContinue => _getString('noBattlefrontToContinue');
+
   // MARK: Parameterized strings
   String getLevel(int level) =>
       _getStringWithParam('level', {'level': level.toString()});
   String getNextLevel(int level) =>
       _getStringWithParam('nextLevel', {'level': level.toString()});
+  String getLevelFormat(int level) =>
+      _getStringWithParam('levelFormat', {'level': level.toString()});
+  String getBattlefrontCount(int count) =>
+      _getStringWithParam('battlefrontCount', {'count': count.toString()});
+  String getLevelCount(int count) =>
+      _getStringWithParam('levelCount', {'count': count.toString()});
+  String getLevelPrefix(int level) =>
+      _getStringWithParam('levelPrefix', {'level': level.toString()});
+  String getMinesCount(int count) =>
+      _getStringWithParam('minesCount', {'count': count.toString()});
+  String getGameDurationParam(int seconds) =>
+      _getStringWithParam('gameDurationParam', {'seconds': seconds.toString()});
+  String getActionsCountParam(int count) =>
+      _getStringWithParam('actionsCountParam', {'count': count.toString()});
+  String getMiningMethodParam(String method) =>
+      _getStringWithParam('miningMethodParam', {'method': method});
+  String getStartTimeParam(String time) =>
+      _getStringWithParam('startTimeParam', {'time': time});
+  String getEndTimeParam(String time) =>
+      _getStringWithParam('endTimeParam', {'time': time});
+  String getDeleteBattlefrontContent(String name) =>
+      _getStringWithParam('deleteBattlefrontContent', {'name': name});
 }
 
 // MARK: 本地委托
