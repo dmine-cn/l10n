@@ -84,7 +84,7 @@ const Map<String, String> stringsEn = {
   'clickStartShort': 'Click Start',
   'playingShort': 'Playing',
   'winShort': 'Win!',
-  'loseShort': 'Mine Failure',
+  'loseShort': 'Failure',
   'pausedShort': 'Paused',
   // Counter strings
   'currentLevel': 'Current Level',
