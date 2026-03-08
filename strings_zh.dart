@@ -125,7 +125,7 @@ const Map<String, String> stringsZh = {
   'clickToAddDescription': '点击添加描述...',
   // Level record strings
   'levelCount': '{count}个关次',
-  'noLevelRecords': '暂无关次记录',
+  'noLevelRecords': '请选择战线',
   // Battlefront operations and messages
   'deleteBattlefrontTitle': '删除战线',
   'deleteBattlefrontContent': '确定要删除战线 "{name}" 吗？此操作不可撤销。',
