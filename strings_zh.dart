@@ -133,4 +133,6 @@ const Map<String, String> stringsZh = {
   'unknownNavigationLevel': '未知层级',
   'noBattlefrontSelected': '未选择战线',
   'noBattlefrontToContinue': '没有找到可继续的战线',
+  'synced': '已同步',
+  'notSynced': '未同步',
 };

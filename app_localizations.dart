@@ -173,6 +173,10 @@ class AppLocalizations {
   String get noBattlefrontSelected => _getString('noBattlefrontSelected');
   String get noBattlefrontToContinue => _getString('noBattlefrontToContinue');
 
+  // MARK: Sync strings
+  String get synced => _getString('synced');
+  String get notSynced => _getString('notSynced');
+
   // MARK: Parameterized strings
   String getLevel(int level) =>
       _getStringWithParam('level', {'level': level.toString()});
