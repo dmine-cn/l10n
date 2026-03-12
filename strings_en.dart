@@ -139,4 +139,5 @@ const Map<String, String> stringsEn = {
   'noBattlefrontToContinue': 'No battlefront found to continue',
   'synced': 'Synced',
   'notSynced': 'Not synced',
+  'battlefrontName': 'Battlefront {number}',
 };

@@ -177,6 +177,10 @@ class AppLocalizations {
   String get synced => _getString('synced');
   String get notSynced => _getString('notSynced');
 
+  // MARK: Battlefront name string
+  String getBattlefrontName(int number) =>
+      _getStringWithParam('battlefrontName', {'number': number.toString()});
+
   // MARK: Parameterized strings
   String getLevel(int level) =>
       _getStringWithParam('level', {'level': level.toString()});

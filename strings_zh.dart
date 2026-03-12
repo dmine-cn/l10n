@@ -135,4 +135,5 @@ const Map<String, String> stringsZh = {
   'noBattlefrontToContinue': '没有找到可继续的战线',
   'synced': '已同步',
   'notSynced': '未同步',
+  'battlefrontName': '战线{number}',
 };
