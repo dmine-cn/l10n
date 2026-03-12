@@ -2,7 +2,7 @@
 const Map<String, String> stringsEn = {
   'appTitle': 'DMine',
   'settings': 'Settings',
-  'gameSettings': 'Game Settings',
+  'gameSettings': 'Settings',
   'showTimer': 'Show Timer',
   'showTimerDesc': 'Display game timer on game interface',
   'showActionCounter': 'Show Action Counter',
@@ -70,7 +70,7 @@ const Map<String, String> stringsEn = {
   'returnHome': 'Return Home',
   'revealMode': 'Reveal Mode',
   'flagMode': 'Flag Mode',
-  'newMap': 'New Map (same mines, new layout)',
+  'newMap': 'New Map (same mines)',
   'previousStep': 'Previous Step',
   'pause': 'Pause',
   'play': 'Play',
@@ -89,7 +89,7 @@ const Map<String, String> stringsEn = {
   // Counter strings
   'currentLevel': 'Current Level',
   'remainingMines': 'Remaining Mines',
-  'gameTime': 'Game Time (seconds)',
+  'gameTime': 'Duration (seconds)',
   'operationCount': 'Actions',
   'previousLevel': 'Previous Level',
   'nextLevelShort': 'Next Level',
