@@ -177,6 +177,16 @@ class AppLocalizations {
   String get synced => _getString('synced');
   String get notSynced => _getString('notSynced');
 
+  // MARK: Nickname strings
+  String get nickname => _getString('nickname');
+  String get nicknameSetting => _getString('nicknameSetting');
+  String get nicknameDesc => _getString('nicknameDesc');
+  String get enterNickname => _getString('enterNickname');
+  String get nicknameSaved => _getString('nicknameSaved');
+  String get nicknameUpdated => _getString('nicknameUpdated');
+  String get nicknameRequired => _getString('nicknameRequired');
+  String get nicknameTooLong => _getString('nicknameTooLong');
+
   // MARK: Battlefront name string
   String getBattlefrontName(int number) =>
       _getStringWithParam('battlefrontName', {'number': number.toString()});

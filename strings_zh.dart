@@ -136,4 +136,12 @@ const Map<String, String> stringsZh = {
   'synced': '已同步',
   'notSynced': '未同步',
   'battlefrontName': '战线{number}',
+  'nickname': '昵称',
+  'nicknameSetting': '昵称设置',
+  'nicknameDesc': '设置您的显示昵称',
+  'enterNickname': '输入昵称',
+  'nicknameSaved': '昵称已保存',
+  'nicknameUpdated': '昵称更新成功',
+  'nicknameRequired': '昵称为必填项',
+  'nicknameTooLong': '昵称不能超过30个字符',
 };

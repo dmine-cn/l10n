@@ -140,4 +140,12 @@ const Map<String, String> stringsEn = {
   'synced': 'Synced',
   'notSynced': 'Not synced',
   'battlefrontName': 'Battlefront {number}',
+  'nickname': 'Nickname',
+  'nicknameSetting': 'Nickname Setting',
+  'nicknameDesc': 'Set your display nickname',
+  'enterNickname': 'Enter nickname',
+  'nicknameSaved': 'Nickname saved',
+  'nicknameUpdated': 'Nickname updated successfully',
+  'nicknameRequired': 'Nickname is required',
+  'nicknameTooLong': 'Nickname cannot exceed 30 characters',
 };
