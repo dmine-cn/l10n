@@ -58,7 +58,7 @@ const Map<String, String> stringsZh = {
   'mineCount': '地雷数',
   'nextLevel': '下一关: 第 {level} 关',
   'nextLevelMines': '地雷数',
-  'mineIncrease': '增加数量',
+  'mineIncrease': '增加',
   'ok': '确定',
   'continueNextLevel': '继续挑战下一关',
   'restart': '重新开始',
