@@ -187,6 +187,23 @@ class AppLocalizations {
   String get nicknameRequired => _getString('nicknameRequired');
   String get nicknameTooLong => _getString('nicknameTooLong');
 
+  // MARK: Level top strings
+  String get levelTop => _getString('levelTop');
+  String get viewMore => _getString('viewMore');
+  String get retry => _getString('retry');
+  String get noLevelTopData => _getString('noLevelTopData');
+  String get remoteBattlefront => _getString('remoteBattlefront');
+  String get participated => _getString('participated');
+  String get notParticipated => _getString('notParticipated');
+  String get joinBattle => _getString('joinBattle');
+  String get continueGameShort => _getString('continueGameShort');
+  String get replayShort => _getString('replayShort');
+  String get firstClearTime => _getString('firstClearTime');
+  String get deviceNickname => _getString('deviceNickname');
+  String get createdTime => _getString('createdTime');
+  String get remoteBattlefrontDetail => _getString('remoteBattlefrontDetail');
+  String get levelList => _getString('levelList');
+
   // MARK: Battlefront name string
   String getBattlefrontName(int number) =>
       _getStringWithParam('battlefrontName', {'number': number.toString()});
@@ -218,6 +235,8 @@ class AppLocalizations {
       _getStringWithParam('endTimeParam', {'time': time});
   String getDeleteBattlefrontContent(String name) =>
       _getStringWithParam('deleteBattlefrontContent', {'name': name});
+  String getHighestLevel(int level) =>
+      _getStringWithParam('highestLevel', {'level': level.toString()});
 }
 
 // MARK: 本地委托
