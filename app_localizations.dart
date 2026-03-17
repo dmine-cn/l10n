@@ -204,6 +204,14 @@ class AppLocalizations {
   String get remoteBattlefrontDetail => _getString('remoteBattlefrontDetail');
   String get levelList => _getString('levelList');
 
+  // MARK: New strings for remote battlefront UI
+  String get selectLocalBattlefrontHint =>
+      _getString('selectLocalBattlefrontHint');
+  String get loadingRemoteDetail => _getString('loadingRemoteDetail');
+  String get noRemoteBattlefrontSelected =>
+      _getString('noRemoteBattlefrontSelected');
+  String get failedToLoadRemoteDetail => _getString('failedToLoadRemoteDetail');
+
   // MARK: Battlefront name string
   String getBattlefrontName(int number) =>
       _getStringWithParam('battlefrontName', {'number': number.toString()});

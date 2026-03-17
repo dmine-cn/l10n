@@ -165,4 +165,9 @@ const Map<String, String> stringsEn = {
   'createdTime': 'Created Time',
   'remoteBattlefrontDetail': 'Battlefront Detail',
   'levelList': 'Level List',
+  // New strings for remote battlefront UI
+  'selectLocalBattlefrontHint': 'Please select a battlefront to view details',
+  'loadingRemoteDetail': 'Loading battlefront details...',
+  'noRemoteBattlefrontSelected': 'No battlefront selected',
+  'failedToLoadRemoteDetail': 'Failed to load battlefront details',
 };
