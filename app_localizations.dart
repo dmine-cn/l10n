@@ -198,7 +198,7 @@ class AppLocalizations {
   String get joinBattle => _getString('joinBattle');
   String get continueGameShort => _getString('continueGameShort');
   String get replayShort => _getString('replayShort');
-  String get firstClearTime => _getString('firstClearTime');
+  String get lastLevelFirstClearAt => _getString('lastLevelFirstClearAt');
   String get deviceNickname => _getString('deviceNickname');
   String get createdTime => _getString('createdTime');
   String get remoteBattlefrontDetail => _getString('remoteBattlefrontDetail');
