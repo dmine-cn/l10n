@@ -170,4 +170,8 @@ const Map<String, String> stringsEn = {
   'loadingRemoteDetail': 'Loading battlefront details...',
   'noRemoteBattlefrontSelected': 'No battlefront selected',
   'failedToLoadRemoteDetail': 'Failed to load battlefront details',
+  // New strings for branch maps
+  'getBranchMapCount': '{count} branch',
+  'collapse': 'Collapse',
+  'expand': 'Expand',
 };

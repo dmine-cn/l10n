@@ -212,6 +212,10 @@ class AppLocalizations {
       _getString('noRemoteBattlefrontSelected');
   String get failedToLoadRemoteDetail => _getString('failedToLoadRemoteDetail');
 
+  // MARK: New strings for branch maps
+  String get collapse => _getString('collapse');
+  String get expand => _getString('expand');
+
   // MARK: Battlefront name string
   String getBattlefrontName(int number) =>
       _getStringWithParam('battlefrontName', {'number': number.toString()});
@@ -245,6 +249,9 @@ class AppLocalizations {
       _getStringWithParam('deleteBattlefrontContent', {'name': name});
   String getHighestLevel(int level) =>
       _getStringWithParam('highestLevel', {'level': level.toString()});
+
+  String getBranchMapCount(int count) =>
+      _getStringWithParam('getBranchMapCount', {'count': count.toString()});
 }
 
 // MARK: 本地委托

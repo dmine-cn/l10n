@@ -166,4 +166,8 @@ const Map<String, String> stringsZh = {
   'loadingRemoteDetail': '加载远程战线详情中...',
   'noRemoteBattlefrontSelected': '未选择远程战线',
   'failedToLoadRemoteDetail': '加载远程战线详情失败',
+  // New strings for branch maps
+  'getBranchMapCount': '{count}个副本',
+  'collapse': '折叠',
+  'expand': '展开',
 };
