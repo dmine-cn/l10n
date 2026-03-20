@@ -149,7 +149,7 @@ const Map<String, String> stringsEn = {
   'nicknameRequired': 'Nickname is required',
   'nicknameTooLong': 'Nickname cannot exceed 30 characters',
   // Level top strings
-  'levelTop': 'Top Ranking',
+  'levelTopCount': 'Top Ranking ({count})',
   'viewMore': 'More',
   'retry': 'Retry',
   'noLevelTopData': 'No data',

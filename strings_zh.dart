@@ -145,7 +145,7 @@ const Map<String, String> stringsZh = {
   'nicknameRequired': '昵称为必填项',
   'nicknameTooLong': '昵称不能超过30个字符',
   // Level top strings
-  'levelTop': '顶级榜',
+  'levelTopCount': '顶级榜 ({count})',
   'viewMore': '更多',
   'retry': '重试',
   'noLevelTopData': '暂无数据',
