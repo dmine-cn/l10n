@@ -98,7 +98,8 @@ const Map<String, String> stringsEn = {
   'inProgress': 'In Progress',
   'continueGame': 'Continue Game',
   'replay': 'Replay',
-  'created': 'Created',
+  'creater': 'Commander',
+  'created': 'Attack Time',
   'updated': 'Updated',
   // Battlefront UI strings
   'noBattlefronts': 'No battlefronts',
@@ -160,7 +161,7 @@ const Map<String, String> stringsEn = {
   'continueGameShort': 'Continue',
   'replayShort': 'Replay',
   'highestLevel': 'Level {level}',
-  'lastLevelFirstClearAt': 'Clear Time',
+  'lastLevelFirstClearAt': 'Last War',
   'deviceNickname': 'Device Nickname',
   'createdTime': 'Created Time',
   'remoteBattlefrontDetail': 'Battlefront Detail',

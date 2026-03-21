@@ -96,7 +96,8 @@ const Map<String, String> stringsZh = {
   'inProgress': '进行中',
   'continueGame': '继续游戏',
   'replay': '回放',
-  'created': '创建',
+  'creater': '总司令',
+  'created': '开战时间',
   'updated': '更新',
   // Dialog strings
   'confirm': '确认',
@@ -156,7 +157,7 @@ const Map<String, String> stringsZh = {
   'continueGameShort': '继续战斗',
   'replayShort': '回放',
   'highestLevel': '第 {level} 关',
-  'lastLevelFirstClearAt': '通关',
+  'lastLevelFirstClearAt': '上次进攻',
   'deviceNickname': '设备',
   'createdTime': '创建时间',
   'remoteBattlefrontDetail': '战线详情',

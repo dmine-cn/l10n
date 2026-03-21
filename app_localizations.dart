@@ -141,6 +141,7 @@ class AppLocalizations {
   String get inProgress => _getString('inProgress');
   String get continueGame => _getString('continueGame');
   String get replay => _getString('replay');
+  String get creater => _getString('creater');
   String get created => _getString('created');
   String get updated => _getString('updated');
 
