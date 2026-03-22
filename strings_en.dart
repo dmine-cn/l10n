@@ -111,6 +111,7 @@ const Map<String, String> stringsEn = {
   'defeat': 'Defeat',
   'gameDurationParam': 'Duration: {seconds}s',
   'actionsCountParam': 'Actions: {count}',
+  'actionsCountParamShort': '{count}',
   'miningMethodParam': 'Method: {method}',
   'startTimeParam': 'Start time: {time}',
   'endTimeParam': 'End time: {time}',
@@ -149,7 +150,7 @@ const Map<String, String> stringsEn = {
   'nicknameUpdated': 'Nickname updated successfully',
   'nicknameRequired': 'Nickname is required',
   'nicknameTooLong': 'Nickname cannot exceed 30 characters',
-  // Level top strings
+  // 顶级榜
   'levelTopCount': 'Top Ranking ({count})',
   'viewMore': 'More',
   'retry': 'Retry',
@@ -166,12 +167,19 @@ const Map<String, String> stringsEn = {
   'createdTime': 'Created Time',
   'remoteBattlefrontDetail': 'Battlefront Detail',
   'levelList': 'Level List',
-  // New strings for remote battlefront UI
+  'fastClearTimeParam': 'Fast clear: {time}',
+  // 远程战斗记录项字符串
   'selectLocalBattlefrontHint': 'Please select a battlefront to view details',
   'loadingRemoteDetail': 'Loading battlefront details...',
   'noRemoteBattlefrontSelected': 'No battlefront selected',
   'failedToLoadRemoteDetail': 'Failed to load battlefront details',
-  // New strings for branch maps
+  'fastestRecord': 'Fastest',
+  'safestRecord': 'Safest',
+  'fastestRecordDesc': 'Fastest (shortest time)',
+  'safestRecordDesc': 'Safest (fewest actions)',
+  'creator': 'Creator',
+  'player': 'Player',
+  // 分支地图字符串
   'getBranchMapCount': '{count} branch',
   'collapse': 'Collapse',
   'expand': 'Expand',

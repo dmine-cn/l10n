@@ -116,7 +116,8 @@ const Map<String, String> stringsZh = {
   'victory': '胜利',
   'defeat': '失败',
   'gameDurationParam': '时长: {seconds}秒',
-  'actionsCountParam': '动作: {count}',
+  'actionsCountParam': '动作: {count}次',
+  'actionsCountParamShort': '{count}次',
   'miningMethodParam': '方式: {method}',
   'startTimeParam': '开始时间: {time}',
   'endTimeParam': '结束时间: {time}',
@@ -162,12 +163,19 @@ const Map<String, String> stringsZh = {
   'createdTime': '创建时间',
   'remoteBattlefrontDetail': '战线详情',
   'levelList': '关次列表',
-  // New strings for remote battlefront UI
+  'fastClearTimeParam': '开创时间: {time}',
+  // 远程战线详情字符串
   'selectLocalBattlefrontHint': '请选择一个本地战线查看详情',
   'loadingRemoteDetail': '加载远程战线详情中...',
   'noRemoteBattlefrontSelected': '未选择远程战线',
   'failedToLoadRemoteDetail': '加载远程战线详情失败',
-  // New strings for branch maps
+  'fastestRecord': '最快通关',
+  'safestRecord': '最稳通关',
+  'fastestRecordDesc': '最快通关(用时最少)',
+  'safestRecordDesc': '最稳通关(动作数最少)',
+  'creator': '开创者',
+  'player': '玩家',
+  // 分支地图字符串
   'getBranchMapCount': '{count}个副本',
   'collapse': '折叠',
   'expand': '展开',

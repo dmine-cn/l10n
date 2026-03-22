@@ -204,23 +204,29 @@ class AppLocalizations {
   String get remoteBattlefrontDetail => _getString('remoteBattlefrontDetail');
   String get levelList => _getString('levelList');
 
-  // MARK: New strings for remote battlefront UI
+  // MARK: 远程战线详情字符串
   String get selectLocalBattlefrontHint =>
       _getString('selectLocalBattlefrontHint');
   String get loadingRemoteDetail => _getString('loadingRemoteDetail');
   String get noRemoteBattlefrontSelected =>
       _getString('noRemoteBattlefrontSelected');
   String get failedToLoadRemoteDetail => _getString('failedToLoadRemoteDetail');
+  String get fastestRecord => _getString('fastestRecord');
+  String get safestRecord => _getString('safestRecord');
+  String get fastestRecordDesc => _getString('fastestRecordDesc');
+  String get safestRecordDesc => _getString('safestRecordDesc');
+  String get creator => _getString('creator');
+  String get player => _getString('player');
 
-  // MARK: New strings for branch maps
+  // MARK: 分支地图字符串
   String get collapse => _getString('collapse');
   String get expand => _getString('expand');
 
-  // MARK: Battlefront name string
+  // MARK: 战线名称字符串
   String getBattlefrontName(int number) =>
       _getStringWithParam('battlefrontName', {'number': number.toString()});
 
-  // MARK: Parameterized strings
+  // MARK: 带参数的字符串
   String getLevel(int level) =>
       _getStringWithParam('level', {'level': level.toString()});
   String getNextLevel(int level) =>
@@ -241,10 +247,16 @@ class AppLocalizations {
       _getStringWithParam('gameDurationParam', {'seconds': seconds.toString()});
   String getActionsCountParam(int count) =>
       _getStringWithParam('actionsCountParam', {'count': count.toString()});
+  String getActionsCountParamShort(int count) => _getStringWithParam(
+    'actionsCountParamShort',
+    {'count': count.toString()},
+  );
   String getMiningMethodParam(String method) =>
       _getStringWithParam('miningMethodParam', {'method': method});
   String getStartTimeParam(String time) =>
       _getStringWithParam('startTimeParam', {'time': time});
+  String getFastClearTimeParam(String time) =>
+      _getStringWithParam('fastClearTimeParam', {'time': time});
   String getEndTimeParam(String time) =>
       _getStringWithParam('endTimeParam', {'time': time});
   String getDeleteBattlefrontContent(String name) =>
