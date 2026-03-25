@@ -233,6 +233,8 @@ class AppLocalizations {
       _getStringWithParam('nextLevel', {'level': level.toString()});
   String getLevelFormat(int level) =>
       _getStringWithParam('levelFormat', {'level': level.toString()});
+  String getTotalLevel(int level) =>
+      _getStringWithParam('totalLevel', {'level': level.toString()});
   String getBattlefrontCount(int count) =>
       _getStringWithParam('battlefrontCount', {'count': count.toString()});
   String getLevelTopCount(int count) =>

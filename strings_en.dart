@@ -127,6 +127,7 @@ const Map<String, String> stringsEn = {
   'save': 'Save',
   'edit': 'Edit',
   'levelFormat': 'Level {level}',
+  'totalLevel': 'Total {level}',
   // Level record strings
   'levelCount': '{count} levels',
   'noLevelRecords': 'No level records',

@@ -106,7 +106,8 @@ const Map<String, String> stringsZh = {
   'no': '否',
   'save': '保存',
   'edit': '编辑',
-  'levelFormat': '第 {level} 关',
+  'levelFormat': '第{level}关',
+  'totalLevel': '共{level}关',
   // Battlefront UI strings
   'noBattlefronts': '暂无战线',
   'battlefrontCount': '{count}个战线',
