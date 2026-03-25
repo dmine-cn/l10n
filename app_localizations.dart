@@ -268,6 +268,15 @@ class AppLocalizations {
 
   String getBranchMapCount(int count) =>
       _getStringWithParam('getBranchMapCount', {'count': count.toString()});
+  // 确认要参战吗
+  String getJoinBattleConfirm(String name) =>
+      _getStringWithParam('joinBattleConfirm', {'name': name});
+  // 成功参战
+  String getJoinBattleSuccess(String name) =>
+      _getStringWithParam('joinBattleSuccess', {'name': name});
+  // 不能参战自己创建的战线
+  String getJoinBattleErrorSelf(String name) =>
+      _getStringWithParam('joinBattleErrorSelf', {'name': name});
 }
 
 // MARK: 本地委托
