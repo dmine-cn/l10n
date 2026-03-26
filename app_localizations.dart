@@ -284,6 +284,13 @@ class AppLocalizations {
   // 不能参战自己创建的战线
   String getJoinBattleErrorSelf(String name) =>
       _getStringWithParam('joinBattleErrorSelf', {'name': name});
+
+  // MARK: 退出战线字符串
+  String get quitBattlefront => _getString('quitBattlefront');
+  String get quitBattlefrontTooltip => _getString('quitBattlefrontTooltip');
+  String get quitBattlefrontTitle => _getString('quitBattlefrontTitle');
+  String getQuitBattlefrontContent(String name) =>
+      _getStringWithParam('quitBattlefrontContent', {'name': name});
 }
 
 // MARK: 本地委托

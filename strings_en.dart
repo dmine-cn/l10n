@@ -189,4 +189,10 @@ const Map<String, String> stringsEn = {
   'getBranchMapCount': '{count} branch',
   'collapse': 'Collapse',
   'expand': 'Expand',
+  // 退出战线
+  'quitBattlefront': 'Quit Battlefront',
+  'quitBattlefrontTooltip': 'Quit remote battlefront',
+  'quitBattlefrontTitle': 'Quit Battlefront',
+  'quitBattlefrontContent':
+      'Are you sure you want to quit battlefront "{name}"? Your local progress will be deleted.',
 };

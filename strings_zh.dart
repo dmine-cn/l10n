@@ -185,4 +185,9 @@ const Map<String, String> stringsZh = {
   'getBranchMapCount': '{count}个副本',
   'collapse': '折叠',
   'expand': '展开',
+  // 退出战线
+  'quitBattlefront': '退出战线',
+  'quitBattlefrontTooltip': '退出远程战线',
+  'quitBattlefrontTitle': '退出战线',
+  'quitBattlefrontContent': '确定要退出战线 "{name}" 吗？您的本地进度将被删除。',
 };
