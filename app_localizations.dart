@@ -237,12 +237,10 @@ class AppLocalizations {
     'totalLevel',
     {'level': level.toString(), 'totalLevel': totalLevel.toString()},
   );
-  String getTotalLevelTooltip(String creator, int level, int totalLevel) =>
-      _getStringWithParam('totalLevelTooltip', {
-        'creater': creator,
-        'level': level.toString(),
-        'totalLevel': totalLevel.toString(),
-      });
+  String getTotalLevelTooltip(int level, int totalLevel) => _getStringWithParam(
+    'totalLevelTooltip',
+    {'level': level.toString(), 'totalLevel': totalLevel.toString()},
+  );
   String getBattlefrontCount(int count) =>
       _getStringWithParam('battlefrontCount', {'count': count.toString()});
   String getLevelTopCount(int count) =>

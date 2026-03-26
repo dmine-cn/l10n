@@ -108,7 +108,7 @@ const Map<String, String> stringsZh = {
   'edit': '编辑',
   'levelFormat': '第 {level} 关',
   'totalLevel': '{level}/{totalLevel} 关',
-  'totalLevelTooltip': '总司令: {creater}\n当前: 第 {level} 关 / 共 {totalLevel} 关',
+  'totalLevelTooltip': '当前: 第 {level} 关 / 共 {totalLevel} 关',
   // Battlefront UI strings
   'noBattlefronts': '暂无战线',
   'battlefrontCount': '{count}个战线',
@@ -163,7 +163,7 @@ const Map<String, String> stringsZh = {
   'continueGameShort': '继续战斗',
   'replayShort': '回放',
   'highestLevel': '第 {level} 关',
-  'lastLevelFirstClearAt': '上次进攻',
+  'lastLevelFirstClearAt': '上次通关',
   'deviceNickname': '设备',
   'createdTime': '创建时间',
   'remoteBattlefrontDetail': '战线详情',
