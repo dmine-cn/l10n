@@ -127,6 +127,7 @@ const Map<String, String> stringsZh = {
   'battlefrontDetails': '战线详情',
   'clickToEditName': '点击修改名称',
   'clickToAddDescription': '点击添加描述...',
+  'noDescription': '暂无描述',
   // Level record strings
   'levelCount': '{count}个关次',
   'noLevelRecords': '请选择战线',

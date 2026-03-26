@@ -119,6 +119,7 @@ const Map<String, String> stringsEn = {
   'battlefrontDetails': 'Battlefront Details',
   'clickToEditName': 'Click to edit name',
   'clickToAddDescription': 'Click to add description...',
+  'noDescription': 'No description',
   // Dialog strings
   'confirm': 'Confirm',
   'cancel': 'Cancel',

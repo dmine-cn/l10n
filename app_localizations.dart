@@ -162,6 +162,7 @@ class AppLocalizations {
   String get battlefrontDetails => _getString('battlefrontDetails');
   String get clickToEditName => _getString('clickToEditName');
   String get clickToAddDescription => _getString('clickToAddDescription');
+  String get noDescription => _getString('noDescription');
 
   // MARK: 关次记录字符串
   String get noLevelRecords => _getString('noLevelRecords');
