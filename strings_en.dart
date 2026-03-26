@@ -127,7 +127,9 @@ const Map<String, String> stringsEn = {
   'save': 'Save',
   'edit': 'Edit',
   'levelFormat': 'Level {level}',
-  'totalLevel': 'Total {level}',
+  'totalLevel': 'Level {level}/{totalLevel}',
+  'totalLevelTooltip':
+      'Commander: {creater}\nCurrent Level: {level} / Total Levels: {totalLevel}',
   // Level record strings
   'levelCount': '{count} levels',
   'noLevelRecords': 'No level records',
