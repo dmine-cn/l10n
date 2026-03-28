@@ -190,7 +190,6 @@ class AppLocalizations {
   String get nicknameTooLong => _getString('nicknameTooLong');
 
   // // MARK: Level top strings
-  String get viewMore => _getString('viewMore');
   String get retry => _getString('retry');
   String get noLevelTopData => _getString('noLevelTopData');
   String get remoteBattlefront => _getString('remoteBattlefront');
@@ -244,8 +243,9 @@ class AppLocalizations {
   );
   String getBattlefrontCount(int count) =>
       _getStringWithParam('battlefrontCount', {'count': count.toString()});
-  String getLevelTopCount(int count) =>
-      _getStringWithParam('levelTopCount', {'count': count.toString()});
+  String getLevelTopCount(int count, bool isShort) => isShort
+      ? _getStringWithParam('levelTopCountShort', {'count': count.toString()})
+      : _getStringWithParam('levelTopCount', {'count': count.toString()});
   String getLevelCount(int count) =>
       _getStringWithParam('levelCount', {'count': count.toString()});
   String getLevelPrefix(int level) =>

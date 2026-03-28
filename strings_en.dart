@@ -147,7 +147,7 @@ const Map<String, String> stringsEn = {
   'battlefrontName': 'Battlefront {number}',
   'nickname': 'Nickname',
   'nicknameSetting': 'Nickname Setting',
-  'nicknameDesc': 'Set your display nickname',
+  'nicknameDesc': 'Set your nickname',
   'enterNickname': 'Enter nickname',
   'nicknameSaved': 'Nickname saved',
   'nicknameUpdated': 'Nickname updated successfully',
@@ -155,7 +155,7 @@ const Map<String, String> stringsEn = {
   'nicknameTooLong': 'Nickname cannot exceed 30 characters',
   // 顶级榜
   'levelTopCount': 'Top Ranking ({count})',
-  'viewMore': 'More',
+  'levelTopCountShort': 'Top ({count})',
   'retry': 'Retry',
   'noLevelTopData': 'No data',
   'remoteBattlefront': 'Remote Battlefront',

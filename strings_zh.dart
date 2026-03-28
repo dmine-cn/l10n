@@ -143,7 +143,7 @@ const Map<String, String> stringsZh = {
   'battlefrontName': '战线{number}',
   'nickname': '昵称',
   'nicknameSetting': '昵称设置',
-  'nicknameDesc': '设置您的显示昵称',
+  'nicknameDesc': '设置您的昵称',
   'enterNickname': '输入昵称',
   'nicknameSaved': '昵称已保存',
   'nicknameUpdated': '昵称更新成功',
@@ -151,7 +151,7 @@ const Map<String, String> stringsZh = {
   'nicknameTooLong': '昵称不能超过30个字符',
   // Level top strings
   'levelTopCount': '顶级榜 ({count})',
-  'viewMore': '更多',
+  'levelTopCountShort': '顶级 ({count})',
   'retry': '重试',
   'noLevelTopData': '暂无数据',
   'remoteBattlefront': '远程战线',
