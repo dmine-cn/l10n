@@ -112,6 +112,7 @@ class AppLocalizations {
   String get revealMode => _getString('revealMode');
   String get flagMode => _getString('flagMode');
   String get newMap => _getString('newMap');
+  String get resetMap => _getString('resetMap');
   String get previousStep => _getString('previousStep');
   String get pause => _getString('pause');
   String get play => _getString('play');

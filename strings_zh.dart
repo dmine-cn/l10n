@@ -69,6 +69,7 @@ const Map<String, String> stringsZh = {
   'revealMode': '揭开模式',
   'flagMode': '插旗模式',
   'newMap': '新地图(地雷数不变,生成新地图)',
+  'resetMap': '重置地图(地图不变,重置游戏状态)',
   'previousStep': '上一步',
   'pause': '暂停',
   'play': '播放',
