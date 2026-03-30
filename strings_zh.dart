@@ -170,7 +170,7 @@ const Map<String, String> stringsZh = {
   'createdTime': '创建时间',
   'remoteBattlefrontDetail': '战线详情',
   'levelList': '关次列表',
-  'fastClearTimeParam': '开创时间: {time}',
+  'fastClearTimeParam': '通关时间: {time}',
   // 远程战线详情字符串
   'selectLocalBattlefrontHint': '请选择一个本地战线查看详情',
   'loadingRemoteDetail': '加载远程战线详情中...',
