@@ -34,7 +34,7 @@ const Map<String, String> stringsEn = {
   'actionsCount': 'Actions',
   'miningMethod': 'Method',
   'duration': 'Duration',
-  'seconds': 'seconds',
+  'seconds': 's',
   'startTime': 'Start Time',
   'endTime': 'End Time',
   'pauseTime': 'Pause Time',
