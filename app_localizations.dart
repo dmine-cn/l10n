@@ -197,6 +197,9 @@ class AppLocalizations {
   String get participated => _getString('participated');
   String get notParticipated => _getString('notParticipated');
   String get joinBattle => _getString('joinBattle');
+  String get downloadBattlefront => _getString('downloadBattlefront');
+  String get downloadMyOwnBattlefrontError =>
+      _getString('downloadMyOwnBattlefrontError');
   String get continueGameShort => _getString('continueGameShort');
   String get replayShort => _getString('replayShort');
   String get lastLevelFirstClearAt => _getString('lastLevelFirstClearAt');
@@ -228,6 +231,11 @@ class AppLocalizations {
       _getStringWithParam('battlefrontName', {'number': number.toString()});
 
   // MARK: 带参数的字符串
+
+  String joinBattleTooltip(String name) =>
+      _getStringWithParam('joinBattleTooltip', {'name': name});
+  String downloadBattlefrontTooltip(String name) =>
+      _getStringWithParam('downloadBattlefrontTooltip', {'name': name});
   String getLevel(int level) =>
       _getStringWithParam('level', {'level': level.toString()});
   String getNextLevel(int level) =>
@@ -285,6 +293,18 @@ class AppLocalizations {
   // 不能参战自己创建的战线
   String getJoinBattleErrorSelf(String name) =>
       _getStringWithParam('joinBattleErrorSelf', {'name': name});
+
+  // MARK: 下载战线字符串
+  String get download => _getString('download');
+  String getDownloadBattlefrontConfirm(String name) =>
+      _getStringWithParam('getDownloadBattlefrontConfirm', {'name': name});
+  String getDownloadBattlefrontSuccess(String name) =>
+      _getStringWithParam('getDownloadBattlefrontSuccess', {'name': name});
+  String getDownloadBattlefrontFailed(String name, String error) =>
+      _getStringWithParam('getDownloadBattlefrontFailed', {
+        'name': name,
+        'error': error,
+      });
 
   // MARK: 退出战线字符串
   String get quitBattlefront => _getString('quitBattlefront');
