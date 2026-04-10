@@ -71,7 +71,7 @@ const Map<String, String> stringsEn = {
   'revealMode': 'Reveal Mode',
   'flagMode': 'Flag Mode',
   'newMap': 'New Map (same mines)',
-  'resetMap': 'Reset Map (same map, reset game state)',
+  'resetMap': 'Reload Map (same map, reset game state)',
   'previousStep': 'Previous Step',
   'pause': 'Pause',
   'play': 'Play',
