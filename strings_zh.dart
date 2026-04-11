@@ -180,7 +180,6 @@ const Map<String, String> stringsZh = {
   'continueGameShort': '继续战斗',
   'replayShort': '回放',
   'highestLevel': '第 {level} 关',
-  'lastLevelFirstClearAt': '上次通关',
   'deviceNickname': '设备',
   'createdTime': '创建时间',
   'remoteBattlefrontDetail': '战线详情',

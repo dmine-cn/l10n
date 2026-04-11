@@ -186,7 +186,6 @@ const Map<String, String> stringsEn = {
   'continueGameShort': 'Continue',
   'replayShort': 'Replay',
   'highestLevel': 'Level {level}',
-  'lastLevelFirstClearAt': 'Last War',
   'deviceNickname': 'Device Nickname',
   'createdTime': 'Created Time',
   'remoteBattlefrontDetail': 'Battlefront Detail',
