@@ -197,9 +197,6 @@ class AppLocalizations {
   String get participated => _getString('participated');
   String get notParticipated => _getString('notParticipated');
   String get joinBattle => _getString('joinBattle');
-  String get downloadBattlefront => _getString('downloadBattlefront');
-  String get downloadMyOwnBattlefrontError =>
-      _getString('downloadMyOwnBattlefrontError');
   String get continueGameShort => _getString('continueGameShort');
   String get replayShort => _getString('replayShort');
   String get lastLevelFirstClearAt => _getString('lastLevelFirstClearAt');
@@ -234,8 +231,7 @@ class AppLocalizations {
 
   String joinBattleTooltip(String name) =>
       _getStringWithParam('joinBattleTooltip', {'name': name});
-  String downloadBattlefrontTooltip(String name) =>
-      _getStringWithParam('downloadBattlefrontTooltip', {'name': name});
+
   String getLevel(int level) =>
       _getStringWithParam('level', {'level': level.toString()});
   String getNextLevel(int level) =>
@@ -284,6 +280,7 @@ class AppLocalizations {
 
   String getBranchMapCount(int count) =>
       _getStringWithParam('getBranchMapCount', {'count': count.toString()});
+  // MARK: 参战战线字符串
   // 确认要参战吗
   String getJoinBattleConfirm(String name) =>
       _getStringWithParam('joinBattleConfirm', {'name': name});
@@ -294,12 +291,29 @@ class AppLocalizations {
   String getJoinBattleErrorSelf(String name) =>
       _getStringWithParam('joinBattleErrorSelf', {'name': name});
 
-  // MARK: 下载战线字符串
+  // MARK: 回放战线
+  String get replayBattlefront => _getString('replayBattlefront');
+  String replayBattlefrontTooltip(String name) =>
+      _getStringWithParam('replayBattlefrontTooltip', {'name': name});
+  String getReplayBattlefrontConfirm(String name) =>
+      _getStringWithParam('getReplayBattlefrontConfirm', {'name': name});
+  String getReplayBattlefrontFailed(String name, String error) =>
+      _getStringWithParam('getReplayBattlefrontFailed', {
+        'name': name,
+        'error': error,
+      });
+
+  // MARK: 下载战线
   String get download => _getString('download');
+  String get downloadBattlefront => _getString('downloadBattlefront');
+  String downloadBattlefrontTooltip(String name) =>
+      _getStringWithParam('downloadBattlefrontTooltip', {'name': name});
   String getDownloadBattlefrontConfirm(String name) =>
       _getStringWithParam('getDownloadBattlefrontConfirm', {'name': name});
   String getDownloadBattlefrontSuccess(String name) =>
       _getStringWithParam('getDownloadBattlefrontSuccess', {'name': name});
+  String get downloadMyOwnBattlefrontError =>
+      _getString('downloadMyOwnBattlefrontError');
   String getDownloadBattlefrontFailed(String name, String error) =>
       _getStringWithParam('getDownloadBattlefrontFailed', {
         'name': name,

@@ -162,19 +162,27 @@ const Map<String, String> stringsEn = {
   'remoteBattlefront': 'Remote Battlefront',
   'participated': 'Participated',
   'notParticipated': 'Not Participated',
+
   'joinBattle': 'Join Battle',
   'joinBattleTooltip': 'Join battle "{name}"',
-  'downloadBattlefront': 'Download',
-  'downloadBattlefrontTooltip': 'Download "{name}"',
   'joinBattleConfirm': 'Are you sure you want to join battle "{name}"?',
   'joinBattleSuccess': 'Successfully joined battle "{name}"',
   'joinBattleErrorSelf': 'Cannot join battle "{name}" created by yourself',
+
+  'replayBattlefront': 'Replay Battlefront',
+  'replayBattlefrontTooltip': 'Replay battlefront "{name}"',
+  'getReplayBattlefrontConfirm': 'Are you sure you want to replay "{name}"?',
+  'getReplayBattlefrontFailed': 'Failed to replay "{name}": {error}',
+
+  'downloadBattlefront': 'Download',
+  'downloadBattlefrontTooltip': 'Download "{name}"',
   'getDownloadBattlefrontConfirm':
       'Are you sure you want to download "{name}"?',
   'download': 'Download',
   'getDownloadBattlefrontSuccess': 'Successfully downloaded "{name}"',
   'downloadMyOwnBattlefrontError': 'Can only download your own battlefront',
   'getDownloadBattlefrontFailed': 'Failed to download "{name}": {error}',
+
   'continueGameShort': 'Continue',
   'replayShort': 'Replay',
   'highestLevel': 'Level {level}',
