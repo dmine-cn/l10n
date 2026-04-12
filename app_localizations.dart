@@ -89,6 +89,7 @@ class AppLocalizations {
   String get language => _getString('language');
 
   // MARK: Home page strings
+  String get newbie => _getString('newbie');
   String get newBattle => _getString('newBattle');
   String get continueChallenge => _getString('continueChallenge');
   String get error => _getString('error');
@@ -102,6 +103,7 @@ class AppLocalizations {
   String get mineCount => _getString('mineCount');
   String get nextLevelMines => _getString('nextLevelMines');
   String get mineIncrease => _getString('mineIncrease');
+  String get newbieFinish => _getString('newbieFinish');
   String get ok => _getString('ok');
   String get continueNextLevel => _getString('continueNextLevel');
   String get restart => _getString('restart');
@@ -223,6 +225,10 @@ class AppLocalizations {
   String get expand => _getString('expand');
 
   // MARK: 战线名称字符串
+  String getNewbieBattlefrontName(int number) => _getStringWithParam(
+    'newbieBattlefrontName',
+    {'number': number.toString()},
+  );
   String getBattlefrontName(int number) =>
       _getStringWithParam('battlefrontName', {'number': number.toString()});
 
@@ -233,10 +239,16 @@ class AppLocalizations {
 
   String getLevel(int level) =>
       _getStringWithParam('level', {'level': level.toString()});
+  String getNewbieLevel(int level) =>
+      _getStringWithParam('newbieLevel', {'level': level.toString()});
   String getNextLevel(int level) =>
       _getStringWithParam('nextLevel', {'level': level.toString()});
+  String getNewbieNextLevel(int level) =>
+      _getStringWithParam('newbieNextLevel', {'level': level.toString()});
   String getLevelFormat(int level) =>
       _getStringWithParam('levelFormat', {'level': level.toString()});
+  String getNewbieLevelFormat(int level) =>
+      _getStringWithParam('newbieLevelFormat', {'level': level.toString()});
   String getTotalLevel(int level, int totalLevel) => _getStringWithParam(
     'totalLevel',
     {'level': level.toString(), 'totalLevel': totalLevel.toString()},
@@ -254,6 +266,8 @@ class AppLocalizations {
       _getStringWithParam('levelCount', {'count': count.toString()});
   String getLevelPrefix(int level) =>
       _getStringWithParam('levelPrefix', {'level': level.toString()});
+  String getNewbieLevelPrefix(int level) =>
+      _getStringWithParam('newbieLevelPrefix', {'level': level.toString()});
   String getMinesCount(int count) =>
       _getStringWithParam('minesCount', {'count': count.toString()});
   String getGameDurationParam(int seconds) =>
