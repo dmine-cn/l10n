@@ -115,6 +115,9 @@ class AppLocalizations {
   String get flagMode => _getString('flagMode');
   String get newMap => _getString('newMap');
   String get resetMap => _getString('resetMap');
+  String get zoomOut => _getString('zoomOut');
+  String get zoomIn => _getString('zoomIn');
+  String get resetZoom => _getString('resetZoom');
   String get previousStep => _getString('previousStep');
   String get pause => _getString('pause');
   String get play => _getString('play');
