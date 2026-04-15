@@ -168,6 +168,8 @@ const Map<String, String> stringsZh = {
   'remoteBattlefront': '远程战线',
   'participated': '已参战',
   'notParticipated': '未参战',
+  'loadMore': '加载更多',
+
   'joinBattle': '参战',
   'joinBattleTooltip': '参战"{name}"',
   'joinBattleConfirm': '确认要参战"{name}"吗？',

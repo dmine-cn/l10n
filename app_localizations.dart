@@ -201,6 +201,7 @@ class AppLocalizations {
   String get remoteBattlefront => _getString('remoteBattlefront');
   String get participated => _getString('participated');
   String get notParticipated => _getString('notParticipated');
+  String get loadMore => _getString('loadMore');
   String get joinBattle => _getString('joinBattle');
   String get continueGameShort => _getString('continueGameShort');
   String get replayShort => _getString('replayShort');

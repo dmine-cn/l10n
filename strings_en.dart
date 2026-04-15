@@ -172,6 +172,7 @@ const Map<String, String> stringsEn = {
   'remoteBattlefront': 'Remote Battlefront',
   'participated': 'Participated',
   'notParticipated': 'Not Participated',
+  'loadMore': 'Load More',
 
   'joinBattle': 'Join Battle',
   'joinBattleTooltip': 'Join battle "{name}"',
