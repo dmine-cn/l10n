@@ -342,6 +342,9 @@ class AppLocalizations {
   String get quitBattlefrontTitle => _getString('quitBattlefrontTitle');
   String getQuitBattlefrontContent(String name) =>
       _getStringWithParam('quitBattlefrontContent', {'name': name});
+
+  // MARK: 游戏介绍
+  String get gameIntroduction => _getString('gameIntroduction');
 }
 
 // MARK: 本地委托

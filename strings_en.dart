@@ -222,4 +222,8 @@ const Map<String, String> stringsEn = {
   'quitBattlefrontTitle': 'Quit Battlefront',
   'quitBattlefrontContent':
       'Are you sure you want to quit battlefront "{name}"? Your local progress will be deleted.',
+
+  // 游戏介绍
+  'gameIntroduction':
+      '1. "Newbie" starts with 15 mines, up to 99 mines.\n2. "New Battlefront" starts with 81 mines, each level increases mine count, no upper limit.\n3. In online mode, completed battlefronts are automatically shared to the cloud for others to learn.',
 };

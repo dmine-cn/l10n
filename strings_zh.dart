@@ -215,4 +215,8 @@ const Map<String, String> stringsZh = {
   'quitBattlefrontTooltip': '退出远程战线',
   'quitBattlefrontTitle': '退出战线',
   'quitBattlefrontContent': '确定要退出战线 "{name}" 吗？您的本地进度将被删除。',
+
+  // 游戏介绍
+  'gameIntroduction':
+      '1. "新手入门"将从15雷开始,最高可以到99雷;\n2. "新战线"从81雷开始,每关次会增加一定数量的地雷,上不封顶.\n3. 联网情况下"已通关"的战线会自动分享到云端,供其他人学习.',
 };
