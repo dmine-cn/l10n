@@ -224,6 +224,24 @@ const Map<String, String> stringsEn = {
   'quitBattlefrontContent':
       'Are you sure you want to quit battlefront "{name}"? Your local progress will be deleted.',
 
+  // Download page
+  'downloadClient': 'Download Client',
+  'browser': 'Browser',
+  'browserDesc': 'Play directly in browser, no download needed',
+  'windowsDesc': 'For Windows 10 and above',
+  'macosDesc': 'For macOS 10.15 and above',
+  'android': 'Android',
+  'androidDesc': 'For Android 8.0 and above',
+  'iosDesc': 'For iOS 14.0 and above',
+  'linkAddress': 'Link Address',
+  'downloadLink': 'Download Link',
+  'qrCode': 'QR Code',
+  'scanToDownload': 'Scan with phone to download',
+  'copy': 'Copy',
+  'copiedToClipboard': 'Copied to clipboard',
+  'openLink': 'Open link',
+  'cannotOpenLink': 'Cannot open link',
+
   // 游戏介绍
   'gameIntroduction':
       '1. "Newbie" starts with 15 mines, up to 99 mines.\n2. "New Battlefront" starts with 81 mines, each level increases mine count, no upper limit.\n3. In online mode, completed battlefronts are automatically shared to the cloud for others to learn.',

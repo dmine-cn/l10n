@@ -218,6 +218,23 @@ const Map<String, String> stringsZh = {
   'quitBattlefrontTitle': '退出战线',
   'quitBattlefrontContent': '确定要退出战线 "{name}" 吗？您的本地进度将被删除。',
 
+  // 下载页面
+  'downloadClient': '下载客户端',
+  'browser': '浏览器',
+  'browserDesc': '直接在浏览器中游玩，无需下载',
+  'windowsDesc': '适用于Windows 10及以上系统',
+  'macosDesc': '适用于macOS 10.15及以上系统',
+  'android': '安卓系统',
+  'androidDesc': '适用于Android 8.0及以上系统',
+  'iosDesc': '适用于iOS 14.0及以上系统',
+  'linkAddress': '链接地址',
+  'downloadLink': '下载链接',
+  'qrCode': '二维码',
+  'scanToDownload': '使用手机扫码下载',
+  'copy': '复制',
+  'copiedToClipboard': '已复制到剪贴板',
+  'openLink': '打开链接',
+  'cannotOpenLink': '无法打开链接',
   // 游戏介绍
   'gameIntroduction':
       '1. "新手入门"将从15雷开始,最高可以到99雷;\n2. "新战线"从81雷开始,每关次会增加一定数量的地雷,上不封顶.\n3. 联网情况下"已通关"的战线会自动分享到云端,供其他人学习.',

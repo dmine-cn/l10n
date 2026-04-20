@@ -344,6 +344,24 @@ class AppLocalizations {
   String getQuitBattlefrontContent(String name) =>
       _getStringWithParam('quitBattlefrontContent', {'name': name});
 
+  // MARK: 下载页面字符串
+  String get downloadClient => _getString('downloadClient');
+  String get browser => _getString('browser');
+  String get browserDesc => _getString('browserDesc');
+  String get windowsDesc => _getString('windowsDesc');
+  String get macosDesc => _getString('macosDesc');
+  String get android => _getString('android');
+  String get androidDesc => _getString('androidDesc');
+  String get iosDesc => _getString('iosDesc');
+  String get linkAddress => _getString('linkAddress');
+  String get downloadLink => _getString('downloadLink');
+  String get qrCode => _getString('qrCode');
+  String get scanToDownload => _getString('scanToDownload');
+  String get copy => _getString('copy');
+  String get copiedToClipboard => _getString('copiedToClipboard');
+  String get openLink => _getString('openLink');
+  String get cannotOpenLink => _getString('cannotOpenLink');
+
   // MARK: 游戏介绍
   String get gameIntroduction => _getString('gameIntroduction');
 }
