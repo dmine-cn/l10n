@@ -5,6 +5,7 @@ import 'package:flutter/foundation.dart' show SynchronousFuture;
 
 import 'strings_en.dart';
 import 'strings_zh.dart';
+import 'strings_zh_hant.dart';
 
 // MARK: 多语言支持
 class AppLocalizations {
@@ -22,10 +23,32 @@ class AppLocalizations {
   static final Map<String, Map<String, String>> _localizedValues = {
     'en': stringsEn,
     'zh': stringsZh,
+    'zh_TW': stringsZhHant,
+    'zh_HK': stringsZhHant,
+    'zh_MO': stringsZhHant,
+    'zh_Hant': stringsZhHant,
   };
 
   String _getString(String key) {
-    return _localizedValues[locale.languageCode]?[key] ??
+    // 尝试完整的语言代码（例如 zh_TW）
+    String? fullCode;
+
+    // 如果有 scriptCode（如 Hant），使用 languageCode_scriptCode
+    if (locale.scriptCode != null) {
+      fullCode = '${locale.languageCode}_${locale.scriptCode}';
+    }
+    // 如果有 countryCode（如 TW），使用 languageCode_countryCode
+    else if (locale.countryCode != null) {
+      fullCode = '${locale.languageCode}_${locale.countryCode}';
+    }
+    // 否则只使用 languageCode
+    else {
+      fullCode = locale.languageCode;
+    }
+
+    // 尝试顺序：完整代码 -> 语言代码 -> 英语 -> 键名
+    return _localizedValues[fullCode]?[key] ??
+        _localizedValues[locale.languageCode]?[key] ??
         _localizedValues['en']?[key] ??
         key; // 如果都不存在，返回键名本身作为默认值
   }
@@ -373,7 +396,11 @@ class _AppLocalizationsDelegate
 
   // MARK: 支持的语言
   @override
-  bool isSupported(Locale locale) => ['en', 'zh'].contains(locale.languageCode);
+  bool isSupported(Locale locale) {
+    final languageCode = locale.languageCode;
+    // 支持英语、简体中文以及所有以zh开头的语言代码（包括繁体中文）
+    return languageCode == 'en' || languageCode.startsWith('zh');
+  }
 
   @override
   Future<AppLocalizations> load(Locale locale) {
