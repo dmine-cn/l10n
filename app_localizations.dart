@@ -3,7 +3,70 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart' show SynchronousFuture;
 
+import 'strings_af.dart';
+import 'strings_ar.dart';
+import 'strings_ast.dart';
+import 'strings_be.dart';
+import 'strings_bg.dart';
+import 'strings_br.dart';
+import 'strings_bs.dart';
+import 'strings_ca.dart';
+import 'strings_co.dart';
+import 'strings_cs.dart';
+import 'strings_cy.dart';
+import 'strings_da.dart';
+import 'strings_de.dart';
+import 'strings_el.dart';
 import 'strings_en.dart';
+import 'strings_eo.dart';
+import 'strings_es.dart';
+import 'strings_es_es.dart';
+import 'strings_et.dart';
+import 'strings_eu.dart';
+import 'strings_fa.dart';
+import 'strings_fi.dart';
+import 'strings_fr.dart';
+import 'strings_ga.dart';
+import 'strings_gd.dart';
+import 'strings_gl.dart';
+import 'strings_hi.dart';
+import 'strings_hr.dart';
+import 'strings_hu.dart';
+import 'strings_hy.dart';
+import 'strings_id.dart';
+import 'strings_is.dart';
+import 'strings_it.dart';
+import 'strings_iw.dart';
+import 'strings_ja.dart';
+import 'strings_ka.dart';
+import 'strings_ko.dart';
+import 'strings_ku.dart';
+import 'strings_lb.dart';
+import 'strings_lt.dart';
+import 'strings_lv.dart';
+import 'strings_mk.dart';
+import 'strings_mn.dart';
+import 'strings_ms.dart';
+import 'strings_nl.dart';
+import 'strings_nn.dart';
+import 'strings_no.dart';
+import 'strings_pl.dart';
+import 'strings_ps.dart';
+import 'strings_pt.dart';
+import 'strings_pt_br.dart';
+import 'strings_ro.dart';
+import 'strings_ru.dart';
+import 'strings_sk.dart';
+import 'strings_sl.dart';
+import 'strings_sq.dart';
+import 'strings_sr.dart';
+import 'strings_sr_latn.dart';
+import 'strings_sv.dart';
+import 'strings_th.dart';
+import 'strings_tr.dart';
+import 'strings_tt.dart';
+import 'strings_uk.dart';
+import 'strings_uz.dart';
 import 'strings_zh.dart';
 import 'strings_zh_hant.dart';
 
@@ -13,13 +76,49 @@ class AppLocalizations {
 
   final Locale locale;
 
+  /// 用户选择的语言代码（来自设置）
+  /// 用于在 localeResolutionCallback 将 locale 解析为 Flutter 内置支持的语言时，
+  /// 确保我们的自定义字符串仍然使用用户实际选择的语言。
+  /// 例如：用户选了 tt（鞑靼语），但 Flutter 的 MaterialLocalizations 不支持 tt，
+  /// 此时 localeResolutionCallback 会返回 'en' 来满足 Flutter 内置委托，
+  /// 而我们的 AppLocalizations 通过此字段仍然使用 'tt' 查找字符串。
+  static String _selectedLanguageCode = '';
+
+  /// 设置用户选择的语言代码，必须在 MaterialApp 重建前调用
+  static void setSelectedLanguageCode(String code) {
+    _selectedLanguageCode = code;
+  }
+
+  /// 获取用户选择的语言代码
+  static String get selectedLanguageCode => _selectedLanguageCode;
+
+  /// 获取AppLocalizations实例，如果不可用则返回null
+  /// 使用ofNullable而不是of来避免在语言切换期间因localizations未就绪而崩溃
+  static AppLocalizations? ofNullable(BuildContext context) {
+    return Localizations.of<AppLocalizations>(context, AppLocalizations);
+  }
+
+  /// 获取AppLocalizations实例（带安全检查）
+  /// 如果localizations不可用，返回一个使用英语的fallback实例
   static AppLocalizations of(BuildContext context) {
-    return Localizations.of<AppLocalizations>(context, AppLocalizations)!;
+    final instance = Localizations.of<AppLocalizations>(
+      context,
+      AppLocalizations,
+    );
+    if (instance != null) return instance;
+    // 如果localizations尚未就绪（如在语言切换期间），返回fallback实例
+    debugPrint(
+      '[AppLocalizations] WARNING: Localizations not available, using fallback',
+    );
+    return AppLocalizations(const Locale('en', ''));
   }
 
   static const LocalizationsDelegate<AppLocalizations> delegate =
       _AppLocalizationsDelegate();
 
+  /// 为各种locale代码提供字符串映射
+  /// 对于中文变体，zh_TW/zh_HK/zh_MO 都映射到 stringsZhHant（繁体中文）
+  /// 通过在查找时使用 fallback chain: 完整代码 -> 语言代码 -> 英语 -> 键名
   static final Map<String, Map<String, String>> _localizedValues = {
     'en': stringsEn,
     'zh': stringsZh,
@@ -27,28 +126,87 @@ class AppLocalizations {
     'zh_HK': stringsZhHant,
     'zh_MO': stringsZhHant,
     'zh_Hant': stringsZhHant,
+    'af': stringsAf,
+    'ar': stringsAr,
+    'ast': stringsAst,
+    'be': stringsBe,
+    'bg': stringsBg,
+    'br': stringsBr,
+    'bs': stringsBs,
+    'ca': stringsCa,
+    'co': stringsCo,
+    'cs': stringsCs,
+    'cy': stringsCy,
+    'da': stringsDa,
+    'de': stringsDe,
+    'el': stringsEl,
+    'eo': stringsEo,
+    'es': stringsEs,
+    'es_ES': stringsEsES,
+    'et': stringsEt,
+    'eu': stringsEu,
+    'fa': stringsFa,
+    'fi': stringsFi,
+    'fr': stringsFr,
+    'ga': stringsGa,
+    'gd': stringsGd,
+    'gl': stringsGl,
+    'hi': stringsHi,
+    'hr': stringsHr,
+    'hu': stringsHu,
+    'hy': stringsHy,
+    'id': stringsId,
+    'is': stringsIs,
+    'it': stringsIt,
+    'iw': stringsIw,
+    'ja': stringsJa,
+    'ka': stringsKa,
+    'ko': stringsKo,
+    'ku': stringsKu,
+    'lb': stringsLb,
+    'lt': stringsLt,
+    'lv': stringsLv,
+    'mk': stringsMk,
+    'mn': stringsMn,
+    'ms': stringsMs,
+    'nl': stringsNl,
+    'nn': stringsNn,
+    'no': stringsNo,
+    'pl': stringsPl,
+    'ps': stringsPs,
+    'pt': stringsPt,
+    'pt_BR': stringsPtBr,
+    'ro': stringsRo,
+    'ru': stringsRu,
+    'sk': stringsSk,
+    'sl': stringsSl,
+    'sq': stringsSq,
+    'sr': stringsSr,
+    'sr_Latn': stringsSrLatn,
+    'sv': stringsSv,
+    'th': stringsTh,
+    'tr': stringsTr,
+    'tt': stringsTt,
+    'uk': stringsUk,
+    'uz': stringsUz,
   };
 
+  /// 根据 `_selectedLanguageCode` 判断实际应使用的 locale 代码
+  /// 这用于解决 Flutter 内置的 MaterialLocalizations 不支持某些语言的问题。
+  /// 例如：用户选择 tt（鞑靼语），但 Flutter 不支持 tt，
+  /// 所以 MaterialApp 实际用的是 Locale('en')，但我们的字符串应仍使用 'tt' 查找。
+  String get _effectiveLanguageCode {
+    if (_selectedLanguageCode.isNotEmpty) {
+      return _selectedLanguageCode;
+    }
+    return locale.languageCode;
+  }
+
   String _getString(String key) {
-    // 尝试完整的语言代码（例如 zh_TW）
-    String? fullCode;
-
-    // 如果有 scriptCode（如 Hant），使用 languageCode_scriptCode
-    if (locale.scriptCode != null) {
-      fullCode = '${locale.languageCode}_${locale.scriptCode}';
-    }
-    // 如果有 countryCode（如 TW），使用 languageCode_countryCode
-    else if (locale.countryCode != null) {
-      fullCode = '${locale.languageCode}_${locale.countryCode}';
-    }
-    // 否则只使用 languageCode
-    else {
-      fullCode = locale.languageCode;
-    }
-
+    final langCode = _effectiveLanguageCode;
     // 尝试顺序：完整代码 -> 语言代码 -> 英语 -> 键名
-    return _localizedValues[fullCode]?[key] ??
-        _localizedValues[locale.languageCode]?[key] ??
+    return _localizedValues[langCode]?[key] ??
+        _localizedValues[langCode.split('_').first]?[key] ??
         _localizedValues['en']?[key] ??
         key; // 如果都不存在，返回键名本身作为默认值
   }
@@ -398,8 +556,69 @@ class _AppLocalizationsDelegate
   @override
   bool isSupported(Locale locale) {
     final languageCode = locale.languageCode;
-    // 支持英语、简体中文以及所有以zh开头的语言代码（包括繁体中文）
-    return languageCode == 'en' || languageCode.startsWith('zh');
+    // 支持所有已翻译的语言
+    return languageCode == 'af' ||
+        languageCode == 'ar' ||
+        languageCode == 'ast' ||
+        languageCode == 'be' ||
+        languageCode == 'bg' ||
+        languageCode == 'br' ||
+        languageCode == 'bs' ||
+        languageCode == 'ca' ||
+        languageCode == 'co' ||
+        languageCode == 'cs' ||
+        languageCode == 'cy' ||
+        languageCode == 'da' ||
+        languageCode == 'de' ||
+        languageCode == 'el' ||
+        languageCode == 'en' ||
+        languageCode == 'eo' ||
+        languageCode == 'es' ||
+        languageCode == 'et' ||
+        languageCode == 'eu' ||
+        languageCode == 'fa' ||
+        languageCode == 'fi' ||
+        languageCode == 'fr' ||
+        languageCode == 'ga' ||
+        languageCode == 'gd' ||
+        languageCode == 'gl' ||
+        languageCode == 'hi' ||
+        languageCode == 'hr' ||
+        languageCode == 'hu' ||
+        languageCode == 'hy' ||
+        languageCode == 'id' ||
+        languageCode == 'is' ||
+        languageCode == 'it' ||
+        languageCode == 'iw' ||
+        languageCode == 'ja' ||
+        languageCode == 'ka' ||
+        languageCode == 'ko' ||
+        languageCode == 'ku' ||
+        languageCode == 'lb' ||
+        languageCode == 'lt' ||
+        languageCode == 'lv' ||
+        languageCode == 'mk' ||
+        languageCode == 'mn' ||
+        languageCode == 'ms' ||
+        languageCode == 'nl' ||
+        languageCode == 'nn' ||
+        languageCode == 'no' ||
+        languageCode == 'pl' ||
+        languageCode == 'ps' ||
+        languageCode == 'pt' ||
+        languageCode == 'ro' ||
+        languageCode == 'ru' ||
+        languageCode == 'sk' ||
+        languageCode == 'sl' ||
+        languageCode == 'sq' ||
+        languageCode == 'sr' ||
+        languageCode == 'sv' ||
+        languageCode == 'th' ||
+        languageCode == 'tr' ||
+        languageCode == 'tt' ||
+        languageCode == 'uk' ||
+        languageCode == 'uz' ||
+        languageCode.startsWith('zh');
   }
 
   @override
