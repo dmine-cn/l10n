@@ -235,6 +235,16 @@ const Map<String, String> stringsZh = {
   'copiedToClipboard': '已复制到剪贴板',
   'openLink': '打开链接',
   'cannotOpenLink': '无法打开链接',
+  // 自动更新
+  'updateAvailableTitle': '发现新版本',
+  'forceUpdateTitle': '需要强制更新',
+  'currentVersion': '当前版本',
+  'latestVersionText': '最新版本',
+  'updateLog': '更新日志',
+  'remindLater': '稍后提醒',
+  'skipThisVersion': '跳过此版本',
+  'exitApp': '退出应用',
+  'updateNow': '立即更新',
   // 游戏介绍
   'gameIntroduction':
       '1. "新手入门"将从15雷开始,最高可以到99雷;\n2. "新战线"从81雷开始,每关次会增加一定数量的地雷,上不封顶.\n3. 联网情况下"已通关"的战线会自动分享到云端,供其他人学习.',

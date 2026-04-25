@@ -164,7 +164,7 @@ const Map<String, String> stringsEn = {
   'nicknameUpdated': 'Nickname updated successfully',
   'nicknameRequired': 'Nickname is required',
   'nicknameTooLong': 'Nickname cannot exceed 30 characters',
-  // 顶级榜
+  // Top ranking
   'levelTopCount': 'Top Ranking ({count})',
   'levelTopCountShort': 'Top ({count})',
   'retry': 'Retry',
@@ -202,7 +202,7 @@ const Map<String, String> stringsEn = {
   'remoteBattlefrontDetail': 'Battlefront Detail',
   'levelList': 'Level List',
   'fastClearTimeParam': 'Fast clear: {time}',
-  // 远程战斗记录项字符串
+  // Remote battlefront detail strings
   'selectLocalBattlefrontHint': 'Please select a battlefront to view details',
   'loadingRemoteDetail': 'Loading battlefront details...',
   'noRemoteBattlefrontSelected': 'No battlefront selected',
@@ -213,11 +213,11 @@ const Map<String, String> stringsEn = {
   'safestRecordDesc': 'Safest (fewest actions)',
   'creator': 'Creator',
   'player': 'Player',
-  // 分支地图字符串
+  // Branch map strings
   'getBranchMapCount': '{count} branch',
   'collapse': 'Collapse',
   'expand': 'Expand',
-  // 退出战线
+  // Quit battlefront
   'quitBattlefront': 'Quit Battlefront',
   'quitBattlefrontTooltip': 'Quit remote battlefront',
   'quitBattlefrontTitle': 'Quit Battlefront',
@@ -241,8 +241,17 @@ const Map<String, String> stringsEn = {
   'copiedToClipboard': 'Copied to clipboard',
   'openLink': 'Open link',
   'cannotOpenLink': 'Cannot open link',
-
-  // 游戏介绍
+  // Auto-update
+  'updateAvailableTitle': 'Update Available',
+  'forceUpdateTitle': 'Update Required',
+  'currentVersion': 'Current Version',
+  'latestVersionText': 'Latest Version',
+  'updateLog': 'Changelog',
+  'remindLater': 'Remind Me Later',
+  'skipThisVersion': 'Skip This Version',
+  'exitApp': 'Exit App',
+  'updateNow': 'Update Now',
+  // Game introduction
   'gameIntroduction':
       '1. "Newbie" starts with 15 mines, up to 99 mines.\n2. "New Battlefront" starts with 81 mines, each level increases mine count, no upper limit.\n3. In online mode, completed battlefronts are automatically shared to the cloud for others to learn.',
 };

@@ -543,6 +543,17 @@ class AppLocalizations {
   String get openLink => _getString('openLink');
   String get cannotOpenLink => _getString('cannotOpenLink');
 
+  // MARK: 自动更新
+  String get updateAvailableTitle => _getString('updateAvailableTitle');
+  String get forceUpdateTitle => _getString('forceUpdateTitle');
+  String get currentVersion => _getString('currentVersion');
+  String get latestVersionText => _getString('latestVersionText');
+  String get updateLog => _getString('updateLog');
+  String get remindLater => _getString('remindLater');
+  String get skipThisVersion => _getString('skipThisVersion');
+  String get exitApp => _getString('exitApp');
+  String get updateNow => _getString('updateNow');
+
   // MARK: 游戏介绍
   String get gameIntroduction => _getString('gameIntroduction');
 }
