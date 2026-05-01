@@ -221,6 +221,7 @@ class AppLocalizations {
   }
 
   // MARK: Settings strings
+  String get appLabel => _getString('appLabel');
   String get appTitle => _getString('appTitle');
   String get settings => _getString('settings');
   String get gameSettings => _getString('gameSettings');
@@ -411,9 +412,9 @@ class AppLocalizations {
 
   // MARK: 战线名称字符串
   String getNewbieBattlefrontName(int number) => _getStringWithParam(
-    'newbieBattlefrontName',
-    {'number': number.toString()},
-  );
+        'newbieBattlefrontName',
+        {'number': number.toString()},
+      );
   String getBattlefrontName(int number) =>
       _getStringWithParam('battlefrontName', {'number': number.toString()});
 
@@ -435,13 +436,13 @@ class AppLocalizations {
   String getNewbieLevelFormat(int level) =>
       _getStringWithParam('newbieLevelFormat', {'level': level.toString()});
   String getTotalLevel(int level, int totalLevel) => _getStringWithParam(
-    'totalLevel',
-    {'level': level.toString(), 'totalLevel': totalLevel.toString()},
-  );
+        'totalLevel',
+        {'level': level.toString(), 'totalLevel': totalLevel.toString()},
+      );
   String getTotalLevelTooltip(int level, int totalLevel) => _getStringWithParam(
-    'totalLevelTooltip',
-    {'level': level.toString(), 'totalLevel': totalLevel.toString()},
-  );
+        'totalLevelTooltip',
+        {'level': level.toString(), 'totalLevel': totalLevel.toString()},
+      );
   String getBattlefrontCount(int count) =>
       _getStringWithParam('battlefrontCount', {'count': count.toString()});
   String getLevelTopCount(int count, bool isShort) => isShort
@@ -460,9 +461,9 @@ class AppLocalizations {
   String getActionsCountParam(int count) =>
       _getStringWithParam('actionsCountParam', {'count': count.toString()});
   String getActionsCountParamShort(int count) => _getStringWithParam(
-    'actionsCountParamShort',
-    {'count': count.toString()},
-  );
+        'actionsCountParamShort',
+        {'count': count.toString()},
+      );
   String getMiningMethodParam(String method) =>
       _getStringWithParam('miningMethodParam', {'method': method});
   String getStartTimeParam(String time) =>

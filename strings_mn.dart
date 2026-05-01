@@ -1,6 +1,7 @@
 // Mongolian（蒙古语）
 /// DMine аппликэйшны Монгол хэлний үгс
 const Map<String, String> stringsMn = {
+  'appLabel': 'Уламжлалт Уурхагын Тоглоом',
   'appTitle': 'DMine - Уламжлалт Уурхагын Тоглоом',
   'settings': 'Тохиргоо',
   'gameSettings': 'Тоглоомын Тохиргоо',

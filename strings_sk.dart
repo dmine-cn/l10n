@@ -1,6 +1,7 @@
 // Slovak（斯洛伐克语）
 /// Slovak language strings for the DMine application
 const Map<String, String> stringsSk = {
+  'appLabel': 'Top Hra v Míny',
   'appTitle': 'DMine - Top Hra v Míny',
   'settings': 'Nastavenia',
   'gameSettings': 'Nastavenia hry',

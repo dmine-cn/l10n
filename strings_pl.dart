@@ -1,6 +1,7 @@
 // Polish（波兰语）
 /// Polish language strings for the DMine application
 const Map<String, String> stringsPl = {
+  'appLabel': 'Najlepsze Saper',
   'appTitle': 'DMine - Najlepsze Saper',
   'settings': 'Ustawienia',
   'gameSettings': 'Ustawienia gry',

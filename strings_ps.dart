@@ -1,6 +1,7 @@
 // Pashto（普什图语）
 /// Pashto language strings for the DMine application
 const Map<String, String> stringsPs = {
+  'appLabel': 'د ٹاپ ماین سایفر',
   'appTitle': 'DMine - د ټاپ ماین سایفر',
   'settings': 'تنظیمات',
   'gameSettings': 'د لوبې تنظیمات',

@@ -1,6 +1,7 @@
 // NorwegianNynorsk（新挪威语）
 /// Norsk nynorsk tekst for appen DMine
 const Map<String, String> stringsNn = {
+  'appLabel': 'Minesweeper Premium',
   'appTitle': 'DMine - Minesweeper Premium',
   'settings': 'Innstillingar',
   'gameSettings': 'Spinnstillingar',

@@ -1,6 +1,7 @@
 // ScotsGaelic（苏格兰盖尔语）
 /// Scottish Gaelic (Gàidhlig) strings for the DMine application
 const Map<String, String> stringsGd = {
+  'appLabel': 'Mèinnear Àrd-ìre',
   'appTitle': 'DMine - Mèinnear Àrd-ìre',
   'settings': 'Roghainnean',
   'gameSettings': 'Roghainnean a\' Gheama',

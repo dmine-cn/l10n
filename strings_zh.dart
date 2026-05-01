@@ -1,5 +1,6 @@
 /// Chinese language strings for the DMine application
 const Map<String, String> stringsZh = {
+  'appLabel': '顶级扫雷',
   'appTitle': 'DMine - 顶级扫雷',
   'settings': '设置',
   'gameSettings': '游戏设置',

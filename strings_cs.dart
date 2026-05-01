@@ -1,6 +1,7 @@
 /// Czech（捷克语）
 /// České texty pro aplikaci DMine
 const Map<String, String> stringsCs = {
+  'appLabel': 'Nejlepší miny',
   'appTitle': 'DMine - Nejlepší miny',
   'settings': 'Nastavení',
   'gameSettings': 'Nastavení hry',

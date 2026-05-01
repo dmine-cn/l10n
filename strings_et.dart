@@ -1,6 +1,7 @@
 // Estonian（爱沙尼亚语）
 /// Eesti keele stringid DMine rakenduse jaoks
 const Map<String, String> stringsEt = {
+  'appLabel': 'Parim miinidekaitse',
   'appTitle': 'DMine - Parim miinidekaitse',
   'settings': 'Seaded',
   'gameSettings': 'Mänguseaded',

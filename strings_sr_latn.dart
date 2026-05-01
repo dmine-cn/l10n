@@ -1,6 +1,7 @@
 // SerbianLatin（塞尔维亚语拉丁字母）
 /// Serbian (Latin) language strings for the DMine application
 const Map<String, String> stringsSrLatn = {
+  'appLabel': 'Top Miner',
   'appTitle': 'DMine - Top Miner',
   'settings': 'Podešavanja',
   'gameSettings': 'Podešavanja igre',

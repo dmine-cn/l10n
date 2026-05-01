@@ -1,6 +1,7 @@
 // Dutch（荷兰语）
 /// Nederlandse teksten voor de DMine applicatie
 const Map<String, String> stringsNl = {
+  'appLabel': 'Top Mijnenveger',
   'appTitle': 'DMine - Top Mijnenveger',
   'settings': 'Instellingen',
   'gameSettings': 'Spelinstellingen',

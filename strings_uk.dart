@@ -1,6 +1,7 @@
 // Ukrainian（乌克兰语）
 /// Ukrainian language strings for the DMine application
 const Map<String, String> stringsUk = {
+  'appLabel': 'Найкращий сапер',
   'appTitle': 'DMine - Найкращий сапер',
   'settings': 'Налаштування',
   'gameSettings': 'Налаштування гри',

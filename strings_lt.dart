@@ -1,6 +1,7 @@
 // Lithuanian（立陶宛语）
 /// Lietuvių kalbos tekstai DMine programai
 const Map<String, String> stringsLt = {
+  'appLabel': 'Minų Nukreipimo Žaidimas',
   'appTitle': 'DMine - Minų Nukreipimo Žaidimas',
   'settings': 'Nustatymai',
   'gameSettings': 'Žaidimo Nustatymai',

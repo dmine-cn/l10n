@@ -1,6 +1,7 @@
 // Swedish（瑞典语）
 /// Swedish language strings for the DMine application
 const Map<String, String> stringsSv = {
+  'appLabel': 'Topp Minesveipare',
   'appTitle': 'DMine - Topp Minesveipare',
   'settings': 'Inställningar',
   'gameSettings': 'Spelinställningar',

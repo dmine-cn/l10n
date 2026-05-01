@@ -1,6 +1,7 @@
 // Korean（韩语）
 /// DMine 애플리케이션 한국어 문자열
 const Map<String, String> stringsKo = {
+  'appLabel': '프리미엄 지뢰찾기',
   'appTitle': 'DMine - 프리미엄 지뢰찾기',
   'settings': '설정',
   'gameSettings': '게임 설정',

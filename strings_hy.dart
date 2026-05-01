@@ -1,5 +1,6 @@
 /// Armenian language strings for the DMine application
 const Map<String, String> stringsHy = {
+  'appLabel': 'Տոպ Մինե (Առաջնորդական Մինե Փորձ)',
   'appTitle': 'DMine - Տոպ Մինե (Առաջնորդական Մինե Փորձ)',
   'settings': 'Կարգավորումներ',
   'gameSettings': 'Иգերի Կարգավորումներ',

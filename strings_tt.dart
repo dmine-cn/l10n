@@ -1,6 +1,7 @@
 // Tatar（鞑靼语）
 /// Tatar language strings for the DMine application
 const Map<String, String> stringsTt = {
+  'appLabel': 'Югалары Минер',
   'appTitle': 'DMine - Югалары Минер',
   'settings': 'Көйләмләр',
   'gameSettings': 'Уйын көйләмләре',

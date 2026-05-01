@@ -1,6 +1,7 @@
 // Hindi（印地语）
 /// DMine एप्लिकेशन के लिए हिंदी स्ट्रिंग
 const Map<String, String> stringsHi = {
+  'appLabel': 'बेहतरीन माइनस्वीपर',
   'appTitle': 'DMine - बेहतरीन माइनस्वीपर',
   'settings': 'सेटिंग्स',
   'gameSettings': 'खेल सेटिंग्स',

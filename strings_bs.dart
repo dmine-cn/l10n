@@ -1,5 +1,6 @@
 /// Bosanski jezički stringovi za DMine aplikaciju
 const Map<String, String> stringsBs = {
+  'appLabel': 'Premium Minolovac',
   'appTitle': 'DMine - Premium Minolovac',
   'settings': 'Postavke',
   'gameSettings': 'Postavke igre',

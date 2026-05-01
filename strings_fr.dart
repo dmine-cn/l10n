@@ -1,6 +1,7 @@
 // French（法语）
 /// Chaînes en français pour l'application DMine
 const Map<String, String> stringsFr = {
+  'appLabel': 'Démineur de Luxe',
   'appTitle': 'DMine - Démineur de Luxe',
   'settings': 'Paramètres',
   'gameSettings': 'Paramètres du jeu',

@@ -1,6 +1,7 @@
 // Italian（意大利语）
 /// Stringhe in italiano per l'app DMine
 const Map<String, String> stringsIt = {
+  'appLabel': 'Minesweeper Premium',
   'appTitle': 'DMine - Minesweeper Premium',
   'settings': 'Impostazioni',
   'gameSettings': 'Impostazioni di gioco',

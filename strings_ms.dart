@@ -1,6 +1,7 @@
 // Malay（马来语）
 /// Teks Melayu untuk aplikasi DMine
 const Map<String, String> stringsMs = {
+  'appLabel': 'Permainan Minesweeper Top',
   'appTitle': 'DMine - Permainan Minesweeper',
   'settings': 'Tetapan',
   'gameSettings': 'Tetapan Permainan',

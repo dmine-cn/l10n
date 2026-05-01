@@ -1,6 +1,7 @@
 // Spanish（西班牙语）
 /// Spanish language strings for the DMine application
 const Map<String, String> stringsEs = {
+  'appLabel': 'Buscaminas Top',
   'appTitle': 'DMine - Buscaminas Top',
   'settings': 'Configuración',
   'gameSettings': 'Configuración del juego',

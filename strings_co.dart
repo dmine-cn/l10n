@@ -1,6 +1,7 @@
 // Corsican（科西嘉语）
 /// Stringhe in corsu per l'applicazione DMine
 const Map<String, String> stringsCo = {
+  'appLabel': 'Cacciamine di primu ordine',
   'appTitle': 'DMine - Cacciamine di primu ordine',
   'settings': 'Impostazioni',
   'gameSettings': 'Impostazioni di u ghjocu',

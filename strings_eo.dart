@@ -1,6 +1,7 @@
 //Esperanto（世界语）
 /// Esperanto-stlingoj por la DMine-aplikaĵo
 const Map<String, String> stringsEo = {
+  'appLabel': 'Supra Minomapilo',
   'appTitle': 'DMine - Supra Minomapilo',
   'settings': 'Agordoj',
   'gameSettings': 'Ludagordoj',

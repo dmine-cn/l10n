@@ -1,6 +1,7 @@
 // Croatian（克罗地亚语）
 /// Hrvatski jezični stringovi za DMine aplikaciju
 const Map<String, String> stringsHr = {
+  'appLabel': 'Premium Minolovac',
   'appTitle': 'DMine - Premium Minolovac',
   'settings': 'Postavke',
   'gameSettings': 'Postavke igre',

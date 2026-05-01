@@ -1,6 +1,7 @@
 // Finnish（芬兰语）
 /// Suomet merkkijonot DMine-sovellukseen
 const Map<String, String> stringsFi = {
+  'appLabel': 'Huippu Miinaharava',
   'appTitle': 'DMine - Huippu Miinaharava',
   'settings': 'Asetukset',
   'gameSettings': 'Peliasetukset',

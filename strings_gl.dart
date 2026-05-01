@@ -1,6 +1,7 @@
 // Galician（加利西亚语）
 /// Cadeas en galego para a aplicación DMine
 const Map<String, String> stringsGl = {
+  'appLabel': 'Buscaminas Premium',
   'appTitle': 'DMine - Buscaminas Premium',
   'settings': 'Configuración',
   'gameSettings': 'Configuración do xogo',

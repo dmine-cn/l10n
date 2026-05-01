@@ -1,6 +1,7 @@
 /// Bulgarian（保加利亚语）
 /// Български езикови низове за приложението DMine
 const Map<String, String> stringsBg = {
+  'appLabel': 'Елитен миноловач',
   'appTitle': 'DMine - Елитен миноловач',
   'settings': 'Настройки',
   'gameSettings': 'Игрови настройки',

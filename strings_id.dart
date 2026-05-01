@@ -1,6 +1,7 @@
 // Indonesian（印尼语）
 /// String Bahasa Indonesia untuk aplikasi DMine
 const Map<String, String> stringsId = {
+  'appLabel': 'Minesweeper Terbaik',
   'appTitle': 'DMine - Minesweeper Terbaik',
   'settings': 'Pengaturan',
   'gameSettings': 'Pengaturan Permainan',

@@ -1,6 +1,7 @@
 // Turkish（土耳其语）
 /// Turkish language strings for the DMine application
 const Map<String, String> stringsTr = {
+  'appLabel': 'En İyi Mayın Tarlası',
   'appTitle': 'DMine - En İyi Mayın Tarlası',
   'settings': 'Ayarlar',
   'gameSettings': 'Oyun Ayarları',

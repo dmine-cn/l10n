@@ -1,6 +1,7 @@
 /// Arabic language strings for the DMine application
 const Map<String, String> stringsAr = {
-  'appTitle': 'DMine',
+  'appLabel': 'الكشاف المتفوق',
+  'appTitle': 'DMine - الكشاف المتفوق',
   'settings': 'الإعدادات',
   'gameSettings': 'إعدادات اللعبة',
   'showTimer': 'عرض المؤقت',

@@ -1,6 +1,7 @@
 // Luxembourgish（卢森堡语）
 /// Lëtzebuergesch Texter fir d'App DMine
 const Map<String, String> stringsLb = {
+  'appLabel': 'Minesweeper Spill',
   'appTitle': 'DMine - Minesweeper Spill',
   'settings': 'Astellungen',
   'gameSettings': 'SpillAstellungen',

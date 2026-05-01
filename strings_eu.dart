@@ -1,5 +1,6 @@
 /// Euskera hizkuntza kateak DMine aplikaziorako
 const Map<String, String> stringsEu = {
+  'appLabel': 'Mina Bilaketa Gehigarrikoa',
   'appTitle': 'DMine - Mina Bilaketa Gehigarrikoa',
   'settings': 'Ezarpenak',
   'gameSettings': 'Jokoaren ezarpenak',

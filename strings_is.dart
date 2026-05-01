@@ -1,6 +1,7 @@
 // Icelandic（冰岛语）
 /// Íslenskir textar fyrir DMine forritið
 const Map<String, String> stringsIs = {
+  'appLabel': 'Æðsti sprengjuleitari',
   'appTitle': 'DMine - Æðsti sprengjuleitari',
   'settings': 'Stillingar',
   'gameSettings': 'Leikjastillingar',

@@ -1,5 +1,6 @@
 /// Cadenas en asturianu pa l'aplicación DMine
 const Map<String, String> stringsAst = {
+  'appLabel': 'Buscamines de l\'alto nivel',
   'appTitle': 'DMine - Buscamines de l\'alto nivel',
   'settings': 'Axustes',
   'gameSettings': 'Axustes del xocu',

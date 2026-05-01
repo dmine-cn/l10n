@@ -1,6 +1,7 @@
 // Japanese（日语）
 /// DMineアプリケーション用日本語文字列
 const Map<String, String> stringsJa = {
+  'appLabel': 'プレミアムマインスイーパー',
   'appTitle': 'DMine - プレミアムマインスイーパー',
   'settings': '設定',
   'gameSettings': 'ゲーム設定',

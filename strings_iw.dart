@@ -1,6 +1,7 @@
 // Hebrew（希伯来语）
 /// מחרוזות בעברית עבור אפליקציית DMine
 const Map<String, String> stringsIw = {
+  'appLabel': 'מוצא מוקשים מעולה',
   'appTitle': 'DMine - מוצא מוקשים מעולה',
   'settings': 'הגדרות',
   'gameSettings': 'הגדרות משחק',

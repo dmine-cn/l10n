@@ -1,6 +1,7 @@
 // German（德语）
 /// Deutsche Zeichenketten für die DMine-Anwendung
 const Map<String, String> stringsDe = {
+  'appLabel': 'Top Minesweeper',
   'appTitle': 'DMine - Top Minesweeper',
   'settings': 'Einstellungen',
   'gameSettings': 'Spieleinstellungen',

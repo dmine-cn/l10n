@@ -1,6 +1,7 @@
 // Greek（希腊语）
 /// Ελληνικές συμβολοσειρές για την εφαρμογή DMine
 const Map<String, String> stringsEl = {
+  'appLabel': 'Κορυφαίο Αντιμινιστικό',
   'appTitle': 'DMine - Κορυφαίο Αντιμινιστικό',
   'settings': 'Ρυθμίσεις',
   'gameSettings': 'Ρυθμίσεις Παιχνιδιού',

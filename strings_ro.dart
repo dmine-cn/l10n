@@ -1,6 +1,7 @@
 // Romanian（罗马尼亚语）
 /// Romanian language strings for the DMine application
 const Map<String, String> stringsRo = {
+  'appLabel': 'Minesweeper de top',
   'appTitle': 'DMine - Minesweeper de top',
   'settings': 'Setări',
   'gameSettings': 'Setările jocului',

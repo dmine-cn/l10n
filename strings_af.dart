@@ -1,7 +1,8 @@
 /// Afrikaans（南非荷兰语）
 /// Afrikaans language strings for the DMine application
 const Map<String, String> stringsAf = {
-  'appTitle': 'DMine',
+  'appLabel': 'Top Mynveër',
+  'appTitle': 'DMine - Top Mynveër',
   'settings': 'Instellings',
   'gameSettings': 'Instellings',
   'showTimer': 'Wys Tydhouer',

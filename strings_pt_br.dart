@@ -1,6 +1,7 @@
 // PortugueseBR（巴西葡萄牙语）
 /// Brazilian Portuguese language strings for the DMine application
 const Map<String, String> stringsPtBr = {
+  'appLabel': 'Campo Minado Top',
   'appTitle': 'DMine - Campo Minado Top',
   'settings': 'Configurações',
   'gameSettings': 'Configurações do jogo',

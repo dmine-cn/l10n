@@ -1,6 +1,7 @@
 // Hungarian（匈牙利语）
 /// Magyar szövegek a DMine alkalmazáshoz
 const Map<String, String> stringsHu = {
+  'appLabel': 'Prémium aknavetés',
   'appTitle': 'DMine - Prémium aknavetés',
   'settings': 'Beállítások',
   'gameSettings': 'Játékbeállítások',

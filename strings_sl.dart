@@ -1,6 +1,7 @@
 // Slovenian（斯洛文尼亚语）
 /// Slovenian language strings for the DMine application
 const Map<String, String> stringsSl = {
+  'appLabel': 'Top Iskanje Min',
   'appTitle': 'DMine - Top Iskanje Min',
   'settings': 'Nastavitve',
   'gameSettings': 'Nastavitve Igre',

@@ -1,6 +1,7 @@
 // Thai（泰语）
 /// Thai language strings for the DMine application
 const Map<String, String> stringsTh = {
+  'appLabel': 'ไมน์สวีปเปอร์ชั้นสูง',
   'appTitle': 'DMine - ไมน์สวีปเปอร์ชั้นสูง',
   'settings': 'การตั้งค่า',
   'gameSettings': 'ตั้งค่าเกม',

@@ -1,6 +1,7 @@
 // Georgian（格鲁吉亚语）
 /// ქართული ენის სტრიქონები DMine აპლიკაციისთვის
 const Map<String, String> stringsKa = {
+  'appLabel': 'საუკეთესო მინაპოვი',
   'appTitle': 'DMine - საუკეთესო მინაპოვი',
   'settings': 'პარამეტრები',
   'gameSettings': 'თამაშის პარამეტრები',

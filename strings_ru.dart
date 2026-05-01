@@ -1,6 +1,7 @@
 // Russian（俄语）
 /// Russian language strings for the DMine application
 const Map<String, String> stringsRu = {
+  'appLabel': 'Лучший Сапёр',
   'appTitle': 'DMine - Лучший Сапёр',
   'settings': 'Настройки',
   'gameSettings': 'Настройки игры',

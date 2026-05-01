@@ -1,6 +1,7 @@
 // Macedonian（马其顿语）
 /// Македонски текстови за апликацијата DMine
 const Map<String, String> stringsMk = {
+  'appLabel': 'Премиум Минер',
   'appTitle': 'DMine - Премиум Минер',
   'settings': 'Подесувања',
   'gameSettings': 'Подесувања на играта',

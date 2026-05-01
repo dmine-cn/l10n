@@ -1,5 +1,6 @@
 /// Беларускія радкі для прыкладання DMine
 const Map<String, String> stringsBe = {
+  'appLabel': 'Лепшы мінаапішук',
   'appTitle': 'DMine - Лепшы мінаапішук',
   'settings': 'Налады',
   'gameSettings': 'Налады гульні',

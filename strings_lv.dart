@@ -1,6 +1,7 @@
 // Latvian（拉脱维亚语）
 /// Latvijas valodas tekstiem lietotnei DMine
 const Map<String, String> stringsLv = {
+  'appLabel': 'Premium Mineris',
   'appTitle': 'DMine - Premium Mineris',
   'settings': 'Iestatījumi',
   'gameSettings': 'Spēles iestatījumi',

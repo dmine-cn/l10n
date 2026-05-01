@@ -1,6 +1,7 @@
 /// Albanian language strings for the DMine application
 const Map<String, String> stringsSq = {
-  'appTitle': 'DMine',
+  'appLabel': 'Top Miner',
+  'appTitle': 'DMine - Top Miner',
   'settings': 'Cilësimet',
   'gameSettings': 'Cilësimet e Lojës',
   'showTimer': 'Shfaq Kronometrin',

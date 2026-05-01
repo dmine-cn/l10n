@@ -1,5 +1,6 @@
 /// English language strings for the DMine application
 const Map<String, String> stringsEn = {
+  'appLabel': 'DMine',
   'appTitle': 'DMine',
   'settings': 'Settings',
   'gameSettings': 'Settings',

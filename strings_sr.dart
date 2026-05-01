@@ -1,6 +1,7 @@
 // Serbian（塞尔维亚语）
 /// Serbian (Cyrillic) language strings for the DMine application
 const Map<String, String> stringsSr = {
+  'appLabel': 'Топ Минер',
   'appTitle': 'DMine - Топ Минер',
   'settings': 'Подешавања',
   'gameSettings': 'Подешавања игре',

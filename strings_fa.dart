@@ -1,6 +1,7 @@
 // Persian（波斯语）
 /// رشته‌های زبان فارسی برای اپلیکیشن DMine
 const Map<String, String> stringsFa = {
+  'appLabel': 'معدن‌یابی عالی',
   'appTitle': 'DMine - معدن‌یابی عالی',
   'settings': 'تنظیمات',
   'gameSettings': 'تنظیمات بازی',

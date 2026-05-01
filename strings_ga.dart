@@ -1,6 +1,7 @@
 // Irish（爱尔兰语）
 /// Teaghráin Gaeilge don fheidhmhlacht DMine
 const Map<String, String> stringsGa = {
+  'appLabel': 'Mineáilíoir is Fearr',
   'appTitle': 'DMine - Mineáilíoir is Fearr',
   'settings': 'Socruithe',
   'gameSettings': 'Socruithe Cluiche',

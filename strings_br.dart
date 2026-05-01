@@ -1,6 +1,7 @@
 /// Breton（布列塔尼语）
 /// Stringioù brezhonek evit ar program DMine
 const Map<String, String> stringsBr = {
+  'appLabel': 'Velwour-muniloù diwezhañ',
   'appTitle': 'DMine - Velwour-muniloù diwezhañ',
   'settings': 'Arventennoù',
   'gameSettings': 'Arventennoù ar c\'hoari',

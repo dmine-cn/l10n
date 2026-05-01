@@ -1,6 +1,7 @@
 // Catalan（加泰罗尼亚语）
 /// Cadenes en català per a l'aplicació DMine
 const Map<String, String> stringsCa = {
+  'appLabel': 'Minesweeper Premium',
   'appTitle': 'DMine - Minesweeper Premium',
   'settings': 'Configuració',
   'gameSettings': 'Configuració del joc',

@@ -1,6 +1,7 @@
 // Kurdish（库尔德语）
 /// Stringên Kurdî yên berepêya DMine
 const Map<String, String> stringsKu = {
+  'appLabel': 'Minesweeper Premium',
   'appTitle': 'DMine - Minesweeper Premium',
   'settings': 'Mîhengan',
   'gameSettings': 'Mîhengan Lîstîkê',

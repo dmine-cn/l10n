@@ -1,6 +1,7 @@
 // Welsh（威尔士语）
 /// Welsh (Cymraeg) language strings for the DMine application
 const Map<String, String> stringsCy = {
+  'appLabel': 'Y Mwynwr Uchel',
   'appTitle': 'DMine - Y Mwynwr Uchel',
   'settings': 'Gosodiadau',
   'gameSettings': 'Gosodiadau\'r Gêm',

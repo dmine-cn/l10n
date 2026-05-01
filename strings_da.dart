@@ -1,6 +1,7 @@
 /// Danish（丹麦语）
 /// Danske strenge til DMine-applikationen
 const Map<String, String> stringsDa = {
+  'appLabel': 'Top Minesweeper',
   'appTitle': 'DMine - Top Minesweeper',
   'settings': 'Indstillinger',
   'gameSettings': 'Spilindstillinger',
