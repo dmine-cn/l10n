@@ -1,7 +1,7 @@
 // Uzbek（乌兹别克语）
 /// Uzbek (Latin) language strings for the DMine application
 const Map<String, String> stringsUz = {
-  'appLabel': 'Eng Yuqori Minlenish O\'yini',
+  'appLabel': 'Eng Yuqori Minlenish Oyini',
   'appTitle': 'DMine - Eng Yuqori Minlenish O\'yini',
   'settings': 'Sozlamalar',
   'gameSettings': 'O\'yin sozlamalari',
