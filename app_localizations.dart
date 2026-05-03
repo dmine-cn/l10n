@@ -531,10 +531,13 @@ class AppLocalizations {
   String get browser => _getString('browser');
   String get browserDesc => _getString('browserDesc');
   String get windowsDesc => _getString('windowsDesc');
+  String get linuxDesc => _getString('linuxDesc');
   String get macosDesc => _getString('macosDesc');
   String get android => _getString('android');
   String get androidDesc => _getString('androidDesc');
   String get iosDesc => _getString('iosDesc');
+  String get ohos => _getString('ohos');
+  String get ohosDesc => _getString('ohosDesc');
   String get linkAddress => _getString('linkAddress');
   String get downloadLink => _getString('downloadLink');
   String get qrCode => _getString('qrCode');
