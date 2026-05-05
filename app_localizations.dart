@@ -142,7 +142,7 @@ class AppLocalizations {
     'el': stringsEl,
     'eo': stringsEo,
     'es': stringsEs,
-    'es_ES': stringsEsES,
+    'es_Es': stringsEsEs,
     'et': stringsEt,
     'eu': stringsEu,
     'fa': stringsFa,

@@ -1,6 +1,6 @@
 // SpanishInternational（国际西班牙语）
 /// Spanish (International) language strings for the DMine application
-const Map<String, String> stringsEsES = {
+const Map<String, String> stringsEsEs = {
   'appLabel': 'Buscaminas Elite',
   'appTitle': 'DMine - Buscaminas Elite',
   'settings': 'Configuración',
