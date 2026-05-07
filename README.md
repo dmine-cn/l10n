@@ -1,6 +1,6 @@
 # DMine 多语言翻译文件
 
-本仓库包含 [DMine（顶级扫雷）](https://github.com/dmine-cn/client) 项目的多语言翻译文件。
+本仓库包含 [DMine（顶级扫雷）](https://www.dmine.cn) 项目的多语言翻译文件。
 
 ## 当前支持的语言（66种）
 
