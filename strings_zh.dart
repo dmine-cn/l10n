@@ -48,7 +48,7 @@ const Map<String, String> stringsZh = {
   'language': '语言',
   // Home page
   'newbie': '新手入门',
-  'gameIntro': '',
+  'gameIntro': '游戏介绍',
   'newBattle': '新战线',
   'continueChallenge': '继续挑战',
   'error': '错误',
