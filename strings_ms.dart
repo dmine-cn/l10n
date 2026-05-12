@@ -51,6 +51,7 @@ const Map<String, String> stringsMs = {
   'language': 'Bahasa',
   // Home page
   'newbie': 'Pemula',
+  'gameIntro': 'Pengenalan Permainan',
   'newBattle': 'Front Baru',
   'continueChallenge': 'Teruskan cabaran',
   'error': 'Ralat',

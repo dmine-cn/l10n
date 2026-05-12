@@ -51,6 +51,7 @@ const Map<String, String> stringsId = {
   'language': 'Bahasa',
   // Home page
   'newbie': 'Pemula',
+  'gameIntro': 'Pengenalan Game',
   'newBattle': 'Front baru',
   'continueChallenge': 'Lanjutkan tantangan',
   'error': 'Error',

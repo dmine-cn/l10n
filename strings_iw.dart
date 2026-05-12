@@ -50,6 +50,7 @@ const Map<String, String> stringsIw = {
   'language': 'שפה',
   // Home page
   'newbie': 'מתחיל',
+  'gameIntro': 'תיאור משחק',
   'newBattle': 'חזית חדשה',
   'continueChallenge': 'המשך אתגר',
   'error': 'שגיאה',

@@ -51,6 +51,7 @@ const Map<String, String> stringsPl = {
   'language': 'Język',
   // Home page
   'newbie': 'Początkujący',
+  'gameIntro': 'Wprowadzenie do gry',
   'newBattle': 'Nowa linia frontu',
   'continueChallenge': 'Kontynuuj wyzwanie',
   'error': 'Błąd',

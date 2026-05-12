@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "et",
+    "langAttr": "et",
+    "ogLocale": "et_EE",
+    "siteName": "DMine - Tippmiinijahtija",
+    "canonicalPrefix": "et/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Avaleht",
+    "rules": "Reeglid",
+    "tips": "Nõuanded",
+    "about": "Meist",
+    "download": "Lae alla"
+  },
+  "footer": {
+    "copyright": "© 2026 DMine Meeskond"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "DMine kohta – Tippmiinijahtija | Platvormideülene miinijahtimismäng",
+      "metaDescription": "DMine (Tippmiinijahtija) on platvormideülene miinijahtimismäng, mis toetab Windowsi, macOS-i, Linuxit, Androidit, iOS-i, HarmonyOS-i ja veebi. Tasuta ja avatud lähtekoodiga, saadaval 66 keeles – mängi veebis!",
+      "metaKeywords": "miinijahtimismäng, DMine, tippmiinijahtija, platvormideülene miinijahtimine, tasuta miinijahtimine, avatud lähtekoodiga miinijahtimine",
+      "headerTitle": "💣 DMine – Tippmiinijahtija",
+      "headerSubtitle": "Platvormideülene klassikaline miinijahtimismäng – mängi igal pool ja alati",
+      "sections": [
+        {
+          "heading": "Mis on DMine?",
+          "paragraphs": [
+            "DMine (Tippmiinijahtija) on Flutter raamistikus loodud platvormideülene miinijahtimismäng. See säilitab klassikalise miinijahtimise põhimänguviisi, lisades samas kaasaegse kasutajaliidese ja rikkalikke funktsioone, pakkudes mängijale täiesti uut miinijahtimiskogemust.",
+            "Olgu sa siis tõsine mängija Windowsil või vabaaja mängija mobiiltelefonil teel sõites – DMine vastab sinu vajadustele."
+          ]
+        },
+        {
+          "heading": "Toetatud platvormid",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Veeb",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Kõikide platvormide mänguandmed on omavahel sünkroonitud – mängi ühes kohas, jätka teises."
+          ]
+        },
+        {
+          "heading": "Peamised funktsioonid",
+          "list": [
+            [
+              "Mitmekeelne tugi",
+              "Saadaval 66 keeles – mängi takistusteta üle kogu maailma"
+            ],
+            [
+              "Mänguseansside jagamine",
+              "Mängurekordid salvestatakse automaatselt pilve, teised mängijad saavad neid vaadata ja uuesti läbi mängida"
+            ],
+            [
+              "Pilvreitingud",
+              "Võistle maailma mängijatega läbitud tasemete arvu poolest"
+            ],
+            [
+              "Erinevad mängurežiimid",
+              "Algaja ja tavaline väljakutse režiim"
+            ],
+            [
+              "Täiesti tasuta",
+              "Reklaamide ja rakendusesiseste ostudeta – puhas mängukogemus"
+            ]
+          ]
+        },
+        {
+          "heading": "Mängurežiimid",
+          "paragraphs": [
+            "Mängureeglid: mängulaud on fikseeritud suurusega 16×30 (480 ruutu). Võitmiseks ava kõik turvalised ruudud ilma miine avamata."
+          ],
+          "list": [
+            [
+              "Algaja režiim",
+              "Alustatakse 15 miinist, iga läbitud tasemega lisandub 6 miini, maksimaalselt 15. tasemel 99 miini"
+            ],
+            [
+              "Tavaline väljakutse",
+              "Alustatakse 81 miinist. Esimese nelja läbitud tasemega lisandub 6 miini korraga, seejärel 3 taset järjest lisandub 3 miini, veel järgmised 3 taset 2 miini ning pärast seda 1 miin taseme kohta – piiranguteta"
+            ]
+          ]
+        },
+        {
+          "heading": "Versiooni teave",
+          "paragraphs": [
+            "Praegune versioon: {{VERSION}}",
+            "Tehnoloogiate virk: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine on avatud lähtekoodiga projekt – jälgi ja panusta GitHubis."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Alusta mängu"
+    },
+    "rules": {
+      "pageTitle": "Miinijahtimise reeglid selgitatud – algajale kohustuslik lugemine | DMine Tippmiinijahtija",
+      "metaDescription": "Kuidas miinijahtimist mängida? Siin on selgelt selgitatud miinijahtimise põhireeglid, numbrite tähendus, juhtimisviisid ja võitmistingimused – ideaalne õpetus algajale!",
+      "metaKeywords": "miinijahtimise reeglid, kuidas mängida miinijahtimist, miinijahtimise õpetus, miinijahtimine algajale, miinijahtimise põhireeglid",
+      "headerTitle": "💣 Miinijahtimise reeglid selgitatud",
+      "headerSubtitle": "Õpi miinijahtimist algusest peale – algajale kohustuslik",
+      "sections": [
+        {
+          "heading": "Mängu eesmärk",
+          "paragraphs": [
+            "Miinijahtimise eesmärk on lihtne: ava kõik turvalised ruudud ilma miini peale sattumata. Kui avad miini – mäng lõpeb. Kui avad kõik ruudud, kus miini pole – sa võidad!"
+          ]
+        },
+        {
+          "heading": "Põhijuhtimine",
+          "table": {
+            "headers": [
+              "Toiming",
+              "Hiir",
+              "Puutetundlik ekraan",
+              "Selgitus"
+            ],
+            "rows": [
+              [
+                "Ava ruut",
+                "Vasak klõps",
+                "Üks puudutus",
+                "Ava valitud ruut"
+              ],
+              [
+                "Märgi lippuga",
+                "Parem klõps",
+                "Pikk puudutus",
+                "Märgi koht, kus arvad olevat miini (⚑)"
+              ],
+              [
+                "Märgi küsimärgiga",
+                "Veel kord parem klõps",
+                "Veel kord pikk puudutus",
+                "Märgi koht küsimärgiga (?), kui pole kindel"
+              ],
+              [
+                "Kiire miinijahtimine (Chord)",
+                "Vasak klõps avatud numbriruudul",
+                "—",
+                "Kui numbri ümber on piisavalt lippe, avab klõps automaatselt kõik ümbritsevad märgimata ruudud"
+              ]
+            ]
+          },
+          "tipBox": "💡 Nõuanne: Kiire miinijahtimine (Chord) on väga tõhus mänguviis! Kui numbri ümber märgitud lippude arv vastab numbrile endale, klõpsa sellele avatud numbrile – kõik ümbritsevad märgimata ruudud avatakse automaatselt."
+        },
+        {
+          "heading": "Numbrite tähendus",
+          "paragraphs": [
+            "Kui avad ruudu, kuvatakse sellel number (1–8). Number näitab, kui palju miine on selle ruudu ümbritsevas kaheksas ruudus.",
+            "Näide 3×3 osast mängulaual: keskmine number 1 tähendab, et ümbritsevas 8 ruudus on täpselt 1 miin."
+          ],
+          "list": [
+            "1 – ümbritsevas 8 ruudus on 1 miin",
+            "2 – ümbritsevas 8 ruudus on 2 miini",
+            "3 – ümbritsevas 8 ruudus on 3 miini",
+            "… ja nii edasi, maksimaalne number on 8"
+          ],
+          "tipBox": "💡 Kui avad tühja ruudu (ilma numbrita), tähendab see, et ümbritsevas 8 ruudus pole ühtegi miini. Mäng avab sellisel juhul automaatselt ka ümbritsevad alad – see on miinijahtimise ahelreaktsioon."
+        },
+        {
+          "heading": "Mängurežiimid",
+          "paragraphs": [
+            "Mängulaud fikseeritud suurus: 16 × 30 (480 ruutu)"
+          ],
+          "table": {
+            "headers": [
+              "Režiim",
+              "Algne miinide arv",
+              "Kasvureegel",
+              "Selgitus"
+            ],
+            "rows": [
+              [
+                "Algaja režiim",
+                "15 miini",
+                "Iga läbitud tasemel +6 miini",
+                "Maksimaalselt 15. tasemel 99 miini"
+              ],
+              [
+                "Tavaline väljakutse",
+                "81 miini",
+                "Vaata allpool selgitust",
+                "Miinide arv kasvab iga ringiga, ülemist piiri pole"
+              ]
+            ]
+          },
+          "extraParagraph": "Tavalise väljakutse kasvureegel: Esimese nelja läbitud tasemega lisandub 6 miini korraga, seejärel 3 taset järjest lisandub 3 miini, veel järgmised 3 taset 2 miini ning pärast seda 1 miin taseme kohta – piiranguteta."
+        },
+        {
+          "heading": "Võit ja kaotus",
+          "list": [
+            [
+              "Võit",
+              "Ava kõik ruudud, kus miini pole, või märgita õigesti kõik miinide asukohad"
+            ],
+            [
+              "Kaotus",
+              "Klõpsad miinile – mäng lõpeb kohe"
+            ]
+          ],
+          "tipBox": "💡 Esimene klõps on alati 100% turvaline! DMine garanteerib, et esimene avatud ruut ei ole kunagi miin – alusta muretult."
+        },
+        {
+          "heading": "Taasesitus ja jagamine",
+          "paragraphs": [
+            "Mängijate läbitud tasemete rekordid salvestatakse automaatselt pilve. Teised mängijad saavad neid vaadata ja mängu kulgu uuesti läbi vaadata. Taasesitust saab ainult vaadata, mitte muuta ega osaleda mängus uuesti."
+          ]
+        },
+        {
+          "heading": "Edetabel",
+          "paragraphs": [
+            "DMine'il on pilveedetabel, kus mängijad on järjestatud läbitud tasemete arvu järgi. Mida rohkem tasemeid läbitud, seda kõrgem koht edetabelis – võistle maailma parimatega."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Alusta mängu"
+    },
+    "tips": {
+      "pageTitle": "Miinijahtimise edasijõudnud nõuanded – algajast meistriks | DMine Tippmiinijahtija",
+      "metaDescription": "Miinijahtimise meistri taseme nõuanded! 1-2-1 muster, 1-2-2-1 muster, topeltklõps, tõenäosusanalüüs… Õpi need trikid ja tõsta oma võidumäära ning kiirust!",
+      "metaKeywords": "miinijahtimise nõuanded, edasijõudnud miinijahtimine, miinijahtimise mustrid, miinijahtimise strateegia, miinijahtimise 1-2-1, miinijahtimise tõenäosus, miinijahtimise meister",
+      "headerTitle": "🎯 Miinijahtimise edasijõudnud nõuanded",
+      "headerSubtitle": "Algajast meistriks – saa parimaks miinijahtijaks",
+      "headerSub2": "Õpi need mustrid ja strateegiad, et kahekordistada oma võidumäära ja mängukiirust",
+      "sections": [
+        {
+          "heading": "Üks: Põhimustrid",
+          "difficulty": "Algaja tase",
+          "items": [
+            {
+              "title": "1-2-1 muster",
+              "paragraphs": [
+                "See on miinijahtimise levinum ja tähtsaim muster. Kui näed sirgel joonel numbreid 1-2-1 järjest, saad kindlalt järeldada:"
+              ],
+              "list": [
+                [
+                  "Mõlema 1 kohal on üks miin",
+                  "Märgi lippuga"
+                ],
+                [
+                  "Numbrite 2 kohal on kindlasti turvaline ruut",
+                  "Võid julgelt avada"
+                ]
+              ],
+              "tipBox": "💡 See on kindel loogiline muster – arvama ei pea, tulemus on 100% kindel."
+            },
+            {
+              "title": "1-2-2-1 muster",
+              "paragraphs": [
+                "Kui näed numbrite jada 1-2-2-1, on tegemist klassikalise mustriga:"
+              ],
+              "list": [
+                [
+                  "Kahe numbri 2 vahel on mõlemas kohas üks miin",
+                  ""
+                ],
+                [
+                  "Mõlema 1 kohal on turvaline ruut",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Piirimuster",
+              "paragraphs": [
+                "Kui number asub mänguala servas, on järeldamine lihtsam – ühte külge ei pea üldse arvestama."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Kaks: Kesktase oskused",
+          "difficulty": "Edasijõudnud tase",
+          "items": [
+            {
+              "title": "Topeltklõps (Chord)",
+              "paragraphs": [
+                "See on kiire mängimise kõige tähtsam võte. Kui numbri ümber märgitud lippude arv vastab numbrile endale, klõpsa hiire keskmise nupuga või korraga vasaku ja parema nupuga – kõik ümbritsevad märgimata ruudud avatakse automaatselt.",
+                "Näide: Kui numbri 3 ümber on juba 3 lippu, topeltklõpsa sellel numbril – ülejäänud 5 ruutu avatakse ise."
+              ],
+              "tipBox": "⚡ Meistri saladus: Peaaegu kõik parimad mängijad kasutavad topeltklõpsu – märgid lippe ja topeltklõpsad samal ajal, mängukiirus kasvab mitmekordselt."
+            },
+            {
+              "title": "Lahutuspõhine järeldamine",
+              "paragraphs": [
+                "Kui numbri ümber on juba osa ruutudest lippuga märgitud, lahuta need üldarvust – saad teada, kui palju miine on veel leidmata ülejäänud ruutudes. Näiteks: numbri 3 ümber on juba 1 lipp, seega ülejäänud ruutudes on veel 2 miini."
+              ]
+            },
+            {
+              "title": "Mitme numbri ühine järeldamine",
+              "paragraphs": [
+                "Ära vaata iga numbrit eraldi – ühenda naabruses olevad numbrid loogiliselt. Kaks kõrvuti asuvat numbrit jagavad osa ruutudest, ühisosa ja täiendosa kaudu saad teha täpsemaid järeldusi."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Kolm: Edasijõudnud oskused",
+          "difficulty": "Meistri tase",
+          "items": [
+            {
+              "title": "Tõenäosusanalüüs",
+              "paragraphs": [
+                "Kui olukorda ei saa loogiliselt kindlaks teha (pead arvama miini asukohta), hinda, millises ruidus on väikseim tõenäosus miini peale sattumiseks:"
+              ],
+              "list": [
+                [
+                  "Eelista ruute avatud ala lähedal",
+                  "Rohkem infot, lihtsam hinnata"
+                ],
+                [
+                  "Väldi üksikuid eraldatud ruute",
+                  "Suur tõenäosuse ebakindlus"
+                ],
+                [
+                  "Keerulistes olukordades arvuta järelejäänud miinide ja ruutude suhe",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Mõnikord on miinijahtimises arvamine vältimatu, kuid tõenäosusanalüüsi abil saad tõsta oma võidumäära üle 90%."
+            },
+            {
+              "title": "Mustri äratundmine",
+              "paragraphs": [
+                "Meistrid ei loe ruute ükshaaval – nad tunnevad ära tavalisi numbrimustreid tervikuna, nagu loeksid teksti. Harjutades näed kohe, kus on miinid ja kus turvalised ruudud."
+              ]
+            },
+            {
+              "title": "Hiire juhtimise tehnika",
+              "list": [
+                [
+                  "Sujuv käte koostöö",
+                  "Vasak käsi märgib lippe (parem klõps), parem käsi avab ruute (vasak klõps) – selge tööjaotus"
+                ],
+                [
+                  "Vähenda hiire liikumist",
+                  "Kasuta topeltklõpsu üksikute klõpsude asemel, vähenda klõpsude arvu ja hiire liikumiste vahemaad"
+                ],
+                [
+                  "Mängurütm",
+                  "Leia endale sobiv rütm – ära mängi liiga kiiresti ega liiga aeglaselt"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Neli: Praktilised strateegiad",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Algusstrateegia",
+              "paragraphs": [
+                "DMine garanteerib, et esimene klõps on turvaline. Alustades ava esmalt suuri tühjasid alasid – see annab rohkem vihjeid edasiseks järeldamiseks."
+              ]
+            },
+            {
+              "title": "Töötlemise prioriteet",
+              "paragraphs": [
+                "Töötle mängulauda järgmises järjekorras:"
+              ],
+              "orderedList": [
+                "Esmalt lahenda kõik kindlad mustrid (1-2-1, 1-2-2-1 jne)",
+                "Kasuta kiiret topeltklõpsu",
+                "Töötle järgmiselt mänguala servas olevad numbrid",
+                "Viimaks lahenda alad, kus tuleb arvata miini asukohta"
+              ]
+            },
+            {
+              "title": "Arvamise strateegia",
+              "paragraphs": [
+                "Kui pead tingimata arvama:"
+              ],
+              "list": [
+                [
+                  "Eelista mänguala serval asuvaid ruute",
+                  "Serval olevate ruutude seos teistega on väiksem, risk madalam"
+                ],
+                [
+                  "Loe järelejäänud miinide arv",
+                  "Tead, kui palju miine on veel leidmata – aitab otsuste tegemisel"
+                ],
+                [
+                  "Jäta arvamine viimaseks",
+                  "Kui aega on, lahenda esmalt teised alad, mängulaud muutub selgemaks"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Viis: Oskuste arendamine ja treening",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Harjuta mustrite äratundmist",
+                  "Reageeri numbrimustritele automaatselt, loo lihasmälu"
+                ],
+                [
+                  "Väldi kõhklusi",
+                  "Tee kindlad otsused 0,5 sekundi jooksul"
+                ],
+                [
+                  "Analüüsi ebaõnnestumisi",
+                  "Pärast kaotust mõtle, mida saan järgmine kord paremini teha"
+                ],
+                [
+                  "Kasuta DMine edetabelit",
+                  "Vaata parimate mängijate rekordeid, sea endale väike eesmärk ja proovi ennast ületada"
+                ],
+                [
+                  "Proovi mängida ilma lippudeta",
+                  "Proovi läbida mäng ilma miine lippuga märkimata"
+                ]
+              ],
+              "tipBox": "🎯 Eesmärgi võrdlus: Tavaline mängija – alla 15 taset, kogenud mängija – alla 20 taset, meister – üle 30 taseme, tippmängija – üle 30 taseme ka ilma lippudeta mängides."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Alusta treeningut"
+    }
+  }
+}

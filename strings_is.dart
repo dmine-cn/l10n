@@ -51,6 +51,7 @@ const Map<String, String> stringsIs = {
   'language': 'Tungumál',
   // Home page
   'newbie': 'Nýbyrji',
+  'gameIntro': 'Leikjalýsing',
   'newBattle': 'Nýtt herframlið',
   'continueChallenge': 'Halda áfram áskorun',
   'error': 'Villa',

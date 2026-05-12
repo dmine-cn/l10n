@@ -51,6 +51,7 @@ const Map<String, String> stringsPt = {
   'language': 'Idioma',
   // Home page
   'newbie': 'Iniciante',
+  'gameIntro': 'Introdução ao jogo',
   'newBattle': 'Nova Frente de Batalha',
   'continueChallenge': 'Continuar desafio',
   'error': 'Erro',

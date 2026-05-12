@@ -51,6 +51,7 @@ const Map<String, String> stringsSl = {
   'language': 'Jezik',
   // Home page
   'newbie': 'Začetnik',
+  'gameIntro': 'Predstavitev igre',
   'newBattle': 'Nova Fronta',
   'continueChallenge': 'Nadaljuj izziv',
   'error': 'Napaka',

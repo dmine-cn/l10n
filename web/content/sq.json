@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "sq",
+    "langAttr": "sq",
+    "ogLocale": "sq_AL",
+    "siteName": "DMine - Gjuetari i Minave",
+    "canonicalPrefix": "sq/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Kryefaqja",
+    "rules": "Rregullat",
+    "tips": "Këshilla",
+    "about": "Rreth nesh",
+    "download": "Shkarko"
+  },
+  "footer": {
+    "copyright": "© 2026 Ekipi DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Rreth DMine - Gjuetari i Minave Premium | Lojë e Minave Ndërplatformë",
+      "metaDescription": "DMine (Gjuetari i Minave Premium) është një lojë e minave ndërplatformë, e mbështetur në Windows, macOS, Linux, Android, iOS, HarmonyOS dhe Web. Falas dhe me burim të hapur, me 66 gjuhë – luaj online pa kufizime!",
+      "metaKeywords": "lojë minash, DMine, gjuetari i minave premium, lojë minash ndërplatformë, lojë minash falas, lojë minash me burim të hapur",
+      "headerTitle": "💣 DMine - Gjuetari i Minave Premium",
+      "headerSubtitle": "Një lojë e minave ndërplatformë – luaj klasiken kudo dhe kurdo",
+      "sections": [
+        {
+          "heading": "Çfarë është DMine?",
+          "paragraphs": [
+            "DMine (Gjuetari i Minave Premium) është një lojë e minave ndërplatformë e zhvilluar me kornizën Flutter. Ruaj mekanikën klasike të lojës së minave, ndërsa shton dizajn modern të ndërfaqes dhe funksione të pasura, duke ofruar një përvojë krejtësisht të re të lojës.",
+            "Pavarësisht nëse je lojtar i rregullt në Windows ose lojtar i rastësishëm që luaj në telefon gjatë udhëtimit, DMine plotëson nevojat e tua."
+          ]
+        },
+        {
+          "heading": "Platformat e Mbështetura",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Të dhënat sinkronizohen në të gjitha platformat – luaj një herë, sinkronizo kudo."
+          ]
+        },
+        {
+          "heading": "Funksione Kryesore",
+          "list": [
+            [
+              "Mbështetje e shumë gjuhëve",
+              "66 gjuhë të mbështetura, luaj pa pengesa me lojtarë nga e gjithë bota"
+            ],
+            [
+              "Ndarje e Rezultateve",
+              "Regjistrimet e lojës ndahen automatikisht në re, lojtarët e tjerë mund të riprodhojnë lojën tënde"
+            ],
+            [
+              "Renditje në Re",
+              "Krahaso nivelin e përfundimit me lojtarë nga e gjithë bota"
+            ],
+            [
+              "Mënyra të ndryshme të lojës",
+              "Dy mënyra: Fillestar dhe Sfidë e Rregullt"
+            ],
+            [
+              "Plotësisht Falas",
+              "Pa reklama, pa blerje brenda aplikacionit – përvojë e pastër e lojës"
+            ]
+          ]
+        },
+        {
+          "heading": "Mënyrat e Lojës",
+          "paragraphs": [
+            "Rregullat e lojës: Tabela e lojës është fikse 16×30 (480 qeliza). Fshij të gjitha qelizat e sigurta pa trokitur në minë dhe fiton lojën."
+          ],
+          "list": [
+            [
+              "Mënyra Fillestare",
+              "Fillon me 15 mina, çdo nivel i kaluar shton 6 mina, maksimumi 99 mina në nivelin e 15-të"
+            ],
+            [
+              "Mënyra e Sfidës së Rregullt",
+              "Fillon me 81 mina, 4 nivelet e para shtojnë 6 mina secili, pastaj 3 nivele shtojnë 3 mina, më pas 3 nivele shtojnë 2 mina, përfundimisht çdo nivel shton 1 minë pa kufi maksimal"
+            ]
+          ]
+        },
+        {
+          "heading": "Informacione për Versionin",
+          "paragraphs": [
+            "Versioni aktual: {{VERSION}}",
+            "Teknologjitë: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine është projekt me burim të hapur – ndiq dhe kontribuo kodin në GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Filloni Lojën"
+    },
+    "rules": {
+      "pageTitle": "Shpjegim i Detajuar i Rregullave të Minave | DMine Gjuetari i Minave Premium",
+      "metaDescription": "Si luhet loja e minave? Ky artikull shpjegon rregullat bazë, kuptimin e numrave, mënyrat e veprimit dhe kushtet e fitores – udhëzues i domosdoshëm për fillestarët!",
+      "metaKeywords": "rregullat e minave, si luhet minat, udhëzues minash, fillestarë minash, rregullat bazë të minave, rregullat e lojës së minave",
+      "headerTitle": "💣 Shpjegim i Detajuar i Rregullave të Minave",
+      "headerSubtitle": "Mëso lojën e minave nga zero – udhëzues i domosdoshëm për fillestarët",
+      "sections": [
+        {
+          "heading": "Qëllimi i Lojës",
+          "paragraphs": [
+            "Qëllimi i lojës së minave është i thjeshtë: Hap të gjitha qelizat e sigurta pa trokitur në asnjë minë. Nëse hap një qelizë me minë, loja përfundon; nëse hap të gjitha qelizat pa mina – ti fiton!"
+          ]
+        },
+        {
+          "heading": "Veprimet Bazë",
+          "table": {
+            "headers": [
+              "Veprimi",
+              "Maus",
+              "Ekran Prekës",
+              "Shpjegim"
+            ],
+            "rows": [
+              [
+                "Hap qelizën",
+                "Klikim i majtë",
+                "Një trokitje",
+                "Hap qelizën e zgjedhur"
+              ],
+              [
+                "Vendos flamur",
+                "Klikim i djathtë",
+                "Mbaj shtypur",
+                "Shëno vendin ku mendon se ka minë (⚑)"
+              ],
+              [
+                "Shëno me pikëpyetje",
+                "Klikim i djathtë përsëri",
+                "Mbaj shtypur përsëri",
+                "Shëno me ? kur nuk je i sigurt"
+              ],
+              [
+                "Hapje e Shpejtë (Chord)",
+                "Klikim i majtë mbi numrin të hapur",
+                "—",
+                "Kur numri ka po aq flamura sa vlera e tij, kliko numrin për të hapur automatikisht qelizat përreth"
+              ]
+            ]
+          },
+          "tipBox": "💡 Këshillë e vogël: Hapja e shpejtë (Chord) është një mënyrë shumë efikase! Kur numri ka po aq flamura sa vlera e tij, kliko numrin dhe hap automatikisht të gjitha qelizat e pashënuara përreth."
+        },
+        {
+          "heading": "Kuptimi i Numrave",
+          "paragraphs": [
+            "Kur hap një qelizë, shfaqet një numër nga 1 deri në 8 – ai tregon sasinë e minave në 8 qelizat përreth tij.",
+            "Shembull i thjeshtë 3×3: Numri 1 në qendër do të thotë se ka vetëm 1 minë në 8 qelizat përreth."
+          ],
+          "list": [
+            "1 – 1 minë në 8 qelizat përreth",
+            "2 – 2 mina në 8 qelizat përreth",
+            "3 – 3 mina në 8 qelizat përreth",
+            "… e kështu me radhë, maksimumi është 8"
+          ],
+          "tipBox": "💡 Nëse hap një qelizë bosh pa numër – të gjitha 8 qelizat përreth janë pa mina dhe loja i hap automatikisht. Ky është mekanizmi i hapjes zinxhir në lojën e minave."
+        },
+        {
+          "heading": "Mënyrat e Lojës",
+          "paragraphs": [
+            "Tabela e lojës është fikse: 16 × 30 (480 qeliza)"
+          ],
+          "table": {
+            "headers": [
+              "Mënyra",
+              "Mina Fillestare",
+              "Rregulli i Rritjes",
+              "Shpjegim"
+            ],
+            "rows": [
+              [
+                "Mënyra Fillestare",
+                "15 mina",
+                "+6 mina për çdo nivel të kaluar",
+                "Maksimumi 99 mina në nivelin e 15-të"
+              ],
+              [
+                "Mënyra e Sfidës së Rregullt",
+                "81 mina",
+                "Shpjegim më poshtë",
+                "Sasia e minave rritet çdo cikël pa kufi maksimal"
+              ]
+            ]
+          },
+          "extraParagraph": "Rregulli i rritjes për mënyrën e sfidës: 4 nivelet e para shtojnë 6 mina secili, pastaj 3 nivele shtojnë 3 mina, më pas 3 nivele shtojnë 2 mina, përfundimisht çdo nivel shton 1 minë pa kufi."
+        },
+        {
+          "heading": "Fitore dhe Humbje",
+          "list": [
+            [
+              "Fitore",
+              "Hap të gjitha qelizat pa mina ose shëno saktësisht të gjitha vendet e minave"
+            ],
+            [
+              "Humbje",
+              "Trokit në një minë – loja përfundon menjëherë"
+            ]
+          ],
+          "tipBox": "💡 Klikimi i parë është 100% i sigurt! DMine garanton se klikimi i parë nuk do të jetë kurrë një minë – fillo lojën pa shqetësime."
+        },
+        {
+          "heading": "Riprodhim dhe Ndarje",
+          "paragraphs": [
+            "Regjistrimet e niveleve të kaluara ndahen automatikisht në re. Lojtarët e tjerë mund të riprodhojnë procesin e lojës në seksionin \"Rezultatet\". Riprodhimi është vetëm për shikim, nuk mund të ndërhysh apo ndryshosh asgjë."
+          ]
+        },
+        {
+          "heading": "Renditjet",
+          "paragraphs": [
+            "DMine ka renditje në re – renditja bëhet sipas nivelit më të lartë të përfunduar. Sa më i lartë niveli, aq më lartë je në renditje – krahasohu me lojtarë nga e gjithë bota."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Filloni Lojën"
+    },
+    "tips": {
+      "pageTitle": "Këshilla të Avancuara për Minave – Nga Fillestar në Ekspert | DMine Gjuetari i Minave Premium",
+      "metaDescription": "Udhëzues i avancuar për lojtarët e minave! Modelet 1-2-1, 1-2-2-1, teknika e klikimit të dyfishtë, analizë e probabilitetit… zotëro këto këshilla dhe rrit shpejtësinë dhe shanset e fitores!",
+      "metaKeywords": "këshilla minash, këshilla të avancuara minash, modele minash, strategji minash, 1-2-1 minash, probabilitet minash, ekspert minash, përparim në minash",
+      "headerTitle": "🎯 Këshilla të Avancuara për Minave",
+      "headerSubtitle": "Nga fillestar në ekspert – bëhu mjeshtër i lojës së minave",
+      "headerSub2": "Zotëro këto modele dhe strategji për të dyfishuar shanset dhe shpejtësinë e lojës",
+      "sections": [
+        {
+          "heading": "I. Modele Bazë",
+          "difficulty": "Fillestar",
+          "items": [
+            {
+              "title": "Modeli 1-2-1",
+              "paragraphs": [
+                "Është modeli më i zakonshëm dhe më i rëndësishëm në lojën e minave. Kur shikon renditje të vazhdueshme numrash 1-2-1 në një vijë të drejtë, mund të përcaktosh me siguri:"
+              ],
+              "list": [
+                [
+                  "Mbi të dy numrat 1 ka nga një minë",
+                  "Shëno me flamur"
+                ],
+                [
+                  "Mbi numrin 2 është patjetër qelizë e sigurt",
+                  "Hap pa frikë"
+                ]
+              ],
+              "tipBox": "💡 Ky është model i sigurt – nuk ke nevojë të hamendësosh, mund të nxjerrësh përfundimin 100% logjikisht."
+            },
+            {
+              "title": "Modeli 1-2-2-1",
+              "paragraphs": [
+                "Kur shikon renditje 1-2-2-1, është një tjetër model klasik:"
+              ],
+              "list": [
+                [
+                  "Mbi mesin e dy numrave 2 ka nga një minë",
+                  ""
+                ],
+                [
+                  "Mbi të dy numrat 1 ka nga një qelizë e sigurt",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Modeli i Kufirit",
+              "paragraphs": [
+                "Kur numri ndodhet në skaj të tabelës, arsyetimi bëhet më i thjeshtë – mungon një anë për llogaritje."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "II. Teknika të Mesme",
+          "difficulty": "Përparim",
+          "items": [
+            {
+              "title": "Teknika e Klikimit të Dyfishtë (Chord)",
+              "paragraphs": [
+                "Është veprimi kyç për rritjen e shpejtësisë. Kur numri ka po aq flamura sa vlera e tij, kliko me butonin e mesëm të mausit ose shtyp njëkohësisht butonët majtë dhe djathtë – hap automatikisht të gjitha qelizat e pashënuara përreth.",
+                "Shembull: Nëse numri 3 ka tashmë 3 flamura të vendosura, kliko dyfish numrin 3 dhe 5 qelizat e mbetura hapen automatikisht."
+              ],
+              "tipBox": "⚡ Sekret i ekspertëve: Lojtarët e mirë përdorin gjithmonë klikimin e dyfishtë – vendos flamura dhe kliko njëkohësisht, shpejtësia rritet disa herë."
+            },
+            {
+              "title": "Arsyetim me Zbritje",
+              "paragraphs": [
+                "Kur një numër ka disa flamura tashmë të vendosura, zbrit këto flamura nga vlera e numrit për të gjetur sa mina kanë mbetur në qelizat e tjera. Për shembull, nëse numri 3 ka 1 flamur, atëherë në qelizat e mbetura ka ende 2 mina."
+              ]
+            },
+            {
+              "title": "Arsyetim i Bashkuar i Numrave",
+              "paragraphs": [
+                "Mos shiko numrat veçmas – bashkëngjit numrat fqinjë për të arsyetuar. Dy numra fqinjë ndajnë disa qeliza; përdor marrëdhëniet e bashkësisë dhe plotësimit për të zbuluar më shumë informacione."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "III. Teknika të Avancuara",
+          "difficulty": "Ekspert",
+          "items": [
+            {
+              "title": "Analizë e Probabilitetit",
+              "paragraphs": [
+                "Kur ke situata të pasigurta dhe duhet të hamendësosh, vlerëso cila qelizë ka probabilitet më të ulët për të pasur minë:"
+              ],
+              "list": [
+                [
+                  "Zgjidh fillimisht qelizat afër zonave të hapura",
+                  "Më shumë informacione të disponueshme"
+                ],
+                [
+                  "Shmang qelizat në zona të izoluara",
+                  "Pasiguri më e lartë e probabilitetit"
+                ],
+                [
+                  "Në raste të ndërlikuara, llogarit raportin midis numrit të minave të mbetura dhe qelizave të lira",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Hamendësimet janë të pashmangshme në lojën e minave, por me analizë të probabilitetit mund ta rrisësh shansin e fitores mbi 90%."
+            },
+            {
+              "title": "Njohje e Modeleve",
+              "paragraphs": [
+                "Ekspertët nuk numërojnë qelizat një nga një – ata njohin modele të plota si kur lexojnë tekst. Me praktikë të mjaftueshme, shikon kombinime numrash dhe kupton menjëherë ku janë minat dhe ku qelizat e sigurta."
+              ]
+            },
+            {
+              "title": "Teknika e Veprimit me Maus",
+              "list": [
+                [
+                  "Bashkëpunim i qetë i duarve",
+                  "Dora e majtë vendos flamura (klikim djathtë), dora e djathtë hap qeliza (klikim majtë)"
+                ],
+                [
+                  "Zvogëlo lëvizjet e mausit",
+                  "Përdor klikimin e dyfishtë në vend të klikimeve të veçanta"
+                ],
+                [
+                  "Ritëm i veprimit",
+                  "Gjej ritmin tënd të lojës, mos luaj me shpejtësi të çrregullt"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "IV. Strategji Praktike",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Strategji e Fillimit",
+              "paragraphs": [
+                "DMine garanton se klikimi i parë është i sigurt. Pas fillimit, hap fillimisht zona të mëdha bosh për të krijuar më shumë të dhëna për arsyetim."
+              ]
+            },
+            {
+              "title": "Rregulli i Prioritetit",
+              "paragraphs": [
+                "Përpunoni tabelën sipas renditjes së mëposhtme:"
+              ],
+              "orderedList": [
+                "Përpuno fillimisht të gjitha modelet e sigurta (1-2-1, 1-2-2-1 etj.)",
+                "Përdor hapjen e shpejtë",
+                "Përpuno një nga një numrat në skaj",
+                "Përpuno në fund zonat që kërkojnë hamendësim"
+              ]
+            },
+            {
+              "title": "Strategji e Hamendësimit",
+              "paragraphs": [
+                "Kur je i detyruar të hamendësosh:"
+              ],
+              "list": [
+                [
+                  "Hamendëso fillimisht qelizat në skaj",
+                  "Zakonisht kanë më pak lidhje informacioni dhe rrezik më të ulët"
+                ],
+                [
+                  "Numëro minat e mbetura",
+                  "Dije sa mina nuk janë shënuar ende për të ndihmuar gjykimin"
+                ],
+                [
+                  "Lëre hamendësimin për fund",
+                  "Nëse ke kohë, zgjidh zonat e tjera së pari për të qartësuar tabelën"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "V. Trajnim për Përmirësim",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Praktiko reagimin ndaj modeleve",
+                  "Reago automatikisht kur shikon kombinime numrash, krijo kujtesë muskulare"
+                ],
+                [
+                  "Zvogëlo hezitim",
+                  "Merr vendime të sigurta brenda 0.5 sekondash"
+                ],
+                [
+                  "Analizo humbjet",
+                  "Pas humbjes, mendo çfarë mund të bëje më mirë"
+                ],
+                [
+                  "Përdor renditjet e DMine",
+                  "Shiko regjistrimet e ekspertëve, vendos një synim të vogël dhe sfido veten"
+                ],
+                [
+                  "Provo lojën pa flamura",
+                  "Përpiqu ta përfundosh lojën pa vendosur asnjë flamur"
+                ]
+              ],
+              "tipBox": "🎯 Referencë synimesh: Lojtar i zakonshëm deri në nivelin 10, lojtar i aftë deri në nivelin 20, ekspert mbi nivelin 30, lojtar i nivelit më të lartë mund të arrijë mbi nivelin 30 pa vendosur flamura."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Filloni Praktikën"
+    }
+  }
+}

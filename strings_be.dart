@@ -50,6 +50,7 @@ const Map<String, String> stringsBe = {
   'language': 'Мова',
   // Home page
   'newbie': 'Навучанне для пачаткоўцаў',
+  'gameIntro': 'Апісанне гульні',
   'newBattle': 'Новы фронт',
   'continueChallenge': 'Працягнуць челендж',
   'error': 'Памылка',

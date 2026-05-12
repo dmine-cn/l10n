@@ -272,6 +272,7 @@ class AppLocalizations {
 
   // MARK: Home page strings
   String get newbie => _getString('newbie');
+  String get gameIntro => _getString('gameIntro');
   String get newBattle => _getString('newBattle');
   String get continueChallenge => _getString('continueChallenge');
   String get error => _getString('error');

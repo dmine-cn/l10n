@@ -51,6 +51,7 @@ const Map<String, String> stringsAst = {
   'language': 'Idioma',
   // Home page
   'newbie': 'Iniciación pa principiantes',
+  'gameIntro': 'Descripción del xuegu',
   'newBattle': 'Nova frente de batalla',
   'continueChallenge': 'Continuar el reto',
   'error': 'Error',

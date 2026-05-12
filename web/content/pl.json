@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "pl",
+    "langAttr": "pl",
+    "ogLocale": "pl_PL",
+    "siteName": "DMine - Najlepszy Saper",
+    "canonicalPrefix": "pl/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Strona główna",
+    "rules": "Zasady",
+    "tips": "Porady",
+    "about": "O nas",
+    "download": "Pobierz"
+  },
+  "footer": {
+    "copyright": "© 2026 Zespół DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "O DMine – Najlepszy Saper | Gra Saper na Wszystkie Platformy",
+      "metaDescription": "DMine (Najlepszy Saper) to wieloplatformowa gra saper dostępna na Windows, macOS, Linux, Android, iOS, HarmonyOS i Web. Darmowa i otwarte oprogramowanie, obsługa 66 języków – graj online!",
+      "metaKeywords": "gra saper, DMine, najlepszy saper, saper wieloplatformowy, darmowy saper, otwarty saper",
+      "headerTitle": "💣 DMine – Najlepszy Saper",
+      "headerSubtitle": "Wieloplatformowa gra saper – graj w klasykę gdziekolwiek jesteś",
+      "sections": [
+        {
+          "heading": "Czym jest DMine?",
+          "paragraphs": [
+            "DMine (Najlepszy Saper) to wieloplatformowa gra saper stworzona w frameworku Flutter. Zachowuje klasyczną mechanikę sapera, jednocześnie oferuje nowoczesny interfejs i bogate funkcje, zapewniając zupełnie nowe wrażenia z gry.",
+            "Niezależnie od tego, czy jesteś doświadczonym graczem na komputerze Windows, czy grasz dla relaksu w podróży na telefonie – DMine spełni Twoje oczekiwania."
+          ]
+        },
+        {
+          "heading": "Obsługiwane platformy",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Dane synchronizowane na wszystkich platformach – graj gdziekolwiek, postępy są zawsze aktualne."
+          ]
+        },
+        {
+          "heading": "Główne funkcje",
+          "list": [
+            [
+              "Wielojęzykowość",
+              "Obsługa 66 języków – graj bez barier z graczami z całego świata"
+            ],
+            [
+              "Udostępnianie przebiegu gry",
+              "Rekordy gier automatycznie zapisywane w chmurze – inni gracze mogą oglądać Twoje rozgrywki"
+            ],
+            [
+              "Ranking chmurowy",
+              "Porównuj swoje wyniki z graczami z całego świata"
+            ],
+            [
+              "Wiele trybów gry",
+              "Tryb dla początkujących oraz tryb normalnego wyzwania"
+            ],
+            [
+              "Całkowicie darmowa",
+              "Bez reklam i zakupów w aplikacji – czyste wrażenia z gry"
+            ]
+          ]
+        },
+        {
+          "heading": "Tryby gry",
+          "paragraphs": [
+            "Zasady gry: Plansza ma stały rozmiar 16×30 (480 pól). Wyszukaj wszystkie bezpieczne pola omijając miny, aby wygrać."
+          ],
+          "list": [
+            [
+              "Tryb dla początkujących",
+              "Rozpoczyna się od 15 min, po każdej wygranej dodawane jest 6 min, maksymalnie 99 min na 15 poziomie"
+            ],
+            [
+              "Tryb normalnego wyzwania",
+              "Rozpoczyna się od 81 min. Pierwsze 4 wygrane – po 6 min więcej. Następne 3 poziomy – po 3 min więcej. Kolejne 3 poziomy – po 2 min więcej. Później po 1 min na poziom, bez górnego limitu"
+            ]
+          ]
+        },
+        {
+          "heading": "Informacje o wersji",
+          "paragraphs": [
+            "Aktualna wersja: {{VERSION}}",
+            "Technologie: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine to projekt otwartego oprogramowania – zapraszamy do obserwacji i współpracy na GitHubie."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Zacznij grę"
+    },
+    "rules": {
+      "pageTitle": "Szczegółowe zasady sapera – Poradnik dla początkujących | DMine Najlepszy Saper",
+      "metaDescription": "Jak grać w sapera? Poznaj podstawowe zasady, znaczenie cyfr, sterowanie i warunki wygranej. Niezbędny poradnik dla nowych graczy!",
+      "metaKeywords": "zasady sapera, jak grać w sapera, poradnik sapera, saper dla początkujących, podstawowe zasady sapera",
+      "headerTitle": "💣 Szczegółowe zasady sapera",
+      "headerSubtitle": "Naucz się grać od podstaw – idealne dla nowych graczy",
+      "sections": [
+        {
+          "heading": "Cel gry",
+          "paragraphs": [
+            "Cel sapera jest prosty: odsłoń wszystkie bezpieczne pola bez natrafienia na minę. Jeśli klikniesz minę – gra się kończy. Jeśli odsłonisz wszystkie pola bez min – wygrywasz!"
+          ]
+        },
+        {
+          "heading": "Podstawowe sterowanie",
+          "table": {
+            "headers": [
+              "Czynność",
+              "Mysz",
+              "Ekran dotykowy",
+              "Opis"
+            ],
+            "rows": [
+              [
+                "Odsłoń pole",
+                "Kliknięcie lewym przyciskiem",
+                "Jednokrotne dotknięcie",
+                "Odsłonięcie wybranego pola"
+              ],
+              [
+                "Oznacz flagą",
+                "Kliknięcie prawym przyciskiem",
+                "Długie przytrzymanie",
+                "Oznaczenie pola podejrzanego o minę (⚑)"
+              ],
+              [
+                "Oznaczenie znakiem zapytania",
+                "Ponowne kliknięcie prawym przyciskiem",
+                "Ponowne długie przytrzymanie",
+                "Oznaczenie niepewnego pola znakiem zapytania (?)"
+              ],
+              [
+                "Szybkie odsłanianie (Chord)",
+                "Kliknięcie lewym przyciskiem na odsłoniętej cyfrze",
+                "—",
+                "Gdy liczba flag wokół cyfry jest zgodna z jej wartością – kliknięcie odsłoni wszystkie nieoznaczone pola w otoczeniu"
+              ]
+            ]
+          },
+          "tipBox": "💡 Porada: Szybkie odsłanianie (Chord) to bardzo efektywna technika! Gdy liczba flag wokół cyfry jest równa jej wartości, kliknij tę cyfrę – automatycznie odsłonisz wszystkie pozostałe pola."
+        },
+        {
+          "heading": "Znaczenie cyfr",
+          "paragraphs": [
+            "Po odsłonięciu pola pojawia się cyfra (od 1 do 8) – oznacza ona liczbę min w ośmiu sąsiednich polach.",
+            "Przykład fragmentu planszy 3×3: środkowa cyfra 1 oznacza, że w ośmiu sąsiednich polach znajduje się dokładnie jedna mina."
+          ],
+          "list": [
+            "1 – 1 mina w ośmiu sąsiednich polach",
+            "2 – 2 miny w ośmiu sąsiednich polach",
+            "3 – 3 miny w ośmiu sąsiednich polach",
+            "i tak dalej, maksymalnie do 8"
+          ],
+          "tipBox": "💡 Puste pole (bez cyfry) oznacza brak min we wszystkich sąsiednich polach – gra automatycznie odsłoni całe otoczenie. To mechanizm łańcuchowego odsłaniania w saperze."
+        },
+        {
+          "heading": "Tryby gry",
+          "paragraphs": [
+            "Stały rozmiar planszy: 16 × 30 (480 pól)"
+          ],
+          "table": {
+            "headers": [
+              "Tryb",
+              "Początkowa liczba min",
+              "Zasada zwiększania",
+              "Opis"
+            ],
+            "rows": [
+              [
+                "Dla początkujących",
+                "15 min",
+                "Po każdej wygranej +6 min",
+                "Maksymalnie 99 min na 15 poziomie"
+              ],
+              [
+                "Normalne wyzwanie",
+                "81 min",
+                "Zobacz opis poniżej",
+                "Liczba min rośnie w każdej rundzie bez górnego limitu"
+              ]
+            ]
+          },
+          "extraParagraph": "Zasada zwiększania min w trybie normalnym: pierwsze 4 wygrane – po 6 min więcej. Następne 3 poziomy – po 3 min więcej. Kolejne 3 poziomy – po 2 min więcej. Później po 1 min na poziom, bez limitu górnego."
+        },
+        {
+          "heading": "Wygrana i przegrana",
+          "list": [
+            [
+              "Wygrana",
+              "Odsłonięcie wszystkich pól bez min lub poprawne oznaczenie wszystkich min"
+            ],
+            [
+              "Przegrana",
+              "Kliknięcie pola z miną – gra kończy się natychmiast"
+            ]
+          ],
+          "tipBox": "💡 Pierwsze kliknięcie jest w 100% bezpieczne! DMine gwarantuje, że pierwsze kliknięcie nigdy nie trafi na minę – możesz zacząć grę bez obaw."
+        },
+        {
+          "heading": "Odtwarzanie i udostępnianie gier",
+          "paragraphs": [
+            "Rekordy ukończonych gier są automatycznie zapisywane w chmurze. Inni gracze mogą oglądać Twoje rozgrywki w sekcji „Przebieg gier”. Odtwarzanie jest tylko do podglądu – nie można ingerować w przebieg gry."
+          ]
+        },
+        {
+          "heading": "Ranking",
+          "paragraphs": [
+            "DMine oferuje ranking chmurowy – klasyfikacja według osiągniętych poziomów. Im wyższy poziom, tym wyższa pozycja. Porównuj swoje wyniki z graczami z całego świata."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Zacznij grę"
+    },
+    "tips": {
+      "pageTitle": "Zaawansowane porady do sapera – Od początkującego do mistrza | DMine Najlepszy Saper",
+      "metaDescription": "Poradnik dla zaawansowanych graczy! Układy 1-2-1, 1-2-2-1, technika podwójnego kliknięcia, analiza prawdopodobieństwa. Opanuj sztukę sapera i zwiększ swoją skuteczność!",
+      "metaKeywords": "porady do sapera, zaawansowane techniki sapera, układy sapera, strategia sapera, saper 1-2-1, prawdopodobieństwo w saperze, mistrz sapera",
+      "headerTitle": "🎯 Zaawansowane porady do sapera",
+      "headerSubtitle": "Od początkującego do mistrza – stań się ekspertem od sapera",
+      "headerSub2": "Opanuj układy i strategie, aby podwoić swoją szybkość i skuteczność",
+      "sections": [
+        {
+          "heading": "I. Podstawowe układy",
+          "difficulty": "Początkujący",
+          "items": [
+            {
+              "title": "Układ 1-2-1",
+              "paragraphs": [
+                "Najczęstszy i najważniejszy układ w saperze. Gdy widzisz ciągłą sekwencję cyfr 1-2-1 w linii prostej, możesz stwierdzić:"
+              ],
+              "list": [
+                [
+                  "Nad obiema cyframi 1 znajduje się po jednej minie",
+                  "Oznacz flagą"
+                ],
+                [
+                  "Pole nad cyfrą 2 jest na pewno bezpieczne",
+                  "Możesz je bezpiecznie odsłonić"
+                ]
+              ],
+              "tipBox": "💡 To układ deterministyczny – nie musisz zgadywać, wynik jest pewny w 100%."
+            },
+            {
+              "title": "Układ 1-2-2-1",
+              "paragraphs": [
+                "Inny klasyczny układ przy sekwencji 1-2-2-1:"
+              ],
+              "list": [
+                [
+                  "Nad środkiem obu cyfr 2 znajdują się miny",
+                  ""
+                ],
+                [
+                  "Nad obiema cyframi 1 znajdują się bezpieczne pola",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Układy przy krawędzi planszy",
+              "paragraphs": [
+                "Gdy cyfry leżą przy krawędzi planszy, wnioskowanie jest prostsze – nie trzeba uwzględniać jednej strony pola."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "II. Średniozaawansowane techniki",
+          "difficulty": "Średni",
+          "items": [
+            {
+              "title": "Podwójne kliknięcie (Chord)",
+              "paragraphs": [
+                "Kluczowa technika przyspieszająca grę. Gdy liczba flag wokół cyfry jest równa jej wartości – użyj środkowego przycisku myszy lub jednoczesnego kliknięcia lewego i prawego przycisku, aby automatycznie odsłonić wszystkie nieoznaczone pola.",
+                "Przykład: jeśli wokół cyfry 3 masz już 3 flagi – podwójne kliknięcie odsłoni pozostałe 5 pól."
+              ],
+              "tipBox": "⚡ Sekret mistrzów: prawie wszyscy zaawansowani gracze używają podwójnego kliknięcia – oznaczają flagi i natychmiast odsłaniają pola, co kilkakrotnie przyspiesza grę."
+            },
+            {
+              "title": "Wnioskowanie przez odejmowanie",
+              "paragraphs": [
+                "Gdy wokół cyfry masz już część oznaczonych flag – odejmij ich liczbę od wartości cyfry, aby poznać liczbę pozostałych min w nieoznaczonych polach. Na przykład: cyfra 3 z jedną flagą wokół oznacza jeszcze 2 miny w pozostałych polach."
+              ]
+            },
+            {
+              "title": "Wnioskowanie z wielu cyfr",
+              "paragraphs": [
+                "Nie analizuj cyfr osobno – łącz sąsiednie cyfry w wnioskowaniu. Sąsiednie cyfry dzielą część pól, a wykorzystanie ich przecięć i zbiorów pozwala poznać więcej informacji."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "III. Zaawansowane techniki",
+          "difficulty": "Mistrz",
+          "items": [
+            {
+              "title": "Analiza prawdopodobieństwa",
+              "paragraphs": [
+                "Gdy sytuacja jest niejednoznaczna i trzeba zgadywać – wybierz pole z najmniejszym ryzykiem trafienia na minę:"
+              ],
+              "list": [
+                [
+                  "Wybieraj pola blisko już odsłoniętych obszarów",
+                  "Więcej informacji do wnioskowania"
+                ],
+                [
+                  "Unikaj odizolowanych pól",
+                  "Wysoka niepewność prawdopodobieństwa"
+                ],
+                [
+                  "W trudnych sytuacjach oblicz stosunek pozostałych min do liczby wolnych pól",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Zgadywanie w saperze jest nieuniknione, ale analiza prawdopodobieństwa może podnieść skuteczność powyżej 90%."
+            },
+            {
+              "title": "Rozpoznawanie wzorców",
+              "paragraphs": [
+                "Mistrzowie nie liczą pól po kolei – rozpoznają całe wzorce cyfr jak tekst. Po ćwiczeniu natychmiast rozpoznasz, gdzie są miny, a gdzie bezpieczne pola po widoku układu cyfr."
+              ]
+            },
+            {
+              "title": "Technika obsługi myszy",
+              "list": [
+                [
+                  "Płynna współpraca rąk",
+                  "Lewa ręka – oznaczanie flag (prawy przycisk), prawa – odsłanianie pól (lewy przycisk)"
+                ],
+                [
+                  "Ogranicz ruch myszy",
+                  "Używaj podwójnego kliknięcia zamiast pojedynczych kliknięć"
+                ],
+                [
+                  "Rytm gry",
+                  "Znajdź własny rytm gry – nie graj zbyt szybko ani zbyt wolno"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "IV. Strategia gry praktycznej",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Strategia początku gry",
+              "paragraphs": [
+                "DMine gwarantuje bezpieczne pierwsze kliknięcie. Na początku odsłaniaj duże obszary pustych pól, aby uzyskać wskazówki do dalszego wnioskowania."
+              ]
+            },
+            {
+              "title": "Zasada kolejności działań",
+              "paragraphs": [
+                "Przetwarzaj planszę w następującej kolejności:"
+              ],
+              "orderedList": [
+                "Najpierw rozwiąż wszystkie pewne układy (1-2-1, 1-2-2-1 itp.)",
+                "Używaj szybkiego odsłaniania Chord",
+                "Przetwarzaj cyfry przy krawędziach",
+                "Na koniec obszary wymagające zgadywania"
+              ]
+            },
+            {
+              "title": "Strategia zgadywania",
+              "paragraphs": [
+                "Gdy musisz zgadywać:"
+              ],
+              "list": [
+                [
+                  "Wybieraj pola przy krawędzi",
+                  "Mniej powiązań z innymi polami – mniejsze ryzyko"
+                ],
+                [
+                  "Licz pozostałe miny",
+                  "Śledź liczbę nieoznaczonych min, aby ułatwić decyzję"
+                ],
+                [
+                  "Zostaw zgadywanie na koniec",
+                  "Jeśli masz czas – rozwiąż najpierw inne obszary, aby plansza była bardziej przejrzysta"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "V. Trening i rozwój umiejętności",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Trenuj rozpoznawanie układów",
+                  "Reaguj automatycznie na widok sekwencji cyfr – wykształć pamięć mięśniową"
+                ],
+                [
+                  "Unikaj wahania",
+                  "Podejmuj pewne decyzje w ciągu 0,5 sekundy"
+                ],
+                [
+                  "Analizuj przegrane gry",
+                  "Po porażce zastanów się, co można było zrobić lepiej"
+                ],
+                [
+                  "Korzystaj z rankingu DMine",
+                  "Oglądaj rekordy mistrzów, wyznacz sobie cele i rywalizuj"
+                ],
+                [
+                  "Próbuj gry bez oznaczania flag",
+                  "Spróbuj ukończyć grę bez używania flag do oznaczania min"
+                ]
+              ],
+              "tipBox": "🎯 Orientacyjne cele: Początkujący – do 10 poziomu, średni gracz – do 20 poziomu, zaawansowany – powyżej 30 poziomu, mistrz potrafi przejść powyżej 30 poziomu bez oznaczania flag."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Zacznij trening"
+    }
+  }
+}

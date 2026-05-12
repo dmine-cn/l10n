@@ -52,6 +52,7 @@ const Map<String, String> stringsEl = {
   'language': 'Γλώσσα',
   // Home page
   'newbie': 'Νέος',
+  'gameIntro': 'Περιγραφή παιχνιδιού',
   'newBattle': 'Νέο μέτωπο',
   'continueChallenge': 'Συνέχεια πρόκλησης',
   'error': 'Σφάλμα',

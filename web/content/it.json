@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "it",
+    "langAttr": "it",
+    "ogLocale": "it_IT",
+    "siteName": "DMine - Il miglior Campo Minato",
+    "canonicalPrefix": "it/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Home",
+    "rules": "Regole",
+    "tips": "Consigli",
+    "about": "Chi siamo",
+    "download": "Scarica"
+  },
+  "footer": {
+    "copyright": "© 2026 Team DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Informazioni su DMine - Il Migliore Campo Minato | Gioco multipiattaforma",
+      "metaDescription": "DMine è un gioco di Campo Minato multipiattaforma compatibile con Windows, macOS, Linux, Android, iOS, HarmonyOS e Web. Gratuito e open source, supporta 66 lingue, gioca online subito!",
+      "metaKeywords": "Campo Minato,DMine,Migliore Campo Minato,Campo Minato multipiattaforma,Campo Minato gratuito,Campo Minato open source",
+      "headerTitle": "💣 DMine - Il Migliore Campo Minato",
+      "headerSubtitle": "Un classico Campo Minato multipiattaforma, gioca quando vuoi e dove vuoi",
+      "sections": [
+        {
+          "heading": "Cos'è DMine?",
+          "paragraphs": [
+            "DMine è un gioco di Campo Minato multipiattaforma sviluppato con il framework Flutter. Mantiene le regole classiche del gioco originale, aggiungendo un'interfaccia moderna e funzionalità avanzate per un'esperienza completamente nuova.",
+            "Sia tu sia un giocatore esperto su Windows o un giocatore occasionale sul cellulare durante gli spostamenti, DMine soddisfa ogni tua esigenza."
+          ]
+        },
+        {
+          "heading": "Piattaforme supportate",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Sincronizzazione dati su tutte le piattaforme: gioca su un dispositivo e continua su un altro."
+          ]
+        },
+        {
+          "heading": "Caratteristiche principali",
+          "list": [
+            [
+              "Supporto multilingue",
+              "Disponibile in 66 lingue, giocatori di tutto il mondo senza barriere"
+            ],
+            [
+              "Condividi le partite",
+              "Le tue partite vengono salvate automaticamente sul cloud e gli altri giocatori possono rivederle"
+            ],
+            [
+              "Classifiche cloud",
+              "Competi con giocatori di tutto il mondo superando livelli"
+            ],
+            [
+              "Modalità di gioco multiple",
+              "Due modalità: Principianti e Sfida Normale"
+            ],
+            [
+              "Completamente gratuito",
+              "Senza pubblicità, senza acquisti in-app, esperienza di gioco pura"
+            ]
+          ]
+        },
+        {
+          "heading": "Modalità di gioco",
+          "paragraphs": [
+            "Regole di base: la griglia fissa è 16×30 (480 caselle). Vinci scoprendo tutte le caselle sicure senza calpestare mine."
+          ],
+          "list": [
+            [
+              "Modalità Principianti",
+              "Inizia con 15 mine, +6 mine ogni livello superato, fino a 99 mine al livello 15"
+            ],
+            [
+              "Sfida Normale",
+              "Inizia con 81 mine, regola di incremento illimitata come descritto di seguito"
+            ]
+          ]
+        },
+        {
+          "heading": "Informazioni sulla versione",
+          "paragraphs": [
+            "Versione corrente：{{VERSION}}",
+            "Stack tecnologico：Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine è un progetto open source, segui e contribuisci su GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Inizia a giocare"
+    },
+    "rules": {
+      "pageTitle": "Regole del Campo Minato - Guida per principianti | DMine",
+      "metaDescription": "Come si gioca a Campo Minato? Spiegazione dettagliata delle regole, significato dei numeri, comandi e condizioni di vittoria, guida essenziale per iniziare!",
+      "metaKeywords": "Regole Campo Minato,come giocare a Campo Minato,guida Campo Minato,principianti Campo Minato,regole base Campo Minato",
+      "headerTitle": "💣 Regole dettagliate del Campo Minato",
+      "headerSubtitle": "Impara a giocare da zero, guida per principianti",
+      "sections": [
+        {
+          "heading": "Obiettivo del gioco",
+          "paragraphs": [
+            "L'obiettivo è semplice: scopri tutte le caselle sicure senza calpestare una mina. Se clicchi su una mina la partita finisce; se scopri tutte le caselle senza mine hai vinto!"
+          ]
+        },
+        {
+          "heading": "Comandi base",
+          "table": {
+            "headers": [
+              "Azione",
+              "Mouse",
+              "Touch",
+              "Descrizione"
+            ],
+            "rows": [
+              [
+                "Scopri casella",
+                "Clic sinistro",
+                "Tocca una volta",
+                "Scopri la casella selezionata"
+              ],
+              [
+                "Metti bandierina",
+                "Clic destro",
+                "Tieni premuto",
+                "Segna una casella dove pensi ci sia una mina (⚑)"
+              ],
+              [
+                "Segno interrogativo",
+                "Nuovo clic destro",
+                "Tieni premuto di nuovo",
+                "Metti un ? se non sei sicuro"
+              ],
+              [
+                "Apertura rapida (Chord)",
+                "Clic sinistro su numero scoperto",
+                "—",
+                "Quando le bandierine intorno a un numero corrispondono al suo valore, clicca per aprire automaticamente tutte le caselle rimanenti"
+              ]
+            ]
+          },
+          "tipBox": "💡 Consiglio: l'apertura rapida (Chord) è fondamentale! Quando il numero di bandierine corrisponde al valore della cifra, cliccandola apri automaticamente tutte le caselle vicine non segnate."
+        },
+        {
+          "heading": "Significato dei numeri",
+          "paragraphs": [
+            "Quando scopri una casella appare un numero da 1 a 8: indica quante mine sono presenti nelle 8 caselle adiacenti.",
+            "Esempio 3×3: il numero 1 al centro significa che c'è una sola mina nelle 8 caselle circostanti."
+          ],
+          "list": [
+            "1 — 1 mina nelle 8 caselle vicine",
+            "2 — 2 mine nelle 8 caselle vicine",
+            "3 — 3 mine nelle 8 caselle vicine",
+            "e così via fino al massimo di 8"
+          ],
+          "tipBox": "💡 Se trovi una casella vuota senza numero, non ci sono mine nei dintorni: il gioco aprirà automaticamente l'area circostante, è il meccanismo di espansione a catena."
+        },
+        {
+          "heading": "Modalità di gioco",
+          "paragraphs": [
+            "Griglia fissa：16 × 30 (480 caselle)"
+          ],
+          "table": {
+            "headers": [
+              "Modalità",
+              "Mine iniziali",
+              "Regola di aumento",
+              "Descrizione"
+            ],
+            "rows": [
+              [
+                "Principianti",
+                "15 mine",
+                "+6 mine per livello",
+                "Massimo 99 mine al livello 15"
+              ],
+              [
+                "Sfida Normale",
+                "81 mine",
+                "Vedi sotto",
+                "Mine in aumento senza limite"
+              ]
+            ]
+          },
+          "extraParagraph": "Regola incremento Sfida Normale: +6 mine per i primi 4 livelli superati, poi +3 mine ogni 3 livelli, successivamente +2 mine ogni 3 livelli, infine +1 mine per livello senza limite massimo."
+        },
+        {
+          "heading": "Vittoria e sconfitta",
+          "list": [
+            [
+              "Vittoria",
+              "Scopri tutte le caselle senza mine o segna correttamente tutte le mine"
+            ],
+            [
+              "Sconfitta",
+              "Clicca su una mina, partita terminata istantaneamente"
+            ]
+          ],
+          "tipBox": "💡 Il primo clic è sempre sicuro! DMine garantisce che la prima casella non sia mai una mina."
+        },
+        {
+          "heading": "Riproduzione e condivisione",
+          "paragraphs": [
+            "Le partite completate vengono salvate automaticamente sul cloud. Gli altri giocatori possono rivedere la partita nella sezione \"Partite\". La riproduzione è solo visiva, non modificabile."
+          ]
+        },
+        {
+          "heading": "Classifiche",
+          "paragraphs": [
+            "DMine offre classifiche cloud basate sul livello raggiunto. Più alto è il livello, migliore è la posizione: competi con giocatori di tutto il mondo."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Inizia a giocare"
+    },
+    "tips": {
+      "pageTitle": "Trucchi avanzati Campo Minato - Da principiante a esperto | DMine",
+      "metaDescription": "Trucchi pro per Campo Minato! Schemi 1-2-1, 1-2-2-1, apertura rapida, analisi probabilistica... migliora velocità e percentuale di vittoria!",
+      "metaKeywords": "Trucchi Campo Minato,consigli avanzati Campo Minato,schemi Campo Minato,strategie Campo Minato,1-2-1 Campo Minato,probabilità Campo Minato,esperto Campo Minato",
+      "headerTitle": "🎯 Trucchi avanzati Campo Minato",
+      "headerSubtitle": "Da principiante a campione del Campo Minato",
+      "headerSub2": "Impara schemi e strategie per raddoppiare velocità e vittorie",
+      "sections": [
+        {
+          "heading": "I. Schemi base",
+          "difficulty": "Base",
+          "items": [
+            {
+              "title": "Schema 1-2-1",
+              "paragraphs": [
+                "È lo schema più comune e importante. Quando vedi la sequenza 1-2-1 in linea retta puoi essere certo che:"
+              ],
+              "list": [
+                [
+                  "Sopra ciascun 1 c'è una mina",
+                  "Segna con bandierina"
+                ],
+                [
+                  "La casella sopra il 2 è sicura",
+                  "Puoi scoprirla tranquillamente"
+                ]
+              ],
+              "tipBox": "💡 È uno schema certo: non serve indovinare, si deduce al 100%."
+            },
+            {
+              "title": "Schema 1-2-2-1",
+              "paragraphs": [
+                "Un altro schema classico con sequenza 1-2-2-1:"
+              ],
+              "list": [
+                [
+                  "Una mina sopra lo spazio tra i due 2",
+                  ""
+                ],
+                [
+                  "Una casella sicura sopra ciascun 1",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Schema bordo",
+              "paragraphs": [
+                "Quando un numero è sul bordo della griglia le deduzioni sono più semplici, perché ci sono meno caselle da calcolare."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "II. Tecniche intermedie",
+          "difficulty": "Intermedio",
+          "items": [
+            {
+              "title": "Tecnica doppio clic (Chord)",
+              "paragraphs": [
+                "È la mossa più importante per aumentare la velocità. Quando le bandierine intorno a un numero corrispondono al suo valore, usa il tasto centrale del mouse o clicca contemporaneamente tasto destro e sinistro per aprire tutte le caselle non segnate.",
+                "Esempio: se intorno a un 3 ci sono già 3 bandierine, doppio clic sul numero e le restanti 5 caselle si aprono automaticamente."
+              ],
+              "tipBox": "⚡ Segreto dei professionisti: tutti i giocatori esperti usano il doppio clic, velocità di gioco moltiplicata."
+            },
+            {
+              "title": "Deduzione per sottrazione",
+              "paragraphs": [
+                "Quando hai già messo alcune bandierine intorno a un numero, sottraile per sapere quante mine rimangono nelle caselle libere. Esempio: un 3 con 1 bandierina ha ancora 2 mine nascoste nei dintorni."
+              ]
+            },
+            {
+              "title": "Deduzione combinata tra numeri",
+              "paragraphs": [
+                "Non guardare ogni numero separatamente: combina numeri adiacenti che condividono caselle. Usa intersezioni e insiemi per ricavare informazioni aggiuntive."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "III. Tecniche avanzate",
+          "difficulty": "Esperto",
+          "items": [
+            {
+              "title": "Analisi probabilistica",
+              "paragraphs": [
+                "Quando non è possibile dedurre con certezza e devi \"indovinare\", scegli la casella con minor probabilità di contenere una mina:"
+              ],
+              "list": [
+                [
+                  "Scegli caselle vicine ad aree già scoperte",
+                  "Maggiori informazioni disponibili"
+                ],
+                [
+                  "Evita aree isolate",
+                  "Alta incertezza probabilistica"
+                ],
+                [
+                  "In casi complessi calcola il rapporto tra mine e caselle rimanenti",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ L'indovinello è inevitabile in alcuni casi, ma con l'analisi probabilistica puoi superare il 90% di vittorie."
+            },
+            {
+              "title": "Riconoscimento schemi",
+              "paragraphs": [
+                "I giocatori esperti non contano le caselle una per una: riconoscono schemi interi a colpo d'occhio. Con l'esercizio capisci istantaneamente dove sono le mine e dove le caselle sicure."
+              ]
+            },
+            {
+              "title": "Tecniche di mouse",
+              "list": [
+                [
+                  "Coordinazione mano destra e sinistra",
+                  "Mano sinistra per bandierine (clic destro), mano destra per scoprire (clic sinistro)"
+                ],
+                [
+                  "Riduci i movimenti del mouse",
+                  "Usa il doppio clic al posto di clic singoli per risparmiare tempo"
+                ],
+                [
+                  "Ritmo di gioco",
+                  "Trova il tuo ritmo senza accelerare o rallentare improvvisamente"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "IV. Strategie di gioco",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Strategia di inizio partita",
+              "paragraphs": [
+                "DMine garantisce che il primo clic sia sicuro. All'inizio scopri ampie aree vuote per creare indizi utili alle deduzioni successive."
+              ]
+            },
+            {
+              "title": "Regola di priorità",
+              "paragraphs": [
+                "Gestisci la griglia seguendo questo ordine:"
+              ],
+              "orderedList": [
+                "Risolvi prima tutti gli schemi certi (1-2-1, 1-2-2-1 ecc.)",
+                "Usa l'apertura rapida",
+                "Elabora uno per uno i numeri sul bordo",
+                "Infine gestisci le aree che richiedono indovinello"
+              ]
+            },
+            {
+              "title": "Strategia di indovinello",
+              "paragraphs": [
+                "Quando devi per forza indovinare:"
+              ],
+              "list": [
+                [
+                  "Scegli prima le caselle sul bordo",
+                  "Meno collegamenti, minor rischio"
+                ],
+                [
+                  "Conta le mine rimanenti",
+                  "Sapere quante mine mancano aiuta la decisione"
+                ],
+                [
+                  "Indovina per ultimo",
+                  "Se hai tempo risolvi prima altre aree per chiarire la griglia"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "V. Allenamento per migliorare",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Esercitati sui schemi",
+                  "Rispondi istantaneamente alle combinazioni di numeri, crea memoria muscolare"
+                ],
+                [
+                  "Riduci l'esitazione",
+                  "Prendi decisioni certe in meno di 0,5 secondi"
+                ],
+                [
+                  "Analizza le sconfitte",
+                  "Dopo una sconfitta rifletti su cosa potevi fare meglio"
+                ],
+                [
+                  "Usa le classifiche DMine",
+                  "Guarda i record dei campioni, stabilisci obiettivi e sfida te stesso"
+                ],
+                [
+                  "Prova la modalità senza bandierine",
+                  "Completa la partita senza mettere alcuna bandierina"
+                ]
+              ],
+              "tipBox": "🎯 Obiettivi di riferimento: Giocatore normale entro il livello 10, esperto entro il livello 20, campione oltre il livello 30, professionista oltre il livello 30 senza bandierine."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Inizia ad esercitarti"
+    }
+  }
+}

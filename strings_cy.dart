@@ -51,6 +51,7 @@ const Map<String, String> stringsCy = {
   'language': 'Iaith',
   // Home page
   'newbie': 'Dechreuwr',
+  'gameIntro': 'Disgrifiad gêm',
   'newBattle': 'Rymfil newydd',
   'continueChallenge': 'Parhau â\'r her',
   'error': 'Gwall',

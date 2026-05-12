@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "pt",
+    "langAttr": "pt",
+    "ogLocale": "pt_PT",
+    "siteName": "DMine - Melhor Campo Minado",
+    "canonicalPrefix": "pt/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Início",
+    "rules": "Regras",
+    "tips": "Dicas",
+    "about": "Sobre Nós",
+    "download": "Descarregar"
+  },
+  "footer": {
+    "copyright": "© 2026 Equipa DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Sobre o DMine - O Melhor Campo Minado | Jogo Multiplataforma de Campo Minado",
+      "metaDescription": "O DMine (O Melhor Campo Minado) é um jogo multiplataforma de campo minado, compatível com Windows, macOS, Linux, Android, iOS, HarmonyOS e Web. Gratuito, open source, com 66 idiomas e para jogar online!",
+      "metaKeywords": "jogo de campo minado,DMine,melhor campo minado,campo minado multiplataforma,campo minado gratuito,campo minado open source",
+      "headerTitle": "💣 DMine - O Melhor Campo Minado",
+      "headerSubtitle": "Um jogo de campo minado multiplataforma, jogue o clássico quando e onde quiser",
+      "sections": [
+        {
+          "heading": "O que é o DMine?",
+          "paragraphs": [
+            "O DMine (O Melhor Campo Minado) é um jogo de campo minado multiplataforma desenvolvido com o framework Flutter. Mantém a jogabilidade clássica do campo minado, ao mesmo tempo que adiciona um design moderno e funcionalidades ricas, proporcionando uma experiência totalmente renovada.",
+            "Seja um jogador experiente no Windows ou um jogador casual no telemóvel durante o trajeto, o DMine satisfaz todas as suas necessidades."
+          ]
+        },
+        {
+          "heading": "Plataformas Suportadas",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Dados sincronizados em todas as plataformas: jogue numa e continue em qualquer outra."
+          ]
+        },
+        {
+          "heading": "Funcionalidades Principais",
+          "list": [
+            [
+              "Suporte Multilíngue",
+              "Disponível em 66 idiomas, jogue sem barreiras com todo o mundo"
+            ],
+            [
+              "Partilha de Partidas",
+              "Os registos de jogo são guardados na nuvem e outros jogadores podem reproduzir as suas partidas"
+            ],
+            [
+              "Classificação na Nuvem",
+              "Compare o seu progresso com jogadores de todo o mundo"
+            ],
+            [
+              "Vários Modos de Jogo",
+              "Modo Iniciante e Modo Desafio Normal"
+            ],
+            [
+              "Totalmente Gratuito",
+              "Sem anúncios, sem compras internas, experiência de jogo pura"
+            ]
+          ]
+        },
+        {
+          "heading": "Modos de Jogo",
+          "paragraphs": [
+            "Regra do jogo: grelha fixa de 16×30 (480 células). Ganhe ao descobrir todas as células seguras sem pisar em nenhuma mina."
+          ],
+          "list": [
+            [
+              "Modo Iniciante",
+              "Começa com 15 minas. Cada nível concluído adiciona 6 minas, até ao nível 15 com 99 minas"
+            ],
+            [
+              "Modo Desafio Normal",
+              "Começa com 81 minas. Primeiros 4 níveis +6 minas cada, depois 3 níveis +3 minas, seguidos de 3 níveis +2 minas e depois +1 mina por nível, sem limite máximo"
+            ]
+          ]
+        },
+        {
+          "heading": "Informações da Versão",
+          "paragraphs": [
+            "Versão atual: {{VERSION}}",
+            "Stack Tecnológico: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "O DMine é um projeto open source. Siga e contribua no GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Jogar Agora"
+    },
+    "rules": {
+      "pageTitle": "Regras Completas de Campo Minado | Guia para Iniciantes | DMine",
+      "metaDescription": "Como jogar Campo Minado? Aprenda as regras básicas, significado dos números, controlos e condições de vitória. Guia essencial para iniciantes!",
+      "metaKeywords": "regras de campo minado,como jogar campo minado,tutorial de campo minado,iniciante campo minado,regras básicas campo minado",
+      "headerTitle": "💣 Regras Completas de Campo Minado",
+      "headerSubtitle": "Aprenda a jogar do zero, guia obrigatório para iniciantes",
+      "sections": [
+        {
+          "heading": "Objetivo do Jogo",
+          "paragraphs": [
+            "O objetivo é simples: descubra todas as células seguras sem pisar em minas. Se clicar numa mina, perde o jogo. Se descobrir todas as células sem minas, ganha!"
+          ]
+        },
+        {
+          "heading": "Controlos Básicos",
+          "table": {
+            "headers": [
+              "Ação",
+              "Rato",
+              "Ecrã Táctil",
+              "Descrição"
+            ],
+            "rows": [
+              [
+                "Descobrir célula",
+                "Clique esquerdo",
+                "Toque simples",
+                "Abre a célula selecionada"
+              ],
+              [
+                "Marcar bandeira",
+                "Clique direito",
+                "Toque longo",
+                "Marca local com possível mina (⚑)"
+              ],
+              [
+                "Marcar interrogação",
+                "Novo clique direito",
+                "Novo toque longo",
+                "Marca com ? quando não tem a certeza"
+              ],
+              [
+                "Abertura Rápida (Chord)",
+                "Clique esquerdo num número revelado",
+                "—",
+                "Quando o número tem tantas bandeiras como o seu valor, abre automaticamente as células adjacentes não marcadas"
+              ]
+            ]
+          },
+          "tipBox": "💡 Dica: A abertura rápida (Chord) é uma técnica essencial! Quando um número tem o mesmo número de bandeiras que o seu valor, clique no número para abrir todas as células vizinhas restantes."
+        },
+        {
+          "heading": "Significado dos Números",
+          "paragraphs": [
+            "Ao abrir uma célula, aparece um número de 1 a 8, que indica quantas minas existem nas 8 células adjacentes.",
+            "Exemplo numa grelha 3×3: o número 1 ao centro significa que há exatamente 1 mina nas 8 células à volta."
+          ],
+          "list": [
+            "1 — 1 mina nas 8 células adjacentes",
+            "2 — 2 minas nas 8 células adjacentes",
+            "3 — 3 minas nas 8 células adjacentes",
+            "E assim por diante, até ao máximo de 8"
+          ],
+          "tipBox": "💡 Se aparecer uma célula vazia (sem número), significa que não há minas à volta. O jogo abre automaticamente a área adjacente — este é o mecanismo de expansão em cadeia."
+        },
+        {
+          "heading": "Modos de Jogo",
+          "paragraphs": [
+            "Grelha fixa: 16 × 30 (480 células)"
+          ],
+          "table": {
+            "headers": [
+              "Modo",
+              "Minas Iniciais",
+              "Regra de Aumento",
+              "Descrição"
+            ],
+            "rows": [
+              [
+                "Iniciante",
+                "15 minas",
+                "+6 minas por nível",
+                "Máximo de 99 minas no nível 15"
+              ],
+              [
+                "Desafio Normal",
+                "81 minas",
+                "Ver abaixo",
+                "Número de minas cresce sem limite máximo"
+              ]
+            ]
+          },
+          "extraParagraph": "Regra de aumento do Modo Desafio Normal: +6 minas nos primeiros 4 níveis concluídos, depois +3 minas durante 3 níveis, seguidos de +2 minas por 3 níveis e finalmente +1 mina por nível, sem limite."
+        },
+        {
+          "heading": "Vitória e Derrota",
+          "list": [
+            [
+              "Vitória",
+              "Descobrir todas as células sem minas ou marcar corretamente todas as minas"
+            ],
+            [
+              "Derrota",
+              "Clicar numa mina — o jogo termina imediatamente"
+            ]
+          ],
+          "tipBox": "💡 O primeiro clique é 100% seguro! No DMine, o primeiro toque nunca cai numa mina, para começar sem riscos."
+        },
+        {
+          "heading": "Reproduzir e Partilhar",
+          "paragraphs": [
+            "Os registos das suas partidas ficam guardados na nuvem. Outros jogadores podem reproduzir o seu percurso na secção de conquistas. A reprodução é apenas para visualização, sem possibilidade de alterar a partida."
+          ]
+        },
+        {
+          "heading": "Classificações",
+          "paragraphs": [
+            "O DMine tem classificações na nuvem, ordenadas pelo nível alcançado. Quanto maior o nível, melhor a posição — desafie jogadores de todo o mundo."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Jogar Agora"
+    },
+    "tips": {
+      "pageTitle": "Técnicas Avançadas de Campo Minado | De Iniciante a Profissional | DMine",
+      "metaDescription": "Dicas e estratégias para dominar o Campo Minado! Padrões 1-2-1, 1-2-2-1, técnica de duplo clique, análise de probabilidades... aumente a sua taxa de sucesso e velocidade!",
+      "metaKeywords": "dicas campo minado,técnicas avançadas campo minado,padrões campo minado,estratégia campo minado,1-2-1 campo minado,probabilidades campo minado",
+      "headerTitle": "🎯 Técnicas Avançadas de Campo Minado",
+      "headerSubtitle": "De iniciante a profissional, torne-se um mestre do campo minado",
+      "headerSub2": "Domine padrões e estratégias para duplicar a sua velocidade e taxa de vitórias",
+      "sections": [
+        {
+          "heading": "I. Padrões Básicos",
+          "difficulty": "Iniciante",
+          "items": [
+            {
+              "title": "Padrão 1-2-1",
+              "paragraphs": [
+                "É o padrão mais comum e importante do campo minado. Quando vir a sequência 1-2-1 em linha reta, pode concluir com certeza:"
+              ],
+              "list": [
+                [
+                  "Há uma mina acima de cada número 1",
+                  "Marque com bandeira"
+                ],
+                [
+                  "A célula acima do número 2 é sempre segura",
+                  "Pode abrir sem receio"
+                ]
+              ],
+              "tipBox": "💡 Este é um padrão determinístico — não há adivinhação, é 100% dedutível."
+            },
+            {
+              "title": "Padrão 1-2-2-1",
+              "paragraphs": [
+                "A sequência 1-2-2-1 também é um padrão clássico:"
+              ],
+              "list": [
+                [
+                  "Há uma mina acima do espaço entre os dois 2",
+                  ""
+                ],
+                [
+                  "Há células seguras acima de cada número 1",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Padrões de Borda",
+              "paragraphs": [
+                "Quando os números estão na borda da grelha, a dedução torna-se mais simples, pois há menos células a calcular."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "II. Técnicas Intermédias",
+          "difficulty": "Intermédio",
+          "items": [
+            {
+              "title": "Técnica de Duplo Clique (Chord)",
+              "paragraphs": [
+                "É a ação mais importante para ganhar velocidade. Quando um número tem tantas bandeiras como o seu valor, use o botão do meio do rato ou clique simultaneamente nos dois botões para abrir automaticamente todas as células não marcadas à volta.",
+                "Exemplo: Se um número 3 já tiver 3 bandeiras marcadas, ao clicar no 3, as restantes 5 células abrem-se sozinhas."
+              ],
+              "tipBox": "⚡ Segredo dos profissionais: todos usam o duplo clique — marque bandeiras e abra células em simultâneo, multiplicando a velocidade."
+            },
+            {
+              "title": "Dedução por Subtração",
+              "paragraphs": [
+                "Quando um número já tem algumas bandeiras marcadas, subtraia esse valor para saber quantas minas faltam nas células restantes. Ex: um número 3 com 1 bandeira já marcada, ainda tem 2 minas nas células por descobrir."
+              ]
+            },
+            {
+              "title": "Dedução Conjunta de Vários Números",
+              "paragraphs": [
+                "Não analise números isoladamente. Junte números adjacentes, que partilham células em comum, e use relações de interseção e complemento para obter mais pistas."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "III. Técnicas Avançadas",
+          "difficulty": "Profissional",
+          "items": [
+            {
+              "title": "Análise de Probabilidades",
+              "paragraphs": [
+                "Quando não for possível ter a certeza (momento de adivinhar), escolha a célula com menor risco de ter mina:"
+              ],
+              "list": [
+                [
+                  "Prefira células perto de áreas já descobertas",
+                  "Mais informação disponível"
+                ],
+                [
+                  "Evite células em áreas isoladas",
+                  "Maior incerteza probabilística"
+                ],
+                [
+                  "Em casos complexos, calcule a proporção entre minas e células restantes",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ A adivinhação é inevitável em alguns casos, mas com análise de probabilidades pode elevar a taxa de sucesso a mais de 90%."
+            },
+            {
+              "title": "Reconhecimento de Padrões",
+              "paragraphs": [
+                "Os profissionais não contam célula a célula — reconhecem blocos de números como se lessem um texto. Com prática, vê combinações e sabe instantaneamente onde estão as minas e as células seguras."
+              ]
+            },
+            {
+              "title": "Técnicas de Movimento do Rato",
+              "list": [
+                [
+                  "Coordenação das duas mãos",
+                  "Mão direita abre células, mão esquerda marca bandeiras, tarefas definidas"
+                ],
+                [
+                  "Reduza movimentos do rato",
+                  "Use o duplo clique em vez de cliques individuais"
+                ],
+                [
+                  "Ritmo de jogo",
+                  "Mantenha um ritmo constante, evite velocidades irregulares"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "IV. Estratégias de Jogo",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Estratégia de Início",
+              "paragraphs": [
+                "O DMine garante que o primeiro clique é seguro. Comece por abrir áreas grandes e vazias, para criar mais pistas para dedução."
+              ]
+            },
+            {
+              "title": "Regra de Prioridades",
+              "paragraphs": [
+                "Processe a grelha pela seguinte ordem:"
+              ],
+              "orderedList": [
+                "Resolva primeiro todos os padrões determinísticos (1-2-1, 1-2-2-1, etc.)",
+                "Use a abertura rápida (Chord)",
+                "Processe os números nas bordas",
+                "Por fim, resolva as áreas que exigem adivinhação"
+              ]
+            },
+            {
+              "title": "Estratégia de Adivinhação",
+              "paragraphs": [
+                "Quando for obrigado a adivinhar:"
+              ],
+              "list": [
+                [
+                  "Prefira células na borda da grelha",
+                  "Menos ligações de risco, menor probabilidade de mina"
+                ],
+                [
+                  "Conte as minas restantes",
+                  "Saiba quantas minas faltam por marcar para ajudar a decidir"
+                ],
+                [
+                  "Deixe para o fim as adivinhações",
+                  "Se tiver tempo, resolva outras áreas primeiro para clarificar a grelha"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "V. Treino para Melhorar",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Treine o reconhecimento de padrões",
+                  "Reaja instantaneamente a combinações de números, crie memória muscular"
+                ],
+                [
+                  "Evite hesitações",
+                  "Tome decisões certas em menos de 0,5 segundos"
+                ],
+                [
+                  "Análise após derrota",
+                  "Reflita sobre o que poderia ter feito melhor"
+                ],
+                [
+                  "Use as classificações do DMine",
+                  "Veja os recordes dos profissionais, defina metas e desafie-se"
+                ],
+                [
+                  "Tente jogar sem bandeiras",
+                  "Complete o jogo sem marcar nenhuma bandeira"
+                ]
+              ],
+              "tipBox": "🎯 Metas de referência: Jogador casual até ao nível 10, experiente até ao nível 20, profissional acima do nível 30, mestre consegue mais de 30 níveis sem marcar bandeiras."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Praticar Agora"
+    }
+  }
+}

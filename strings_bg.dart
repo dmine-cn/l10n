@@ -51,6 +51,7 @@ const Map<String, String> stringsBg = {
   'language': 'Език',
   // Home page
   'newbie': 'Начинаещи',
+  'gameIntro': 'Описание на играта',
   'newBattle': 'Нов фронт',
   'continueChallenge': 'Продължи предизвикателството',
   'error': 'Грешка',

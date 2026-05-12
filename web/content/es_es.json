@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "es_es",
+    "langAttr": "es-ES",
+    "ogLocale": "es_ES",
+    "siteName": "DMine - Top Buscaminas",
+    "canonicalPrefix": "es_es/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Inicio",
+    "rules": "Reglas",
+    "tips": "Consejos",
+    "about": "Acerca de",
+    "download": "Descargar"
+  },
+  "footer": {
+    "copyright": "© 2026 Equipo DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Acerca de DMine - Top Buscaminas | Juego multiplataforma de buscaminas",
+      "metaDescription": "DMine (Top Buscaminas) es un juego de buscaminas multiplataforma compatible con Windows, macOS, Linux, Android, iOS, HarmonyOS y Web. Gratis y de código abierto, 66 idiomas, ¡juega en línea!",
+      "metaKeywords": "juego de buscaminas,DMine,top buscaminas,buscaminas multiplataforma,buscaminas gratis,buscaminas código abierto",
+      "headerTitle": "💣 DMine - Top Buscaminas",
+      "headerSubtitle": "Un juego de buscaminas multiplataforma, disfruta del clásico en cualquier lugar y momento",
+      "sections": [
+        {
+          "heading": "¿Qué es DMine?",
+          "paragraphs": [
+            "DMine (Top Buscaminas) es un juego de buscaminas multiplataforma desarrollado con el framework Flutter. Conserva la jugabilidad clásica del buscaminas, añade un diseño moderno y funciones completas para ofrecer una experiencia totalmente nueva.",
+            "Tanto si eres un jugador experimentado en Windows como un jugador ocasional que se entretiene con el móvil, DMine cumple todas tus necesidades."
+          ]
+        },
+        {
+          "heading": "Plataformas compatibles",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Los datos se sincronizan entre todas las plataformas: juega en un lugar, sincroniza en todas partes."
+          ]
+        },
+        {
+          "heading": "Características destacadas",
+          "list": [
+            [
+              "Soporte multidioma",
+              "Compatible con 66 idiomas, jugadores de todo el mundo juegan sin barreras"
+            ],
+            [
+              "Compartir partidas",
+              "Los registros de juego se comparten automáticamente en la nube, otros jugadores pueden ver la reproducción"
+            ],
+            [
+              "Ranking en la nube",
+              "Compite con jugadores de todo el mundo por niveles superados"
+            ],
+            [
+              "Varios modos de juego",
+              "Dos modos: para principiantes y reto normal"
+            ],
+            [
+              "Totalmente gratis",
+              "Sin anuncios ni compras internas, experiencia de juego pura"
+            ]
+          ]
+        },
+        {
+          "heading": "Modos de juego",
+          "paragraphs": [
+            "Reglas del juego: El tablero es fijo 16×30 (480 casillas). Ganas si descubres todas las casillas seguras entre el número especificado de minas."
+          ],
+          "list": [
+            [
+              "Para principiantes",
+              "Empieza con 15 minas, cada nivel superado suma 6 minas, máximo 99 minas en el nivel 15"
+            ],
+            [
+              "Reto normal",
+              "Empieza con 81 minas; primeros 4 niveles +6 minas, siguientes 3 +3 minas, otros 3 +2 minas, luego +1 mina por nivel, sin límite superior"
+            ]
+          ]
+        },
+        {
+          "heading": "Información de versión",
+          "paragraphs": [
+            "Versión actual: {{VERSION}}",
+            "Pila técnica: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine es un proyecto de código abierto. Bienvenido a seguir y contribuir con código en GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Iniciar juego"
+    },
+    "rules": {
+      "pageTitle": "Reglas detalladas del buscaminas - Imprescindible para principiantes | DMine Top Buscaminas",
+      "metaDescription": "¿Cómo jugar al buscaminas? Este artículo explica detalladamente las reglas básicas, el significado de los números, los controles y las condiciones de victoria: tutorial imprescindible para principiantes!",
+      "metaKeywords": "reglas buscaminas,cómo jugar buscaminas,tutorial buscaminas,principiante buscaminas,reglas básicas buscaminas,reglas juego buscaminas",
+      "headerTitle": "💣 Reglas detalladas del buscaminas",
+      "headerSubtitle": "Aprende a jugar al buscaminas desde cero, imprescindible para principiantes",
+      "sections": [
+        {
+          "heading": "Objetivo del juego",
+          "paragraphs": [
+            "El objetivo del buscaminas es sencillo: descubre todas las casillas seguras sin pisar ninguna mina. Si abres una mina, el juego termina; si abres todas las casillas sin minas, ¡has ganado!"
+          ]
+        },
+        {
+          "heading": "Controles básicos",
+          "table": {
+            "headers": [
+              "Acción",
+              "Ratón",
+              "Táctil",
+              "Explicación"
+            ],
+            "rows": [
+              [
+                "Abrir casilla",
+                "Clic izquierdo",
+                "Un toque",
+                "Abre la casilla seleccionada"
+              ],
+              [
+                "Marcar con bandera",
+                "Clic derecho",
+                "Pulsación larga",
+                "Marca el lugar donde crees que hay una mina (⚑)"
+              ],
+              [
+                "Marcar con interrogante",
+                "Clic derecho de nuevo",
+                "Pulsación larga de nuevo",
+                "Marca con ? si no estás seguro"
+              ],
+              [
+                "Apertura rápida (Chord)",
+                "Clic izquierdo en casilla numérica abierta",
+                "—",
+                "Cuando el número de banderas alrededor de un número coincide con él, haz clic en el número para abrir todas las casillas sin marcar a su alrededor"
+              ]
+            ]
+          },
+          "tipBox": "💡 Consejo: La apertura rápida (Chord) es una forma muy eficiente de jugar! Cuando el número de banderas alrededor de un número coincide con él, haz clic izquierdo en esa casilla para abrir todas las casillas sin marcar."
+        },
+        {
+          "heading": "Significado de los números",
+          "paragraphs": [
+            "Cuando abres una casilla, aparece un número (1~8) que indica cuántas minas hay en las 8 casillas vecinas.",
+            "Este es un ejemplo parcial 3×3: el número 1 en el centro significa que hay 1 mina en las 8 casillas vecinas:"
+          ],
+          "list": [
+            "1 — 1 mina en 8 casillas vecinas",
+            "2 — 2 minas en 8 casillas vecinas",
+            "3 — 3 minas en 8 casillas vecinas",
+            "…… y así sucesivamente, máximo 8"
+          ],
+          "tipBox": "💡 Una casilla vacía (sin número) significa que no hay minas en las 8 casillas vecinas: el juego abre automáticamente la zona alrededor. Este es el mecanismo de «despliegue en cadena» del buscaminas."
+        },
+        {
+          "heading": "Modos de juego",
+          "paragraphs": [
+            "Tablero fijo: 16 × 30 (480 casillas)"
+          ],
+          "table": {
+            "headers": [
+              "Modo",
+              "Minas iniciales",
+              "Regla de incremento",
+              "Explicación"
+            ],
+            "rows": [
+              [
+                "Para principiantes",
+                "15 minas",
+                "+6 minas por nivel superado",
+                "Máximo 99 minas en el nivel 15"
+              ],
+              [
+                "Reto normal",
+                "81 minas",
+                "Ver abajo",
+                "El número de minas aumenta cada ronda, sin límite superior"
+              ]
+            ]
+          },
+          "extraParagraph": "Regla de incremento para reto normal: primeros 4 niveles +6 minas, siguientes 3 +3 minas, otros 3 +2 minas, luego +1 mina por nivel, sin límite superior."
+        },
+        {
+          "heading": "Victoria y derrota",
+          "list": [
+            [
+              "Victoria",
+              "Abre todas las casillas sin minas o marca correctamente todas las minas"
+            ],
+            [
+              "Derrota",
+              "Haz clic en una mina, el juego termina inmediatamente"
+            ]
+          ],
+          "tipBox": "💡 El primer clic es 100% seguro! DMine garantiza que el primer clic no caerá en una mina, empieza sin preocupaciones."
+        },
+        {
+          "heading": "Reproducción y compartición",
+          "paragraphs": [
+            "Los registros de niveles superados se comparten automáticamente en la nube. Otros jugadores pueden ver la reproducción en la «Línea». La reproducción es solo para ver, no se puede participar ni modificar."
+          ]
+        },
+        {
+          "heading": "Ranking",
+          "paragraphs": [
+            "DMine admite ranking en la nube, clasificado por número de niveles superados. Cuantos más niveles, más alto el puesto; compite con jugadores de todo el mundo."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Iniciar juego"
+    },
+    "tips": {
+      "pageTitle": "Consejos avanzados para buscaminas - De principiante a experto | DMine Top Buscaminas",
+      "metaDescription": "Guía para jugadores expertos! Patrón 1-2-1, patrón 1-2-2-1, doble clic, análisis de probabilidades... Domina estos consejos para mejorar velocidad y tasa de victoria fácilmente!",
+      "metaKeywords": "consejos buscaminas,consejos avanzados buscaminas,patrones buscaminas,estrategia buscaminas,1-2-1 buscaminas,probabilidades buscaminas,experto buscaminas,avanzado buscaminas",
+      "headerTitle": "🎯 Consejos avanzados para buscaminas",
+      "headerSubtitle": "De principiante a experto, conviértete en un maestro del buscaminas",
+      "headerSub2": "Domina estos patrones y estrategias, duplica tu velocidad y tasa de victoria",
+      "sections": [
+        {
+          "heading": "1. Patrones básicos",
+          "difficulty": "Principiante",
+          "items": [
+            {
+              "title": "Patrón 1-2-1",
+              "paragraphs": [
+                "Este es el patrón más común e importante del buscaminas. Cuando ves una secuencia 1-2-1 en línea recta, puedes estar seguro:"
+              ],
+              "list": [
+                [
+                  "Hay una mina sobre cada 1",
+                  "Marcar con bandera"
+                ],
+                [
+                  "La casilla sobre el 2 es segura",
+                  "Se puede abrir sin preocupaciones"
+                ]
+              ],
+              "tipBox": "💡 Este es un patrón seguro: no hay que adivinar, 100% deducible."
+            },
+            {
+              "title": "Patrón 1-2-2-1",
+              "paragraphs": [
+                "Cuando ves 1-2-2-1, también es un patrón clásico:"
+              ],
+              "list": [
+                [
+                  "Hay una mina sobre el centro de los dos 2",
+                  ""
+                ],
+                [
+                  "Hay una casilla segura sobre cada 1",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Patrones de borde",
+              "paragraphs": [
+                "Cuando un número está en el borde del tablero, el razonamiento es más sencillo porque falta un lado para calcular."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Consejos intermedios",
+          "difficulty": "Avanzado",
+          "items": [
+            {
+              "title": "Técnica de doble clic (Chord)",
+              "paragraphs": [
+                "Esta es la acción clave para aumentar la velocidad. Cuando el número de banderas alrededor de un número coincide con él, haz clic en el botón central del ratón o izquierdo + derecho al mismo tiempo; se abren automáticamente todas las casillas sin marcar a su alrededor.",
+                "Ejemplo: si un 3 ya tiene 3 banderas alrededor, haz doble clic en el 3 y las 5 casillas restantes se abren automáticamente."
+              ],
+              "tipBox": "⚡ Secreto de los expertos: Casi todos los jugadores avanzados usan el doble clic: marca y haz doble clic, la velocidad se multiplica varias veces."
+            },
+            {
+              "title": "Razonamiento por resta",
+              "paragraphs": [
+                "Cuando un número ya tiene algunas banderas marcadas, «resta» esas banderas para obtener el número de minas restantes. Por ejemplo: un 3 con una bandera tiene 2 minas más."
+              ]
+            },
+            {
+              "title": "Razonamiento combinado de números",
+              "paragraphs": [
+                "No mires los números de forma aislada, combina los números adyacentes. Dos números adyacentes comparten parte de las casillas; usa la intersección y el complemento para deducir más información."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Consejos expertos",
+          "difficulty": "Maestro",
+          "items": [
+            {
+              "title": "Análisis de probabilidades",
+              "paragraphs": [
+                "Cuando te encuentres en una situación incierta (momento de «adivinar»), determina qué casilla tiene la menor probabilidad de contener una mina:"
+              ],
+              "list": [
+                [
+                  "Prioriza las casillas cerca de zonas abiertas",
+                  "Más información"
+                ],
+                [
+                  "Evita las casillas en zonas aisladas",
+                  "Mayor incertidumbre"
+                ],
+                [
+                  "En situaciones complejas, aprende a calcular la proporción entre minas restantes y casillas",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ «Adivinar» no se puede evitar completamente en el buscaminas, pero con análisis de probabilidades puedes subir la tasa de victoria por encima del 90%."
+            },
+            {
+              "title": "Reconocimiento de patrones",
+              "paragraphs": [
+                "Los expertos no cuentan casilla por casilla: reconocen «patrones» como leer un texto. Con práctica, verás ciertas combinaciones y sabrás inmediatamente dónde hay minas y dónde es seguro."
+              ]
+            },
+            {
+              "title": "Consejos de control con ratón",
+              "list": [
+                [
+                  "Coordinación fluida entre manos",
+                  "Mano izquierda: banderas (clic derecho), mano derecha: abrir (clic izquierdo)"
+                ],
+                [
+                  "Reducir movimiento del ratón",
+                  "Usa doble clic en lugar de clics simples"
+                ],
+                [
+                  "Ritmo",
+                  "Encuentra tu propio ritmo de juego, no seas rápido y lento de repente"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Estrategias prácticas",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Estrategia de inicio",
+              "paragraphs": [
+                "DMine garantiza que el primer clic es seguro. Después de empezar, abre primero zonas grandes vacías para crear más pistas para los razonamientos posteriores."
+              ]
+            },
+            {
+              "title": "Regla de prioridad",
+              "paragraphs": [
+                "Trata el tablero en este orden:"
+              ],
+              "orderedList": [
+                "Primero todos los patrones seguros (1-2-1, 1-2-2-1, etc.)",
+                "Usa la apertura rápida",
+                "Trata los números de los bordes uno por uno",
+                "Finalmente las zonas que requieren adivinar"
+              ]
+            },
+            {
+              "title": "Estrategia de adivinanza",
+              "paragraphs": [
+                "Cuando tienes que adivinar:"
+              ],
+              "list": [
+                [
+                  "Adivina primero las casillas de los bordes",
+                  "Normalmente menos riesgo"
+                ],
+                [
+                  "Cuenta las minas restantes",
+                  "Sabe cuántas minas quedan para ayudar a decidir"
+                ],
+                [
+                  "Déjalo para el final",
+                  "Si tienes tiempo, resuelve otras zonas primero para aclarar el tablero"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Entrenamiento para mejorar",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Entrena la reacción a patrones",
+                  "Al ver combinaciones de números, actúa sin pensarlo, forma memoria muscular"
+                ],
+                [
+                  "Reducir dudas",
+                  "Decisiones seguras en 0,5 segundos"
+                ],
+                [
+                  "Análisis después de la derrota",
+                  "Piensa en qué podrías haber hecho mejor"
+                ],
+                [
+                  "Usa el ranking DMine",
+                  "Mira los registros de expertos, fija objetivos pequeños, desafíate a ti mismo"
+                ],
+                [
+                  "Prueba sin banderas",
+                  "Intenta terminar el juego sin marcar minas con banderas"
+                ]
+              ],
+              "tipBox": "🎯 Referencia de objetivos: jugador normal – hasta 10 niveles, experimentado – hasta 20, experto – más de 30, jugador élite – puede superar 30 niveles sin banderas."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Empezar a practicar"
+    }
+  }
+}

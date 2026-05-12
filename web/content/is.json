@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "is",
+    "langAttr": "is",
+    "ogLocale": "is_IS",
+    "siteName": "DMine - Topp Jarðsprengjuleit",
+    "canonicalPrefix": "is/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Forsíða",
+    "rules": "Reglur",
+    "tips": "Ráð",
+    "about": "Um okkur",
+    "download": "Sækja"
+  },
+  "footer": {
+    "copyright": "© 2026 DMine Teymið"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Um DMine - Topp Jarðsprengjuleit | Krosspallaleikur",
+      "metaDescription": "DMine (Topp Jarðsprengjuleit) er krosspallaleikur um jarðsprengjur. Styður Windows, macOS, Linux, Android, iOS, HarmonyOS og vef. Ókeypis og opinn uppruni, 66 tungumál, spilaðu á netinu!",
+      "metaKeywords": "Jarðsprengjuleikur,DMine,Topp Jarðsprengjuleit,krosspalla jarðsprengjuleikur,ókeypis jarðsprengjuleikur,opinn uppruni jarðsprengjuleikur",
+      "headerTitle": "💣 DMine - Topp Jarðsprengjuleit",
+      "headerSubtitle": "Nútímalegur jarðsprengjuleikur á mörgum kerfum, spilaðu hvenær sem er",
+      "sections": [
+        {
+          "heading": "Hvað er DMine?",
+          "paragraphs": [
+            "DMine (Topp Jarðsprengjuleit) er krosspallaleikur þróaður með Flutter ramma. Hann heldur kjarnaleikreglum klassískrar jarðsprengjuleitar en bætir við nútímalegu viðmóti og fjölbreyttum aðgerðum fyrir nýja upplifun.",
+            "Hvort sem þú ert ákafur leikmaður á Windows eða leikur í frítíma í símanum þínum, uppfyllir DMine allar þarfir þínar."
+          ]
+        },
+        {
+          "heading": "Studd kerfi",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Vefur",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Gögn samstillast á öllum kerfum – spilaðu á einu tæki, haldu áfram á öðru."
+          ]
+        },
+        {
+          "heading": "Helstu eiginleikar",
+          "list": [
+            [
+              "Fjöltyng stuðningur",
+              "Styður 66 tungumál, leikmenn um allan heim geta spilað án hindrana"
+            ],
+            [
+              "Deila leiksögu",
+              "Leikupptökur deilast sjálfkrafa í skýinu, aðrir geta horft á endurspilun"
+            ],
+            [
+              "Skýröðun",
+              "Kepptu við leikmenn um allan heim í stigum"
+            ],
+            [
+              "Margar leikstillingar",
+              "Byrjendastig og venjuleg áskorun"
+            ],
+            [
+              "Alveg ókeypis",
+              "Engar auglýsingar, engin innkaup, hrein leikupplifun"
+            ]
+          ]
+        },
+        {
+          "heading": "Leikstillingar",
+          "paragraphs": [
+            "Leikregla: Borð er fast 16×30 (480 reitir). Vinndu með því að finna alla örugga reiti án þess að stíga á jarðsprengjur."
+          ],
+          "list": [
+            [
+              "Byrjendastig",
+              "Byrjar með 15 sprengjum, fjölgar um 6 í hverjum sigri, hámark 99 sprengjur á 15. stigi"
+            ],
+            [
+              "Venjuleg áskorun",
+              "Byrjar með 81 sprengju, fyrstu 4 sigrar fjölga um 6, síðustu 3 stig um 3, næstu 3 um 2, síðan um 1 að eilífu"
+            ]
+          ]
+        },
+        {
+          "heading": "Útgáfuupplýsingar",
+          "paragraphs": [
+            "Núverandi útgáfa：{{VERSION}}",
+            "Tæknistafla：Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine er opinn uppruni verkefni – velkomið að fylgjast með og leggja til kóða á GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Byrja að spila"
+    },
+    "rules": {
+      "pageTitle": "Nákvæmar reglur jarðsprengjuleitar - Fyrir byrjendur | DMine Topp Jarðsprengjuleit",
+      "metaDescription": "Hvernig á að spila jarðsprengjuleit? Hér eru nákvæmar reglur, merking talna, notkunaraðgerðir og sigurskilyrði – kennsla fyrir alla byrjendur!",
+      "metaKeywords": "Jarðsprengjuleitarreglur,hvernig á að spila jarðsprengjuleit,kennsla jarðsprengjuleitar,byrjendur jarðsprengjuleitar,grunnreglur leiksins",
+      "headerTitle": "💣 Nákvæmar reglur jarðsprengjuleitar",
+      "headerSubtitle": "Lærðu jarðsprengjuleit frá grunni, fyrir alla nýliða",
+      "sections": [
+        {
+          "heading": "Markmið leiksins",
+          "paragraphs": [
+            "Markmiðið er einfalt: Opnaðu alla örugga reiti án þess að stíga á jarðsprengju. Ef þú smellir á sprengju endar leikurinn; ef þú opnar alla reiti án sprengju vinnur þú!"
+          ]
+        },
+        {
+          "heading": "Grunnaðgerðir",
+          "table": {
+            "headers": [
+              "Aðgerð",
+              "Mús",
+              "Snertiskjár",
+              "Skýring"
+            ],
+            "rows": [
+              [
+                "Opna reit",
+                "Vinstri smellur",
+                "Einn smellur",
+                "Opna valdan reit"
+              ],
+              [
+                "Setja fána",
+                "Hægri smellur",
+                "Halda inni",
+                "Merka reit sem þú heldur að hafi sprengju (⚑)"
+              ],
+              [
+                "Spurningarmerki",
+                "Aftur hægri smellur",
+                "Aftur halda inni",
+                "Merka með ? ef þú ert ekki viss"
+              ],
+              [
+                "Hröð opnun (Chord)",
+                "Vinstri smellur á opnum tölureit",
+                "—",
+                "Þegar fjöldi fána í kringum tölu passar tölunni, smelltu á hana til að opna alla ómerkaða reiti í kring"
+              ]
+            ]
+          },
+          "tipBox": "💡 Ráðlegging: Hröð opnun (Chord) er mjög skilvirk aðferð! Þegar fjöldi fána í kringum tölu jafngildir tölunni, smelltu á hana til að opna alla nærliggjandi reiti sjálfkrafa."
+        },
+        {
+          "heading": "Merking talna",
+          "paragraphs": [
+            "Þegar þú opnar reit birtist tala (1~8) sem segir til um hversu margar jarðsprengjur eru í 8 nærliggjandi reitum.",
+            "Dæmi um 3×3 svæði: Miðtalan 1 þýðir að ein sprengja er í kringum hana."
+          ],
+          "list": [
+            "1 — 1 sprengja í 8 nærliggjandi reitum",
+            "2 — 2 sprengjur í 8 nærliggjandi reitum",
+            "3 — 3 sprengjur í 8 nærliggjandi reitum",
+            "og svo framvegis, hámark er 8"
+          ],
+          "tipBox": "💡 Ef þú opnar tóman reit (engin tala) eru engar sprengjur í kringum hann – leikurinn opnar sjálfkrafa nærliggjandi svæði, þetta er keðjuopnun."
+        },
+        {
+          "heading": "Leikstillingar",
+          "paragraphs": [
+            "Fast borð：16 × 30 (480 reitir)"
+          ],
+          "table": {
+            "headers": [
+              "Stilling",
+              "Upphafsfjöldi sprengja",
+              "Regla um fjölgun",
+              "Skýring"
+            ],
+            "rows": [
+              [
+                "Byrjendastig",
+                "15 sprengjur",
+                "+6 við hvern sigur",
+                "Hámark 99 sprengjur á 15. stigi"
+              ],
+              [
+                "Venjuleg áskorun",
+                "81 sprengja",
+                "Sjá skýringu hér að neðan",
+                "Fjöldi sprengja eykst endalaust"
+              ]
+            ]
+          },
+          "extraParagraph": "Regla fjölgunar venjulegrar áskorunar: Fyrstu 4 sigrar fjölga um 6 sprengjur, síðustu 3 stig um 3, næstu 3 um 2, síðan um 1 að eilífu."
+        },
+        {
+          "heading": "Sigur og tap",
+          "list": [
+            [
+              "Sigur",
+              "Opna alla reiti án sprengju eða merka allar sprengjur rétt"
+            ],
+            [
+              "Tap",
+              "Smella á jarðsprengju, leikur endar strax"
+            ]
+          ],
+          "tipBox": "💡 Fyrsti smellur er alltaf öruggur! DMine tryggir að fyrsta smellið sé aldrei á sprengju."
+        },
+        {
+          "heading": "Endurspilun og deiling",
+          "paragraphs": [
+            "Leikupptökur eru deildar sjálfkrafa í skýinu. Aðrir leikmenn geta horft á endurspilun í „Leiksögu“. Ekki er hægt að breyta eða taka þátt í endurspilun."
+          ]
+        },
+        {
+          "heading": "Röðunarlista",
+          "paragraphs": [
+            "DMine er með skýröðun – röðun fer eftir stigi sem þú nærð. Því hærra stig, því hærri staða. Kepptu við leikmenn um allan heim."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Byrja að spila"
+    },
+    "tips": {
+      "pageTitle": "Framhaldsráðleggingar jarðsprengjuleitar - Frá byrjanda til meistara | DMine Topp Jarðsprengjuleit",
+      "metaDescription": "Leikráð fyrir meistara! 1-2-1 mynstur, 1-2-2-1 mynstur, tvöfaldur smellur, líkindagreining… Lærðu þessi ráð og bættu hraða og sigurhlutfall!",
+      "metaKeywords": "Jarðsprengjuleitarráð,framhaldsráð,mynstur jarðsprengjuleitar,aðferðir leiksins,1-2-1 mynstur,líkindur,meistari jarðsprengjuleitar",
+      "headerTitle": "🎯 Framhaldsráðleggingar jarðsprengjuleitar",
+      "headerSubtitle": "Frá byrjanda til meistara, vertu bestur í leiknum",
+      "headerSub2": "Lærðu mynstur og aðferðir til að tvöfalda sigurhlutfall og hraða",
+      "sections": [
+        {
+          "heading": "I. Grunnmynstur",
+          "difficulty": "Byrjandi",
+          "items": [
+            {
+              "title": "1-2-1 mynstur",
+              "paragraphs": [
+                "Algengasta og mikilvægasta mynstrið í jarðsprengjuleit. Þegar þú sérð tölurnar 1-2-1 í beinni línu geturðu ákveðið:"
+              ],
+              "list": [
+                [
+                  "Ein sprengja fyrir ofan hvora 1 töluna",
+                  "Merkaðu með fána"
+                ],
+                [
+                  "Reitur fyrir ofan 2 töluna er öruggur",
+                  "Opnaðu hann án áhyggna"
+                ]
+              ],
+              "tipBox": "💡 Þetta er örugg rökun – engin þörf á að giska, 100% örugg niðurstaða."
+            },
+            {
+              "title": "1-2-2-1 mynstur",
+              "paragraphs": [
+                "Annað klassískt mynstur þegar tölurnar eru 1-2-2-1:"
+              ],
+              "list": [
+                [
+                  "Ein sprengja fyrir ofan milli tveggja 2 talna",
+                  ""
+                ],
+                [
+                  "Öruggur reitur fyrir ofan hvora 1 töluna",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Jaðarmynstur",
+              "paragraphs": [
+                "Þegar tala er á jaðri borðsins er auðveldara að rökúa, þar sem færri reitir þarf að reikna."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "II. Millistigsráð",
+          "difficulty": "Framhald",
+          "items": [
+            {
+              "title": "Tvöfaldur smellur (Chord)",
+              "paragraphs": [
+                "Mikilvægasta aðgerðin til að auka hraða. Þegar fjöldi fána í kringum tölu passar tölunni, smelltu með miðhnappi músarinnar eða báðum hnöppum samtímis til að opna alla ómerkaða reiti sjálfkrafa.",
+                "Dæmi: Ef 3 tala er með 3 fána í kring, tvöfaldaðu smellinn á tölunni – afgangurinn af reitum opnast sjálfkrafa."
+              ],
+              "tipBox": "⚡ Leyndarmál meistara: Allir reyndir leikmenn nota tvöfaldan smell – merktu fána og opnaðu hratt, hraðinn margfaldast."
+            },
+            {
+              "title": "Frádráttarrökun",
+              "paragraphs": [
+                "Þegar búið er að merkja nokkra fána í kringum tölu, dragðu þá frá til að finna fjölda sprengja sem eftir eru. Dæmi: Ef 3 tala er með einn fána, eru 2 sprengjur eftir í nærliggjandi reitum."
+              ]
+            },
+            {
+              "title": "Sameinuð rökun talna",
+              "paragraphs": [
+                "Ekki skoða einstakar tölur einar og sér – tengdu saman nærliggjandi tölur. Þær deila oft reitum, notaðu skerðingu og viðbót til að fá fleiri upplýsingar."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "III. Framhaldsráð",
+          "difficulty": "Meistari",
+          "items": [
+            {
+              "title": "Líkindagreining",
+              "paragraphs": [
+                "Þegar ekki er hægt að rökúa örugglega (þegar þarf að giska), veldu reitinn með minnstu líkindum á sprengju:"
+              ],
+              "list": [
+                [
+                  "Veldu frekar reiti nálægt opnu svæði",
+                  "Meiri upplýsingar"
+                ],
+                [
+                  "Forðastu einangruð svæði",
+                  "Óviss líkindahlutfall"
+                ],
+                [
+                  "Í flóknum aðstæðum reiknaðu hlutfall eftir sprengjum og reitum sem eftir eru",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Stundum verður að giska í jarðsprengjuleit, en með líkindagreiningu geturðu hækkað sigurhlutfall yfir 90%."
+            },
+            {
+              "title": "Mynsturskennsla",
+              "paragraphs": [
+                "Meistarar telja ekki reiti einn af öðrum – þeir þekkja mynstur eins og að lesa texta. Með æfingu sérðu strax hvar sprengjur eru og hvar eru öruggir reiti."
+              ]
+            },
+            {
+              "title": "Músaraðgerðir",
+              "list": [
+                [
+                  "Samhæfing hendanna",
+                  "Vinstri hönd setur fána (hægri smellur), hægri hönd opnar reiti (vinstri smellur)"
+                ],
+                [
+                  "Minnka músahreyfingu",
+                  "Notaðu tvöfaldan smell í stað einstakra smella til að spara tíma"
+                ],
+                [
+                  "Taktur í leik",
+                  "Finndu þinn eigin takt, ekki spila of hratt eða hægt til skiptis"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "IV. Aðferðir í leik",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Upphafsaðferð",
+              "paragraphs": [
+                "DMine tryggir fyrsta smell öruggann. Byrjaðu á að opna stór tóm svæði til að fá fleiri vísbendingar fyrir rökun."
+              ]
+            },
+            {
+              "title": "Forgangsregla",
+              "paragraphs": [
+                "Vinndu úr borðinu í þessari röð:"
+              ],
+              "orderedList": [
+                "Byrjaðu á öruggum mynstrum (1-2-1, 1-2-2-1 o.s.frv.)",
+                "Notaðu hraðopnun",
+                "Leystu jaðartölur eina af annarri",
+                "Að lokum taktu á svæði sem krefjast giskunar"
+              ]
+            },
+            {
+              "title": "Giskunaraðferð",
+              "paragraphs": [
+                "Þegar ekki er annað mögulegt:"
+              ],
+              "list": [
+                [
+                  "Giskaðu frekar á jaðarreiti",
+                  "Færri tengingar, minni áhætta"
+                ],
+                [
+                  "Teldu eftir sprengjur",
+                  "Vitaðu hversu margar sprengjur eru ómerktar til að aðstoða ákvörðun"
+                ],
+                [
+                  "Giskaðu síðast",
+                  "Ef tími leyfir, leystu önnur svæði fyrst til að gera borðið skýrara"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "V. Æfing til að bæta færni",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Æfðu mynsturskennslu",
+                  "Bregðtu sjálfkrafa við tölusamsetningum, búðu til vöðvaminni"
+                ],
+                [
+                  "Minndu hik",
+                  "Taktu öruggar ákvarðanir innan 0,5 sekúndna"
+                ],
+                [
+                  "Endurskoðaðu tap",
+                  "Hugsaðu hvað þú hefðir getað gert betur eftir tap"
+                ],
+                [
+                  "Notaðu röðunarlista DMine",
+                  "Skoðaðu met meistara, settu þér markmið og skoraðu á sjálfan þig"
+                ],
+                [
+                  "Prófaðu blindleik",
+                  "Reyndu að klára leikinn án þess að setja fána"
+                ]
+              ],
+              "tipBox": "🎯 Viðmiðunarmarkmið: Venjulegur leikmaður innan 15 stiga, reyndur innan 20 stiga, meistari yfir 30 stiga, toppleikmaður getur spilað blindur yfir 30 stiga."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Byrja æfingu"
+    }
+  }
+}

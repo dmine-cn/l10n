@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "cs",
+    "langAttr": "cs",
+    "ogLocale": "cs_CZ",
+    "siteName": "DMine - Špičkový Hledač Min",
+    "canonicalPrefix": "cs/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Domů",
+    "rules": "Pravidla",
+    "tips": "Tipy",
+    "about": "O nás",
+    "download": "Stáhnout"
+  },
+  "footer": {
+    "copyright": "© 2026 Tým DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "O DMine - Špičkový Hledač Min | Multiplatformní hra Hledač Min",
+      "metaDescription": "DMine (Špičkový Hledač Min) je multiplatformní hra Hledač Min, která podporuje Windows, macOS, Linux, Android, iOS, HarmonyOS a Web. Zdarma a s otevřeným kódem, 66 jazyků, hrajte online!",
+      "metaKeywords": "hra hledač min,DMine,špičkový hledač min,multiplatformní hledač min,zdarma hledač min,hledač min s otevřeným kódem",
+      "headerTitle": "💣 DMine - Špičkový Hledač Min",
+      "headerSubtitle": "Multiplatformní hra Hledač Min, hrajte klasiku kdekoli a kdykoli",
+      "sections": [
+        {
+          "heading": "Co je DMine?",
+          "paragraphs": [
+            "DMine (Špičkový Hledač Min) je multiplatformní hra Hledač Min vyvinutá pomocí frameworku Flutter. Zachovává základní hratelnost klasického Hledače Min, přidává moderní design a bohaté funkce a přináší hráčům zcela nový zážitek.",
+            "Ať už jste zkušený hráč na Windowsu nebo příležitostný hráč, který si užívá mobil během dopravy, DMine splní všechny vaše potřeby."
+          ]
+        },
+        {
+          "heading": "Podporované platformy",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Data jsou synchronizována mezi všemi platformami – hrajte na jednom místě, synchronizujte všude."
+          ]
+        },
+        {
+          "heading": "Vlastnosti",
+          "list": [
+            [
+              "Podpora více jazyků",
+              "Podporuje 66 jazyků, hráči z celého světa hrají bez překážek"
+            ],
+            [
+              "Sdílení záznamů",
+              "Záznamy hry se automaticky sdílejí v cloudu, další hráči je mohou přehrát"
+            ],
+            [
+              "Žebříček v cloudu",
+              "Soutěžte s hráči z celého světa o počet dokončených úrovní"
+            ],
+            [
+              "Různé herní módy",
+              "Dva módy: pro začátečníky a normální výzva"
+            ],
+            [
+              "Zcela zdarma",
+              "Bez reklam a vnitřních nákupů, čistý herní zážitek"
+            ]
+          ]
+        },
+        {
+          "heading": "Herní módy",
+          "paragraphs": [
+            "Pravidla hry: Hrací plocha je pevná 16×30 (480 polí). Vyhrajete, pokud odhalíte všechna bezpečná pole mezi zadaným počtem min."
+          ],
+          "list": [
+            [
+              "Pro začátečníky",
+              "Začínáte s 15 minami, každá dokončená úroveň přidá 6 min, maximálně 99 min na 15. úrovni"
+            ],
+            [
+              "Normální výzva",
+              "Začínáte s 81 minami; prvních 4 úrovní +6 min, dalších 3 +3 min, dalších 3 +2 min, poté +1 min na úroveň, bez horního limitu"
+            ]
+          ]
+        },
+        {
+          "heading": "Informace o verzi",
+          "paragraphs": [
+            "Aktuální verze: {{VERSION}}",
+            "Technický stack: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine je projekt s otevřeným kódem, přidejte se a přispějte kódem na GitHubu."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Začít hru"
+    },
+    "rules": {
+      "pageTitle": "Podrobná pravidla Hledače Min - Povinné pro začátečníky | DMine Špičkový Hledač Min",
+      "metaDescription": "Jak hrát Hledače Min? Tento článek podrobně vysvětluje základní pravidla, význam čísel, ovládání a podmínky vítězství – povinný návod pro začátečníky!",
+      "metaKeywords": "pravidla hledače min,jak hrát hledače min,návod hledač min,začátečník hledač min,základní pravidla hledače min,pravidla hry hledač min",
+      "headerTitle": "💣 Podrobná pravidla Hledače Min",
+      "headerSubtitle": "Naučte se hrát Hledače Min od začátku, povinné pro začátečníky",
+      "sections": [
+        {
+          "heading": "Cíl hry",
+          "paragraphs": [
+            "Cíl Hledače Min je jednoduchý: odhalit všechna bezpečná pole bez toho, abyste šlo na minu. Pokud narazíte na minu, hra končí; pokud odhalíte všechna pole bez min, vyhráli jste!"
+          ]
+        },
+        {
+          "heading": "Základní ovládání",
+          "table": {
+            "headers": [
+              "Akce",
+              "Myš",
+              "Dotyková obrazovka",
+              "Vysvětlení"
+            ],
+            "rows": [
+              [
+                "Odkrytí pole",
+                "Levé tlačítko",
+                "Jedno klepnutí",
+                "Odkryje vybrané pole"
+              ],
+              [
+                "Označení vlajkou",
+                "Pravé tlačítko",
+                "Dlouhé podržení",
+                "Označí místo, kde si myslíte, že je mina (⚑)"
+              ],
+              [
+                "Označení otazníkem",
+                "Pravé tlačítko znovu",
+                "Dlouhé podržení znovu",
+                "Označí otazníkem (?) pokud si nejste jisti"
+              ],
+              [
+                "Rychlé odkrytí (Chord)",
+                "Levé tlačítko na odkryté číselné pole",
+                "—",
+                "Pokud počet vlajek kolem čísla odpovídá číslu, klepnutím na číslo odhalíte všechna neoznačená pole kolem něj"
+              ]
+            ]
+          },
+          "tipBox": "💡 Tip: Rychlé odkrytí (Chord) je velmi efektivní způsob hry! Když počet vlajek kolem čísla odpovídá číslu, klepnutím levým tlačítkem na odkryté číselné pole odhalíte všechna neoznačená pole kolem něj."
+        },
+        {
+          "heading": "Význam čísel",
+          "paragraphs": [
+            "Když odkryjete pole, objeví se na něm číslo (1~8), které označuje počet min v 8 okolních polích.",
+            "Zde je příklad 3×3: Číslo 1 uprostřed znamená, že v 8 okolních polích je 1 mina:"
+          ],
+          "list": [
+            "1 — 1 mina v 8 okolních polích",
+            "2 — 2 miny v 8 okolních polích",
+            "3 — 3 miny v 8 okolních polích",
+            "…… a tak dále, maximálně 8"
+          ],
+          "tipBox": "💡 Prázdné pole (bez čísla) znamená, že v 8 okolních polích nejsou žádné miny – hra automaticky odhalí okolní oblast – toto je mechanismus „řetězového odkrytí“ v Hledači Min."
+        },
+        {
+          "heading": "Herní módy",
+          "paragraphs": [
+            "Pevná hrací plocha: 16 × 30 (480 polí)"
+          ],
+          "table": {
+            "headers": [
+              "Mód",
+              "Počáteční počet min",
+              "Pravidlo zvýšení",
+              "Vysvětlení"
+            ],
+            "rows": [
+              [
+                "Pro začátečníky",
+                "15 min",
+                "+6 min za každou dokončenou úroveň",
+                "Maximálně 99 min na 15. úrovni"
+              ],
+              [
+                "Normální výzva",
+                "81 min",
+                "Viz níže",
+                "Počet min se zvyšuje každým kolem, bez horního limitu"
+              ]
+            ]
+          },
+          "extraParagraph": "Pravidlo zvýšení pro normální výzvu: prvních 4 úrovní +6 min, dalších 3 +3 min, dalších 3 +2 min, poté +1 min na úroveň, bez horního limitu."
+        },
+        {
+          "heading": "Výhra a prohra",
+          "list": [
+            [
+              "Výhra",
+              "Odhalíte všechna pole bez min nebo správně označíte všechny miny"
+            ],
+            [
+              "Prohra",
+              "Klepnete na minu – hra okamžitě končí"
+            ]
+          ],
+          "tipBox": "💡 První klepnutí je 100% bezpečné! DMine zaručuje, že první klepnutí nebude na minu, začněte bez obav."
+        },
+        {
+          "heading": "Přehrávání a sdílení",
+          "paragraphs": [
+            "Záznamy dokončených úrovní se automaticky sdílejí v cloudu. Další hráči mohou zobrazit průběh v „Linii“. Přehrávání je pouze pro zobrazení, nelze se účastnit ani upravovat."
+          ]
+        },
+        {
+          "heading": "Žebříček",
+          "paragraphs": [
+            "DMine podporuje žebříček v cloudu, seřazený podle počtu dokončených úrovní. Čím více úrovní – tím vyšší pořadí. Soutěžte s hráči z celého světa."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Začít hru"
+    },
+    "tips": {
+      "pageTitle": "Pokročilé tipy pro Hledač Min - Od začátečníka po mistra | DMine Špičkový Hledač Min",
+      "metaDescription": "Průvodce pro experty Hledače Min! Vzor 1-2-1, vzor 1-2-2-1, dvojité klepnutí, analýza pravděpodobnosti… Zvládněte tyto tipy a zvyšte rychlost a šanci na výhru!",
+      "metaKeywords": "tipy hledač min,pokročilé tipy hledač min,vzory hledač min,strategie hledač min,1-2-1 hledač min,pravděpodobnosti hledač min,mistr hledač min,pokročilý v hledači min",
+      "headerTitle": "🎯 Pokročilé tipy pro Hledač Min",
+      "headerSubtitle": "Od začátečníka po mistra, staňte se mistrem Hledače Min",
+      "headerSub2": "Zvládněte tyto vzory a strategie, zdvojnásobte svou rychlost a šanci na výhru",
+      "sections": [
+        {
+          "heading": "1. Základní vzory",
+          "difficulty": "Začátečník",
+          "items": [
+            {
+              "title": "Vzor 1-2-1",
+              "paragraphs": [
+                "Jedná se o nejčastější a nejdůležitější vzor v Hledači Min. Když uvidíte posloupnost 1-2-1 v přímce, můžete být jisti:"
+              ],
+              "list": [
+                [
+                  "Nad každou 1 je jedna mina",
+                  "Označit vlajkou"
+                ],
+                [
+                  "Nad 2 je bezpečné pole",
+                  "Můžete ho bezpečně odhalit"
+                ]
+              ],
+              "tipBox": "💡 Jedná se o jistý vzor – není třeba hádat, 100% odvoditelné."
+            },
+            {
+              "title": "Vzor 1-2-2-1",
+              "paragraphs": [
+                "Když uvidíte 1-2-2-1, jedná se také o klasický vzor:"
+              ],
+              "list": [
+                [
+                  "Nad uprostřed dvou 2 je jedna mina",
+                  ""
+                ],
+                [
+                  "Nad každou 1 je bezpečné pole",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Okrajové vzory",
+              "paragraphs": [
+                "Když je číslo na okraji plochy, uvažování je jednodušší, protože chybí jedna strana k výpočtu."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Střední tipy",
+          "difficulty": "Pokročilý",
+          "items": [
+            {
+              "title": "Technika dvojitého klepnutí (Chord)",
+              "paragraphs": [
+                "Jedná se o klíčovou akci pro zvýšení rychlosti. Když počet vlajek kolem čísla odpovídá číslu, klepněte prostředním tlačítkem myši nebo levým + pravým současně – všechna neoznačená pole kolem se automaticky odhalí.",
+                "Příklad: pokud má 3 kolem sebe 3 vlajky, dvojitým klepnutím na 3 se zbývajících 5 polí automaticky odhalí."
+              ],
+              "tipBox": "⚡ Tajemství mistrů: Téměř všichni pokročilí hráči používají dvojité klepnutí – označujte a dvojklepněte, rychlost se násobně zvýší."
+            },
+            {
+              "title": "Odčítkové uvažování",
+              "paragraphs": [
+                "Když má číslo kolem sebe již některé vlajky, „odečtěte“ je a získáte počet zbývajících min. Například: 3 s jednou vlajkou má ještě 2 miny."
+              ]
+            },
+            {
+              "title": "Spojené uvažování s čísly",
+              "paragraphs": [
+                "Nedívejte se na jednotlivá čísla izolovaně, kombinujte sousední čísla. Dva sousední čísla sdílejí část polí – použijte průnik a doplněk k odvození více informací."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Pokročilé tipy",
+          "difficulty": "Mistr",
+          "items": [
+            {
+              "title": "Analýza pravděpodobnosti",
+              "paragraphs": [
+                "Když narazíte na nejistou situaci (chvíle „hádání“), určete, které pole má nejnižší pravděpodobnost miny:"
+              ],
+              "list": [
+                [
+                  "Upřednostněte pole blízko odhalených oblastí",
+                  "Více informací"
+                ],
+                [
+                  "Vyhněte se polím v izolovaných oblastech",
+                  "Větší nejistota"
+                ],
+                [
+                  "Ve složitých případech se naučte počítat poměr zbývajících min a polí",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ „Hádání“ v Hledači Min nelze zcela vyhnout, ale pomocí analýzy pravděpodobnosti můžete zvýšit šanci na výhru nad 90%."
+            },
+            {
+              "title": "Rozpoznávání vzorů",
+              "paragraphs": [
+                "Mistři nepočítají pole jedno po druhém – rozpoznávají „vzory“ jako čtení textu. S více cvičením uvidíte určité kombinace a okamžitě vědět, kde jsou miny a kde je bezpečno."
+              ]
+            },
+            {
+              "title": "Tipy k ovládání myší",
+              "list": [
+                [
+                  "Plynulá spolupráce obou rukou",
+                  "Levá ruka: vlajky (pravé tlačítko), pravá ruka: odhalování (levé tlačítko)"
+                ],
+                [
+                  "Snížení pohybu myši",
+                  "Používejte dvojité klepnutí místo jednoduchých"
+                ],
+                [
+                  "Rytmus",
+                  "Najděte si vlastní rytmus hry, nebývejte rychlý a pomalý najednou"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Praktické strategie",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Strategie začátku",
+              "paragraphs": [
+                "DMine zaručuje, že první klepnutí je bezpečné. Po začátku nejprve odhalujte velké prázdné oblasti, abyste vytvořili více vodítek k následnému uvažování."
+              ]
+            },
+            {
+              "title": "Pravidlo priority",
+              "paragraphs": [
+                "Řešte plochu v tomto pořadí:"
+              ],
+              "orderedList": [
+                "Nejprve všechny jisté vzory (1-2-1, 1-2-2-1 atd.)",
+                "Používejte rychlé odkrytí",
+                "Řešte čísla na okrajích jedno po druhém",
+                "Nakonec oblasti vyžadující hádání"
+              ]
+            },
+            {
+              "title": "Strategie hádání",
+              "paragraphs": [
+                "Když musíte hádat:"
+              ],
+              "list": [
+                [
+                  "Hádejte nejprve pole na okrajích",
+                  "Obvykle menší riziko"
+                ],
+                [
+                  "Spočítejte zbývající miny",
+                  "Vězte, kolik min zbývá k rozhodnutí"
+                ],
+                [
+                  "Nechávejte na konec",
+                  "Pokud máte čas, řešte nejprve jiné oblasti, aby byla plocha jasnější"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Trénink ke zlepšení",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Cvičte reakci na vzory",
+                  "Když uvidíte kombinace, jednejte bez přemýšlení, vytvořte svalovou paměť"
+                ],
+                [
+                  "Snižujte váhání",
+                  "Jistá rozhodnutí v 0,5 sekundě"
+                ],
+                [
+                  "Analýza po prohře",
+                  "Přemýšlejte, co jste mohli udělat lépe"
+                ],
+                [
+                  "Používejte žebříček DMine",
+                  "Podívejte se na záznamy mistrů, nastavte si malé cíle, vyzvědejte sebe sama"
+                ],
+                [
+                  "Zkuste bez vlajek",
+                  "Zkuste dokončit hru bez označování min vlajkami"
+                ]
+              ],
+              "tipBox": "🎯 Cílové hodnoty: běžný hráč – do 10 úrovní, zkušený – do 20, mistr – více než 30, elitní hráč – více než 30 úrovní bez vlajek."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Začít trénovat"
+    }
+  }
+}

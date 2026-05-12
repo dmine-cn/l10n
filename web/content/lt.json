@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "lt",
+    "langAttr": "lt",
+    "ogLocale": "lt_LT",
+    "siteName": "DMine - Geriausias Minų Ieškotojas",
+    "canonicalPrefix": "lt/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Pradžia",
+    "rules": "Taisyklės",
+    "tips": "Patarimai",
+    "about": "Apie mus",
+    "download": "Atsisiųsti"
+  },
+  "footer": {
+    "copyright": "© 2026 DMine Komanda"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Apie DMine - Geriausias Minų Ieškotojas | Kelių platformų minų žaidimas",
+      "metaDescription": "DMine – tai kelių platformų minų ieškotojo žaidimas, veikiantis „Windows“, „macOS“, „Linux“, „Android“, „iOS“, „HarmonyOS“ ir žiniatinklyje. Nemokamas, atvirasis kodas, palaiko 66 kalbas – žaiskite internetu be apribojimų!",
+      "metaKeywords": "minų žaidimas, DMine, geriausias minų ieškotojas, kelių platformų minų žaidimas, nemokamas minų žaidimas, atvirojo kodo minų žaidimas",
+      "headerTitle": "💣 DMine - Geriausias Minų Ieškotojas",
+      "headerSubtitle": "Kelių platformų klasikinis minų ieškotojas – žaiskite bet kur ir bet kada",
+      "sections": [
+        {
+          "heading": "Kas yra DMine?",
+          "paragraphs": [
+            "DMine – tai „Flutter“ sistema sukurtas kelių platformų minų ieškotojo žaidimas. Jis išsaugo klasikinio minų žaidimo esmę, papildytas modernia sąsaja ir gausiomis funkcijomis, suteikdamas naują patirtį žaidėjams.",
+            "Tiek patyrusiems žaidėjams „Windows“ sistemoje, tiek laisvalaikio mėgėjams mobiliajame telefone – DMine patenkins visus poreikius."
+          ]
+        },
+        {
+          "heading": "Palaikomos platformos",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Žiniatinklis",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Visi duomenys sinchronizuojami visose platformose – pradėkite žaidimą vienoje, tęskite kitoje."
+          ]
+        },
+        {
+          "heading": "Pagrindinės funkcijos",
+          "list": [
+            [
+              "Daugkalbiškumas",
+              "Palaikomos 66 kalbos – žaiskite su pasaulio žaidėjais be kalbos barjerų"
+            ],
+            [
+              "Žaidimų įrašų bendrinimas",
+              "Žaidimų rezultatai automatiškai išsaugomi debesyje, kiti žaidėjai gali peržiūrėti jūsų eigą"
+            ],
+            [
+              "Debesų reitingai",
+              "Konkuruokite su pasaulio žaidėjais pagal praeitų lygių skaičių"
+            ],
+            [
+              "Keli žaidimo režimai",
+              "Pradedančiųjų ir įprasto iššūkio režimai"
+            ],
+            [
+              "Visiškai nemokamas",
+              "Be reklamų ir pirkimų programoje – tyra žaidimo patirtis"
+            ]
+          ]
+        },
+        {
+          "heading": "Žaidimo režimai",
+          "paragraphs": [
+            "Žaidimo lenta pastovi: 16×30 langelių (iš viso 480). Laimėkite atradę visus saugius langelius ir neužmindami minų."
+          ],
+          "list": [
+            [
+              "Pradedančiųjų režimas",
+              "Pradedama su 15 minų, kiekvieną kartą praėjus lygiui pridedama 6 minos, daugiausiai – 99 minos 15 lygyje"
+            ],
+            [
+              "Įprastas iššūkis",
+              "Pradedama su 81 mina. Pirmus 4 kartus po pergalės pridedama 6 minos, vėliau 3 lygius – po 3 minas, dar 3 lygius – po 2 minas, o vėliau kiekvieną lygį – po 1 miną; lygiai neriboti"
+            ]
+          ]
+        },
+        {
+          "heading": "Versijos informacija",
+          "paragraphs": [
+            "Dabartinė versija: {{VERSION}}",
+            "Technologijos: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine yra atvirojo kodo projektas – kviečiame sekti ir prisidėti prie kūrimo „GitHub“ platformoje."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Pradėti žaidimą"
+    },
+    "rules": {
+      "pageTitle": "Išsamios minų žaidimo taisyklės – būtina perskaityti pradedantiems | DMine Geriausias Minų Ieškotojas",
+      "metaDescription": "Kaip žaisti minų ieškotoją? Šiame vadove išsamiai paaiškinamos pagrindinės taisyklės, skaičių reikšmės, valdymas ir laimėjimo sąlygos – puikus vadovas pradedantiems!",
+      "metaKeywords": "minų žaidimo taisyklės, kaip žaisti minų ieškotoją, minų žaidimo vadovas, minų žaidimas pradedantiems, pagrindinės minų žaidimo taisyklės",
+      "headerTitle": "💣 Išsamios minų žaidimo taisyklės",
+      "headerSubtitle": "Išmokite žaisti nuo nulio – būtina pradedantiems",
+      "sections": [
+        {
+          "heading": "Žaidimo tikslas",
+          "paragraphs": [
+            "Minų ieškotojo tikslas paprastas: atverkite visus saugius langelius neužmindami minos. Jei atversite langelį su mina – žaidimas baigiasi; jei atversite visus langelius be minų – laimite!"
+          ]
+        },
+        {
+          "heading": "Pagrindinis valdymas",
+          "table": {
+            "headers": [
+              "Veiksmas",
+              "Pelė",
+              "Lietimui jautrus ekranas",
+              "Paaiškinimas"
+            ],
+            "rows": [
+              [
+                "Atverti langelį",
+                "Kairis pelės mygtukas",
+                "Vienas paspaudimas",
+                "Atverti pasirinktą langelį"
+              ],
+              [
+                "Pažymėti vėliava",
+                "Dešinys pelės mygtukas",
+                "Ilgas paspaudimas",
+                "Pažymėti langelį, kuriame manote esant miną (⚑)"
+              ],
+              [
+                "Pažymėti klaustuku",
+                "Dar kartą dešinys pelės mygtukas",
+                "Dar kartą ilgas paspaudimas",
+                "Pažymėti klaustuku (?) jei nesate tikri"
+              ],
+              [
+                "Greitas langelių atvėrimas (Chord)",
+                "Kairiuoju paspausti atvertą skaičių langelį",
+                "—",
+                "Kai aplink skaičių pažymėta tiek vėliavų, kiek rodo skaičius – paspaudus automatiškai atveriami visi nepažymėti aplinkiniai langeliai"
+              ]
+            ]
+          },
+          "tipBox": "💡 Patarimas: Greitas langelių atvėrimas (Chord) – labai efektyvus būdas žaisti! Kai aplink skaičių pažymėta tiek vėliavų, kiek rodo skaičius, paspauskite šį atvertą langelį – bus atverti visi likę aplinkiniai langeliai."
+        },
+        {
+          "heading": "Skaičių reikšmė",
+          "paragraphs": [
+            "Atvėrus langelį pasirodo skaičius (nuo 1 iki 8), kuris rodo, kiek minų yra aplinkiniuose 8 langeliuose.",
+            "Pavyzdys 3×3 lauke: viduryje esantis skaičius 1 reiškia, kad aplinkiniuose 8 langeliuose yra viena mina."
+          ],
+          "list": [
+            "1 – aplinkiniuose 8 langeliuose 1 mina",
+            "2 – aplinkiniuose 8 langeliuose 2 minos",
+            "3 – aplinkiniuose 8 langeliuose 3 minos",
+            "ir taip toliau, didžiausias skaičius – 8"
+          ],
+          "tipBox": "💡 Jei atveriate tuščią langelį (be skaičiaus) – visi aplinkiniai 8 langeliai yra be minų, o žaidimas automatiškai atveria visą aplinkinį plotą – tai grandininio atvėrimo mechanizmas."
+        },
+        {
+          "heading": "Žaidimo režimai",
+          "paragraphs": [
+            "Pastovi lenta: 16 × 30 langelių (iš viso 480)"
+          ],
+          "table": {
+            "headers": [
+              "Režimas",
+              "Pradinis minų skaičius",
+              "Minų didinimo taisyklė",
+              "Paaiškinimas"
+            ],
+            "rows": [
+              [
+                "Pradedančiųjų",
+                "15 minų",
+                "Po kiekvienos pergalės +6 minos",
+                "Daugiausiai 99 minos 15 lygyje"
+              ],
+              [
+                "Įprastas iššūkis",
+                "81 mina",
+                "Žr. paaiškinimą žemiau",
+                "Minų skaičius didėja kiekvienu ratu, neribotas"
+              ]
+            ]
+          },
+          "extraParagraph": "Įprasto iššūkio minų didinimo taisyklė: Pirmus 4 kartus po pergalės pridedama 6 minos, vėliau 3 lygius – po 3 minas, dar 3 lygius – po 2 minas, o vėliau kiekvieną lygį – po 1 miną; lygiai neriboti."
+        },
+        {
+          "heading": "Laimėjimas ir pralaimėjimas",
+          "list": [
+            [
+              "Laimėjimas",
+              "Atvertus visus langelius be minų arba teisingai pažymėjus visas minų vietas"
+            ],
+            [
+              "Pralaimėjimas",
+              "Paspaudus langelį su mina – žaidimas iškart baigiasi"
+            ]
+          ],
+          "tipBox": "💡 Pirmas paspaudimas visada saugus! DMine garantuoja, kad pirmuoju paspaudimu niekada neužminsite minos – pradėkite žaidimą be baimės."
+        },
+        {
+          "heading": "Peržiūra ir bendrinimas",
+          "paragraphs": [
+            "Žaidėjų pergalės įrašai automatiškai išsaugomi debesyje. Kiti vartotojai gali peržiūrėti jūsų žaidimo eigą skyriuje „Žaidimų įrašai“. Peržiūroje tik stebima, negalima keisti ar įsikišti."
+          ]
+        },
+        {
+          "heading": "Reitingai",
+          "paragraphs": [
+            "DMine turi debesų reitingų lentelę, kurioje žaidėjai rikiuojami pagal praeitų lygių skaičių. Kuo daugiau lygių praėjote – tuo aukštesnė vieta. Konkuruokite su pasaulio žaidėjais!"
+          ]
+        }
+      ],
+      "ctaText": "🎮 Pradėti žaidimą"
+    },
+    "tips": {
+      "pageTitle": "Pažangūs minų žaidimo patarimai – nuo pradedančiojo iki meistro | DMine Geriausias Minų Ieškotojas",
+      "metaDescription": "Minų žaidimo meistrų patarimai! 1-2-1 schema, 1-2-2-1 schema, dvigubo paspaudimo technika, tikimybės analizė – išmokite šias strategijas ir padidinkite laimėjimų rodiklį bei greitį!",
+      "metaKeywords": "minų žaidimo patarimai, pažangūs minų žaidimo patarimai, minų žaidimo schemos, minų žaidimo strategijos, minų žaidimo 1-2-1 schema, minų žaidimo tikimybė",
+      "headerTitle": "🎯 Pažangūs minų žaidimo patarimai",
+      "headerSubtitle": "Nuo pradedančiojo iki meistro – tapkite minų žaidimo ekspertu",
+      "headerSub2": "Išmokite schemas ir strategijas, kad padvigubintumėte laimėjimų rodiklį ir žaidimo greitį",
+      "sections": [
+        {
+          "heading": "I. Pagrindinės schemos",
+          "difficulty": "Pradedantiems",
+          "items": [
+            {
+              "title": "1-2-1 schema",
+              "paragraphs": [
+                "Tai dažniausia ir svarbiausia minų žaidimo schema. Kai iš eilės matote skaičius 1-2-1, galite tiksliai nustatyti:"
+              ],
+              "list": [
+                [
+                  "Virš abiejų skaičių 1 yra po vieną miną",
+                  "Pažymėkite vėliavomis"
+                ],
+                [
+                  "Virš skaičiaus 2 esantis langelis visada saugus",
+                  "Galite drąsiai atverti"
+                ]
+              ],
+              "tipBox": "💡 Tai tikslus loginis sprendimas – nereikia spėlioti, rezultatas 100% tikras."
+            },
+            {
+              "title": "1-2-2-1 schema",
+              "paragraphs": [
+                "Kai matote skaičių seką 1-2-2-1 – tai taip pat klasikinė schema:"
+              ],
+              "list": [
+                [
+                  "Virš tarp dviejų skaičių 2 yra po vieną miną",
+                  ""
+                ],
+                [
+                  "Virš abiejų skaičių 1 yra saugūs langeliai",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Kraštinės schemos",
+              "paragraphs": [
+                "Kai skaičius yra ant žaidimo lentos krašto – loginis sprendimas tampa paprastesnis, nes reikia skaičiuoti mažiau aplinkinių langelių."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "II. Vidutinio lygio patarimai",
+          "difficulty": "Pažengusiems",
+          "items": [
+            {
+              "title": "Dvigubo paspaudimo technika (Chord)",
+              "paragraphs": [
+                "Tai svarbiausia technika žaidimo greičiui padidinti. Kai aplink skaičių pažymėta tiek vėliavų, kiek rodo skaičius – paspauskite vidurinį pelės mygtuką arba abu mygtukus vienu metu, ir bus automatiškai atverti visi nepažymėti aplinkiniai langeliai.",
+                "Pavyzdys: Jei aplink skaičių 3 jau pažymėtos 3 vėliavos – dukart paspaudus šį langelį likę 5 langeliai bus atverti automatiškai."
+              ],
+              "tipBox": "⚡ Meistrų paslaptis: Visi patyrę žaidėjai naudoja dvigubą paspaudimą – pažymi vėliavas ir atveria langelius vienu metu, todėl žaidimo greitis padidėja kelis kartus."
+            },
+            {
+              "title": "Atimties loginis sprendimas",
+              "paragraphs": [
+                "Kai aplink skaičių jau pažymėtos kelios vėliavos – atimkite jas iš bendro skaičiaus ir sužinosite, kiek minų liko neaptiktų aplinkiniuose langeliuose. Pavyzdžiui, jei aplink skaičių 3 pažymėta 1 vėliava – likusiuose langeliuose dar 2 minos."
+              ]
+            },
+            {
+              "title": "Kelių skaičių bendras loginis sprendimas",
+              "paragraphs": [
+                "Nežiūrėkite į kiekvieną skaičių atskirai – sujunkite gretimus skaičius į bendrą loginį sprendimą. Gretimi skaičiai dalijasi kai kuriuos langelius, todėl naudojantis sankirta ir papildiniais galite sužinoti daugiau informacijos."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "III. Pažangūs patarimai",
+          "difficulty": "Meistrams",
+          "items": [
+            {
+              "title": "Tikimybės analizė",
+              "paragraphs": [
+                "Kai situacija neišsprendžiama logiškai (reikia spėlioti) – įvertinkite, kuriame langelyje mažiausia tikimybė užminti miną:"
+              ],
+              "list": [
+                [
+                  "Pirmenybę teikite langeliams šalia atvertų plotų",
+                  "Daugiau informacijos sprendimui"
+                ],
+                [
+                  "Venkite izoliuotų langelių",
+                  "Didelė neapibrėžtos tikimybės rizika"
+                ],
+                [
+                  "Sudėtingomis situacijomis skaičiuokite likusių minų ir langelių santykį",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Minų žaidime spėliojimo išvengti neįmanoma, bet naudojantis tikimybės analize galite pakelti laimėjimų rodiklį virš 90%."
+            },
+            {
+              "title": "Šablonų atpažinimas",
+              "paragraphs": [
+                "Meistrai neskaičiuoja langelių po vieną – jie atpažįsta pasikartojančius skaičių šablonus kaip tekstą. Daug praktikuodamiesi iškart suprasite, kur yra minos ir kur saugūs langeliai pamatę tam tikrą skaičių derinį."
+              ]
+            },
+            {
+              "title": "Pelės valdymo technikos",
+              "list": [
+                [
+                  "Sklandi rankų koordinacija",
+                  "Kairė ranka pažymi vėliavas (dešinys pelės mygtukas), dešinė – atveria langelius (kairys mygtukas)"
+                ],
+                [
+                  "Sumažinkite pelės judėjimą",
+                  "Naudokite dvigubą paspaudimą vietoj pavienių paspaudimų"
+                ],
+                [
+                  "Žaidimo ritmas",
+                  "Išsirinkite nuolatinį veiksmų ritmą, nežaiskite per greitai ar per lėtai"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "IV. Praktinės strategijos",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Pradžios strategija",
+              "paragraphs": [
+                "DMine garantuoja, kad pirmas paspaudimas visada saugus. Pradžioje stenkitės atverti didelius tuščius plotus – tai suteiks daugiau užuominų tolimesniam sprendimui."
+              ]
+            },
+            {
+              "title": "Veiksmų prioritetas",
+              "paragraphs": [
+                "Tvarkykite žaidimo lentą šia tvarka:"
+              ],
+              "orderedList": [
+                "Išspręskite visas tiksliausias schemas (1-2-1, 1-2-2-1 ir kt.)",
+                "Naudokite greito atvėrimo techniką",
+                "Išspręskite visus kraštinius skaičius",
+                "Galiausiai spręskite sritis, kuriose reikia spėlioti"
+              ]
+            },
+            {
+              "title": "Spėliojimo strategija",
+              "paragraphs": [
+                "Kai tenka spėlioti:"
+              ],
+              "list": [
+                [
+                  "Pirmenybę teikite kraštiniams langeliams",
+                  "Mažiau informacijos ryšių, mažesnė rizika"
+                ],
+                [
+                  "Suskaičiuokite likusių minų skaičių",
+                  "Padeda įvertinti situaciją"
+                ],
+                [
+                  "Palikite spėliojimą pabaigai",
+                  "Jei turite laiko – išspręskite kitas sritis pirmiau"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "V. Įgūdžių tobulinimas",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Lavinkite schemų atpažinimą",
+                  "Atlikite veiksmus automatiškai pamatę skaičių derinį, suformuokite raumenų atmintį"
+                ],
+                [
+                  "Nedvejokite",
+                  "Tikslų sprendimą priimkite per 0,5 sekundės"
+                ],
+                [
+                  "Peržiūrėkite nesėkmes",
+                  "Po pralaimėjimo apmąstykite, ką galėjote padaryti geriau"
+                ],
+                [
+                  "Naudokite DMine reitingus",
+                  "Stebėkite meistrų rezultatus, išsikelkite tikslą ir tobulinkite savo įgūdžius"
+                ],
+                [
+                  "Išbandykite žaidimą be vėliavų",
+                  "Pabandykite praeiti lygius nepažymėdami minų vėliavomis"
+                ]
+              ],
+              "tipBox": "🎯 Tikslų pavyzdžiai: Pradedantysis – iki 10 lygių, patyręs žaidėjas – iki 20 lygių, meistras – virš 30 lygių, geriausi žaidėjai – virš 30 lygių žaisdami be vėliavų."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Pradėti mokytis"
+    }
+  }
+}

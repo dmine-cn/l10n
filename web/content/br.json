@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "br",
+    "langAttr": "br",
+    "ogLocale": "br_FR",
+    "siteName": "DMine - Ar Minerezh Uhelañ",
+    "canonicalPrefix": "br/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Degemer",
+    "rules": "Reolennoù",
+    "tips": "Kuzulioù",
+    "about": "Diwar-benn",
+    "download": "Pellgargañ"
+  },
+  "footer": {
+    "copyright": "© 2026 Skipailh DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Diwar-benn DMine - Klouster Mines Dibest | C'hoari klouster mines traoñ-ligourioù",
+      "metaDescription": "DMine (Klouster Mines Dibest) zo ur c'hoari klouster mines traoñ-ligourioù a skouer ar Windows, macOS, Linux, Android, iOS, HarmonyOS ha ar Web. Diabarzh hag e c'hoarier diabarzh, 66 yezh, c'hoari enlinenn!",
+      "metaKeywords": "c'hoari klouster mines,DMine,klouster mines dibest,klouster mines traoñ-ligourioù,klouster mines diabarzh,klouster mines c'hoarier diabarzh",
+      "headerTitle": "💣 DMine - Klouster Mines Dibest",
+      "headerSubtitle": "Ur c'hoari klouster mines traoñ-ligourioù, c'hoari ar c'hoari klasel pep tra ha pep amzer",
+      "sections": [
+        {
+          "heading": "Petra eo DMine?",
+          "paragraphs": [
+            "DMine (Klouster Mines Dibest) zo ur c'hoari klouster mines traoñ-ligourioù dianavet gant ar framm Flutter. En doare klasel e kinnig ar c'hoari klouster mines, hag ouzhpennañ a ra un dezign kehekaet ha功能egezhourien lies, evit roet un hizivadenn nevez d'an c'hoarierien.",
+            "Pennañ an traoueg, ma vez ho peus c'hoarier bras war Windows pe c'hoarier lazhañ gant ho sellileg e-pad ho traoueg, DMine a dalc'h ho ezhommoù."
+          ]
+        },
+        {
+          "heading": "Ligourioù skoueriet",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "An roadennoù a zeuioù traoñ an holl ligourioù; c'hoari un dra, sinkrene pep tra."
+          ]
+        },
+        {
+          "heading": "功能egezhourien pennañ",
+          "list": [
+            [
+              "Skoeriel yezhou lies",
+              "Skoer 66 yezh, c'hoarierien ar bed a c'hall c'hoari hep difoc'h"
+            ],
+            [
+              "Rannañ ar c'hoari",
+              "Ar rekenoù c'hoari a ranner diouzhtu er c'hlofenn, c'hoarierien all a c'hall sellout ouzh ar c'hoari"
+            ],
+            [
+              "Renklas er c'hlofenn",
+              "C'hoari gant c'hoarierien ar bed war reter an niveleoù graet"
+            ],
+            [
+              "Doareoù c'hoari lies",
+              "Daou doare: dijaouiñ da c'hoari hag ar c'hoari reizh"
+            ],
+            [
+              "Diabarzh a-bezh",
+              "Hep embann, hep prenañ e-barzh ar c'hoari, hizivadenn c'hoari pur"
+            ]
+          ]
+        },
+        {
+          "heading": "Doareoù c'hoari",
+          "paragraphs": [
+            "Reolennoù: An taolenn zo 16×30 (480 varcell). Chomoñ an holl varcell salves ezempout an niver a vlinioù roet."
+          ],
+          "list": [
+            [
+              "Dijaouiñ da c'hoari",
+              "Loc'hañ gant 15 vlin, ouzhpennañ 6 vlin dre nivel graet, 99 vlin d'an nivel 15"
+            ],
+            [
+              "Ar c'hoari reizh",
+              "Loc'hañ gant 81 vlin; ouzhpennañ 6 vlin evit an 4 nived kentañ, 3 vlin dre 3 nived, 2 vlin dre 3 nived, 1 vlin dre nived, hep benn uhel"
+            ]
+          ]
+        },
+        {
+          "heading": "Titouroù ar versi",
+          "paragraphs": [
+            "Ar versi red: {{VERSION}}",
+            "Stok teknologel: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine zo ur projead c'hoarier diabarzh, degemeret ha skouerit war GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Loc'hañ ar c'hoari"
+    },
+    "rules": {
+      "pageTitle": "Reolennoù klouster mines - Ret kavout d'an dijaouiñ | DMine Klouster Mines Dibest",
+      "metaDescription": "Penañ emaout o c'hoari klouster mines? Ar penn-mañ a ziskouer reolennoù klouster mines, mennoù an niveroù, ar reolennoù ha ar doareoù graet – titouroù ret d'an dijaouiñ!",
+      "metaKeywords": "reolennoù klouster mines,penañ c'hoari klouster mines,titouroù klouster mines,dijaouiñ klouster mines,reolennoù klouster mines,reolennoù c'hoari klouster mines",
+      "headerTitle": "💣 Reolennoù klouster mines",
+      "headerSubtitle": "Deskiñ klouster mines eus ar reter, ret d'an dijaouiñ",
+      "sections": [
+        {
+          "heading": "Tanav ar c'hoari",
+          "paragraphs": [
+            "Tanav klouster mines zo simpl : digeriñ an holl varcell salves hep lakaat ho laes war ur vlin. Ma digeriit ur vlin, echu ar c'hoari; ma digeriit an holl varcell hep vlin, e winjit!"
+          ]
+        },
+        {
+          "heading": "Ar reolennoù diazezek",
+          "table": {
+            "headers": [
+              "Darempred",
+              "Logodenn",
+              "Darempred",
+              "Diskouez"
+            ],
+            "rows": [
+              [
+                "Digeriñ ur varcell",
+                "Klik kleiz",
+                "Un klik",
+                "Digeriñ ar varcell dibabet"
+              ],
+              [
+                "Lakaat ur banniel",
+                "Klik dehou",
+                "Klik hir",
+                "Lakaat ur banniel (⚑) el lec'h ma kuitit ez eus ur vlin"
+              ],
+              [
+                "Lakaat ur goulenn",
+                "Klik dehou enebled",
+                "Klik hir enebled",
+                "Lakaat ur goulenn (?) ma n'oc'h ket sur"
+              ],
+              [
+                "Klouster buan (Chord)",
+                "Klik kleiz war ur varcell niver digeret",
+                "—",
+                "Ma n'eo an niver a bannielioù a-drugarez d'an niver, klikiñ ar varcell niver a digeriñ an holl varcell a-drugarez"
+              ]
+            ]
+          },
+          "tipBox": "💡 Sul: Ar klouster buan (Chord) zo un doare c'hoari trubinat! Ma n'eo an niver a bannielioù a-drugarez d'an niver, klikiñ kleiz war ar varcell digeret a digeriñ an holl varcell a-drugarez."
+        },
+        {
+          "heading": "Mennoù an niveroù",
+          "paragraphs": [
+            "Ma digeriit ur varcell, e teu un niver (1~8) war an varcell, a ziskouer niver a vlinioù en 8 varcell a-drugarez.",
+            "Setu un skouer 3×3: ar niver 1 e kreiz a ziskouer ez eus ur vlin en 8 varcell a-drugarez:"
+          ],
+          "list": [
+            "1 — 1 vlin en 8 varcell a-drugarez",
+            "2 — 2 vlin en 8 varcell a-drugarez",
+            "3 — 3 vlin en 8 varcell a-drugarez",
+            "…… hag en daou alies, 8 eo an niver uhelañ"
+          ],
+          "tipBox": "💡 Ur varcell goulo (hep niver) a ziskouer n'eus vlin ebet en 8 varcell a-drugarez; ar c'hoari a digeriñ an darn a-drugarez diouzhtu – se alies 'digeriñ ledan' e klouster mines."
+        },
+        {
+          "heading": "Doareoù c'hoari",
+          "paragraphs": [
+            "Taolenn stank: 16 × 30 (480 varcell)"
+          ],
+          "table": {
+            "headers": [
+              "Doare",
+              "Niver a vlinioù loc'hañ",
+              "Reolennoù ouzhpennañ",
+              "Diskouez"
+            ],
+            "rows": [
+              [
+                "Dijaouiñ da c'hoari",
+                "15 vlin",
+                "+6 vlin dre nivel graet",
+                "99 vlin d'an nivel 15"
+              ],
+              [
+                "Ar c'hoari reizh",
+                "81 vlin",
+                "Gwelit dindan",
+                "Niver a vlinioù a zo en hañval, hep benn uhel"
+              ]
+            ]
+          },
+          "extraParagraph": "Reolennoù ouzhpennañ ar c'hoari reizh: ouzhpennañ 6 vlin evit an 4 nived kentañ, 3 vlin dre 3 nived, 2 vlin dre 3 nived, 1 vlin dre nived, hep benn uhel."
+        },
+        {
+          "heading": "Win ha c'hoast",
+          "list": [
+            [
+              "Win",
+              "Digeriñ an holl varcell hep vlin, pe lakaat an holl vlinioù en lec'h reizh"
+            ],
+            [
+              "C'hoast",
+              "Klik war ur vlin, echu ar c'hoari diouzhtu"
+            ]
+          ],
+          "tipBox": "💡 Ar gentañ klik zo 100% salvez! DMine a zibab ma n'eo ket ar gentañ klik war ur vlin, loc'hañ heñvel."
+        },
+        {
+          "heading": "Gwelet ha rannañ",
+          "paragraphs": [
+            "Ar rekenoù c'hoari a ranner diouzhtu er c'hlofenn. C'hoarierien all a c'hall gwelet ar c'hoari en 'Linenn ar c'hoari'. N'oc'h ket c'hoari pe cheñch."
+          ]
+        },
+        {
+          "heading": "Renklas",
+          "paragraphs": [
+            "DMine a skouer ur reklas er c'hlofenn, renket dre niver an niveleoù graet. Niveroù uhelañ, reklas uhelañ; c'hoari gant c'hoarierien ar bed."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Loc'hañ ar c'hoari"
+    },
+    "tips": {
+      "pageTitle": "Sulioù dijaoueg klouster mines - Diadornet da vezañ skourer | DMine Klouster Mines Dibest",
+      "metaDescription": "Sulioù skourerien klouster mines! Patron 1-2-1, patron 1-2-2-1, sul klik daouhan, analiz ar gwallvezioù… mastit an sulioù-se, poueztit ho sped hag ho win!",
+      "metaKeywords": "sulioù klouster mines,sulioù dijaoueg klouster mines,patronoù klouster mines,strategi klouster mines,1-2-1 klouster mines,gwallvezioù klouster mines,skourer klouster mines,dijaoueg klouster mines",
+      "headerTitle": "🎯 Sulioù dijaoueg klouster mines",
+      "headerSubtitle": "Diadornet da vezañ skourer klouster mines",
+      "headerSub2": "Mastit an patronoù ha strategioù-se, poueztit ho win hag ho sped",
+      "sections": [
+        {
+          "heading": "1. Patronoù diazezek",
+          "difficulty": "Dijaouiñ",
+          "items": [
+            {
+              "title": "Patron 1-2-1",
+              "paragraphs": [
+                "Se alies ar patron ar rekuennañ ha ar brasañ e klouster mines. Ma welit niveroù 1-2-1 war ul linenn straight, e c'hallit bezañ sur:"
+              ],
+              "list": [
+                [
+                  "Ur vlin a-us pep 1",
+                  "Lakaat ur banniel"
+                ],
+                [
+                  "Ur varcell salvez a-us ar 2",
+                  "Gallout a rit digeriñ heñvel"
+                ]
+              ],
+              "tipBox": "💡 Se ur patron sur – n'eo ket lakaat goulenn, 100% dianavet."
+            },
+            {
+              "title": "Patron 1-2-2-1",
+              "paragraphs": [
+                "Ma welit 1-2-2-1, se alies ur patron klasel ivez:"
+              ],
+              "list": [
+                [
+                  "Ur vlin a-us kreiz an daou 2",
+                  ""
+                ],
+                [
+                  "Ur varcell salvez a-us pep 1",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Patronoù ar rim",
+              "paragraphs": [
+                "Ma vez an niver war rim ar taolenn, ar analizoù a zo aesoc'h, rak n'eo ket un tu da hisober."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Sulioù kentaoueg",
+          "difficulty": "Dijaoueg",
+          "items": [
+            {
+              "title": "Sul klik daouhan (Chord)",
+              "paragraphs": [
+                "Se alies ar doare brasañ evit pouezañ ho sped. Ma n'eo an niver a bannielioù a-drugarez d'an niver, klikiñ ar logodenn kreiz pe klikiñ kleiz ha dehou hevel – digeriñ an holl varcell a-drugarez diouzhtu.",
+                "Skouer: ma vez 3 banniel a-drugarez ur 3, klikiñ daouhan ar 3 a digeriñ an 5 varcell all diouzhtu."
+              ],
+              "tipBox": "⚡ Sul skourerien: Skourerien a implijout ar klik daouhan – lakaat banniel ha klikiñ daouhan, sped a zo pouezet meur a wech."
+            },
+            {
+              "title": "Analiz dilag",
+              "paragraphs": [
+                "Ma vez bannielioù lakaet a-drugarez un niver, 'dilagt' an divizoù a zo bet lakaet evit kavout niver a vlinioù er varcell all. Skouer: ur 3 gant un banniel a zo daou vlin all."
+              ]
+            },
+            {
+              "title": "Analiz niveroù keit",
+              "paragraphs": [
+                "N'amdrokit ket un niver hep keit; kevreañ an niveroù keit. Daou niver keit a rann varcellioù, implijout ar c'helaoueg ha dilag evit kavout muioc'h a ditouroù."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Sulioù dijaoueg",
+          "difficulty": "Skourer",
+          "items": [
+            {
+              "title": "Analiz ar gwallvezioù",
+              "paragraphs": [
+                "Ma welit un doare n'oc'h ket sur (ar poent 'lakaat goulenn'), kavout ar varcell gant ar gwallvez vlianañ izelañ:"
+              ],
+              "list": [
+                [
+                  "Dibab varcellioù daouek d'an darnoù digeret",
+                  "Muioc'h a ditouroù"
+                ],
+                [
+                  "Skoazhout varcellioù en darnoù keit",
+                  "Gwallvezioù a zo difokoc'h"
+                ],
+                [
+                  "En darnoù klok, deskiñ hisober ar sujedd a vlinioù ha varcellioù a zo bet lakaet",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ N'eo ket posuble lakaat goulenn hep ditouroù klouster mines, met analiz ar gwallvezioù a c'hall pouezañ ho win da 90% ha muioc'h."
+            },
+            {
+              "title": "Askaouiñ patronoù",
+              "paragraphs": [
+                "Skoerien n'amdrokont ket varcellioù un ha un; askaouiñ 'patronoù' – evel lennañ testenn. Muioc'h a c'hoari, ha ma welit un doare niveroù, deut a rit war lec'hioù vlinioù ha salvez."
+              ]
+            },
+            {
+              "title": "Sulioù logodenn",
+              "list": [
+                [
+                  "Keitheg reter daou loar",
+                  "Loar kleiz: banniel (klik dehou), loar dehou: digeriñ (klik kleiz)"
+                ],
+                [
+                  "Lakaat ar logodenn da gwechall",
+                  "Implijout klik daouhan en dro klik un hevel"
+                ],
+                [
+                  "Rhytm",
+                  "Kavout ho reter c'hoari, n'hoc'h ket buan ha mat war-sikour"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Strategioù ar skouer",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Strategi loc'hañ",
+              "paragraphs": [
+                "DMine a zibab ma vez ar gentañ klik salvez. Goude loc'hañ, digeriñ muioc'h a varcell goulo evit kavout muioc'h a ditouroù evit an analizoù da heul."
+              ]
+            },
+            {
+              "title": "Reolennoù ar reter",
+              "paragraphs": [
+                "Darempred ar taolenn en ar reler-mañ:"
+              ],
+              "orderedList": [
+                "Darempred an holl patronoù sur (1-2-1, 1-2-2-1, hag all)",
+                "Implijout ar digeriñ buan",
+                "Darempred an niveroù war ar rim un ha un",
+                "Dindan, darempred an darnoù a zo lakaet goulenn"
+              ]
+            },
+            {
+              "title": "Strategi lakaat goulenn",
+              "paragraphs": [
+                "Ma rankit lakaat goulenn:"
+              ],
+              "list": [
+                [
+                  "Lakaat goulenn war varcellioù war ar rim",
+                  "Mat eo lec'hioù ar rim, riska izelañ"
+                ],
+                [
+                  "Hisober ar vlinioù a zo bet lakaet",
+                  "Kavout peseurt vlinioù a zo bet lakaet, skouerit ho analizoù"
+                ],
+                [
+                  "Lakaat goulenn dindan",
+                  "Ma vez ho poent, resoleit an darnoù all da gentañ, ma vez ar taolenn a weloc'h"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Trainadur evit pouezañ",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Trainadur askaouiñ patronoù",
+                  "Ma welit doareoù niveroù, darempred hep huargout, krouiñ memor c'hoari"
+                ],
+                [
+                  "Lakaat ar huargout",
+                  "Darempred sur e 0.5 eilenn"
+                ],
+                [
+                  "Analiz goude c'hoast",
+                  "Pensañ penañ c'hoasit bet gwelloc'h"
+                ],
+                [
+                  "Implijout reklas DMine",
+                  "Gwelit rekenoù skourerien, lakaat un tanav bihan, c'hoari ho brav"
+                ],
+                [
+                  "Klask klouster hep banniel",
+                  "Klask graet ar c'hoari hep lakaat bannielioù"
+                ]
+              ],
+              "tipBox": "🎯 Tanav: c'hoarier normal – 10 nived, c'hoarier mat – 20 nived, skourer – 30 nived, skourer dibest – 30 nived hep bannielioù."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Loc'hañ ar trainadur"
+    }
+  }
+}

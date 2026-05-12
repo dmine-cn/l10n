@@ -52,6 +52,7 @@ const Map<String, String> stringsGa = {
   'language': 'Teanga',
   // Home page
   'newbie': 'Níos úire',
+  'gameIntro': 'Cur síos ar an gcluiche',
   'newBattle': 'Taoise nua',
   'continueChallenge': 'Lean ar aghaidh leis an dúshlán',
   'error': 'Earráid',

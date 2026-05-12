@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "lb",
+    "langAttr": "lb",
+    "ogLocale": "lb_LU",
+    "siteName": "DMine - Top Minnerot",
+    "canonicalPrefix": "lb/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Heem",
+    "rules": "Regelen",
+    "tips": "Tipps",
+    "about": "Iwwer eis",
+    "download": "Eroflueden"
+  },
+  "footer": {
+    "copyright": "© 2026 DMine Team"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Iwwer DMine - Top Minnerot | Plattform-iwwergräifend Minnerot-Spill",
+      "metaDescription": "DMine (Top Minnerot) ass e plattform-iwwergräifend Minnerot-Spill, kompatibel mat Windows, macOS, Linux, Android, iOS, HarmonyOS a Web. Gratis an Open Source, 66 Sproochen, online spillbar!",
+      "metaKeywords": "Minnerot Spill,DMine,Top Minnerot,plattform-iwwergräifend Minnerot,gratis Minnerot,Open Source Minnerot",
+      "headerTitle": "💣 DMine - Top Minnerot",
+      "headerSubtitle": "E plattform-iwwergräifend Minnerot-Spill, iwwerall an zu all Moment spillbar",
+      "sections": [
+        {
+          "heading": "Wat ass DMine?",
+          "paragraphs": [
+            "DMine (Top Minnerot) ass e plattform-iwwergräifend Minnerot-Spill entwéckelt mam Flutter-Framework. Et behält de klassesche Spillprinzip vum Minnerot bäi, kombinéiert mat modernem Design a ville Funktiounen fir eng nei Spillerfarung.",
+            "Egal ob Dir en erfuerene Spiller op Windows sidd oder just e bësse Zäit verbrénge wëllt um Handy – DMine passt fir jiddereen."
+          ]
+        },
+        {
+          "heading": "Ënnerstëtzt Plattformen",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Daten sinn iwwer all Plattformen synchroniséiert – spill op enger Plaz, weider op all anerer."
+          ]
+        },
+        {
+          "heading": "Haaptfunktiounen",
+          "list": [
+            [
+              "Meesproocheg Ënnerstëtzung",
+              "66 Sproochen verfügbar, Spiller weltwäit ouni Barrièren spillen"
+            ],
+            [
+              "Spillverlauf deelen",
+              "Spillrekorder ginn automatesch an d'Wollek gespäichert, an aner Spiller kënnen se ofspillen"
+            ],
+            [
+              "Wollek-Ranglëscht",
+              "Miesst Iech mat Spiller aus der ganzer Welt no erreechten Niveauen"
+            ],
+            [
+              "Verschidde Spillmodi",
+              "Ufängermodus an normal Erausfuerderung"
+            ],
+            [
+              "Ganz gratis",
+              "Keng Annoncen, keng In-App-Käufer, reng Spillerfarung"
+            ]
+          ]
+        },
+        {
+          "heading": "Spillmodi",
+          "paragraphs": [
+            "Spillregel: D'Spillbrett ass fest 16×30 (480 Felder). Gewannt hutt Dir, wann Dir all sécher Felder opdeckt ouni eng Mine ze trëffen."
+          ],
+          "list": [
+            [
+              "Ufängermodus",
+              "Ufank mat 15 Minen, all Erfolleg +6 Minen, maximal 99 Minen um 15. Niveau"
+            ],
+            [
+              "Normal Erausfuerderung",
+              "Ufank mat 81 Minen, déi éischt 4 Erfolleger jee +6 Minen, duerno 3 Niveauen jee +3 Minen, nach 3 Niveauen jee +2 Minen, duerno jee Niveau +1 Mine, ouni Uewerlimit"
+            ]
+          ]
+        },
+        {
+          "heading": "Versiounsinformatioun",
+          "paragraphs": [
+            "Aktuell Versioun: {{VERSION}}",
+            "Technesch Stack: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine ass en Open Source-Projet – gitt gären op GitHub folgen a mat entwéckelen."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Spill ufänken"
+    },
+    "rules": {
+      "pageTitle": "Minnerot Regele detailléiert - Muss fir Ufänger | DMine Top Minnerot",
+      "metaDescription": "Wéi spillt een Minnerot? Hei fannt Dir detailléiert Erklärungen zu Basisregelen, Bedeitung vun den Zuelen, Bedienung a Gewënnbedingunge – Tutorial fir Ufänger!",
+      "metaKeywords": "Minnerot Regele,wéi spillt een Minnerot,Minnerot Tutorial,Minnerot Ufänger,grondleeënd Regele vum Minnerot",
+      "headerTitle": "💣 Minnerot Regele detailléiert",
+      "headerSubtitle": "Minnerot vun Null léieren – essentiel fir Ufänger",
+      "sections": [
+        {
+          "heading": "Spillziel",
+          "paragraphs": [
+            "D'Zil vum Minnerot ass einfach: Deckt all sécher Felder op ouni eng Mine ze trëffen. Wann Dir eng Mine trëfft, ass d'Spill eriwwer; wann Dir all net-mines Felder opgedeckt hutt, hutt Dir gewonnen!"
+          ]
+        },
+        {
+          "heading": "Basisbedienung",
+          "table": {
+            "headers": [
+              "Bedienung",
+              "Maus",
+              "Touchbildschierm",
+              "Erklärung"
+            ],
+            "rows": [
+              [
+                "Feld opdecken",
+                "Lénks klicken",
+                "Eemol tippen",
+                "Dat gewielt Feld opdecken"
+              ],
+              [
+                "Fändel setzen",
+                "Riets klicken",
+                "Laang tippen",
+                "Plaze markéieren, wou Dir eng Mine vermutet (⚑)"
+              ],
+              [
+                "Frozeeechen markéieren",
+                "Nach eng Kéier riets klicken",
+                "Nach eng Kéier laang tippen",
+                "Onsécher Plaze mat Frozeeechen (?) markéieren"
+              ],
+              [
+                "Schnellopdeckung (Chord)",
+                "Lénks op eng opgedeckt Zuel klicken",
+                "—",
+                "Wann d'Zuel vun de Fändelen ëm eng Zuel mat där Zuel iwwereneestëmmt, ginn all net markéiert Nopeschfelder automatesch opgedeckt"
+              ]
+            ]
+          },
+          "tipBox": "💡 Tipp: D'Schnellopdeckung (Chord) ass eng extrem effizient Spillweis! Wann d'Zuel vun de Fändelen ronderëm eng Zuel mat där Zuel iwwereneestëmmt, klickt lénks op déi opgedeckt Zuel – all aner Nopeschfelder ginn automatesch opgedeckt."
+        },
+        {
+          "heading": "Bedeitung vun den Zuelen",
+          "paragraphs": [
+            "Wann Dir e Feld opdeckt, erschéngt eng Zuel (1 bis 8). Se weist un, wéi vill Minen an den 8 Nopeschfelder leien.",
+            "Hei e Beispill vun engem 3×3 Beräich: D'Mëttzuel 1 heescht, datt an den 8 Nopeschfelder genee 1 Mine ass."
+          ],
+          "list": [
+            "1 – 1 Mine an den 8 Nopeschfeldern",
+            "2 – 2 Minen an den 8 Nopeschfeldern",
+            "3 – 3 Minen an den 8 Nopeschfeldern",
+            "an esou weider bis maximal 8"
+          ],
+          "tipBox": "💡 E eidel Feld (ouni Zuel) bedeit, datt keng Mine an den 8 Nopeschfelder sinn. D'Spill deckt dann automatesch de ganze Beräich op – dat ass de Mechanismus vun der Kettenopdeckung am Minnerot."
+        },
+        {
+          "heading": "Spillmodi",
+          "paragraphs": [
+            "Fest Spillbrett: 16 × 30 (480 Felder)"
+          ],
+          "table": {
+            "headers": [
+              "Modus",
+              "Ufankszuel Minen",
+              "Erhéijungsregel",
+              "Erklärung"
+            ],
+            "rows": [
+              [
+                "Ufängermodus",
+                "15 Minen",
+                "All Erfolleg +6 Minen",
+                "Maximal 99 Minen um 15. Niveau"
+              ],
+              [
+                "Normal Erausfuerderung",
+                "81 Minen",
+                "kuck Erklärung hei ënnen",
+                "D'Zuel vun de Minen erhéicht sech all Ronn ouni Uewerlimit"
+              ]
+            ]
+          },
+          "extraParagraph": "Erhéijungsregel normal Erausfuerderung: Déi éischt 4 Erfolleger jee +6 Minen, duerno 3 Niveauen jee +3 Minen, nach 3 Niveauen jee +2 Minen, duerno jee Niveau +1 Mine, ouni Uewerlimit."
+        },
+        {
+          "heading": "Gewënn an Verléier",
+          "list": [
+            [
+              "Gewënn",
+              "All net-mines Felder opdecken oder all Mineplaze korrekt markéieren"
+            ],
+            [
+              "Verléier",
+              "Eng Mine trëffen – d'Spill gëtt direkt ofgebrach"
+            ]
+          ],
+          "tipBox": "💡 Den éischte Klick ass 100% sécher! Bei DMine läit ni eng Mine um éischte Klick – start ouni Suergen."
+        },
+        {
+          "heading": "Widdergab an Deele",
+          "paragraphs": [
+            "Erfollegsrekorder ginn automatesch an d'Wollek gespäichert. Aner Spiller kënnen d'Spillverläufe an der Rubrik \"Spillverlauf\" ofspillen. D'Widdergab ass nëmmen ze kucken, net ze änneren oder matzuspillen."
+          ]
+        },
+        {
+          "heading": "Ranglëscht",
+          "paragraphs": [
+            "DMine huet eng Wollek-Ranglëscht klasséiert no erreechten Niveauen. Wat méi héich den Niveau, wat besser d'Plaz – mess Iech mat Spiller aus der ganzer Welt."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Spill ufänken"
+    },
+    "tips": {
+      "pageTitle": "Minnerot Fortgeschratt Tipps - Vun Ufänger bis Profi | DMine Top Minnerot",
+      "metaDescription": "Minnerot Strategie fir Profien! 1-2-1 Muster, 1-2-2-1 Muster, Duebelklick-Technik, Wahrscheinlechkeetsanalyse … mat dësen Tipps verbessert Dir Är Gewënnquote a Geschwindegkeet!",
+      "metaKeywords": "Minnerot Tipps,fortgeschratt Minnerot Tipps,Minnerot Muster,Minnerot Strategie,Minnerot 1-2-1,Minnerot Wahrscheinlechkeet,Minnerot Profi",
+      "headerTitle": "🎯 Minnerot Fortgeschratt Tipps",
+      "headerSubtitle": "Vun Ufänger bis Profi ginn",
+      "headerSub2": "Meeschtert dës Muster a Strategien – verduebelt Är Gewënnquote a Spillgeschwindegkeet",
+      "sections": [
+        {
+          "heading": "Eent: Basis Muster",
+          "difficulty": "Ufänger",
+          "items": [
+            {
+              "title": "1-2-1 Muster",
+              "paragraphs": [
+                "Dat heescht dat heefegst a wichtegst Muster am Minnerot. Wann Dir eng riicht Linn mat den Zuelen 1-2-1 gesäit, kënnt Dir sécher schléissen:"
+              ],
+              "list": [
+                [
+                  "Iwwer béid 1 läit jee eng Mine",
+                  "Mat Fändel markéieren"
+                ],
+                [
+                  "Iwwer der 2 ass d'Feld sécher",
+                  "ouni Suergen opdecken"
+                ]
+              ],
+              "tipBox": "💡 Dëst ass e bestëmmt Muster – kee Raten néideg, 100% logesch ofleedbar."
+            },
+            {
+              "title": "1-2-2-1 Muster",
+              "paragraphs": [
+                "Och dat ass e klassescht Muster wann Dir 1-2-2-1 an enger Linn gesäit:"
+              ],
+              "list": [
+                [
+                  "Iwwer der Mëtt vun deenen zwee 2 läit jee eng Mine",
+                  ""
+                ],
+                [
+                  "Iwwer béid 1 ass d'Feld sécher",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Randmuster",
+              "paragraphs": [
+                "Wann eng Zuel um Bord vum Spillbrett läit, gëtt d'Logik méi einfach – eng Säit manner fir ze berechnen."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Zwee: Mëttelstuf Technik",
+          "difficulty": "Fortgeschratt",
+          "items": [
+            {
+              "title": "Duebelklick-Technik (Chord)",
+              "paragraphs": [
+                "Déi wichtegst Technik fir méi séier ze spillen. Wann d'Zuel vun de Fändelen ëm eng Zuel mat där Zuel iwwereneestëmmt, klickt mat der Mëtt Maustast oder gläichzäiteg lénks a riets – all net markéiert Nopeschfelder ginn automatesch opgedeckt.",
+                "Beispill: Wann eng 3 scho 3 Fändelen ëm sech huet, duebelklickt op déi 3 – déi reschtlech 5 Felder ginn automatesch opgedeckt."
+              ],
+              "tipBox": "⚡ Profi-Tipp: Bal all erfuerene Spiller benotzen den Duebelklick – Fändel setzen a gläichzäiteg opdecken, d'Geschwindegkeet geet ëm vill erop."
+            },
+            {
+              "title": "Ofzuchslogik",
+              "paragraphs": [
+                "Wann ronderëm eng Zuel scho e puer Fändelen gesat sinn, zitt déi Zuel of – da wësst Dir, wéi vill Minen nach an den reschte Felder sinn. Beispill: Eng 3 huet schonn 1 Fändel – also sinn nach 2 Minen an den anere Felder."
+              ]
+            },
+            {
+              "title": "Verknëppelt Logik mat méi Zuelen",
+              "paragraphs": [
+                "Kuckt net nëmmen eng eenzel Zuel un, mee kombinéiert nieftenee Zuelen. Si deelen deelweis Felder – mat Duerchschnëtt an Ergänzungsfelder kënnt Dir méi Schlësselerkréien."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Dräi: Fortgeschratt Strategie",
+          "difficulty": "Profi",
+          "items": [
+            {
+              "title": "Wahrscheinlechkeetsanalyse",
+              "paragraphs": [
+                "Wann eng Situatioun net logesch ofleedbar ass (Muss raten), wielt d'Feld mat der niddregster Minewahrscheinlechkeet:"
+              ],
+              "list": [
+                [
+                  "Prioritéit bei Felder no schonn opgedeckten Beräicher",
+                  "Méi Informatioun verfügbar"
+                ],
+                [
+                  "Eenzel isoléiert Felder vermeiden",
+                  "héich Onsécherheet"
+                ],
+                [
+                  "Bei komplexe Fäll d'Verhältnis vun reschte Minen a Felder berechnen",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ E bësse Raten ass am Minnerot net ëmmer ze vermeiden – mat Wahrscheinlechkeetsanalyse kënnt Dir Är Gewënnquote awer op iwwer 90% erhéijen."
+            },
+            {
+              "title": "Mustererkennung",
+              "paragraphs": [
+                "Profien zielen net all Feld eenzel duerch, mee erkennen direkt ganz Muster – wéi wann Dir Text liest. Mat Übung erkennt Dir direkt, wou Minen a wou sécher Felder sinn."
+              ]
+            },
+            {
+              "title": "Mausbedienung optiméieren",
+              "list": [
+                [
+                  "Gutt Zesummespill mat béiden Hänn",
+                  "Lénks: Fändel setzen (Rietsklick), Riets: Felder opdecken (Lénksklick)"
+                ],
+                [
+                  "Mausbewegungen reduzéieren",
+                  "Duebelklick amplaz eenzel Klicken benotzen"
+                ],
+                [
+                  "Eegene Rhythmus fannen",
+                  "net ze séier an net ze lues spillen"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Véier: Praktesch Spillstrategie",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Ufanksstrategie",
+              "paragraphs": [
+                "Bei DMine ass den éischte Klick ëmmer sécher. Am Ufank grouss eidel Beräicher opdecken fir méi logesch Schlësseler fir spéider ze kréien."
+              ]
+            },
+            {
+              "title": "Prioritéitsregel",
+              "paragraphs": [
+                "Behandelt d'Spillbrett an dëser Reiefolleg:"
+              ],
+              "orderedList": [
+                "Als éischt all bestëmmt Muster opléisen (1-2-1, 1-2-2-1 asw.)",
+                "Schnellopdeckung benotzen",
+                "Randzuelen eenzel duerchgoen",
+                "Zum Schluss d'Beräicher behandelen, wou muss gerot ginn"
+              ]
+            },
+            {
+              "title": "Ratestrategie",
+              "paragraphs": [
+                "Wann Dir onbedéngt raten musst:"
+              ],
+              "list": [
+                [
+                  "Prioritéit bei Felder um Bord",
+                  "manner Verknëppungen, manner Risiko"
+                ],
+                [
+                  "Rescht Zuel vun de Minen zielen",
+                  "hëlleft bei der Entscheedung"
+                ],
+                [
+                  "Bis zum Schluss waarde mat Raten",
+                  "éischt aner Beräicher opléisen fir méi Kloerheet"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Fënnef: Fäegkeetsverbesserung duerch Übung",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Mustererkennung üben",
+                  "Zuelemuster direkt ouni Nozedenken erkennen a handelen"
+                ],
+                [
+                  "Zécken vermeiden",
+                  "bestëmmt Entscheedungen bannent 0,5 Sekonnen treffen"
+                ],
+                [
+                  "Spillverlaf analyséieren",
+                  "no engem Verléier kucken, wat een besser maache kéint"
+                ],
+                [
+                  "DMine Ranglëscht benotzen",
+                  "Profien hir Rekorder kucken a selwer Ziler setzen"
+                ],
+                [
+                  "Ohne Fändel spillen (Blindspill)",
+                  "probéieren d'Spill ouni Fändel ze fäerdeg maachen"
+                ]
+              ],
+              "tipBox": "🎯 Referenzziler: Normal Spiller bis 10 Niveauen, Erfuerene bis 20 Niveauen, Profis iwwer 30 Niveauen, Top-Spiller schafen iwwer 30 Niveauen och ouni Fändel."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Elo üben"
+    }
+  }
+}

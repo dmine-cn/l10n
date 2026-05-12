@@ -51,6 +51,7 @@ const Map<String, String> stringsTr = {
   'language': 'Dil',
   // Home page
   'newbie': 'Yeni Başlayan',
+  'gameIntro': 'Oyun Tanıtımı',
   'newBattle': 'Yeni Cephe',
   'continueChallenge': 'Mücadeleye Devam Et',
   'error': 'Hata',

@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "af",
+    "langAttr": "af",
+    "ogLocale": "af_ZA",
+    "siteName": "DMine - Top Mynveër",
+    "canonicalPrefix": "af/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Tuisblad",
+    "rules": "Reëls",
+    "tips": "Wenke",
+    "about": "Oor Ons",
+    "download": "Laai Af"
+  },
+  "footer": {
+    "copyright": "© 2026 DMine Span"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Oor DMine - Top Mynveër | Oorplatform-mynveërspel",
+      "metaDescription": "DMine (Top Mynveër) is 'n oorplatform-mynveërspel wat Windows, macOS, Linux, Android, iOS, HarmonyOS en Web-platforms ondersteun. Gratis en oopbron, 66 tale, speel aanlyn!",
+      "metaKeywords": "mynveërspel,DMine,top mynveër,oorplatform mynveër,gratis mynveër,oopbron mynveër",
+      "headerTitle": "💣 DMine - Top Mynveër",
+      "headerSubtitle": "'n Oorplatform-mynveërspel, speel die klassieke enige tyd, enige plek",
+      "sections": [
+        {
+          "heading": "Wat is DMine?",
+          "paragraphs": [
+            "DMine (Top Mynveër) is 'n oorplatform-mynveërspel ontwikkel met die Flutter-raamwerk. Dit behou die kernspel van klassieke mynveër terwyl dit moderne ontwerp en ryk funksies byvoeg om spelers 'n splinternuwe mynveërervaring te bied.",
+            "Of jy nou 'n gevorderde speler op Windows is of 'n informele speler wat tyd doodmaak op jou selfoon tijdens woon-werkverkeer, DMine voldoen aan al jou behoeftes."
+          ]
+        },
+        {
+          "heading": "Ondersteunde Platforms",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Data is gesinchroniseer oor alle platforms — speel een keer, sinchroniseer oral."
+          ]
+        },
+        {
+          "heading": "Kenmerke",
+          "list": [
+            [
+              "Multi-taal ondersteuning",
+              "Ondersteun 66 tale vir onbeperkte spel wêreldwyd"
+            ],
+            [
+              "Wedstryddeel",
+              "Spelrekords word outomaties na die wolk gestuur, ander spelers kan dit aflaai en kyk"
+            ],
+            [
+              "Wolk ranglys",
+              "Wedyver met spelers wêreldwyd vir die hoogste voltooide vlak"
+            ],
+            [
+              "Verskeie spelmodusse",
+              "Beginnersmodus en normale uitdagingmodus"
+            ],
+            [
+              "Heeltemal gratis",
+              "Geen advertensies, geen in-aankoop, suiwer spelervaring"
+            ]
+          ]
+        },
+        {
+          "heading": "Spelmodusse",
+          "paragraphs": [
+            "Spelreëls: Die bord is vas op 16×30 (480 vakke). Vind al die veilige vakke tussen die gespesifiseerde aantal myne om te wen."
+          ],
+          "list": [
+            [
+              "Beginnersmodus",
+              "Begin met 15 myne, voeg 6 myne by per vlak, maksimum 99 myne op vlak 15"
+            ],
+            [
+              "Normale uitdaging",
+              "Begin met 81 myne. Voeg 6 myne by per vlak vir die eerste 4 vlakke, dan 3 myne per vlak vir die volgende 3 vlakke, daarna 2 myne per vlak vir nog 3 vlakke, en 1 myn per vlak daarna, geen boonste limiet nie"
+            ]
+          ]
+        },
+        {
+          "heading": "Weergawe-inligting",
+          "paragraphs": [
+            "Huidige weergawe: {{VERSION}}",
+            "Tegniese stapel: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine is 'n oopbronprojek, volg en dra by tot die kode op GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Begin speel"
+    },
+    "rules": {
+      "pageTitle": "Mynveër Reëls verduidelik — Beginners moet sien | DMine Top Mynveër",
+      "metaDescription": "Hoe speel mynveër? Hierdie artikel verduidelik die basiese reëls, getalbetekenis, bedryfmetodes en wenvoorwaardes vir mynveër, must-see vir beginners!",
+      "metaKeywords": "mynveër reëls,hoe speel mynveër,mynveër tutoriaal,beginners mynveër,basiese reëls mynveër,spelreëls mynveër",
+      "headerTitle": "💣 Mynveër Reëls verduidelik",
+      "headerSubtitle": "Leer mynveër van nul af, must-see vir beginners",
+      "sections": [
+        {
+          "heading": "Speldoel",
+          "paragraphs": [
+            "Die doel van mynveër is eenvoudig: ontbloot al die veilige vakke sonder om op 'n myn te trap. As jy op 'n myn trap, eindig die spel; as jy al die nie-myn vakke ontbloot, het jy gewen!"
+          ]
+        },
+        {
+          "heading": "Basiese Bedryf",
+          "table": {
+            "headers": [
+              "Bedryf",
+              "Muis",
+              "Aanraking",
+              "Beskrywing"
+            ],
+            "rows": [
+              [
+                "Ontbloot vak",
+                "Linksklik",
+                "Klik eenmaal",
+                "Ontbloot die gekose vak"
+              ],
+              [
+                "Vlag merk",
+                "Regsklik",
+                "Druk lank",
+                "Merk die plek waar jy dink daar is 'n myn (⚑)"
+              ],
+              [
+                "Vraagteken merk",
+                "Weer regsklik",
+                "Weer druk lank",
+                "Merk met vraagteken as onseker (?)"
+              ],
+              [
+                "Vinnige ontbloting (Chord)",
+                "Linksklik op 'n ontblote getalvak",
+                "—",
+                "As die aantal vlaggie rondom 'n getal ooreenstem, klik die getalvak om al die ongemerkte vakke rondom dit te ontbloot"
+              ]
+            ]
+          },
+          "tipBox": "💡 Wenk: Vinnige ontbloting (Chord) is baie doeltreffend! Wanneer die aantal vlaggie rondom 'n getal ooreenstem met die getal, klik die ontblote getalvak om al die ongemerkte vakke rondom dit te ontbloot."
+        },
+        {
+          "heading": "Betekenis van getalle",
+          "paragraphs": [
+            "As jy 'n vak ontbloot, verskyn 'n getal (1–8) op die vak — dit dui die aantal myne in die 8 omliggende vakke aan.",
+            "Hier is 'n 3×3 voorbeeld: die getal 1 in die middel beteken daar is 1 myn in die 8 omliggende vakke:"
+          ],
+          "list": [
+            "1 — 1 myn in die 8 omliggende vakke",
+            "2 — 2 myne in die 8 omliggende vakke",
+            "3 — 3 myne in die 8 omliggende vakke",
+            "…… en so voort, maksimum 8"
+          ],
+          "tipBox": "💡 'n Leë vak (geen getal) beteken geen myne in die 8 omliggende vakke — die spel ontbloot outomaties die omliggende area, dit is die 'ketting-effek'."
+        },
+        {
+          "heading": "Spelmodusse",
+          "paragraphs": [
+            "Vaste bord: 16 × 30 (480 vakke)"
+          ],
+          "table": {
+            "headers": [
+              "Modus",
+              "Aanvanklike myne",
+              "Verhogingreël",
+              "Beskrywing"
+            ],
+            "rows": [
+              [
+                "Beginnersmodus",
+                "15 myne",
+                "+6 myne per vlak",
+                "Maksimum 99 myne op vlak 15"
+              ],
+              [
+                "Normale uitdaging",
+                "81 myne",
+                "Sien onder",
+                "Mynne verhoog elke week, geen boonste limiet nie"
+              ]
+            ]
+          },
+          "extraParagraph": "Normale uitdaging verhoging: +6 myne per vlak vir eerste 4 vlakke, daarna +3 per vlak vir 3 vlakke, daarna +2 per vlak vir 3 vlakke, daarna +1 per vlak, geen boonste limiet nie."
+        },
+        {
+          "heading": "Wen en Verloor",
+          "list": [
+            [
+              "Wen",
+              "Ontbloot al die nie-myn vakke of merk al die myne korrek"
+            ],
+            [
+              "Verloor",
+              "Klik op 'n myn, spel eindig onmiddellik"
+            ]
+          ],
+          "tipBox": "💡 Eerste klik is 100% veilig! DMine waarborg dat die eerste klik nooit op 'n myn is nie."
+        },
+        {
+          "heading": "Aflaai en Deel",
+          "paragraphs": [
+            "Spelers se voltooide rekords word outomaties na die wolk gestuur. Ander spelers kan die voltooing aflaai en kyk in die 'Strydlyn'. Aflaaie kan slegs gekyk word, nie deelneem of verander word nie."
+          ]
+        },
+        {
+          "heading": "Ranglys",
+          "paragraphs": [
+            "DMine ondersteun wolk ranglys, gegrond op die aantal voltooide vlakke. Hoe meer vlakke, hoe hoër die rang — wedyver met spelers wêreldwyd."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Begin speel"
+    },
+    "tips": {
+      "pageTitle": "Gevorderde Wenke vir Mynveër — van beginner tot gevorderde | DMine Top Mynveër",
+      "metaDescription": "Gevorderde gids vir mynveër! 1-2-1 patroon, 1-2-2-1 patroon, dubbelklik tegniek, waarskynlikheidsanalise… bemeester hierdie wenke om snelheid en wenkans te verbeter!",
+      "metaKeywords": "mynveër wenke,gevorderde mynveër,mynveër patrone,mynveër strategie,mynveër 1-2-1,mynveër waarskynlikheid,mynveër kundige,mynveër gevorderd",
+      "headerTitle": "🎯 Gevorderde Wenke vir Mynveër",
+      "headerSubtitle": "Van beginner tot gevorderde, word 'n mynveërkundige",
+      "headerSub2": "Bemeester hierdie patrone en strategieë om jou wenkans en snelheid te verdubbel",
+      "sections": [
+        {
+          "heading": "1. Basiese Patrone",
+          "difficulty": "Beginner",
+          "items": [
+            {
+              "title": "1-2-1 Patroon",
+              "paragraphs": [
+                "Dit is die algemeenste en belangrikste patroon in mynveër. As jy 'n 1-2-1 ry op 'n reguit lyn sien, kan jy seker wees:"
+              ],
+              "list": [
+                [
+                  "Een myn bo elke 1",
+                  "Merk met vlag"
+                ],
+                [
+                  "Veilige vak bo die 2",
+                  "Kan veilig ontbloot word"
+                ]
+              ],
+              "tipBox": "💡 Dit is 'n seker patroon — geen raaiskak nodig, 100% af lei."
+            },
+            {
+              "title": "1-2-2-1 Patroon",
+              "paragraphs": [
+                "As jy 1-2-2-1 sien, is dit ook 'n klassieke patroon:"
+              ],
+              "list": [
+                [
+                  "Een myn bo elke middel 2",
+                  ""
+                ],
+                [
+                  "Veilige vak bo elke 1",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Randpatroon",
+              "paragraphs": [
+                "As 'n getal aan die rand van die bord is, is afleiding makker omdat een kant ontbreek."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Middelmatige Tegnieke",
+          "difficulty": "Gevorderd",
+          "items": [
+            {
+              "title": "Dubbelklik Tegniek (Chord)",
+              "paragraphs": [
+                "Dit is die sleutel om snelheid te verbeter. As die aantal vlaggie rondom 'n getal ooreenstem met die getal, klik middelmuisknop of linker+regterklik gelyktydig om ongemerkte vakke te ontbloot.",
+                "Voorbeeld: as 'n 3 al 3 vlaggie het, dubbelklik die 3 om die oorblywende 5 vakke te ontbloot."
+              ],
+              "tipBox": "⚡ Kundige geheim: gevorderde spelers gebruik byna altyd dubbelklik — vlag en dubbelklik, snelheid vermenigvuldig."
+            },
+            {
+              "title": "Aftrekking Afleiding",
+              "paragraphs": [
+                "As 'n getal al gedeeltelik gemerk is, trek die vlaggie af om die oorblywende myne te bereken. Bv. 'n 3 met 1 vlag het nog 2 myne oor."
+              ]
+            },
+            {
+              "title": "Meervoudige Getal Afleiding",
+              "paragraphs": [
+                "Kyk nie alleen na een getal nie — kombineer aangrensende getalle. Hulle deel vakke, gebruik snyding en komplement om meer inligting af te lei."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Gevorderde Tegnieke",
+          "difficulty": "Bemeester",
+          "items": [
+            {
+              "title": "Waarskynlikheidsanalise",
+              "paragraphs": [
+                "As jy nie seker kan wees (raaiskak tyd), kies die vak met die laagste mynwaarskynlikheid:"
+              ],
+              "list": [
+                [
+                  "Kies vakke naby ontblote areas",
+                  "Meer inligting"
+                ],
+                [
+                  "Vermy geïsoleerde vakke",
+                  "Hoër onsekerheid"
+                ],
+                [
+                  "Bereken oorblywende myne en vakke in ingewikkelde gevalle",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Raaiskak is onvermydelik, maar waarskynlikheidsanalise verhoog wenkans tot meer as 90%."
+            },
+            {
+              "title": "Patroonherkenning",
+              "paragraphs": [
+                "Kundiges kyk nie na individuele vakke nie — hulle herken patrone soos lees. Oefen genoeg en jy sien dadelik waar myne en veilige plekke is."
+              ]
+            },
+            {
+              "title": "Muisbedryf Tegnieke",
+              "list": [
+                [
+                  "Vlot linker+regter hand samewerking",
+                  "Regterhand: vlag, Linkerhand: ontbloot"
+                ],
+                [
+                  "Verklein muisbeweging",
+                  "Gebruik dubbelklik om enkelklikke te vervang"
+                ],
+                [
+                  "Ritme",
+                  "Vind jou eie tempo, nie te vinnig of te stadig nie"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Strategieë in die Speel",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Beginstrategie",
+              "paragraphs": [
+                "DMine waarborg eerste klik is veilig. Na begin, ontbloot groot leë areas vir meer aanwysers."
+              ]
+            },
+            {
+              "title": "Prioriteitsreël",
+              "paragraphs": [
+                "Hanteer die bord in hierdie volgorde:"
+              ],
+              "orderedList": [
+                "Eerst alle seker patrone (1-2-1, 1-2-2-1, ens.)",
+                "Gebruik vinnige ontbloting",
+                "Hanteer randgetalle een vir een",
+                "Laai raaiskak areas vir laaste"
+              ]
+            },
+            {
+              "title": "Raaiskak Strategie",
+              "paragraphs": [
+                "As jy moet raaiskies:"
+              ],
+              "list": [
+                [
+                  "Kies randvakke eerste",
+                  "Meestal laer risiko"
+                ],
+                [
+                  "Tel oorblywende myne",
+                  "Help met besluitneming"
+                ],
+                [
+                  "Laai vir laaste",
+                  "Los ander areas op om duideliker te maak"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Vaardigheidsverbetering Oefening",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Oefen patroonreaksie",
+                  "Sien kombinasie, reageer onmiddellik, spienergeheue vorm"
+                ],
+                [
+                  "Verklein aarzeling",
+                  "Seker besluite binne 0.5 sekondes"
+                ],
+                [
+                  "Analiseer na verlies",
+                  "Dink waar jy beter kon doen"
+                ],
+                [
+                  "Gebruik DMine ranglys",
+                  "Kyk kundiges se rekords, stel klein doelwitte"
+                ],
+                [
+                  "Probeer blinde speel",
+                  "Speel sonder vlaggie om te voltooi"
+                ]
+              ],
+              "tipBox": "🎯 Doelwit: beginners binne 10 vlakke, gevorderde binne 20, kundiges 30+, topkundiges kan blinde speel tot 30+"
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Begin oefen"
+    }
+  }
+}

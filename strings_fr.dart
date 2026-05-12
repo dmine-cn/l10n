@@ -53,6 +53,7 @@ const Map<String, String> stringsFr = {
   'language': 'Langue',
   // Home page
   'newbie': 'Débutant',
+  'gameIntro': 'Présentation du jeu',
   'newBattle': 'Nouveau front',
   'continueChallenge': 'Continuer le défi',
   'error': 'Erreur',

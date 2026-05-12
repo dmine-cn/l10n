@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "eo",
+    "langAttr": "eo",
+    "ogLocale": "eo",
+    "siteName": "DMine - Plej Bona Minaĉasisto",
+    "canonicalPrefix": "eo/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Ĉefpaĝo",
+    "rules": "Reguloj",
+    "tips": "Konsiloj",
+    "about": "Pri Ni",
+    "download": "Elŝuti"
+  },
+  "footer": {
+    "copyright": "© 2026 DMine Teamo"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Pri DMine - Top Minaĉasisto | Maldisplatforma Minaĉludo",
+      "metaDescription": "DMine (Top Minaĉasisto) estas maldisplatforma minaĉludo, kiu subtenas Windows, macOS, Linux, Android, iOS, HarmonyOS kaj TTTon. Senpaga kaj malfermkoda, 66 lingvoj, ludu rete!",
+      "metaKeywords": "minaĉludo,DMine,top minaĉasisto,maldisplatforma minaĉludo,senpaga minaĉludo,malfermkoda minaĉludo",
+      "headerTitle": "💣 DMine - Top Minaĉasisto",
+      "headerSubtitle": "Maldisplatforma minaĉludo, ĝuu la klasikaĵon ie ajn kaj iam ajn",
+      "sections": [
+        {
+          "heading": "Kio estas DMine?",
+          "paragraphs": [
+            "DMine (Top Minaĉasisto) estas maldisplatforma minaĉludo kreita per la kadro Flutter. Ĝi konservas la kernan ludmanieron de la klasika minaĉludo, samtempe aldonas modernan interfacan dezajnon kaj riĉajn funkciojn por doni al ludantoj novan sperton.",
+            "Ĉu vi estas sperta ludanto sur Windows aŭ malpeziga ludanto, kiu distras per poŝtelefono en vojaĝo, DMine kontentigas viajn bezonojn."
+          ]
+        },
+        {
+          "heading": "Subtenataj platformoj",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Datumoj sinkroniĝas tra ĉiuj platformoj – ludu ĉe unu loko, sinkroni ĉiuste."
+          ]
+        },
+        {
+          "heading": "Karakterizaĵoj",
+          "list": [
+            [
+              "Pluringva subteno",
+              "Subtenas 66 lingvojn, mondaj ludantoj ludas sen baroj"
+            ],
+            [
+              "Kunhavigo de registroj",
+              "Ludregistroj aŭtomate kunhaviĝas en nubo, aliaj ludantoj povas reprodukti ilin"
+            ],
+            [
+              "Nub-ranglisto",
+              "Konkuru kun mondaj ludantoj pri finitaj niveloj"
+            ],
+            [
+              "Pluraj ludmodoj",
+              "Du modoj: por komencantoj kaj normala defio"
+            ],
+            [
+              "Tute senpaga",
+              "Sen reklamoj kaj internaj aĉetoj, pura ludsperto"
+            ]
+          ]
+        },
+        {
+          "heading": "Ludmodoj",
+          "paragraphs": [
+            "Ludreguloj: La tablo estas fiksita 16×30 (480 kelaĵoj). Vi venkas se vi trovas ĉiujn sekurajn kelaĵojn inter difinita nombro da minoj."
+          ],
+          "list": [
+            [
+              "Por komencantoj",
+              "Komencas kun 15 minoj, ĉiu finita nivelo aldonas 6 minojn, maksimume 99 minoj ĉe nivelo 15"
+            ],
+            [
+              "Normala defio",
+              "Komencas kun 81 minoj; unuaj 4 niveloj +6 minoj, sekvaj 3 +3 minoj, pliaj 3 +2 minoj, poste +1 mino por nivelo, sen supra limo"
+            ]
+          ]
+        },
+        {
+          "heading": "Versiadinformoj",
+          "paragraphs": [
+            "Nuna versio: {{VERSION}}",
+            "Teknologia stako: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine estas malfermkoda projekto, bonvenon por sekvi kaj kontribui kodon ĉe GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Komencu la ludon"
+    },
+    "rules": {
+      "pageTitle": "Detalaj reguloj de Minaĉado - Devas por komencantoj | DMine Top Minaĉasisto",
+      "metaDescription": "Kiel ludi Minaĉadon? Ĉi tiu artikolo detaligas la bazajn regulojn, signifon de nombroj, komandojn kaj venkajn kondiĉojn – devan lernilon por komencantoj!",
+      "metaKeywords": "reguloj de minaĉado,kiel ludi minaĉadon,lernilo de minaĉado,komencanto de minaĉado,bazaj reguloj de minaĉado,ludreguloj de minaĉado",
+      "headerTitle": "💣 Detalaj reguloj de Minaĉado",
+      "headerSubtitle": "Lernu Minaĉadon de nulo, devas por komencantoj",
+      "sections": [
+        {
+          "heading": "Ludcelo",
+          "paragraphs": [
+            "La celo de Minaĉado estas simpla: Malfermu ĉiujn sekurajn kelaĵojn sen paŝi sur minon. Se vi malfermas minon, la ludo finiĝas; se vi malfermas ĉiujn senminajn kelaĵojn – vi venkis!"
+          ]
+        },
+        {
+          "heading": "Bazaj komandoj",
+          "table": {
+            "headers": [
+              "Ago",
+              "Muso",
+              "Tuŝo",
+              "Klarigo"
+            ],
+            "rows": [
+              [
+                "Malfermi kelaĵon",
+                "Maldekstra klako",
+                "Unu frapeto",
+                "Malfermas la elektitan kelaĵon"
+              ],
+              [
+                "Marki per flago",
+                "Dekstra klako",
+                "Longa frapeto",
+                "Markas lokon, kie vi opinias, ke estas mino (⚑)"
+              ],
+              [
+                "Marki per demandosigno",
+                "Denove dekstra klako",
+                "Denove longa frapeto",
+                "Markas per ? se vi ne estas certa"
+              ],
+              [
+                "Rapida malfermo (Chord)",
+                "Maldekstra klako sur malfermita nombra kelaĵo",
+                "—",
+                "Kiam la nombro da flagoj ĉirkaŭ nombro egalas al tiu nombro, klako sur la nombro malfermas ĉiujn nemarkitajn kelaĵojn ĉirkaŭe"
+              ]
+            ]
+          },
+          "tipBox": "💡 Konsilo: Rapida malfermo (Chord) estas tre efika ludmaniero! Kiam la nombro da flagoj ĉirkaŭ nombro egalas al tiu nombro, maldekstra klako sur tiu kelaĵo malfermas ĉiujn nemarkitajn kelaĵojn ĉirkaŭe."
+        },
+        {
+          "heading": "Signifo de nombroj",
+          "paragraphs": [
+            "Kiam vi malfermas kelaĵon, aperas nombro (1~8), kiu indikas kiom da minoj estas en la 8 ĉirkaŭaj kelaĵoj.",
+            "Jen 3×3 ekzemplo: Nombro 1 en la mezo signifas, ke estas 1 mino en la 8 ĉirkaŭaj kelaĵoj:"
+          ],
+          "list": [
+            "1 — 1 mino en 8 ĉirkaŭaj kelaĵoj",
+            "2 — 2 minoj en 8 ĉirkaŭaj kelaĵoj",
+            "3 — 3 minoj en 8 ĉirkaŭaj kelaĵoj",
+            "…… tiel plue, maksimume 8"
+          ],
+          "tipBox": "💡 Malplena kelaĵo (sen nombro) signifas, ke neniu minoj estas en la 8 ĉirkaŭaj kelaĵoj – la ludo aŭtomate malfermas la ĉirkaŭan areon – tiu estas la mekanismo de “ĉena malfermo” en Minaĉado."
+        },
+        {
+          "heading": "Ludmodoj",
+          "paragraphs": [
+            "Fiksita tablo: 16 × 30 (480 kelaĵoj)"
+          ],
+          "table": {
+            "headers": [
+              "Modo",
+              "Komenca nombro da minoj",
+              "Regulo de pliiĝo",
+              "Klarigo"
+            ],
+            "rows": [
+              [
+                "Por komencantoj",
+                "15 minoj",
+                "+6 minoj por ĉiu finita nivelo",
+                "Maksimume 99 minoj ĉe nivelo 15"
+              ],
+              [
+                "Normala defio",
+                "81 minoj",
+                "Vidu sube",
+                "Nombro da minoj pliiĝas ĉiun rondon, sen supra limo"
+              ]
+            ]
+          },
+          "extraParagraph": "Regulo de pliiĝo por normala defio: unuaj 4 niveloj +6 minoj, sekvaj 3 +3 minoj, pliaj 3 +2 minoj, poste +1 mino por nivelo, sen supra limo."
+        },
+        {
+          "heading": "Venkado kaj malvenko",
+          "list": [
+            [
+              "Venkado",
+              "Malfermu ĉiujn senminajn kelaĵojn aŭ pravmarke ĉiujn minlokon"
+            ],
+            [
+              "Malvenko",
+              "Klaku sur minon – la lodo tuj finiĝas"
+            ]
+          ],
+          "tipBox": "💡 La unua klako estas 100% sekura! DMine garantias, ke la unua klako ne fali sur minon, komencu trankvile."
+        },
+        {
+          "heading": "Reproduktado kaj kunhavigo",
+          "paragraphs": [
+            "Registroj de finitaj niveloj aŭtomate kunhaviĝas en nubo. Aliaj ludantoj povas rigardi la reproduktaĵon en “Linio”. Reproduktado estas nur por rigardo, ne por partopreno aŭ ŝanĝo."
+          ]
+        },
+        {
+          "heading": "Ranglisto",
+          "paragraphs": [
+            "DMine subtenas nub-rangliston, rangigitan laŭ nombro da finitaj niveloj. Ju pli da niveloj – des pli alta rangeto. Konkuru kun mondaj ludantoj."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Komencu la ludon"
+    },
+    "tips": {
+      "pageTitle": "Altaj trukoj por Minaĉadon - De komencanto al mastro | DMine Top Minaĉasisto",
+      "metaDescription": "Gvidilo por lernintoj! Ŝablono 1-2-1, ŝablono 1-2-2-1, duobla klako, probabla analizo… Regu ĉi tiujn trukojn por facile plibonigi rapidecon kaj venkprocenton!",
+      "metaKeywords": "trukoj por minaĉado,altaj trukoj por minaĉado,ŝablonoj de minaĉado,strategio de minaĉado,1-2-1 minaĉado,probabloj de minaĉado,mastro de minaĉado,altigita en minaĉado",
+      "headerTitle": "🎯 Altaj trukoj por Minaĉadon",
+      "headerSubtitle": "De komencanto al mastro, fariĝu mastro de Minaĉado",
+      "headerSub2": "Regu ĉi tiujn ŝablonojn kaj strategiojn, duobligu vian venkprocenton kaj rapidecon",
+      "sections": [
+        {
+          "heading": "1. Bazaj ŝablonoj",
+          "difficulty": "Komencanto",
+          "items": [
+            {
+              "title": "Ŝablono 1-2-1",
+              "paragraphs": [
+                "Tio estas la plej ofta kaj plej grava ŝablono en Minaĉado. Kiam vi vidas sinsekvan nombron 1-2-1 sur rekta linio, vi povas esti certa:"
+              ],
+              "list": [
+                [
+                  "Estas mino super ĉiu 1",
+                  "Marki per flago"
+                ],
+                [
+                  "Kelaĵo super 2 estas sekura",
+                  "Vi povas malfermi ĝin trankvile"
+                ]
+              ],
+              "tipBox": "💡 Tio estas certa ŝablono – ne bezonas diveni, 100% logike konkludebla."
+            },
+            {
+              "title": "Ŝablono 1-2-2-1",
+              "paragraphs": [
+                "Kiam vi vidas aranĝon 1-2-2-1, tio ankaŭ estas klasika ŝablono:"
+              ],
+              "list": [
+                [
+                  "Estas mino super la mezo de la du 2",
+                  ""
+                ],
+                [
+                  "Estas sekura kelaĵo super ĉiu 1",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Randaj ŝablonoj",
+              "paragraphs": [
+                "Kiam nombro estas ĉe la rando de la tablo, konkludo fariĝas pli simpla, ĉar mankas unu flanko por kalkuli."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Mezaj trukoj",
+          "difficulty": "Altigita",
+          "items": [
+            {
+              "title": "Duobla klako (Chord)",
+              "paragraphs": [
+                "Tio estas la plej ŝlosila ago por plibonigi rapidecon. Kiam la nombro da flagoj ĉirkaŭ nombro egalas al tiu nombro, klaku la mezan musbutonon aŭ maldekstran kaj dekstran samtempe – ĉiuj nemarkitaj kelaĵoj ĉirkaŭe malfermiĝas aŭtomate.",
+                "Ekzemplo: se 3 jam havas 3 flagojn ĉirkaŭe, duobla klako sur 3 malfermas la ceterajn 5 kelaĵoj aŭtomate."
+              ],
+              "tipBox": "⚡ Sekreto de mastroj: Preskaŭ ĉiuj altaj ludantoj uzas duoblan klakon – marku kaj duoblakaku, rapideco multobliĝas."
+            },
+            {
+              "title": "Subtrahta konkludo",
+              "paragraphs": [
+                "Kiam iu nombro jam havas kelkajn flagojn markitajn, “subtrahu” tiujn flagojn por akiri la nombron da restantaj minoj. Ekzemple: 3 kun unu flago havas ankoraŭ 2 minojn."
+              ]
+            },
+            {
+              "title": "Kombinita konkludo de nombroj",
+              "paragraphs": [
+                "Ne rigardu individuajn nombrojn izole, kombinu apudajn nombrojn. Du apudaj nombroj kunhavigas parton de kelaĵoj – uzu intersekcon kaj komplementon por konkludi pli da informoj."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Altaj trukoj",
+          "difficulty": "Mastro",
+          "items": [
+            {
+              "title": "Probabla analizo",
+              "paragraphs": [
+                "Kiam vi renkontas necertecan situacion (t.e. “diveni minon”), juĝu kiu kelaĵo havas la plej malaltan probablon de mino:"
+              ],
+              "list": [
+                [
+                  "Prioritu kelaĵojn proksimajn al malfermitaj areoj",
+                  "Pli da informoj"
+                ],
+                [
+                  "Evitu kelaĵojn en izolitaj areoj",
+                  "Alta necerteco"
+                ],
+                [
+                  "En iuj kompleksaj situacioj, lernu kalkuli la rilaton inter restantaj minoj kaj kelaĵoj",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ “Diveni” en Minaĉado ne estas tute evitebla, sed per probabla analizo vi povas altigi vian venkprocenton super 90%."
+            },
+            {
+              "title": "Ŝablonrekono",
+              "paragraphs": [
+                "Mastroj ne kalkulas kelaĵojn unu post la alia – ili rekonas “ŝablonojn” kiel legi tekston. Multa praktiko faras, ke vi tuj rekonus, kie estas minoj kaj kie estas sekure."
+              ]
+            },
+            {
+              "title": "Muskomandaj trukoj",
+              "list": [
+                [
+                  "Lerta kunlaboro de ambaŭ manoj",
+                  "Maldekstra mano: flagoj (dekstra klako), dekstra mano: malfermo (maldekstra klako)"
+                ],
+                [
+                  "Malpliigi musmoviĝon",
+                  "Uzu duoblan klakon anstataŭ unuajn klakojn"
+                ],
+                [
+                  "Ritmo",
+                  "Trovi vian propran komandritmon, ne esti rapida kaj malrapida subite"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Praktikaj strategioj",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Komenca strategio",
+              "paragraphs": [
+                "DMine garantias, ke la unua klako estas sekura. Post komenco, malfermu unue grandajn malplenajn areojn por krei pli da indikoj por poste konkludi."
+              ]
+            },
+            {
+              "title": "Prioritata regulo",
+              "paragraphs": [
+                "Traktu la tablon en jena ordo:"
+              ],
+              "orderedList": [
+                "Unue ĉiuj certaj ŝablonoj (1-2-1, 1-2-2-1 ktp.)",
+                "Uzu rapidan malfermon",
+                "Traktu randajn nombrojn unu post la alia",
+                "Laste areoj, kiuj bezonas divenon"
+              ]
+            },
+            {
+              "title": "Divena strategio",
+              "paragraphs": [
+                "Kiam vi devas diveni:"
+              ],
+              "list": [
+                [
+                  "Divenu unue randajn kelaĵojn",
+                  "Malpli da risko kutime"
+                ],
+                [
+                  "Kalkulu restantajn minojn",
+                  "Scii, kiom da minoj restas por helpi juĝon"
+                ],
+                [
+                  "Lasu por fino",
+                  "Se vi havas tempon, solvu unue aliajn areojn por klariĝigi la tablon"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Trejnado por plibonigo",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Trejnu ŝablonreagon",
+                  "Kiam vi vidas nombrkombinojn, agu sen pripenso, kreu muskolan memoron"
+                ],
+                [
+                  "Malpliigi heziton",
+                  "Certaj decidoj en 0,5 sekundoj"
+                ],
+                [
+                  "Analizo post malvenko",
+                  "Pripensu, kio vi povus fari pli bone"
+                ],
+                [
+                  "Uzu DMine-rangliston",
+                  "Rigardu registrojn de mastroj, fiksu malgrandajn celojn, defiu vin mem"
+                ],
+                [
+                  "Provu sen flagoj",
+                  "Provu fini la ludon sen marki minojn per flagoj"
+                ]
+              ],
+              "tipBox": "🎯 Celo-referenco: Ordinara ludanto – ene 10 niveloj, lerta – ene 20 niveloj, mastro – pli ol 30 niveloj, supraj ludantoj – povas atingi pli ol 30 nivelojn sen flagoj."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Komencu praktikadon"
+    }
+  }
+}

@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "sl",
+    "langAttr": "sl",
+    "ogLocale": "sl_SI",
+    "siteName": "DMine - Vrhunski Minač",
+    "canonicalPrefix": "sl/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Domov",
+    "rules": "Pravila",
+    "tips": "Nasveti",
+    "about": "O nas",
+    "download": "Prenesi"
+  },
+  "footer": {
+    "copyright": "© 2026 Ekipa DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "O DMine - Vrhunski Minač | Večplatformska igra mine",
+      "metaDescription": "DMine (Vrhunski Minač) je večplatformska igra mine, na voljo za Windows, macOS, Linux, Android, iOS, HarmonyOS in splet. Brezplačna in odprtokodna, podprtih 66 jezikov, igrajte kjerkoli!",
+      "metaKeywords": "igra mine, DMine, vrhunski minač, večplatformska igra mine, brezplačna igra mine, odprtokodna igra mine",
+      "headerTitle": "💣 DMine - Vrhunski Minač",
+      "headerSubtitle": "Večplatformska klasična igra mine, igrajte kadarkoli in kjerkoli",
+      "sections": [
+        {
+          "heading": "Kaj je DMine?",
+          "paragraphs": [
+            "DMine (Vrhunski Minač) je večplatformska igra mine, razvita z ogrodjem Flutter. Ohranja jedrno igranje klasične igre mine, hkrati pa ponuja sodoben vmesnik in bogate funkcije za popolnoma novo izkušnjo igre.",
+            "Ne glede na to, ali ste izkušen igralec v sistemu Windows ali občasni igralec na poti s telefonom – DMine ustreza vsem željam."
+          ]
+        },
+        {
+          "heading": "Podprte platforme",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Splet",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Podatki so sinhronizirani med vsemi platformami – igrajte enkrat, nadaljujte povsod."
+          ]
+        },
+        {
+          "heading": "Glavne funkcije",
+          "list": [
+            [
+              "Podpora več jezikom",
+              "Podprtih 66 jezikov, igranje brez ovir za igralce po vsem svetu"
+            ],
+            [
+              "Deljenje iger",
+              "Zapisi iger se samodejno shranijo v oblak, ostali igralci si lahko ogledajo ponovitve"
+            ],
+            [
+              "Oblak lestvice",
+              "Primerjajte svoj napredek z igralci z vsega sveta"
+            ],
+            [
+              "Več načinov igre",
+              "Začetniški in običajni izzivni način"
+            ],
+            [
+              "Popolnoma brezplačno",
+              "Brez oglasov in nakupov v igri, čista igralna izkušnja"
+            ]
+          ]
+        },
+        {
+          "heading": "Načini igre",
+          "paragraphs": [
+            "Pravila igre: Mreža je fiksna 16×30 (480 polj). Zmagate, ko odkrijete vsa varna polja brez min."
+          ],
+          "list": [
+            [
+              "Začetniški način",
+              "Začetek s 15 minami, po vsaki zmagi +6 min, največ 99 min v 15. stopnji"
+            ],
+            [
+              "Običajni izziv",
+              "Začetek z 81 minami; prvih 4 zmag +6 min na stopnjo, nato 3 stopnje +3 min, nadaljnje 3 stopnje +2 min, kasneje +1 min na stopnjo – brez zgornje meje"
+            ]
+          ]
+        },
+        {
+          "heading": "Informacije o različici",
+          "paragraphs": [
+            "Trenutna različica: {{VERSION}}",
+            "Tehnološki sklad: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine je odprtokodni projekt – spremljajte in prispevajte k kodi na GitHubu."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Začni igro"
+    },
+    "rules": {
+      "pageTitle": "Podrobna pravila igre mine – za začetnike | DMine Vrhunski Minač",
+      "metaDescription": "Kako se igra mine? Podrobna razlaga osnovnih pravil, pomena številk, upravljanja in pogojev zmage – navodilo za začetnike!",
+      "metaKeywords": "pravila igre mine, kako se igra mine, navodila za mine, začetniki mine, osnovna pravila mine",
+      "headerTitle": "💣 Podrobna pravila igre mine",
+      "headerSubtitle": "Naučite se igrati mine od začetka, nujno za novince",
+      "sections": [
+        {
+          "heading": "Cilj igre",
+          "paragraphs": [
+            "Cilj igre mine je preprost: odkrijte vsa varna polja, ne da bi stopili na mino. Če kliknete na mino, se igra konča; če odkrijete vsa polja brez min – zmagate!"
+          ]
+        },
+        {
+          "heading": "Osnovno upravljanje",
+          "table": {
+            "headers": [
+              "Dejanje",
+              "Miška",
+              "Zaslon na dotik",
+              "Pojasnilo"
+            ],
+            "rows": [
+              [
+                "Odkrij polje",
+                "Levi klik",
+                "Enkratni dotik",
+                "Odkrije izbrano polje"
+              ],
+              [
+                "Označi zastavo",
+                "Desni klik",
+                "Dolgi dotik",
+                "Označi polje, kjer mislite, da je mina (⚑)"
+              ],
+              [
+                "Označi z vprašajem",
+                "Ponovni desni klik",
+                "Ponovni dolgi dotik",
+                "Označi z ? pri negotovosti"
+              ],
+              [
+                "Hitro odkrivanje (Chord)",
+                "Levi klik na razkrito številko",
+                "—",
+                "Če število zastav okoli številke ustreza vrednosti številke, klik odpre vsa neoznačena polja okoli"
+              ]
+            ]
+          },
+          "tipBox": "💡 Nasvet: Hitro odkrivanje (Chord) je zelo učinkovita tehnika! Kadar število zastav okoli razkrite številke ustreza njeni vrednosti, levi klik odpre vsa preostala polja."
+        },
+        {
+          "heading": "Pomen številk",
+          "paragraphs": [
+            "Ko odkrijete polje, se prikaže številka od 1 do 8. Pove, koliko min se nahaja v osmih sosednjih poljih.",
+            "Primer 3×3 mreže: srednja številka 1 pomeni, da je v osmih sosednjih poljih natanko ena mina."
+          ],
+          "list": [
+            "1 — V osmih sosednjih poljih je 1 mina",
+            "2 — V osmih sosednjih poljih sta 2 mini",
+            "3 — V osmih sosednjih poljih so 3 mine",
+            "…… in tako naprej, največja vrednost je 8"
+          ],
+          "tipBox": "💡 Če odkrijete prazno polje brez številke, vsa sosednja polja nimajo min – igra samodejno odpre celotno območje. To je mehanizem verižnega odpiranja."
+        },
+        {
+          "heading": "Načini igre",
+          "paragraphs": [
+            "Fiksna mreža: 16 × 30 (480 polj)"
+          ],
+          "table": {
+            "headers": [
+              "Način",
+              "Začetno število min",
+              "Pravilo povečanja",
+              "Pojasnilo"
+            ],
+            "rows": [
+              [
+                "Začetniški",
+                "15 min",
+                "Po vsaki zmagi +6 min",
+                "Največ 99 min v 15. stopnji"
+              ],
+              [
+                "Običajni izziv",
+                "81 min",
+                "Glej spodaj",
+                "Število min narašča v vsakem krogu brez zgornje meje"
+              ]
+            ]
+          },
+          "extraParagraph": "Pravilo povečanja pri običajnem izzivu: prvih 4 zmag +6 min na stopnjo, nato 3 stopnje +3 min, nadaljnje 3 stopnje +2 min, kasneje +1 min na stopnjo – brez omejitve."
+        },
+        {
+          "heading": "Zmaga in poraz",
+          "list": [
+            [
+              "Zmaga",
+              "Odkrijete vsa polja brez min ali pravilno označite vse mine"
+            ],
+            [
+              "Poraz",
+              "Kliknete na mino – igra se takoj konča"
+            ]
+          ],
+          "tipBox": "💡 Prvi klik je vedno varen! Pri DMine prvi klik nikoli ne zadene mine, lahko začnete brez skrbi."
+        },
+        {
+          "heading": "Ponovitve in deljenje",
+          "paragraphs": [
+            "Zapisi uspešnih iger se samodejno shranijo v oblak. Ostali igralci si lahko ogledajo potek igre v razdelku 'Zapisi'. Ponovitev je samo za ogled, ni mogoče spreminjati ali sodelovati."
+          ]
+        },
+        {
+          "heading": "Lestvica najboljših",
+          "paragraphs": [
+            "DMine ponuja oblačno lestvico. Uvrstitev je odvisna od dosežene stopnje – višja stopnja pomeni boljšo uvrstitev. Primerjajte se z igralci po vsem svetu."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Začni igro"
+    },
+    "tips": {
+      "pageTitle": "Napredni nasveti za igro mine – od začetnika do mojstra | DMine Vrhunski Minač",
+      "metaDescription": "Nasveti za mojstre igre mine! Vzorci 1-2-1, 1-2-2-1, tehnika dvojnega klika, verjetnostna analiza… obvladajte strategije in izboljšajte hitrost ter uspešnost!",
+      "metaKeywords": "nasveti za mine, napredni triki mine, vzorci mine, strategije igre mine, mine 1-2-1, verjetnost pri mine, mojstri mine",
+      "headerTitle": "🎯 Napredni nasveti za mine",
+      "headerSubtitle": "Od začetnika do mojstra igre mine",
+      "headerSub2": "Obvladajte vzorce in strategije ter podvojite uspešnost in hitrost igre",
+      "sections": [
+        {
+          "heading": "1. Osnovni vzorci",
+          "difficulty": "Začetnik",
+          "items": [
+            {
+              "title": "Vzorci 1-2-1",
+              "paragraphs": [
+                "Najpogosteje in najpomembnejši vzorec v igri mine. Ko vidite zaporedje številk 1-2-1 v ravni črti, lahko z gotovostjo trdite:"
+              ],
+              "list": [
+                [
+                  "Nad obema enicama je ena mina",
+                  "Označite z zastavo"
+                ],
+                [
+                  "Polje nad dvojko je varno",
+                  "Lahko varno odkrijete"
+                ]
+              ],
+              "tipBox": "💡 To je popolnoma določen vzorec – ni potrebe po ugibanju, sklepanje je 100% zanesljivo."
+            },
+            {
+              "title": "Vzorci 1-2-2-1",
+              "paragraphs": [
+                "Zaporedje 1-2-2-1 je prav tako klasičen vzorec:"
+              ],
+              "list": [
+                [
+                  "Med obema dvojkama je ena mina",
+                  ""
+                ],
+                [
+                  "Nad obema enicama je varno polje",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Vzorci na robu mreže",
+              "paragraphs": [
+                "Če se številka nahaja na robu mreže, je sklepanje enostavnejše – manj polj je treba upoštevati."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Srednji triki",
+          "difficulty": "Napredno",
+          "items": [
+            {
+              "title": "Tehnika dvojnega klika (Chord)",
+              "paragraphs": [
+                "Ključna tehnika za večjo hitrost. Kadar število zastav okoli številke ustreza njeni vrednosti, srednji klik miške ali hkratni levi in desni klik samodejno odpre vsa neoznačena polja.",
+                "Primer: Če je okoli trojke že 3 zastave, dvojni klik na trojko odpre preostalih 5 polj."
+              ],
+              "tipBox": "⚡ Skrivnost mojstrov: Vsi izkušeni igralci uporabljajo dvojni klik – označevanje zastav in hitro odpiranje hkrati podvoji hitrost igre."
+            },
+            {
+              "title": "Sklepanje z odštevanjem",
+              "paragraphs": [
+                "Če je okoli številke že nekaj označenih zastav, jih 'odštejte' – dobite število preostalih min v neoznačenih poljih. Na primer: trojka z eno zastavo pomeni še 2 mini v preostalih poljih."
+              ]
+            },
+            {
+              "title": "Sklepanje z več številkami hkrati",
+              "paragraphs": [
+                "Ne opazujte vsake številke ločeno – združujte sosednje številke. Sosednje številke si delijo polja, z uporabo preseka in dopolnila lahko pridobite veliko dodatnih informacij."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Napredni triki",
+          "difficulty": "Mojster",
+          "items": [
+            {
+              "title": "Verjetnostna analiza",
+              "paragraphs": [
+                "Pri negotovih položajih (ugibanju min) izberite polje z najmanjšo verjetnostjo mine:"
+              ],
+              "list": [
+                [
+                  "Izberite polja blizu že odkritega območja",
+                  "Več informacij za sklepanje"
+                ],
+                [
+                  "Izogibajte se osamljenim poljem",
+                  "Velika negotovost verjetnosti"
+                ],
+                [
+                  "Pri zapletenih položajih izračunajte razmerje med preostalimi minami in prostimi polji",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Ugibanja v igri mine se ni mogoče popolnoma izogniti, toda z verjetnostno analizo lahko dvignete uspešnost nad 90%."
+            },
+            {
+              "title": "Prepoznavanje vzorcev",
+              "paragraphs": [
+                "Mojstri ne štejejo polj eno po eno – prepoznavajo celotne vzorce kot besedilo. Z dovolj vadbe takoj prepoznate, kje so mine in kje varna polja pri določenih kombinacijah številk."
+              ]
+            },
+            {
+              "title": "Upravljanje z miško",
+              "list": [
+                [
+                  "Usklajeno delo obeh rok",
+                  "Leva roka označuje zastave (desni klik), desna odkriva polja (levi klik)"
+                ],
+                [
+                  "Zmanjšajte premike miške",
+                  "Uporabljajte dvojni klik namesto posameznih klikov"
+                ],
+                [
+                  "Ritem igre",
+                  "Poiščite svoj ritem, izogibajte se naglim spremembam hitrosti"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Bojne strategije",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Strategija začetka igre",
+              "paragraphs": [
+                "Pri DMine je prvi klik vedno varen. Takoj po začetku odkrivajte velika prazna območja za več informacij pri nadaljnjem sklepanju."
+              ]
+            },
+            {
+              "title": "Pravilo prednostnega vrstnega reda",
+              "paragraphs": [
+                "Obliko mreže obdelujte po tem vrstnem redu:"
+              ],
+              "orderedList": [
+                "Najprej obdelajte vse določene vzorce (1-2-1, 1-2-2-1 itd.)",
+                "Uporabljajte hitro odpiranje z dvojnim klikom",
+                "Obdelajte robne številke eno za drugo",
+                "Na koncu rešujte območja, ki zahtevajo ugibanje"
+              ]
+            },
+            {
+              "title": "Strategija ugibanja min",
+              "paragraphs": [
+                "Ko morate ugibati:"
+              ],
+              "list": [
+                [
+                  "Najprej ugibajte polja na robu mreže",
+                  "Manj povezav z drugimi polji, manj tveganja"
+                ],
+                [
+                  "Štejte preostale mine",
+                  "Vedite, koliko min še ni označenih za boljšo presojo"
+                ],
+                [
+                  "Ugibajte šele na koncu",
+                  "Če imate čas, rešite ostala območja najprej"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Vadba za izboljšanje spretnosti",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Vadite prepoznavanje vzorcev",
+                  "Takojšnja reakcija na kombinacije številk, razvijte mišični spomin"
+                ],
+                [
+                  "Zmanjšajte oklevanje",
+                  "Določene odločitve sprejmite v manj kot 0,5 sekunde"
+                ],
+                [
+                  "Analizirajte poraze",
+                  "Po neuspehu premislite, kako bi lahko igrali bolje"
+                ],
+                [
+                  "Uporabljajte lestvico DMine",
+                  "Oglejte si zapise mojstrov, postavite si cilj in se izzovite"
+                ],
+                [
+                  "Poskusite igro brez označevanja zastav",
+                  "Osvojite igro brez postavljanja zastav"
+                ]
+              ],
+              "tipBox": "🎯 Referenčni cilji: Običajni igralci do 15. stopnje, izkušeni do 20. stopnje, mojstri nad 30. stopnjo, vrhunski igralci dosežejo nad 30. stopnjo tudi brez zastav."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Začni vadbo"
+    }
+  }
+}

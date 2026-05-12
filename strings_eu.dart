@@ -50,6 +50,7 @@ const Map<String, String> stringsEu = {
   'language': 'Hizkuntza',
   // Home page
   'newbie': 'Hasiberriek',
+  'gameIntro': 'Jokoaren aurkezpena',
   'newBattle': 'Borroka frontiera berria',
   'continueChallenge': 'Jarraitu desafioa',
   'error': 'Errorea',

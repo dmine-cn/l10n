@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "lv",
+    "langAttr": "lv",
+    "ogLocale": "lv_LV",
+    "siteName": "DMine - Labākais Mīnētājs",
+    "canonicalPrefix": "lv/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Sākums",
+    "rules": "Noteikumi",
+    "tips": "Padomi",
+    "about": "Par mums",
+    "download": "Lejupielādēt"
+  },
+  "footer": {
+    "copyright": "© 2026 DMine komanda"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Par DMine - Labākais Mīnētājs | Daudzplatformu mīnētāja spēle",
+      "metaDescription": "DMine (Labākais Mīnētājs) ir daudzplatformu mīnētāja spēle, pieejama operētājsistēmām Windows, macOS, Linux, Android, iOS, HarmonyOS un tīmeklim. Bezmaksas un atvērtais kods, 66 valodas, spēlējiet tiešsaistē!",
+      "metaKeywords": "mīnētāja spēle,DMine,labākais mīnētājs,daudzplatformu mīnētājs,bezmaksas mīnētājs,atvērtā koda mīnētājs",
+      "headerTitle": "💣 DMine - Labākais Mīnētājs",
+      "headerSubtitle": "Daudzplatformu mīnētāja spēle – spēlējiet klasiku jebkurā laikā un vietā",
+      "sections": [
+        {
+          "heading": "Kas ir DMine?",
+          "paragraphs": [
+            "DMine (Labākais Mīnētājs) ir ar Flutter ietvaru izstrādāta daudzplatformu mīnētāja spēle. Tā saglabā klasiskā mīnētāja pamatspēles gaitu, vienlaikus piedāvājot modernu interfeisu un bagātīgas funkcijas, sniedzot spēlētājiem jaunu mīnētāja pieredzi.",
+            "Neatkarīgi no tā, vai esat pieredzējis spēlētājs uz Windows vai izklaides spēlētājs ceļā ar telefonu, DMine apmierinās jūsu vajadzības."
+          ]
+        },
+        {
+          "heading": "Atbalstītās platformas",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Tīmeklis",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Dati sinhronizējas visās platformās – spēlējiet vienā vietā, turpiniet citur."
+          ]
+        },
+        {
+          "heading": "Galvenās funkcijas",
+          "list": [
+            [
+              "Daudzvalodu atbalsts",
+              "Atbalstītas 66 valodas – spēlējiet bez valodu barjerām visā pasaulē"
+            ],
+            [
+              "Spēles ierakstu kopīgošana",
+              "Spēles ieraksti automātiski saglabājas mākonī, citi spēlētāji var skatīties atkārtojumus"
+            ],
+            [
+              "Mākoņu reitings",
+              "Sacenieties ar pasaules spēlētājiem par izpildīto līmeņu skaitu"
+            ],
+            [
+              "Vairāki spēles režīmi",
+              "Iesācēju un parastā izaicinājuma režīms"
+            ],
+            [
+              "Pilnīgi bez maksas",
+              "Bez reklāmām un pirkumiem lietotnē – tīra spēles pieredze"
+            ]
+          ]
+        },
+        {
+          "heading": "Spēles režīmi",
+          "paragraphs": [
+            "Spēles noteikumi: laukums fiksēts 16×30 (480 rūtiņas). Uzvariet, atklājot visas drošās rūtiņas starp noteiktu skaitu mīnu."
+          ],
+          "list": [
+            [
+              "Iesācēju režīms",
+              "Sākas ar 15 mīnām, pēc katras uzvaras pievienojas 6 mīnas, maksimāli līdz 15. līmenim ar 99 mīnām"
+            ],
+            [
+              "Parastais izaicinājums",
+              "Sākas ar 81 mīnu – pirmajās 4 uzvarās pievienojas 6 mīnas, pēc tam 3 līmeņos pa 3 mīnām, vēl 3 līmeņos pa 2 mīnām, turpmāk katrā līmenī pa 1 mīnu – bez augšējā ierobežojuma"
+            ]
+          ]
+        },
+        {
+          "heading": "Versijas informācija",
+          "paragraphs": [
+            "Pašreizējā versija：{{VERSION}}",
+            "Tehnoloģiju kaudze：Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine ir atvērtā koda projekts – laipni aicināti sekot un piedalīties koda izstrādē vietnē GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Sākt spēli"
+    },
+    "rules": {
+      "pageTitle": "Detalizēti mīnētāja noteikumi – obligāts iesācēju ceļvedis | DMine Labākais Mīnētājs",
+      "metaDescription": "Kā spēlēt mīnētāju? Šeit detalizēti aprakstīti mīnētāja pamatnoteikumi, ciparu nozīme, vadības veidi un uzvaras nosacījumi – obligāts ceļvedis iesācējiem!",
+      "metaKeywords": "mīnētāja noteikumi,kā spēlēt mīnētāju,mīnētāja apmācība,mīnētājs iesācējiem,pamatnoteikumi mīnētājam,mīnētāja spēles noteikumi",
+      "headerTitle": "💣 Detalizēti mīnētāja noteikumi",
+      "headerSubtitle": "Iemācieties spēlēt mīnētāju no nulles – obligāts iesācēju ceļvedis",
+      "sections": [
+        {
+          "heading": "Spēles mērķis",
+          "paragraphs": [
+            "Mīnētāja mērķis ir vienkāršs: atklājiet visas drošās rūtiņas, nepakļūstot mīnai. Ja atverat rūtiņu ar mīnu – spēle beidzas; ja atverat visas rūtiņas bez mīnām – jūs uzvarat!"
+          ]
+        },
+        {
+          "heading": "Pamata vadība",
+          "table": {
+            "headers": [
+              "Darbība",
+              "Pele",
+              "Skārienekrāns",
+              "Apraksts"
+            ],
+            "rows": [
+              [
+                "Atvērt rūtiņu",
+                "Kreisais klikšķis",
+                "Viens pieskāriens",
+                "Atvērt izvēlēto rūtiņu"
+              ],
+              [
+                "Atzīmēt karogu",
+                "Labais klikšķis",
+                "Ilgs pieskāriens",
+                "Atzīmēt vietu, kur, jūsuprāt, atrodas mīna (⚑)"
+              ],
+              [
+                "Atzīmēt ar jautājuma zīmi",
+                "Vēlreiz labais klikšķis",
+                "Vēlreiz ilgs pieskāriens",
+                "Atzīmēt ar jautājuma zīmi (?), ja neesat pārliecināts"
+              ],
+              [
+                "Ātrā mīnētāju atvēršana (Chord)",
+                "Kreisais klikšķis uz atklātās ciparu rūtiņas",
+                "—",
+                "Ja ap ciparu ir pietiekami daudz karogu, noklikšķinot uz cipara, automātiski atver visas neatzīmētās apkārtējās rūtiņas"
+              ]
+            ]
+          },
+          "tipBox": "💡 Padoms: Ātrā mīnētāju atvēršana (Chord) ir ļoti efektīvs paņēmiens! Ja ap ciparu ir tik daudz karogu, cik norāda cipars, noklikšķiniet uz atklātās ciparu rūtiņas – tiks atvērtas visas neatzīmētās apkārtējās rūtiņas."
+        },
+        {
+          "heading": "Ciparu nozīme",
+          "paragraphs": [
+            "Atverot rūtiņu, tajā parādās cipars (1~8), kas norāda mīnu skaitu apkārtējās 8 rūtiņās.",
+            "Šeit ir 3×3 piemērs: vidus cipars 1 nozīmē, ka apkārtējās 8 rūtiņās ir 1 mīna."
+          ],
+          "list": [
+            "1 — apkārtējās 8 rūtiņās 1 mīna",
+            "2 — apkārtējās 8 rūtiņās 2 mīnas",
+            "3 — apkārtējās 8 rūtiņās 3 mīnas",
+            "un tā tālāk, maksimālais cipars ir 8"
+          ],
+          "tipBox": "💡 Ja atverat tukšu rūtiņu (bez cipara), tas nozīmē, ka apkārtējās 8 rūtiņās nav nevienas mīnas – spēle automātiski atvērs apkārtējo apgabalu. Tā darbojas mīnētāja ķēdes atvēršanas mehānisms."
+        },
+        {
+          "heading": "Spēles režīmi",
+          "paragraphs": [
+            "Fiksēts laukums: 16 × 30 (480 rūtiņas)"
+          ],
+          "table": {
+            "headers": [
+              "Režīms",
+              "Sākuma mīnu skaits",
+              "Pieauguma noteikumi",
+              "Apraksts"
+            ],
+            "rows": [
+              [
+                "Iesācēju režīms",
+                "15 mīnas",
+                "Pēc katras uzvaras +6 mīnas",
+                "Maksimāli līdz 15. līmenim ar 99 mīnām"
+              ],
+              [
+                "Parastais izaicinājums",
+                "81 mīna",
+                "Skatīt aprakstu zemāk",
+                "Mīnu skaits pieaug katrā ciklā bez augšējā ierobežojuma"
+              ]
+            ]
+          },
+          "extraParagraph": "Parastā izaicinājuma pieauguma noteikumi: pirmajās 4 uzvarās pievienojas 6 mīnas, pēc tam 3 līmeņos pa 3 mīnām, vēl 3 līmeņos pa 2 mīnām, turpmāk katrā līmenī pa 1 mīnu – bez augšējā ierobežojuma."
+        },
+        {
+          "heading": "Uzvara un zaudējums",
+          "list": [
+            [
+              "Uzvara",
+              "Atklāt visas rūtiņas bez mīnām vai pareizi atzīmēt visas mīnu vietas"
+            ],
+            [
+              "Zaudējums",
+              "Noklikšķināt uz mīnas – spēle nekavējoties beidzas"
+            ]
+          ],
+          "tipBox": "💡 Pirmais klikšķis vienmēr ir drošs! DMine garantē, ka pirmais noklikšķinājums nekad nebūs uz mīnas – sāciet spēli bez bažām."
+        },
+        {
+          "heading": "Atkārtojumi un kopīgošana",
+          "paragraphs": [
+            "Spēlētāju uzvaru ieraksti automātiski saglabājas mākonī. Citi spēlētāji var skatīties spēles gaitu atkārtojumos sadaļā \"Ieraksti\". Atkārtojumus var tikai skatīties, nevar rediģēt vai piedalīties."
+          ]
+        },
+        {
+          "heading": "Reitings",
+          "paragraphs": [
+            "DMine ir mākoņu reitings, kurš sakārto spēlētājus pēc izpildīto līmeņu skaita. Jo vairāk līmeņu izpildīts, jo augstāka vieta reitingā – sacenieties ar pasaules spēlētājiem."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Sākt spēli"
+    },
+    "tips": {
+      "pageTitle": "Mīnētāja augstākie paņēmieni – no iesācēja līdz meistaram | DMine Labākais Mīnētājs",
+      "metaDescription": "Mīnētāja meistara ceļvedis! 1-2-1 shēma, 1-2-2-1 shēma, dubultklikšķa paņēmiens, varbūtības analīze… apgūstiet šos paņēmienus, lai palielinātu uzvaru skaitu un ātrumu!",
+      "metaKeywords": "mīnētāja paņēmieni,augstākie mīnētāja paņēmieni,mīnētāja shēmas,mīnētāja stratēģijas,mīnētājs 1-2-1,mīnētāja varbūtības,mīnētāja meistars,mīnētāja apmācība",
+      "headerTitle": "🎯 Mīnētāja augstākie paņēmieni",
+      "headerSubtitle": "No iesācēja līdz meistaram – kļūstiet par mīnētāja ekspertu",
+      "headerSub2": "Apgūstiet shēmas un stratēģijas, lai dubultotu uzvaru skaitu un spēles ātrumu",
+      "sections": [
+        {
+          "heading": "I. Pamata shēmas",
+          "difficulty": "Iesācējs",
+          "items": [
+            {
+              "title": "1-2-1 shēma",
+              "paragraphs": [
+                "Šī ir visizplatītākā un svarīgākā mīnētāja shēma. Redzot secīgus ciparus 1-2-1 taisnā līnijā, varat droši noteikt:"
+              ],
+              "list": [
+                [
+                  "Virs abiem cipariem 1 atrodas pa vienai mīnai",
+                  "Atzīmēt ar karogu"
+                ],
+                [
+                  "Virs cipara 2 noteikti ir droša rūtiņa",
+                  "Varat droši atvērt"
+                ]
+              ],
+              "tipBox": "💡 Šī ir noteikta shēma – nav jāmin, var izsecināt 100% droši."
+            },
+            {
+              "title": "1-2-2-1 shēma",
+              "paragraphs": [
+                "Redzot ciparu secību 1-2-2-1, tā ir arī klasiska shēma:"
+              ],
+              "list": [
+                [
+                  "Starp abiem cipariem 2 virsū atrodas pa vienai mīnai",
+                  ""
+                ],
+                [
+                  "Virs abiem cipariem 1 atrodas drošas rūtiņas",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Malas shēmas",
+              "paragraphs": [
+                "Ja cipars atrodas uz laukuma malas, izsecināšana kļūst vienkāršāka – nav jāaprēķina viena puse."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "II. Vidējie paņēmieni",
+          "difficulty": "Vidējais līmenis",
+          "items": [
+            {
+              "title": "Dubultklikšķa paņēmiens (Chord)",
+              "paragraphs": [
+                "Šis ir galvenais paņēmiens ātruma palielināšanai. Ja ap ciparu ir tik daudz karogu, cik norāda cipars, nospiediet peles vidējo pogu vai vienlaikus abas peles pogas – automātiski atvērs visas neatzīmētās apkārtējās rūtiņas.",
+                "Piemērs: Ja ap ciparu 3 jau ir 3 karogi, dubultklikšķiniet uz šī cipara – pārējās 5 rūtiņas atvērsies automātiski."
+              ],
+              "tipBox": "⚡ Meistaru noslēpums: gandrīz visi pieredzējušie spēlētāji izmanto dubultklikšķi – atzīmē karogus un vienlaikus atver rūtiņas, ātrums palielinās vairākas reizes."
+            },
+            {
+              "title": "Izsecināšana ar atņemšanu",
+              "paragraphs": [
+                "Ja ap ciparu jau ir atzīmēti daži karogi, atņemiet tos no cipara skaita – iegūsiet atlikušo mīnu skaitu neatzīmētajās rūtiņās. Piemēram, ja ap ciparu 3 ir jau 1 karogs, tad pārējās rūtiņās ir vēl 2 mīnas."
+              ]
+            },
+            {
+              "title": "Vairāku ciparu kopīgā izsecināšana",
+              "paragraphs": [
+                "Neskatieties uz katru ciparu atsevišķi – apvienojiet blakus esošos ciparus izsecināšanai. Divi blakus cipari dalās ar dažām rūtiņām, izmantojot krustojumu un papildkopu attiecības, varat uzzināt vairāk informācijas."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "III. Augstākie paņēmieni",
+          "difficulty": "Meistars",
+          "items": [
+            {
+              "title": "Varbūtības analīze",
+              "paragraphs": [
+                "Sastopoties ar nenoteiktu situāciju (kad jāmin mīnas), izvēlieties rūtiņu ar mazāko mīnas iespējamību:"
+              ],
+              "list": [
+                [
+                  "Izvēlieties rūtiņas tuvāk atklātajam apgabalam",
+                  "Vairāk informācijas"
+                ],
+                [
+                  "Izvairieties no izolētiem apgabaliem",
+                  "Augsta nenoteiktības varbūtība"
+                ],
+                [
+                  "Sarežģītās situācijās aprēķiniet atlikušo mīnu un rūtiņu skaita attiecību",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Mīnētājā nevar pilnībā izvairīties no minēšanas, bet ar varbūtības analīzi uzvaru līmeni var pacelt virs 90%."
+            },
+            {
+              "title": "Modeļu atpazīšana",
+              "paragraphs": [
+                "Meistari neskaita rūtiņas pa vienai – viņi atpazīst modeļus, tāpat kā lasot tekstu. Ar pietiekamu praksi redzot noteiktas ciparu kombinācijas, uzreiz zināsiet, kur ir mīnas un kur drošas rūtiņas."
+              ]
+            },
+            {
+              "title": "Peles vadības paņēmieni",
+              "list": [
+                [
+                  "Gluda abu roku sadarbība",
+                  "Kreisā roka atzīmē karogus (labais klikšķis), labā roka atver rūtiņas (kreisais klikšķis) – skaidrs darba sadalījums"
+                ],
+                [
+                  "Samazināt peles kustības",
+                  "Izmantot dubultklikšķi viena klikšķa vietā, samazināt klikšķu skaitu un peles pārvietošanas attālumu"
+                ],
+                [
+                  "Spēles ritms",
+                  "Atrodiet savu spēles ritmu – nespēlējiet pārāk ātri vai lēni nepastāvīgi"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "IV. Praktiskās stratēģijas",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Sākuma stratēģija",
+              "paragraphs": [
+                "DMine garantē, ka pirmais klikšķis ir drošs. Sākumā vispirms atveriet lielus tukšus apgabalus, lai iegūtu vairāk pavedienu turpmākai izsecināšanai."
+              ]
+            },
+            {
+              "title": "Prioritātes noteikumi",
+              "paragraphs": [
+                "Apstrādājiet laukumu šādā secībā:"
+              ],
+              "orderedList": [
+                "Vispirms visas noteiktās shēmas (1-2-1, 1-2-2-1 utt.)",
+                "Izmantot ātrās atvēršanas darbības",
+                "Apstrādāt malas ciparus pa vienam",
+                "Visbeidzot apstrādāt apgabalus, kur nepieciešama minēšana"
+              ]
+            },
+            {
+              "title": "Mīnu minēšanas stratēģija",
+              "paragraphs": [
+                "Kad ir jāmin:"
+              ],
+              "list": [
+                [
+                  "Vispirms miniet malas rūtiņas",
+                  "Parasti malas rūtiņām mazāk saistību ar citām, mazāks risks"
+                ],
+                [
+                  "Aprēķiniet atlikušo mīnu skaitu",
+                  "Ziniet, cik mīnu vēl nav atzīmētas, lai palīdzētu izlemt"
+                ],
+                [
+                  "Atlieciet minēšanu uz beigām",
+                  "Ja ir laiks, vispirms atrisiniet citus apgabalus, lai laukums kļūst skaidrāks"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "V. Prasmju uzlabošanas apmācība",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Shēmu atpazīšanas prakse",
+                  "Redzot ciparu kombinācijas, veiciet darbības automātiski, veidojot muskuļu atmiņu"
+                ],
+                [
+                  "Samazināt vilcināšanos",
+                  "Pieņemiet noteiktus lēmumus 0,5 sekundes laikā"
+                ],
+                [
+                  "Atkārtojumu analīze",
+                  "Pēc zaudējuma padomājiet, ko varētu darīt labāk"
+                ],
+                [
+                  "Izmantot DMine reitingu",
+                  "Skatieties meistaru ierakstus, izvirziet mazus mērķus un izaiciniet sevi"
+                ],
+                [
+                  "Mīnētājs bez karogu atzīmēšanas",
+                  "Mēģiniet pabeigt spēli, neatzīmējot nevienu karogu"
+                ]
+              ],
+              "tipBox": "🎯 Mērķa piemēri: parasts spēlētājs līdz 10 līmeņiem, pieredzējis līdz 20 līmeņiem, meistars virs 30 līmeņiem, elites spēlētāji spēlē bez karogiem un sasniedz vairāk par 30 līmeņiem."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Sākt trenēties"
+    }
+  }
+}

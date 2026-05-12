@@ -52,6 +52,7 @@ const Map<String, String> stringsBr = {
   'language': 'Yezh',
   // Home page
   'newbie': 'Deiziad da ziotaerien',
+  'gameIntro': 'Deskrivadur ar c\'hoari',
   'newBattle': 'Kornog nevez',
   'continueChallenge': 'Kenderc\'hel ar c\'hungañ',
   'error': 'Fazi',

@@ -50,6 +50,7 @@ const Map<String, String> stringsKu = {
   'language': 'Ziman',
   // Home page
   'newbie': 'Nûte',
+  'gameIntro': 'Danasîna lîstikê',
   'newBattle': 'Herêma Nû',
   'continueChallenge': 'Çalakî bidewê',
   'error': 'Xeta',

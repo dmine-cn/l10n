@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "ku",
+    "langAttr": "ku",
+    "ogLocale": "ku_TR",
+    "siteName": "DMine - Top Mînêkêş",
+    "canonicalPrefix": "ku/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Serî",
+    "rules": "Rêgez",
+    "tips": "Şîret",
+    "about": "Derbarê me",
+    "download": "Daxistin"
+  },
+  "footer": {
+    "copyright": "© 2026 Tîma DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Derbarê DMine - Mînêkêşê Serkeftî | Lîstika Mînêkêşê Pirplatform",
+      "metaDescription": "DMine (Mînêkêşê Serkeftî) lîstikek mînêkêşê pirplatform e, piştgiriya Windows, macOS, Linux, Android, iOS, HarmonyOS û Web dike. Belaş û vekirîya çavkanî, 66 ziman, lîstika serhêl bê sînor!",
+      "metaKeywords": "lîstika mînêkêşê, DMine, Mînêkêşê Serkeftî, mînêkêşê pirplatform, mînêkêşê belaş, mînêkêşê vekirîya çavkanî",
+      "headerTitle": "💣 DMine - Mînêkêşê Serkeftî",
+      "headerSubtitle": "Lîstikek mînêkêşê pirplatform, li her dem û cihê lîstika klasîk bilîzin",
+      "sections": [
+        {
+          "heading": "DMine çi ye?",
+          "paragraphs": [
+            "DMine (Mînêkêşê Serkeftî) lîstikek mînêkêşê pirplatform e ku bi çarçoveya Flutter hatî çêkirin. Ew lîstika bingehîn a mînêkêşê klasîk diparêze, di heman demê de sêwirana navrûya nûjen û taybetmendiyên dewlemend lê zêde dike, da ku ezmûneke nû ya mînêkêşê bide lîstikvanan.",
+            "Çi hûn lîstikvanê kûr li Windows bin, çi lîstikvanê rehet ku li rê bi têlefonê lîstik dike, DMine hewcedariyên we têr dike."
+          ]
+        },
+        {
+          "heading": "Platformên Piştgirîkirî",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Daneyên li hemû platforman hevpar in, li yek cihê lîstik bikin, li hemû cihan hevdem bibin."
+          ]
+        },
+        {
+          "heading": "Taybetmendiyên Sereke",
+          "list": [
+            [
+              "Piştgiriya Pirzimanî",
+              "Piştgiriya 66 ziman dike, lîstikvanên cîhanê bê asteng lîstik dikin"
+            ],
+            [
+              "Parvekirina Rêça Lîstikê",
+              "Tomarên lîstikê bixweber li ewrê tê parvekirin, lîstikvanên din dikin dîsa temaşe bikin"
+            ],
+            [
+              "Rêzbendiya Ewrê",
+              "Bi lîstikvanên cîhanê re di asta qutbûnê de pêşbaziyê bikin"
+            ],
+            [
+              "Modên Cûda",
+              "Du mod: Destpêka Nûbiharan û Pêşbaziya Normal"
+            ],
+            [
+              "Bi Tevahî Belaş",
+              "Bê reklam, bê kirîna navlîstikê, ezmûna lîstika paqij"
+            ]
+          ]
+        },
+        {
+          "heading": "Modên Lîstikê",
+          "paragraphs": [
+            "Rêgezê lîstikê: Tablo bi domdarî 16×30 (480 qutî) ye, hemû qutiyên ewle di nav hejmarek diyar a mînan de bibînin da ku serkeftin bistînin."
+          ],
+          "list": [
+            [
+              "Destpêka Nûbiharan",
+              "Ji 15 mînan dest pê dike, her qutbûn 6 mînan zêde dibe, heta asta 15'an bi 99 mînan"
+            ],
+            [
+              "Pêşbaziya Normal",
+              "Ji 81 mînan dest pê dike, 4 qutbûnên pêşîn her car 6 mînan zêde dibin, piştre 3 astan her car 3 mînan, dû re 3 astan her car 2 mînan, paşê her astê 1 mînan zêde dibe, bê sînor"
+            ]
+          ]
+        },
+        {
+          "heading": "Agahiyên Guhertoyê",
+          "paragraphs": [
+            "Guhertoya Niha: {{VERSION}}",
+            "Teknolojî: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine projeyek vekirîya çavkanî ye, bi xêr hatî li GitHub'ê şopandin û beşdariya kodê."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Destpêka Lîstikê"
+    },
+    "rules": {
+      "pageTitle": "Rêgezên Mînêkêşê Bi Detay - Pêwîstîya Nûbiharan | DMine Mînêkêşê Serkeftî",
+      "metaDescription": "Meriv çawa mînêkêşê bilîze? Ev nivîs rêgezên bingehîn, wateya hejmaran, awayê xebitandinê û şertên serkeftinê bi detay vedibêje, dersa destpêkê ya nûbiharan!",
+      "metaKeywords": "rêgezên mînêkêşê, meriv çawa mînêkêşê bilîze, dersa mînêkêşê, nûbiharê mînêkêşê, rêgezên bingehîn ên mînêkêşê, rêgezên lîstika mînêkêşê",
+      "headerTitle": "💣 Rêgezên Mînêkêşê Bi Detay",
+      "headerSubtitle": "Ji sifrê fêr bibin mînêkêşê, pêwîstîya destpêkê ya nûbiharan",
+      "sections": [
+        {
+          "heading": "Armanca Lîstikê",
+          "paragraphs": [
+            "Armanca mînêkêşê pir hêsan e: Hemû qutiyên ewle bêyî ku li mînekê bikevin vekin. Heke hûn li mînekê bikirtînin, lîstik bi dawî dibe; heke hemû qutiyên ne mînê vekin, hûn serkeftî ne!"
+          ]
+        },
+        {
+          "heading": "Xebitandina Bingehîn",
+          "table": {
+            "headers": [
+              "Xebitandin",
+              "Mişk",
+              "Têkilî",
+              "Danasîn"
+            ],
+            "rows": [
+              [
+                "Vekirina Qutiyê",
+                "Bişkoka çepê bikirtînin",
+                "Yek car bikirtînin",
+                "Qutiya hilbijartî vekin"
+              ],
+              [
+                "Nîşankirina Ala",
+                "Bişkoka rastê bikirtînin",
+                "Dirêj bikirtînin",
+                "Cihê ku hûn difikirin mîn heye nîşan bikin (⚑)"
+              ],
+              [
+                "Nîşankirina Nîşana Pirsê",
+                "Dîsa bişkoka rastê",
+                "Dîsa dirêj bikirtînin",
+                "Guman dema nîşana pirsê (?) lê bikin"
+              ],
+              [
+                "Mînêkêşê Lez (Chord)",
+                "Bişkoka çepê li qutiya hejmarê vekirî bikirtînin",
+                "—",
+                "Dema hejmara alayên li dora hejmarê têr be, li wê qutiya hejmarê bikirtînin da ku hemû qutiyên nenîşankirî yên derdorê vekin"
+              ]
+            ]
+          },
+          "tipBox": "💡 Serişte: Mînêkêşê Lez (Chord) awayek pir bikêr e! Dema hejmara alayên li dora hejmarê bi wê hejmarê re wekhev be, li qutiya hejmarê vekirî bişkoka çepê bikirtînin, hemû qutiyên nenîşankirî yên derdorê bixweber vedibin."
+        },
+        {
+          "heading": "Wateya Hejmaran",
+          "paragraphs": [
+            "Dema hûn qutiyekê vekin, hejmarek (1~8) li ser qutiyê derdikeve, ku hejmara mînan di 8 qutiyên derdorê de nîşan dide.",
+            "Li jêr nimûneyek herêmî 3×3 heye, hejmara 1 ya navîn nîşan dide ku di 8 qutiyên derdorê de 1 mîn heye:"
+          ],
+          "list": [
+            "1 — Di 8 qutiyên derdorê de 1 mîn heye",
+            "2 — Di 8 qutiyên derdorê de 2 mînan hene",
+            "3 — Di 8 qutiyên derdorê de 3 mînan hene",
+            "û hwd., herî zêde 8 ye"
+          ],
+          "tipBox": "💡 Heke hûn li qutiyek vala (bê hejmar) bikirtînin, ev tê wateya ku di 8 qutiyên derdorê de tu mîn nîne, lîstik bixweber herêma derdorê vedike — ev mekanîzma \"vekirina zincîrî\" di mînêkêşê de ye."
+        },
+        {
+          "heading": "Modên Lîstikê",
+          "paragraphs": [
+            "Tablo bi domdarî: 16 × 30 (480 qutî)"
+          ],
+          "table": {
+            "headers": [
+              "Mod",
+              "Hejmara Mînan ya Destpêkê",
+              "Rêgezê Zêdebûnê",
+              "Danasîn"
+            ],
+            "rows": [
+              [
+                "Destpêka Nûbiharan",
+                "15 mîn",
+                "Her qutbûn +6 mînan",
+                "Heta asta 15'an bi 99 mînan"
+              ],
+              [
+                "Pêşbaziya Normal",
+                "81 mîn",
+                "Li jêrê binêre",
+                "Hejmara mînan di her dorê de zêde dibe, bê sînor"
+              ]
+            ]
+          },
+          "extraParagraph": "Rêgezê zêdebûnê ya Pêşbaziya Normal: 4 qutbûnên pêşîn her car 6 mînan zêde dibin, piştre 3 astan her car 3 mînan, dû re 3 astan her car 2 mînan, paşê her astê 1 mînan zêde dibe, bê sînor."
+        },
+        {
+          "heading": "Serkeftin û Têkçûn",
+          "list": [
+            [
+              "Serkeftin",
+              "Hemû qutiyên ne mînê vekin, an hemû cihên mînan bi awayek rast nîşan bikin"
+            ],
+            [
+              "Têkçûn",
+              "Li mînekê bikirtînin, lîstik tavilê bi dawî dibe"
+            ]
+          ],
+          "tipBox": "💡 Yekem klîk 100% ewle ye! DMine garantî dike ku yekem klîk li mînekê nekeve, da ku hûn bi aramî dest pê bikin."
+        },
+        {
+          "heading": "Dîtina Paşerojê û Parvekirin",
+          "paragraphs": [
+            "Tomarên qutbûna lîstikvanan bixweber li ewrê tê parvekirin, lîstikvanên din dikin di beşa \"Rêça Lîstikê\" de dîsa temaşe bikin. Dîtina paşerojê tenê temaşekirin e, nikarin beşdar bibin an biguherînin."
+          ]
+        },
+        {
+          "heading": "Rêzbendî",
+          "paragraphs": [
+            "DMine piştgiriya rêzbendiya ewrê dike, li gorî asta qutbûna lîstikvanan rêz tê danîn, asta bilindtir rêza pêşîn digire, bi lîstikvanên cîhanê re pêşbaziyê bikin."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Destpêka Lîstikê"
+    },
+    "tips": {
+      "pageTitle": "Serişteyên Pêşkeftî yên Mînêkêşê - Ji Destpêkê heta Serwerî | DMine Mînêkêşê Serkeftî",
+      "metaDescription": "Rêbera pêşkeftî ya pisporên mînêkêşê! Forma 1-2-1, forma 1-2-2-1, teknîka klîka du caran, analîza îhtîmalê… Van serişteyan fêr bibin da ku leza qutbûnê û rêjeya serkeftinê zêde bikin!",
+      "metaKeywords": "serişteyên mînêkêşê, serişteyên pêşkeftî yên mînêkêşê, forma mînêkêşê, stratejiya mînêkêşê, mînêkêşê 1-2-1, îhtîmala mînêkêşê, pisporê mînêkêşê, pêşkeftina mînêkêşê",
+      "headerTitle": "🎯 Serişteyên Pêşkeftî yên Mînêkêşê",
+      "headerSubtitle": "Ji destpêkê heta serwerî, bibin pisporê mînêkêşê",
+      "headerSub2": "Van form û stratejiyan fêr bibin, rêjeya serkeftinê û leza lîstikê du qat zêde bikin",
+      "sections": [
+        {
+          "heading": "Yekem: Formên Bingehîn",
+          "difficulty": "Destpêk",
+          "items": [
+            {
+              "title": "Forma 1-2-1",
+              "paragraphs": [
+                "Ev forma herî berbelav û girîng a mînêkêşê ye. Dema hûn rêza hejmaran 1-2-1 di xetek rast de bibînin, hûn dikarin bi bawerî bibêjin:"
+              ],
+              "list": [
+                [
+                  "Li jorê her du 1'an yek mîn heye",
+                  "Bi ala nîşan bikin"
+                ],
+                [
+                  "Li jorê 2'an bê guman qutiya ewle ye",
+                  "Bi aramî vekin"
+                ]
+              ],
+              "tipBox": "💡 Ev modelek diyarkirî ye — ne hewce ye texmîn bikin, 100% bi mantiqê tê derxistin."
+            },
+            {
+              "title": "Forma 1-2-2-1",
+              "paragraphs": [
+                "Dema rêza 1-2-2-1 bibînin, ev jî formek klasîk e:"
+              ],
+              "list": [
+                [
+                  "Li jorê navbera her du 2'an yek mîn heye",
+                  ""
+                ],
+                [
+                  "Li jorê her du 1'an qutiyên ewle hene",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Forma Sînorê Tabloyê",
+              "paragraphs": [
+                "Dema hejmar li qiraxa tabloyê be, mantiqkirin hêsantir dibe, ji ber ku aliyek kêm tê hesibandin."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Duyem: Teknîkên Navîn",
+          "difficulty": "Pêşkeftî",
+          "items": [
+            {
+              "title": "Teknîka Klîka Du Caran (Chord)",
+              "paragraphs": [
+                "Ev xebitandina herî girîng ji bo zêdekirina lezê ye. Dema hejmara alayên li dora hejmarê bi wê hejmarê re wekhev be, bi bişkoka navîn a mişkê an hevdem bi her du bişkokan bikirtînin, hemû qutiyên nenîşankirî yên derdorê bixweber vedibin.",
+                "Mînak: Heke li dora hejmara 3'an 3 ala hatibe nîşankirin, li wê 3'an klîk bikin, 5 qutiyên mayî bixweber vedibin."
+              ],
+              "tipBox": "⚡ Sira pisporan: Hema hemû lîstikvanên pispor klîka du caran bikar tînin — di heman demê de ala nîşan bikin û klîka du caran bikin, leza lîstikê çend qat zêde dibe."
+            },
+            {
+              "title": "Mantiqkirina Kêmkirinê",
+              "paragraphs": [
+                "Dema li dora hejmarê hin ala hatin nîşankirin, van alayan \"kêm bikin\" da ku hejmara mînan di qutiyên mayî de bibînin. Mînak: Heke li dora hejmara 3'an yek ala hatibe nîşankirin, di qutiyên mayî de 2 mînan hene."
+              ]
+            },
+            {
+              "title": "Mantiqkirina Hevbeş a Çend Hejmaran",
+              "paragraphs": [
+                "Hejmarên cîran ji hev cuda nenirxînin, hevdem bi hev re mantiq bikin. Du hejmarên cîran hin qutiyên hevpar parve dikin, bi têkilî û temamkeriyê dikarin agahiyên bêtir derxistin."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Sêyem: Teknîkên Pêşkeftî",
+          "difficulty": "Serwerî",
+          "items": [
+            {
+              "title": "Analîza Îhtîmalê",
+              "paragraphs": [
+                "Dema rewşek nediyar çêbibe (dema \"texmînkirina mînan\"), bibînin ka kîjan quti îhtîmala ketina mînê kêm e:"
+              ],
+              "list": [
+                [
+                  "Pêşî qutiyên nêzîkî herêma vekirî hilbijêrin",
+                  "Agahî zêdetir in"
+                ],
+                [
+                  "Ji qutiyên herêma veqetandî dûr bikevin",
+                  "Nediyariya îhtîmalê zêde ye"
+                ],
+                [
+                  "Di hin rewşên tevlihev de, hejmara mînan û qutiyên mayî hesab bikin",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ \"Texmînkirin\" di mînêkêşê de nikare bi temamî dûr bikeve, lê bi analîza îhtîmalê rêjeya serkeftinê dikare bigihîje 90% û zêdetir."
+            },
+            {
+              "title": "Naskirina Modeyê",
+              "paragraphs": [
+                "Çavê pisporan qutiyan yek bi yek najimêre, lê \"modeyê\" nas dike — mîna xwendina nivîsê kom bi kom rêzên hejmaran nas dike. Piştî pratîkê, gava hin kombînasyonên hejmaran bibînin, tavilê dikarin bibêjin ka li ku mîn heye û li ku ewle ye."
+              ]
+            },
+            {
+              "title": "Teknîka Xebitandina Mişkê",
+              "list": [
+                [
+                  "Hevkariya her du destan bi rêkûpêk",
+                  "Destê çepê ala nîşan dike (bişkoka rastê), destê rastê qutiyan vekin (bişkoka çepê), karê her destê diyar e"
+                ],
+                [
+                  "Kêmkirina tevgera mişkê",
+                  "Li şûna klîka yek caran klîka du caran bikar bikin, hejmara klîkan û dûrahiya tevgera mişkê kêm bikin"
+                ],
+                [
+                  "Rîtma xebitandinê",
+                  "Rîtma xebitandina xwe bibînin, ne zû ne hêdî bin"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Çarem: Stratejiya Pratîkê",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Stratejiya Destpêkê",
+              "paragraphs": [
+                "DMine garantî dike ku yekem klîk ewle ye. Piştî destpêkê pêşî herêmên vala yên berfireh vekin, da ku ji bo mantiqkirina paşerojê bêtir îşaret çêbibin."
+              ]
+            },
+            {
+              "title": "Qanûna Pêşîniyê",
+              "paragraphs": [
+                "Tabloyê bi vê rêzê birêve bibin:"
+              ],
+              "orderedList": [
+                "Pêşî hemû formên diyarkirî (1-2-1, 1-2-2-1 hwd.) birêve bibin",
+                "Xebitandina vekirina lez bikar bînin",
+                "Hejmarên li qiraxê yek bi yek birêve bibin",
+                "Di dawiyê de herêmên ku pêwîstîya texmînê heye birêve bibin"
+              ]
+            },
+            {
+              "title": "Stratejiya Texmînkirina Mînan",
+              "paragraphs": [
+                "Dema neçar bimînin texmîn bikin:"
+              ],
+              "list": [
+                [
+                  "Pêşî qutiyên li qiraxê texmîn bikin",
+                  "Bi gelemperî qutiyên qiraxê têkiliya agahiyan kêm in, rîsk kêm e"
+                ],
+                [
+                  "Hejmara mînan ya mayî hesab bikin",
+                  "Fêr bibin çend mîn nenîşankirî mane, ji bo dadbarkirinê alîkar e"
+                ],
+                [
+                  "Heta dawiyê bisekinin texmîn bikin",
+                  "Heke dem hebe, pêşî herêmên din çareser bikin da ku tablo zelaltir bibe"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Pêncem: Perwerdehiya Pêşveçûna Qabîliyetê",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Pratîka bersiva forman",
+                  "Gava kombînasyona hejmaran bibînin, bê fikir xebitandinê bikin, bîra masûlkeyê çêbikin"
+                ],
+                [
+                  "Kêmkirina dudiliyê",
+                  "Biryara diyarkirî di nav 0.5 çirkeyê de bidin"
+                ],
+                [
+                  "Analîza paş têkçûnê",
+                  "Piştî têkçûnê bifikirin ka li ku dikaribû çêtir bikin"
+                ],
+                [
+                  "Bikarînina rêzbendiya DMine",
+                  "Tomarên pisporan temaşe bikin, armancek piçûk destnîşan bikin û qabîliyeta xwe pêşbaz bikin"
+                ],
+                [
+                  "Hewldana lîstika bê ala",
+                  "Bê nîşankirina alayan hewl bidin lîstikê temam bikin"
+                ]
+              ],
+              "tipBox": "🎯 Referansa Armancê: Lîstikvanê asayî heta 15 astan, lîstikvanê jêhatî heta 20 astan, pispor heta 30 astan û zêdetir, lîstikvanê serwerî dikare bê ala heta 30 astan û zêdetir lîstik bike."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Destpêka Pratîkê"
+    }
+  }
+}

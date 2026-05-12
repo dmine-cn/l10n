@@ -51,6 +51,7 @@ const Map<String, String> stringsDa = {
   'language': 'Sprog',
   // Home page
   'newbie': 'Nybegynder',
+  'gameIntro': 'Spilbeskrivelse',
   'newBattle': 'Ny front',
   'continueChallenge': 'Fortsæt udfordringen',
   'error': 'Fejl',

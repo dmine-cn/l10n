@@ -50,6 +50,7 @@ const Map<String, String> stringsEn = {
   'language': 'Language',
   // Home page
   'newbie': 'Newbie',
+  'gameIntro': 'Game Introduction',
   'newBattle': 'New Battle',
   'continueChallenge': 'Continue',
   'error': 'Error',

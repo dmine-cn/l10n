@@ -52,6 +52,7 @@ const Map<String, String> stringsUz = {
   'language': 'Til',
   // Home page
   'newbie': 'Yangi boshlovchi',
+  'gameIntro': 'O\'yin taqdimoti',
   'newBattle': 'Yangi jang chizig\'i',
   'continueChallenge': 'Qiyinchilikni davom ettirish',
   'error': 'Xato',

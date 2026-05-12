@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "uz",
+    "langAttr": "uz",
+    "ogLocale": "uz_UZ",
+    "siteName": "DMine - Eng Yaxshi Mina Qidiruvchi",
+    "canonicalPrefix": "uz/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Bosh sahifa",
+    "rules": "Qoidalar",
+    "tips": "Maslahatlar",
+    "about": "Biz haqimizda",
+    "download": "Yuklab olish"
+  },
+  "footer": {
+    "copyright": "© 2026 DMine Jamoasi"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "DMine haqida - Eng Yaxshi Mina Qidiruv | Krossplatform Mina O'yini",
+      "metaDescription": "DMine — Windows, macOS, Linux, Android, iOS, HarmonyOS va Web platformalarini qo'llab-quvvatlovchi krossplatform mina qidiruv o'yini. To'liq bepul va ochiq kodli, 66 tilni qo'llab-quvvatlaydi, onlayn o'ynang!",
+      "metaKeywords": "mina o'yini, DMine, eng yaxshi mina o'yini, krossplatform mina o'yini, bepul mina o'yini, ochiq kodli mina o'yini",
+      "headerTitle": "💣 DMine - Eng Yaxshi Mina Qidiruv O'yini",
+      "headerSubtitle": "Istalgan vaqtda, istalgan joyda klassik o'ynash mumkin bo'lgan krossplatform mina o'yini",
+      "sections": [
+        {
+          "heading": "DMine nima?",
+          "paragraphs": [
+            "DMine — Flutter ramkasida ishlab chiqilgan krossplatform mina qidiruv o'yini. U klassik mina o'yinining asosiy o'yin jarayonini saqlab qolgan, zamonaviy interfeys dizayni va boy funksiyalari bilan o'yinchilarga yangi tajriba taqdim etadi.",
+            "Windows'da tajribali o'yinchi bo'lsangiz ham, yo'lda telefonda dam olish uchun o'ynaydigan oddiy o'yinchi bo'lsangiz ham, DMine barcha ehtiyojlaringizni qondiradi."
+          ]
+        },
+        {
+          "heading": "Qo'llab-quvvatlanadigan platformalar",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Barcha platformalar ma'lumotlari o'zaro mos keladi, bir joyda o'ynang, hamma joyda sinxronlanadi."
+          ]
+        },
+        {
+          "heading": "Asosiy xususiyatlar",
+          "list": [
+            [
+              "Ko'p til qo'llab-quvvatlashi",
+              "66 tilni qo'llab-quvvatlaydi, dunyo bo'ylab o'yinchilar bilan to'siqsiz o'ynang"
+            ],
+            [
+              "O'yin yozuvlarini bulutda saqlash",
+              "O'yin natijalari avtomatik ravishda bulutga yuklanadi, boshqa o'yinchilar takrorlarni ko'rishi mumkin"
+            ],
+            [
+              "Bulutli reyting",
+              "Dunyo bo'ylab o'yinchilar bilan o'tkazilgan darajalar bo'yicha raqobatlashing"
+            ],
+            [
+              "Ikki o'yin rejimi",
+              "Yangi boshlanuvchilar uchun va oddiy qiyinchilik rejimi"
+            ],
+            [
+              "To'liq bepul",
+              "Reklamasiz, ichki xaridlarsiz, sof o'yin tajribasi"
+            ]
+          ]
+        },
+        {
+          "heading": "O'yin rejimlari",
+          "paragraphs": [
+            "O'yin qoidasi: O'yin maydoni 16×30 (480 katak) o'lchamida belgilangan. Belgilangan mina soni orasidan barcha xavfsiz kataklarni toping va g'alaba qozoning."
+          ],
+          "list": [
+            [
+              "Yangi boshlanuvchilar",
+              "15 mina bilan boshlanadi, har bir daraja o'tganda 6 mina qo'shiladi, eng yuqori 15-darajada 99 mina bo'ladi"
+            ],
+            [
+              "Oddiy qiyinchilik",
+              "81 mina bilan boshlanadi, dastlabki 4 darajaga har safar 6 mina qo'shiladi, keyin har 3 darajaga 3 mina, undan keyin har 3 darajaga 2 mina, so'ng har bir darajaga 1 mina cheksiz qo'shiladi"
+            ]
+          ]
+        },
+        {
+          "heading": "Versiya ma'lumotlari",
+          "paragraphs": [
+            "Joriy versiya: {{VERSION}}",
+            "Texnologik stek: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine ochiq kodli loyihadir. GitHub'da kuzatib borish va kodga hissa qo'shishga xush kelibsiz."
+          ]
+        }
+      ],
+      "ctaText": "🎮 O'yinni boshlash"
+    },
+    "rules": {
+      "pageTitle": "Mina o'yini to'liq qoidalari - Yangilar uchun o'qish shart | DMine Eng Yaxshi Mina O'yini",
+      "metaDescription": "Mina o'yini qanday o'ynaladi? Ushbu qo'llanma asosiy qoidalar, raqamlarning ma'nosi, boshqarish usullari va g'alaba shartlarini yangilar uchun batafsil tushuntiradi!",
+      "metaKeywords": "mina o'yini qoidalari, mina o'yini qanday o'ynaladi, mina o'yini qo'llanma, yangilar uchun mina o'yini, asosiy mina o'yini qoidalari",
+      "headerTitle": "💣 Mina o'yini to'liq qoidalari",
+      "headerSubtitle": "Noldan mina o'yinini o'rganing, yangilar o'qishi shart",
+      "sections": [
+        {
+          "heading": "O'yinning maqsadi",
+          "paragraphs": [
+            "Mina o'yinining maqsadi oddiy: Minaga bosmasdan barcha xavfsiz kataklarni oching. Agar minaga bossangiz o'yin tugaydi. Agar minasiz barcha kataklarni ochsangiz g'alaba qozonasiz!"
+          ]
+        },
+        {
+          "heading": "Asosiy boshqaruv",
+          "table": {
+            "headers": [
+              "Amal",
+              "Sichqoncha",
+              "Sensor ekran",
+              "Tavsif"
+            ],
+            "rows": [
+              [
+                "Katakni ochish",
+                "Chap tugmani bosish",
+                "Bir marta tegish",
+                "Tanlangan katakni ochish"
+              ],
+              [
+                "Bayroq bilan belgilash",
+                "O'ng tugmani bosish",
+                "Uzoq bosib turish",
+                "Mina bor deb hisoblagan joyni belgilash (⚑)"
+              ],
+              [
+                "Savol belgisi bilan belgilash",
+                "Yana o'ng tugmani bosish",
+                "Yana uzoq bosib turish",
+                "Ishonchsiz bo'lsa ? belgisi qo'yish"
+              ],
+              [
+                "Tez mina ochish (Chord)",
+                "Ochilgan raqamli katakka chap tugmani bosish",
+                "—",
+                "Raqam atrofidagi bayroqlar soni mos kelganda bosing va atrofdagi barcha belgilanmagan kataklarni bir vaqtda oching"
+              ]
+            ]
+          },
+          "tipBox": "💡 Foydali maslahat: Tez mina ochish (Chord) juda samarali usul! Raqam atrofidagi bayroqlar soni raqam qiymatiga teng bo'lsa, chap bosish atrofdagi barcha belgilanmagan kataklarni avtomatik ochadi."
+        },
+        {
+          "heading": "Raqamlarning ma'nosi",
+          "paragraphs": [
+            "Katakni ochgandan so'ng 1 dan 8 gacha raqam paydo bo'ladi — u atrofdagi 8 katakda nechta mina borligini bildiradi.",
+            "3×3 misolida o'rtadagi 1 raqami atrofdagi 8 katakda aynan bitta mina borligini anglatadi."
+          ],
+          "list": [
+            "1 — Atrofdagi 8 katakda 1 mina bor",
+            "2 — Atrofdagi 8 katakda 2 mina bor",
+            "3 — Atrofdagi 8 katakda 3 mina bor",
+            "va shu tartibda, maksimal qiymati 8"
+          ],
+          "tipBox": "💡 Raqamsiz bo'sh katak atrofida hech qanday mina yo'qligini bildiradi. O'yin atrofdagi maydonni avtomatik ochadi — bu mina o'yinining zanjirli ochilish mexanizmi."
+        },
+        {
+          "heading": "O'yin rejimlari",
+          "paragraphs": [
+            "Maydon o'lchami: 16 × 30 (480 Katak)"
+          ],
+          "table": {
+            "headers": [
+              "Rejim",
+              "Boshlang'ich mina soni",
+              "O'sish qoidasi",
+              "Tavsif"
+            ],
+            "rows": [
+              [
+                "Yangi Boshlanuvchilar",
+                "15 Mina",
+                "Har Daraja O'tganda +6 Mina",
+                "Maksimal 15-Darajada 99 Mina"
+              ],
+              [
+                "Oddiy Qiyinchilik",
+                "81 Mina",
+                "Quyidagi tavsifga qarang",
+                "Mina soni cheksiz o'sib boradi"
+              ]
+            ]
+          },
+          "extraParagraph": "Oddiy qiyinchilik o'sish qoidasi: Dastlabki 4 darajaga har safar 6 mina qo'shiladi, keyin har 3 darajaga 3 mina, undan keyin har 3 darajaga 2 mina, so'ng har bir darajaga 1 mina yuqori chegara yo'q."
+        },
+        {
+          "heading": "G'alaba va mag'lubiyat",
+          "list": [
+            [
+              "G'alaba",
+              "Minasiz barcha kataklarni ochish yoki barcha mina joylarini to'g'ri belgilash"
+            ],
+            [
+              "Mag'lubiyat",
+              "Minaga bosish — o'yin darhol tugaydi"
+            ]
+          ],
+          "tipBox": "💡 Birinchi bosish 100% xavfsiz! DMine birinchi teginish hech qachon minaga tushmasligini kafolatlaydi, xotirjam o'yinni boshlang."
+        },
+        {
+          "heading": "Takrorlarni ko'rish va ulashish",
+          "paragraphs": [
+            "O'yinchilarning daraja o'tkazish yozuvlari avtomatik ravishda bulutda saqlanadi. Boshqa o'yinchilar o'yin takrorlarini ko'rishi mumkin. Takrorlar faqat ko'rish uchun, tahrirlash yoki qayta o'ynash mumkin emas."
+          ]
+        },
+        {
+          "heading": "Reyting jadvali",
+          "paragraphs": [
+            "DMine bulutli reyting tizimiga ega. O'yinchilar o'tkazilgan darajalar soni bo'yicha tartiblanadi. Qancha ko'p daraja o'tkazsangiz, reytingda shuncha yuqori o'rin olasiz. Dunyo bo'ylab o'yinchilar bilan raqobatlashing!"
+          ]
+        }
+      ],
+      "ctaText": "🎮 O'yinni Boshlash"
+    },
+    "tips": {
+      "pageTitle": "Mina o'yini ilg'or maslahatlari - Yangilardan ustagacha | DMine Eng Yaxshi Mina O'yini",
+      "metaDescription": "Mina o'yini ustalari uchun qo'llanma! 1-2-1, 1-2-2-1 naqshlari, ikki marta bosish texnikasi, ehtimollik tahlili. Tezlik va g'alaba foizini oson oshiring!",
+      "metaKeywords": "mina o'yini maslahatlari, ilg'or mina usullari, mina naqshlari, mina strategiyasi, 1-2-1 mina naqshi, mina ehtimolligi, mina o'yini ustasi",
+      "headerTitle": "🎯 Mina o'yini ilg'or maslahatlari",
+      "headerSubtitle": "Yangilardan ustagacha — mina o'yinining professionaliga aylaning",
+      "headerSub2": "Naqsh va strategiyalarni o'zlashtirib, g'alaba foizi va o'yin tezligini ikki baravar oshiring",
+      "sections": [
+        {
+          "heading": "I. Asosiy naqshlar",
+          "difficulty": "Boshlang'ich",
+          "items": [
+            {
+              "title": "1-2-1 Naqshi",
+              "paragraphs": [
+                "Bu mina o'yinidagi eng keng tarqalgan va eng muhim asosiy naqsh. To'g'ri chiziqda 1-2-1 raqam ketma-ketligini ko'rsangiz aniq aniqlashingiz mumkin:"
+              ],
+              "list": [
+                [
+                  "Ikkita 1 raqami ustida har birida bittadan mina bor",
+                  "Bayroq bilan belgilang"
+                ],
+                [
+                  "2 raqami ustidagi katak har doim xavfsiz",
+                  "Ishonch bilan ochishingiz mumkin"
+                ]
+              ],
+              "tipBox": "💡 Bu aniq naqsh, taxmin qilish shart emas — xulosani 100% mantiqan chiqarish mumkin."
+            },
+            {
+              "title": "1-2-2-1 Naqshi",
+              "paragraphs": [
+                "1-2-2-1 raqam ketma-ketligini ko'rsangiz yana bir klassik naqsh mavjud:"
+              ],
+              "list": [
+                [
+                  "Ikkita 2 raqami o'rtasi ustida bittadan mina bor",
+                  ""
+                ],
+                [
+                  "Ikkita 1 raqami ustida har birida bittadan xavfsiz katak bor",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Chekka naqshlar",
+              "paragraphs": [
+                "Raqamlar o'yin maydonining chekkasida joylashganda mantiqiy fikr yuritish osonlashadi, chunki hisoblash uchun bir tomon yo'qoladi."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "II. O'rta darajadagi usullar",
+          "difficulty": "Ilg'or",
+          "items": [
+            {
+              "title": "Ikki marta bosish texnikasi (Chord)",
+              "paragraphs": [
+                "Tezlikni oshirish uchun eng muhim amal. Raqam atrofidagi bayroqlar soni uning qiymatiga teng bo'lsa, sichqoncha g'ildiragini yoki chap va o'ng tugmani bir vaqtda bosing va atrofdagi barcha belgilanmagan kataklarni avtomatik oching.",
+                "Misol: 3 raqami atrofida 3 bayroq bo'lsa, 3 ga ikki marta bosish qolgan 5 katakni avtomatik ochadi."
+              ],
+              "tipBox": "⚡ Ustalar siri: Barcha tajribali o'yinchilar ushbu usuldan foydalanadi — bayroq qo'yish bilan bir vaqtda katak ochiladi, o'yin tezligi bir necha baravar oshadi."
+            },
+            {
+              "title": "Ayirish mantiqi",
+              "paragraphs": [
+                "Raqam atrofida allaqachon bayroqlar bilan qisman minalar belgilangan bo'lsa — ularni raqam qiymatidan ayiring va qolgan kataklardagi mina sonini aniqlang. Misol: 3 atrofida 1 bayroq bo'lsa, qolgan kataklarda yana 2 mina bor."
+              ]
+            },
+            {
+              "title": "Bir nechta raqamni birgalikda tahlil qilish",
+              "paragraphs": [
+                "Raqamlarni alohida tahlil qilmang, qo'shni raqamlarni birgalikda fikr yuriting. Ikkita qo'shni raqam umumiy kataklarga ega, kesishma va to'ldirish munosabatlari orqali ko'proq ma'lumot olishingiz mumkin."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "III. Ilg'or texnikalar",
+          "difficulty": "Usta",
+          "items": [
+            {
+              "title": "Ehtimollik tahlili",
+              "paragraphs": [
+                "Aniq qaror qabul qilib bo'lmaydigan holatlarda, ya'ni taxmin qilish kerak bo'lganda, minaga tushish ehtimoli eng past bo'lgan katakni tanlang:"
+              ],
+              "list": [
+                [
+                  "Avval ochilgan hududlarga yaqin kataklarni tanlang",
+                  "Ko'proq tahlil ma'lumoti mavjud"
+                ],
+                [
+                  "Alohida joylashgan kataklardan qoching",
+                  "Ehtimollik noaniqligi yuqori"
+                ],
+                [
+                  "Murakkab holatlarda qolgan mina va katak soni nisbatini hisoblashni o'rganing",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Mina o'yinida taxmin qilishni to'liq oldini olish mumkin emas, lekin ehtimollik tahlili orqali g'alaba foizini 90% dan yuqoriga ko'tarish mumkin."
+            },
+            {
+              "title": "Naqshni tanib olish",
+              "paragraphs": [
+                "Ustalar kataklarni birma-bir sanamaydi — ular matn o'qish kabi tayyor naqshlarni butun holda tanib oladi. Ko'p mashq qilsangiz raqam kombinatsiyalarini ko'rganda qayerda mina, qayerda xavfsiz katak ekanligini darhol taniysiz."
+              ]
+            },
+            {
+              "title": "Sichqoncha boshqarish usullari",
+              "list": [
+                [
+                  "Ikki qo'lning mos ishlashi",
+                  "Chap qo'l bayroq qo'yadi (o'ng bosish), o'ng qo'l katak ochadi (chap bosish), vazifa taqsimoti aniq"
+                ],
+                [
+                  "Sichqoncha harakatini kamaytirish",
+                  "Bir marta bosish o'rniga ikki marta bosishdan foydalaning, bosish soni va sichqoncha harakat masofasini qisqartiring"
+                ],
+                [
+                  "O'yin ritmi",
+                  "O'zingizning o'yin ritmingizni toping, ba'zan tez, ba'zan sekin o'ynamang"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "IV. Amaliy strategiyalar",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "O'yin boshlash strategiyasi",
+              "paragraphs": [
+                "DMine birinchi bosishingiz xavfsiz ekanligini kafolatlaydi. O'yin boshida katta bo'sh hududlarni avval oching, keyingi mantiqiy tahlil uchun ko'proq maslahatlar yarating."
+              ]
+            },
+            {
+              "title": "Maydonni tartibda ishlash",
+              "paragraphs": [
+                "O'yin maydonini quyidagi tartibda ishlang:"
+              ],
+              "orderedList": [
+                "Avval barcha aniq naqshlarni hal qiling (1-2-1, 1-2-2-1 va boshqalar)",
+                "Tez ochish usulidan foydalaning",
+                "Chekkadagi raqamlarni navbatma-navbat ishlang",
+                "Oxirida taxmin qilish talab qilinadigan hududlarni qoldiring"
+              ]
+            },
+            {
+              "title": "Taxmin qilish strategiyasi",
+              "paragraphs": [
+                "Taxmin qilishga majbur bo'lganingizda:"
+              ],
+              "list": [
+                [
+                  "Avval chekkadagi kataklarni taxmin qiling",
+                  "Odatda chekka kataklarning aloqasi kam, xavfi pastroq"
+                ],
+                [
+                  "Qolgan mina sonini hisoblang",
+                  "Belgilanmagan mina sonini bilish qaror qabul qilishingizni osonlashtiradi"
+                ],
+                [
+                  "Taxmin qilishni oxiriga qoldiring",
+                  "Vaqt bo'lsa avval boshqa hududlarni hal qiling, maydonni aniqroq holga keltiring"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "V. Malakani oshirish mashqlari",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Naqshlarga munosabatni mashq qiling",
+                  "Raqam kombinatsiyasini ko'rganda o'ylamasdan harakat qiling, mushak xotirasini shakllantiring"
+                ],
+                [
+                  "Ikkilanishni kamaytiring",
+                  "Aniq qarorlarni 0,5 soniyada qabul qiling"
+                ],
+                [
+                  "Mag'lubiyatdan keyin tahlil qiling",
+                  "Nima yaxshiroq qilish mumkinligini o'ylab ko'ring"
+                ],
+                [
+                  "DMine reytingidan foydalaning",
+                  "Ustalarning rekordlarini ko'ring, o'zingizga maqsad qo'ying va malakangizni oshiring"
+                ],
+                [
+                  "Bayroqsiz o'ynashni sinab ko'ring",
+                  "Hech qanday bayroq qo'ymasdan o'yinni yakunlashga harakat qiling"
+                ]
+              ],
+              "tipBox": "🎯 Maqsad darajalari: Oddiy o'yinchilar — 10 darajagacha, tajribalilar — 20 darajagacha, ustalar — 30 darajadan yuqori, eng zo'r o'yinchilar 30+ darajani hatto bayroqsiz ham o'tkaza oladi."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Mashq boshlash"
+    }
+  }
+}

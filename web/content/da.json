@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "da",
+    "langAttr": "da",
+    "ogLocale": "da_DK",
+    "siteName": "DMine - Top Minerydder",
+    "canonicalPrefix": "da/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Forside",
+    "rules": "Regler",
+    "tips": "Tips",
+    "about": "Om",
+    "download": "Download"
+  },
+  "footer": {
+    "copyright": "© 2026 DMine Hold"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Om DMine - Top Minerydder | Tværplatforms minesweeper-spil",
+      "metaDescription": "DMine (Top Minerydder) er et tværplatforms minesweeper-spil, der understøtter Windows, macOS, Linux, Android, iOS, HarmonyOS og Web. Gratis og open source, 66 sprog, spil online!",
+      "metaKeywords": "minesweeper spil,DMine,top minerydder,tværplatforms minesweeper,gratis minesweeper,open source minesweeper",
+      "headerTitle": "💣 DMine - Top Minerydder",
+      "headerSubtitle": "Et tværplatforms minesweeper-spil, spil klassikeren overalt og når som helst",
+      "sections": [
+        {
+          "heading": "Hvad er DMine?",
+          "paragraphs": [
+            "DMine (Top Minerydder) er et tværplatforms minesweeper-spil udviklet med Flutter-frameworket. Det bevarer den klassiske minesweeper-gameplay, samtidig med at det tilføjer moderne design og rige funktioner for at give spillere en helt ny oplevelse.",
+            "Uanset om du er en erfaren spiller på Windows eller en afslappet spiller, der bruger mobilen under pendling, opfylder DMine alle dine behov."
+          ]
+        },
+        {
+          "heading": "Understøttede platforme",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Data synkroniseres på tværs af alle platforme – spil et sted, synkroniser overalt."
+          ]
+        },
+        {
+          "heading": "Funktioner",
+          "list": [
+            [
+              "Flersproget understøttelse",
+              "Understøtter 66 sprog, spillere fra hele verden spiller uden begrænsninger"
+            ],
+            [
+              "Deling af optagelser",
+              "Spiloptagelser deles automatisk i skyen, andre spillere kan se afspilninger"
+            ],
+            [
+              "Sky-rangering",
+              "Konkurer med spillere fra hele verden efter antal gennemførte niveauer"
+            ],
+            [
+              "Flere spiltilstande",
+              "To tilstande: til nybegyndere og normal udfordring"
+            ],
+            [
+              "Helt gratis",
+              "Uden reklamer og indkøb i spillet, ren spiloplevelse"
+            ]
+          ]
+        },
+        {
+          "heading": "Spiltilstande",
+          "paragraphs": [
+            "Regler: Brættet er fast 16×30 (480 felter). Du vinder, hvis du finder alle sikre felter blandt et bestemt antal miner."
+          ],
+          "list": [
+            [
+              "Til nybegyndere",
+              "Starter med 15 miner, hvert gennemført niveau tilføjer 6 miner, op til 99 miner på niveau 15"
+            ],
+            [
+              "Normal udfordring",
+              "Starter med 81 miner; første 4 niveauer +6 miner, næste 3 +3 miner, yderligere 3 +2 miner, herefter +1 mine pr. niveau, ingen øvre grænse"
+            ]
+          ]
+        },
+        {
+          "heading": "Versionsinfo",
+          "paragraphs": [
+            "Nuværende version: {{VERSION}}",
+            "Teknisk stak: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine er et open source-projekt, velkommen til at følge og bidrage med kode på GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Start spillet"
+    },
+    "rules": {
+      "pageTitle": "Detaljerede regler for Minesweeper - Påkrævet for nybegyndere | DMine Top Minerydder",
+      "metaDescription": "Hvordan spiller man Minesweeper? Denne artikel forklarer grundlæggende regler, talernes betydning, betjening og sejrskrav – påkrævet guide til nybegyndere!",
+      "metaKeywords": "minesweeper regler,hvordan man spiller minesweeper,guide til minesweeper,nybegynder i minesweeper,grundlæggende regler for minesweeper,spilregler for minesweeper",
+      "headerTitle": "💣 Detaljerede regler for Minesweeper",
+      "headerSubtitle": "Lær at spille Minesweeper fra bunden, påkrævet for nybegyndere",
+      "sections": [
+        {
+          "heading": "Målet med spillet",
+          "paragraphs": [
+            "Målet med Minesweeper er enkelt: Åbn alle sikre felter uden at træde på en mine. Hvis du åbner en mine, slutter spillet; hvis du åbner alle minefrie felter – har du vundet!"
+          ]
+        },
+        {
+          "heading": "Grundlæggende betjening",
+          "table": {
+            "headers": [
+              "Handling",
+              "Mus",
+              "Berøring",
+              "Forklaring"
+            ],
+            "rows": [
+              [
+                "Åbn felt",
+                "Venstre klik",
+                "Én trykning",
+                "Åbner det valgte felt"
+              ],
+              [
+                "Markér med flag",
+                "Højre klik",
+                "Lang trykning",
+                "Markér et sted, hvor du mener der er en mine (⚑)"
+              ],
+              [
+                "Markér med spørgsmålstegn",
+                "Højre klik igen",
+                "Lang trykning igen",
+                "Markér med ?, når du er usikker"
+              ],
+              [
+                "Hurtig åbning (Chord)",
+                "Venstre klik på åbent talfelt",
+                "—",
+                "Når antallet af flag omkring et tal matcher tallet, klik på tallet for at åbne alle umarkerede felter omkring det"
+              ]
+            ]
+          },
+          "tipBox": "💡 Tip: Hurtig åbning (Chord) er en meget effektiv spilmetode! Når antallet af flag omkring et tal matcher tallet, åbner venstreklik på dette felt alle umarkerede felter omkring det."
+        },
+        {
+          "heading": "Betydningen af tal",
+          "paragraphs": [
+            "Når du åbner et felt, vises der et tal (1~8), der angiver antallet af miner i de 8 omkringliggende felter.",
+            "Her er et 3×3 eksempel: Tallet 1 i midten betyder, at der er 1 mine i de 8 omkringliggende felter:"
+          ],
+          "list": [
+            "1 — 1 mine i 8 omkringliggende felter",
+            "2 — 2 miner i 8 omkringliggende felter",
+            "3 — 3 miner i 8 omkringliggende felter",
+            "…… og så videre, maksimum 8"
+          ],
+          "tipBox": "💡 Et tomt felt (uden tal) betyder, at der ingen miner er i de 8 omkringliggende felter – spillet åbner automatisk området omkring det – dette er mekanismen for „kædeåbning“ i Minesweeper."
+        },
+        {
+          "heading": "Spiltilstande",
+          "paragraphs": [
+            "Fast bræt: 16 × 30 (480 felter)"
+          ],
+          "table": {
+            "headers": [
+              "Tilstand",
+              "Startantal miner",
+              "Stigningsregel",
+              "Forklaring"
+            ],
+            "rows": [
+              [
+                "Til nybegyndere",
+                "15 miner",
+                "+6 miner pr. gennemført niveau",
+                "Op til 99 miner på niveau 15"
+              ],
+              [
+                "Normal udfordring",
+                "81 miner",
+                "Se nedenfor",
+                "Antallet af miner stiger med hver runde, ingen øvre grænse"
+              ]
+            ]
+          },
+          "extraParagraph": "Stigningsregel for normal udfordring: Første 4 niveauer +6 miner, næste 3 +3 miner, yderligere 3 +2 miner, herefter +1 mine pr. niveau, ingen øvre grænse."
+        },
+        {
+          "heading": "Sejr og nederlag",
+          "list": [
+            [
+              "Sejr",
+              "Åbn alle minefrie felter eller marker alle miner korrekt"
+            ],
+            [
+              "Nederlag",
+              "Klik på en mine – spillet slutter straks"
+            ]
+          ],
+          "tipBox": "💡 Første klik er 100% sikkert! DMine garanterer, at første klik ikke er på en mine, så du kan starte trygt."
+        },
+        {
+          "heading": "Afspilning og deling",
+          "paragraphs": [
+            "Optagelser af gennemførte niveauer deles automatisk i skyen. Andre spillere kan se afspilningen i „Kamprække“. Afspilning er kun til visning, ikke til deltagelse eller redigering."
+          ]
+        },
+        {
+          "heading": "Rangering",
+          "paragraphs": [
+            "DMine understøtter sky-rangering, rangført efter antal gennemførte niveauer. Jo flere niveauer – jo højere rang. Konkurer med spillere fra hele verden."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Start spillet"
+    },
+    "tips": {
+      "pageTitle": "Avancerede tricks til Minesweeper - Fra nybegynder til ekspert | DMine Top Minerydder",
+      "metaDescription": "Guide for øvede spillere! Mønstre 1-2-1, 1-2-2-1, dobbeltklik, sandsynlighedsanalyse... Mestre disse tricks for nemt at forbedre hastighed og sejrsrate!",
+      "metaKeywords": "minesweeper tricks,avancerede minesweeper tricks,minesweeper mønstre,minesweeper strategi,1-2-1 minesweeper,sandsynligheder minesweeper,ekspert i minesweeper,avanceret i minesweeper",
+      "headerTitle": "🎯 Avancerede tricks til Minesweeper",
+      "headerSubtitle": "Fra nybegynder til ekspert, bliv en mester i Minesweeper",
+      "headerSub2": "Mestre disse mønstre og strategier, fordobel din sejrsrate og hastighed",
+      "sections": [
+        {
+          "heading": "1. Grundlæggende mønstre",
+          "difficulty": "Nybegynder",
+          "items": [
+            {
+              "title": "Mønster 1-2-1",
+              "paragraphs": [
+                "Dette er det mest almindelige og vigtige mønster i Minesweeper. Når du ser en række 1-2-1 på en lige linje, kan du være sikker:"
+              ],
+              "list": [
+                [
+                  "Der er en mine over hver 1",
+                  "Marker med flag"
+                ],
+                [
+                  "Feltet over 2 er sikkert",
+                  "Du kan åbne det trygt"
+                ]
+              ],
+              "tipBox": "💡 Dette er et sikkert mønster – ingen gætteværk nødvendigt, 100% logisk udledt."
+            },
+            {
+              "title": "Mønster 1-2-2-1",
+              "paragraphs": [
+                "Når du ser 1-2-2-1, er det også et klassisk mønster:"
+              ],
+              "list": [
+                [
+                  "Der er en mine over midten af de to 2'ere",
+                  ""
+                ],
+                [
+                  "Der er et sikkert felt over hver 1",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Kantmønstre",
+              "paragraphs": [
+                "Når et tal er bredt til kanten af brættet, bliver udledningen nemmere, da der mangler en side at beregne."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Mellemtricks",
+          "difficulty": "Avanceret",
+          "items": [
+            {
+              "title": "Dobbeltklik-trick (Chord)",
+              "paragraphs": [
+                "Dette er den afgørende handling for at øge hastigheden. Når antallet af flag omkring et tal matcher tallet, klik på musens midterknap eller venstre + højre samtidigt – alle umarkerede felter omkring åbnes automatisk.",
+                "Eksempel: hvis der allerede er 3 flag omkring en 3, dobbeltklik på 3, og de resterende 5 felter åbnes automatisk."
+              ],
+              "tipBox": "⚡ Mesterhemmelighed: Næsten alle øvede spillere bruger dobbeltklik – marker og dobbeltklik, hastigheden fordobles adskillige gange."
+            },
+            {
+              "title": "Subtraktionsudledning",
+              "paragraphs": [
+                "Når der allerede er markeret nogle flag omkring et tal, „træk“ disse flag fra for at få antallet af resterende miner. F.eks. en 3 med ét flag har 2 miner tilbage."
+              ]
+            },
+            {
+              "title": "Kombineret udledning af tal",
+              "paragraphs": [
+                "Ikke se på enkelte tal isoleret, kombiner tilstødende tal. To tilstødende tal deler felter – brug skæring og komplement for at udlede mere information."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Avancerede tricks",
+          "difficulty": "Ekspert",
+          "items": [
+            {
+              "title": "Sandsynlighedsanalyse",
+              "paragraphs": [
+                "Når du støder på en usikker situation (dvs. „gæt en mine“), bedøm hvilket felt der har lavest sandsynlighed for at indeholde en mine:"
+              ],
+              "list": [
+                [
+                  "Vælg først felter tæt på åbne områder",
+                  "Mere information"
+                ],
+                [
+                  "Undgå felter i isolerede områder",
+                  "Høj usikkerhed"
+                ],
+                [
+                  "I nogle komplekse tilfælde lær at beregne forholdet mellem resterende miner og felter",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ „Gætteri“ kan ikke undgås helt i Minesweeper, men med sandsynlighedsanalyse kan du løfte din sejrsrate over 90%."
+            },
+            {
+              "title": "Mønstergenkendelse",
+              "paragraphs": [
+                "Mestre tæller ikke felt for felt – de genkender „mønstre“ som at læse tekst. Med mere træning genkender du øjeblikkeligt, hvor der er miner og hvor det er sikkert."
+              ]
+            },
+            {
+              "title": "Musebetjenings-tricks",
+              "list": [
+                [
+                  "Flydende koordination mellem hænderne",
+                  "Venstre hånd: flag (højre klik), højre hånd: åbning (venstre klik)"
+                ],
+                [
+                  "Reducér musebevægelse",
+                  "Brug dobbeltklik i stedet for enkeltklik"
+                ],
+                [
+                  "Rytme",
+                  "Find din egen betjeningsrytm, vær ikke hurtig og langsom af gangen"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Praktiske strategier",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Startstrategi",
+              "paragraphs": [
+                "DMine garanterer, at første klik er sikkert. Efter start åbn først store tomme områder for at skabe flere ledetråde til senere udledninger."
+              ]
+            },
+            {
+              "title": "Prioritetsregel",
+              "paragraphs": [
+                "Håndter brættet i denne rækkefølge:"
+              ],
+              "orderedList": [
+                "Først alle sikre mønstre (1-2-1, 1-2-2-1 osv.)",
+                "Brug hurtig åbning",
+                "Håndter tal på kanten en ad gangen",
+                "Til sidst områder, der kræver gætteværk"
+              ]
+            },
+            {
+              "title": "Gætstrategi",
+              "paragraphs": [
+                "Når du bliver nødt til at gætte:"
+              ],
+              "list": [
+                [
+                  "Gæt først felter tæt på kanten",
+                  "Normalt lavere risiko"
+                ],
+                [
+                  "Tæl resterende miner",
+                  "Vend dig af med, hvor mange miner der er tilbage, for at hjælpe med beslutningen"
+                ],
+                [
+                  "Gæt til sidst",
+                  "Hvis du har tid, løs andre områder først for at gøre brættet klarere"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Træning til forbedring",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Træn mønsterreaktion",
+                  "Når du ser talkombinationer, handling uden tøven, skab muskelhukommelse"
+                ],
+                [
+                  "Reducér tøven",
+                  "Sikre beslutninger på 0,5 sekunder"
+                ],
+                [
+                  "Analyse efter nederlag",
+                  "Tænk over, hvad du kunne have gjort bedre"
+                ],
+                [
+                  "Brug DMine-rangeringen",
+                  "Se mesteres optagelser, sæt små mål, udfordr dig selv"
+                ],
+                [
+                  "Prøv uden flag",
+                  "Prøv at fuldføre spillet uden at markere miner med flag"
+                ]
+              ],
+              "tipBox": "🎯 Målreference: almindelig spiller – inden for 10 niveauer, øvet – inden for 20, ekspert – over 30, topspillere – kan nå over 30 niveauer uden flag."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Start træningen"
+    }
+  }
+}

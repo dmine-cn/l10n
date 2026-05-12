@@ -48,6 +48,7 @@ const Map<String, String> stringsAr = {
   'language': 'اللغة',
   // Home page
   'newbie': 'مبتدئ',
+  'gameIntro': 'وصف اللعبة',
   'newBattle': 'جبهة جديدة',
   'continueChallenge': 'متابعة',
   'error': 'خطأ',

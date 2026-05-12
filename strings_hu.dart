@@ -54,6 +54,7 @@ const Map<String, String> stringsHu = {
   'language': 'Nyelv',
   // Home page
   'newbie': 'Kezdő',
+  'gameIntro': 'Játék bemutatása',
   'newBattle': 'Új front',
   'continueChallenge': 'Kihívás folytatása',
   'error': 'Hiba',

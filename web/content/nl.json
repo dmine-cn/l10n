@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "nl",
+    "langAttr": "nl",
+    "ogLocale": "nl_NL",
+    "siteName": "DMine - Top Mijnenveger",
+    "canonicalPrefix": "nl/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Startpagina",
+    "rules": "Regels",
+    "tips": "Tips",
+    "about": "Over ons",
+    "download": "Downloaden"
+  },
+  "footer": {
+    "copyright": "© 2026 DMine Team"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Over DMine - Top Mijnenveger | Cross-platform Mijnenveger Spel",
+      "metaDescription": "DMine (Top Mijnenveger) is een cross-platform mijnenveger spel voor Windows, macOS, Linux, Android, iOS, HarmonyOS en Web. Volledig gratis en open source, beschikbaar in 66 talen, direct online te spelen!",
+      "metaKeywords": "Mijnenveger spel,DMine,Top Mijnenveger,cross-platform mijnenveger,gratis mijnenveger,open source mijnenveger",
+      "headerTitle": "💣 DMine - Top Mijnenveger",
+      "headerSubtitle": "Een cross-platform mijnenveger spel, speel de klassieker altijd en overal",
+      "sections": [
+        {
+          "heading": "Wat is DMine?",
+          "paragraphs": [
+            "DMine (Top Mijnenveger) is een cross-platform mijnenveger spel ontwikkeld met het Flutter-framework. Het behoudt de kern van de klassieke mijnenveger, met een moderne interface en uitgebreide functies voor een geheel nieuwe spelervaring.",
+            "Of je een ervaren speler bent op Windows of een casual speler onderweg op je telefoon, DMine voldoet aan al je wensen."
+          ]
+        },
+        {
+          "heading": "Ondersteunde Platforms",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Gegevens synchroniseren op alle platforms, speel op één apparaat en ga verder op een ander."
+          ]
+        },
+        {
+          "heading": "Functies",
+          "list": [
+            [
+              "Meertalige ondersteuning",
+              "Beschikbaar in 66 talen, speel zonder taalbarrières met spelers wereldwijd"
+            ],
+            [
+              "Replay delen",
+              "Je spelverloop wordt automatisch opgeslagen in de cloud, andere spelers kunnen je replay bekijken"
+            ],
+            [
+              "Cloud-ranglijst",
+              "Strijd met spelers wereldwijd om de hoogste levels te behalen"
+            ],
+            [
+              "Meerdere spelmodi",
+              "Beginnersmodus en normale uitdaging"
+            ],
+            [
+              "Volledig gratis",
+              "Geen advertenties, geen in-app aankopen, pure spelervaring"
+            ]
+          ]
+        },
+        {
+          "heading": "Spelmodi",
+          "paragraphs": [
+            "Spelregels: Het speelveld is vast 16×30 (480 vakjes). Win door alle veilige vakjes te openen zonder mijnen te raken."
+          ],
+          "list": [
+            [
+              "Beginnersmodus",
+              "Begin met 15 mijnen, na elke winst +6 mijnen, maximaal 99 mijnen bij level 15"
+            ],
+            [
+              "Normale Uitdaging",
+              "Begin met 81 mijnen. Eerste 4 wins +6 mijnen per level, daarna 3 levels +3 mijnen, vervolgens 3 levels +2 mijnen en daarna +1 mijn per level, zonder maximum"
+            ]
+          ]
+        },
+        {
+          "heading": "Versie-informatie",
+          "paragraphs": [
+            "Huidige versie：{{VERSION}}",
+            "Tech Stack：Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine is een open source project, volg en draag bij op GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Start Spelen"
+    },
+    "rules": {
+      "pageTitle": "Mijnenveger Regels Uitleg - Voor Beginners | DMine Top Mijnenveger",
+      "metaDescription": "Hoe speel je mijnenveger? Leer de basisregels, betekenis van cijfers, besturing en winvoorwaarden in deze complete beginnersgids!",
+      "metaKeywords": "Mijnenveger regels,Hoe speel je mijnenveger,Mijnenveger handleiding,Mijnenveger voor beginners,Basisregels mijnenveger,Spelregels mijnenveger",
+      "headerTitle": "💣 Mijnenveger Regels Uitleg",
+      "headerSubtitle": "Leer mijnenveger vanaf nul, perfect voor beginners",
+      "sections": [
+        {
+          "heading": "Speldoel",
+          "paragraphs": [
+            "Het doel van mijnenveger is eenvoudig: open alle veilige vakjes zonder een mijn te raken. Raak je een mijn? Het spel stopt direct. Open je alle niet-mijnvakjes? Dan win je!"
+          ]
+        },
+        {
+          "heading": "Besturing",
+          "table": {
+            "headers": [
+              "Actie",
+              "Muis",
+              "Touchscreen",
+              "Uitleg"
+            ],
+            "rows": [
+              [
+                "Vakje openen",
+                "Linkerklik",
+                "Tik eenmaal",
+                "Open het geselecteerde vakje"
+              ],
+              [
+                "Vlag plaatsen",
+                "Rechterklik",
+                "Lang drukken",
+                "Markeer een vakje waarvan je denkt dat er een mijn ligt (⚑)"
+              ],
+              [
+                "Vraagteken markeren",
+                "Nogmaals rechterklik",
+                "Nogmaals lang drukken",
+                "Plaats een vraagteken (?) als je twijfelt"
+              ],
+              [
+                "Snelle Opening (Chord)",
+                "Linkerklik op een geopend cijfervakje",
+                "—",
+                "Als het aantal vlaggen rond een cijfer overeenkomt met het cijfer, open je direct alle overige ongemarkeerde vakjes"
+              ]
+            ]
+          },
+          "tipBox": "💡 Tip: De snelle opening (Chord) is enorm efficiënt! Wanneer het aantal vlaggen rond een cijfer gelijk is aan het cijfer, klik dan op het cijfer om alle omliggende vakjes automatisch te openen."
+        },
+        {
+          "heading": "Betekenis van Cijfers",
+          "paragraphs": [
+            "Na het openen van een vakje verschijnt er een cijfer (1~8). Dit cijfer geeft aan hoeveel mijnen er in de 8 omliggende vakjes liggen.",
+            "Voorbeeld van een 3×3 veld: het middelste cijfer 1 betekent dat er 1 mijn in de 8 omliggende vakjes zit."
+          ],
+          "list": [
+            "1 — 1 mijn in de 8 omliggende vakjes",
+            "2 — 2 mijnen in de 8 omliggende vakjes",
+            "3 — 3 mijnen in de 8 omliggende vakjes",
+            "En zo verder, maximaal 8"
+          ],
+          "tipBox": "💡 Een leeg vakje (zonder cijfer) betekent dat er geen mijnen in de buurt zijn. Het spel opent automatisch de omliggende vakjes — dit is het kettingeffect in mijnenveger."
+        },
+        {
+          "heading": "Spelmodi",
+          "paragraphs": [
+            "Vast speelveld：16 × 30 (480 vakjes)"
+          ],
+          "table": {
+            "headers": [
+              "Modus",
+              "Startaantal mijnen",
+              "Verhogingsregel",
+              "Uitleg"
+            ],
+            "rows": [
+              [
+                "Beginnersmodus",
+                "15 mijnen",
+                "+6 mijnen per winst",
+                "Maximaal 99 mijnen bij level 15"
+              ],
+              [
+                "Normale Uitdaging",
+                "81 mijnen",
+                "Zie onderstaande uitleg",
+                "Het aantal mijnen neemt per ronde toe, zonder maximum"
+              ]
+            ]
+          },
+          "extraParagraph": "Verhogingsregel normale uitdaging: Eerste 4 wins +6 mijnen per level, daarna 3 levels +3 mijnen, vervolgens 3 levels +2 mijnen en daarna +1 mijn per level, zonder maximum."
+        },
+        {
+          "heading": "Winnen en Verliezen",
+          "list": [
+            [
+              "Winst",
+              "Open alle niet-mijnvakjes of markeer alle mijnen correct met vlaggen"
+            ],
+            [
+              "Verlies",
+              "Klik op een mijn, het spel eindigt direct"
+            ]
+          ],
+          "tipBox": "💡 Je eerste klik is altijd veilig! DMine garandeert dat je eerste klik nooit een mijn is, zodat je zonder zorgen kunt beginnen."
+        },
+        {
+          "heading": "Replay en Delen",
+          "paragraphs": [
+            "Je voltooide spellen worden automatisch opgeslagen in de cloud. Andere spelers kunnen je replay bekijken. Een replay is alleen te bekijken, niet te bewerken of te beïnvloeden."
+          ]
+        },
+        {
+          "heading": "Ranglijst",
+          "paragraphs": [
+            "DMine heeft een cloud-ranglijst gebaseerd op behaalde levels. Hoe hoger je level, hoe hoger je positie. Strijd met spelers wereldwijd!"
+          ]
+        }
+      ],
+      "ctaText": "🎮 Start Spelen"
+    },
+    "tips": {
+      "pageTitle": "Mijnenveger Geavanceerde Tips - Van Beginner tot Expert | DMine Top Mijnenveger",
+      "metaDescription": "Word een echte mijnenveger expert! Leer 1-2-1 patroon, 1-2-2-1 patroon, chord-trucs en kansberekening. Verhoog je winstkans en snelheid!",
+      "metaKeywords": "Mijnenveger tips,geavanceerde mijnenveger tips,mijnenveger patronen,mijnenveger strategie,mijnenveger 1-2-1,mijnenveger kansberekening,mijnenveger expert,mijnenveger gevorderd",
+      "headerTitle": "🎯 Mijnenveger Geavanceerde Tips",
+      "headerSubtitle": "Van beginner tot expert",
+      "headerSub2": "Beheers deze patronen en strategieën en verdubbel je snelheid en winstkans",
+      "sections": [
+        {
+          "heading": "I. Basispatronen",
+          "difficulty": "Beginner",
+          "items": [
+            {
+              "title": "1-2-1 Patroon",
+              "paragraphs": [
+                "Dit is het meest voorkomende en belangrijkste patroon in mijnenveger. Wanneer je een rechte lijn met 1-2-1 ziet, weet je zeker dat:"
+              ],
+              "list": [
+                [
+                  "Boven beide 1'en ligt een mijn",
+                  "Markeer met een vlag"
+                ],
+                [
+                  "Boven de 2 is het altijd veilig",
+                  "Direct te openen"
+                ]
+              ],
+              "tipBox": "💡 Dit is een zeker patroon — geen giswerk nodig, 100% logisch te berekenen."
+            },
+            {
+              "title": "1-2-2-1 Patroon",
+              "paragraphs": [
+                "Het 1-2-2-1 patroon is een klassiek voorbeeld:"
+              ],
+              "list": [
+                [
+                  "Tussen de twee 2'en ligt aan beide kanten een mijn",
+                  ""
+                ],
+                [
+                  "Boven beide 1'en zijn veilige vakjes",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Randpatroon",
+              "paragraphs": [
+                "Cijfers aan de rand van het speelveld are eenvoudiger te berekenen, omdat er één zijde minder vakjes zijn om rekening mee te houden."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "II. Gevorderde Technieken",
+          "difficulty": "Gevorderd",
+          "items": [
+            {
+              "title": "Chord Techniek (Snelle Opening)",
+              "paragraphs": [
+                "Dit is de belangrijkste truc om sneller te spelen. Wanneer het aantal vlaggen rond een cijfer overeenkomt met het cijfer, open je met een middelklik of gelijktijdige linker- en rechterklik automatisch alle overige vakjes.",
+                "Voorbeeld: Als er 3 vlaggen rond een 3 staan, open je meteen de resterende 5 vakjes door op de 3 te klikken."
+              ],
+              "tipBox": "⚡ Expert tip: Alle ervaren spelers gebruiken de chord-truc constant — je snelheid kan hierdoor meerdere malen toenemen."
+            },
+            {
+              "title": "Aftrekkingslogica",
+              "paragraphs": [
+                "Als al enkele vlaggen rond een cijfer staan, trek je dit aantal af om het resterende aantal mijnen te weten. Bijv.: een 3 met al 1 vlag heeft nog 2 mijnen in de overige vakjes."
+              ]
+            },
+            {
+              "title": "Gecombineerde Logica",
+              "paragraphs": [
+                "Bekijk niet alleen losse cijfers, maar combineer aangrenzende cijfers. Ze delen vakjes, en met verzamelingen en doorsneden kun je meer conclusies trekken."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "III. Geavanceerde Strategieën",
+          "difficulty": "Expert",
+          "items": [
+            {
+              "title": "Kansberekening",
+              "paragraphs": [
+                "Als je niet zeker weet waar de mijnen liggen (giswerk), kies dan het vakje met de laagste kans op een mijn:"
+              ],
+              "list": [
+                [
+                  "Kies vakjes dicht bij geopende gebieden",
+                  "Meer informatie beschikbaar"
+                ],
+                [
+                  "Vermijd geïsoleerde vakjes",
+                  "Onzekere kansverdeling"
+                ],
+                [
+                  "Bij complexe situaties bereken je de verhouding tussen resterende mijnen en vakjes",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Giswerk is soms onvermijdelijk in mijnenveger, maar met kansberekening kun je je winstkans naar meer dan 90% tillen."
+            },
+            {
+              "title": "Patroonherkenning",
+              "paragraphs": [
+                "Experts tellen geen vakjes één voor één, maar herkennen hele patronen in één oogopslag. Oefen vaak en je ziet direct waar mijnen en veilige vakjes liggen."
+              ]
+            },
+            {
+              "title": "Muisbesturing Tips",
+              "list": [
+                [
+                  "Goede linker- en rechterhand samenwerking",
+                  "Links vlaggen plaatsen (rechterklik), rechts vakjes openen (linkerklik)"
+                ],
+                [
+                  "Muisbeweging beperken",
+                  "Gebruik chord in plaats van losse klikken om beweging te besparen"
+                ],
+                [
+                  "Speel met ritme",
+                  "Houd een vast tempo aan, speel niet te onregelmatig"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "IV. Praktische Strategie",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Startstrategie",
+              "paragraphs": [
+                "Je eerste klik in DMine is altijd veilig. Open direct grote lege gebieden om meer aanwijzingen te krijgen voor de rest van het spel."
+              ]
+            },
+            {
+              "title": "Prioriteitsvolgorde",
+              "paragraphs": [
+                "Verwerk het speelveld in deze volgorde:"
+              ],
+              "orderedList": [
+                "Eerst alle zekere patronen (1-2-1, 1-2-2-1 etc.)",
+                "Gebruik de chord-snelle opening",
+                "Verwerk vervolgens alle cijfers aan de rand",
+                "Als laatste de gebieden waar je moet gissen"
+              ]
+            },
+            {
+              "title": "Gisstrategie",
+              "paragraphs": [
+                "Als je echt moet gissen:"
+              ],
+              "list": [
+                [
+                  "Kies eerst vakjes aan de rand",
+                  "Minder verbonden vakjes, lager risico"
+                ],
+                [
+                  "Tel resterende mijnen",
+                  "Weet hoeveel mijnen nog ongemarkeerd zijn"
+                ],
+                [
+                  "Gis als laatste",
+                  "Los eerst andere gebieden op voordat je gaat gissen"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "V. Verbeter je Vaardigheid",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Oefen patroonherkenning",
+                  "Reageer automatisch op cijferpatronen en bouw spiergeheugen op"
+                ],
+                [
+                  "Wees besluitvaardig",
+                  "Neem zekere besluiten binnen 0,5 seconde"
+                ],
+                [
+                  "Analyseer je fouten",
+                  "Kijk na een verlies wat je beter had kunnen doen"
+                ],
+                [
+                  "Gebruik de DMine ranglijst",
+                  "Bekijk de records van experts, stel een doel en daag jezelf uit"
+                ],
+                [
+                  "Probeer vlagloos spelen",
+                  "Voltooi het spel zonder vlaggen te plaatsen"
+                ]
+              ],
+              "tipBox": "🎡 Referentieniveau: Beginners tot level 10, gevorderden tot level 20, experts boven level 30, topspelers halen zelfs level 30 zonder vlaggen."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Oefen Nu"
+    }
+  }
+}

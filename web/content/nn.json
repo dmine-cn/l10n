@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "nn",
+    "langAttr": "nn",
+    "ogLocale": "nn_NO",
+    "siteName": "DMine - Topp Mineryddar",
+    "canonicalPrefix": "nn/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Heim",
+    "rules": "Reglar",
+    "tips": "Tips",
+    "about": "Om oss",
+    "download": "Last ned"
+  },
+  "footer": {
+    "copyright": "© 2026 DMine Team"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Om DMine - Topp Mineryddar | Kryssplattform minespel",
+      "metaDescription": "DMine er eit kryssplattform minespel for Windows, macOS, Linux, Android, iOS, HarmonyOS og Web. Heilt gratis og open kjelde, tilgjengeleg på 66 språk – spel online no!",
+      "metaKeywords": "minespel, DMine, topp mineryddar, kryssplattform mine, gratis minespel, open kjelde mine",
+      "headerTitle": "💣 DMine - Topp Mineryddar",
+      "headerSubtitle": "Eit kryssplattform minespel – spel klassikaren når som helst, kvar som helst",
+      "sections": [
+        {
+          "heading": "Kva er DMine?",
+          "paragraphs": [
+            "DMine er eit kryssplattform minespel utvikla med Flutter. Spelet held fast ved den klassiske mineopplevinga, men legg til moderne design og mange nye funksjonar for ein heilt ny speloppleving.",
+            "Enten du er ein erfaren spelar på Windows eller ein tilfeldig spelar på mobil på veg, passar DMine perfekt for deg."
+          ]
+        },
+        {
+          "heading": "Støtta plattformer",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Alle plattformer deler same data – spel ein stad, synkroniser overalt."
+          ]
+        },
+        {
+          "heading": "Funksjonar",
+          "list": [
+            [
+              "Fleirspråkleg støtte",
+              "Tilgjengeleg på 66 språk for spelarar over heile verda"
+            ],
+            [
+              "Del spelopptak",
+              "Spelhistorikk vert automatisk lagra i skyen, andre kan sjå avspeling"
+            ],
+            [
+              "Sky-rangering",
+              "Konkurrer med spelarar verda over om høgaste nivå"
+            ],
+            [
+              "Fleire spelmodusar",
+              "Nybyrjarmodus og normal utfordring"
+            ],
+            [
+              "Heilt gratis",
+              "Ingen reklame, ingen kjøp i app – rein speloppleving"
+            ]
+          ]
+        },
+        {
+          "heading": "Spelmodusar",
+          "paragraphs": [
+            "Spelbrett fast storleik: 16×30 (480 ruter). Vinn ved å finne alle trygge ruter utan å tråkke på miner."
+          ],
+          "list": [
+            [
+              "Nybyrjartilgang",
+              "Startar med 15 miner, +6 miner per gjennomført nivå, maks 99 miner på nivå 15"
+            ],
+            [
+              "Normal utfordring",
+              "Startar med 81 miner. Dei første 4 nivåa +6 miner per gong, deretter +3 over 3 nivå, så +2 over 3 nivå, til slutt +1 per nivå – ingen øvre grense"
+            ]
+          ]
+        },
+        {
+          "heading": "Versjonsinfo",
+          "paragraphs": [
+            "Nåverande versjon: {{VERSION}}",
+            "Teknologi: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine er eit open kjelde-prosjekt – følg og bidra på GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Start spelet"
+    },
+    "rules": {
+      "pageTitle": "Full forklaring av mine-reglar | DMine Topp Mineryddar",
+      "metaDescription": "Korleis spele mine? Her lærer du grunnreglar, kva tal betyr, korleis du spelar og korleis du vinn. Perfekt for nybyrjarar!",
+      "metaKeywords": "mine-reglar, korleis spele mine, minetutorial, mine for nybyrjarar, grunnreglar mine",
+      "headerTitle": "💣 Full forklaring av mine-reglar",
+      "headerSubtitle": "Lær mine frå grunnen av – for nybyrjarar",
+      "sections": [
+        {
+          "heading": "Mål med spelet",
+          "paragraphs": [
+            "Målet er enkelt: Opne alle trygge ruter utan å tråkke på ei mine. Tråkker du på ei mine, tapar du. Opnar du alle ruter utan mine, vinn du!"
+          ]
+        },
+        {
+          "heading": "Grunnleggjande handlingar",
+          "table": {
+            "headers": [
+              "Handling",
+              "Mus",
+              "Skjermtrykk",
+              "Forklaring"
+            ],
+            "rows": [
+              [
+                "Opne rute",
+                "Venstreklikk",
+                "Eitt trykk",
+                "Opne vald rute"
+              ],
+              [
+                "Set flagg",
+                "Høgreklikk",
+                "Langt trykk",
+                "Marker rute du trur har mine (⚑)"
+              ],
+              [
+                "Spørsmålstegn",
+                "Ny høgreklikk",
+                "Nytt langt trykk",
+                "Marker med ? når du er usikker"
+              ],
+              [
+                "Snaroppopning (Chord)",
+                "Venstreklikk på opna talrute",
+                "—",
+                "Når talet har like mange flagg som talet viser, opnar du alle umarkerte naboruter automatisk"
+              ]
+            ]
+          },
+          "tipBox": "💡 Tips: Snaroppopning er svært effektivt! Når eit tal har like mange flagg som talet viser, klikk på talet for å opne alle naboruter automatisk."
+        },
+        {
+          "heading": "Kva tala betyr",
+          "paragraphs": [
+            "Når du opnar ei rute, får du eit tal frå 1 til 8. Talet viser kor mange miner som ligg i dei 8 naborutene rundt.",
+            "Eksempel 3×3: Talet 1 i midten betyr éi mine i dei 8 naborutene."
+          ],
+          "list": [
+            "1 – 1 mine i naborutene",
+            "2 – 2 miner i naborutene",
+            "3 – 3 miner i naborutene",
+            "osv. opp til maks 8"
+          ],
+          "tipBox": "💡 Tom rute utan tal betyr ingen miner i naborutene – spelet opnar automatisk heile området rundt, kalla kjedeopning."
+        },
+        {
+          "heading": "Spelmodusar",
+          "paragraphs": [
+            "Fast brettstorleik: 16 × 30 (480 ruter)"
+          ],
+          "table": {
+            "headers": [
+              "Modus",
+              "Startminer",
+              "Auke av miner",
+              "Forklaring"
+            ],
+            "rows": [
+              [
+                "Nybyrjartilgang",
+                "15 stykk",
+                "+6 per gjennomført nivå",
+                "Maks 99 miner på nivå 15"
+              ],
+              [
+                "Normal utfordring",
+                "81 stykk",
+                "Sjå nedanfor",
+                "Miner aukar for kvar runde, ingen øvre grense"
+              ]
+            ]
+          },
+          "extraParagraph": "Regel for normal utfordring: Dei første 4 nivåa +6 miner per gong, deretter +3 over 3 nivå, så +2 over 3 nivå, til slutt +1 per nivå – ingen øvre grense."
+        },
+        {
+          "heading": "Siger og tap",
+          "list": [
+            [
+              "Siger",
+              "Opne alle ruter utan mine, eller marker alle miner korrekt"
+            ],
+            [
+              "Tap",
+              "Klikk på ei mine – spelet sluttar umiddelbart"
+            ]
+          ],
+          "tipBox": "💡 Første klikk er alltid trygt! I DMine kan du aldri tråkke på mine med første klikk."
+        },
+        {
+          "heading": "Avspeling og deling",
+          "paragraphs": [
+            "Alle gjennomførte spel vert lagra automatisk i skyen. Andre spelarar kan sjå avspelingar i «Spelopptak». Avspeling er berre til syn, ikkje til endring."
+          ]
+        },
+        {
+          "heading": "Rangering",
+          "paragraphs": [
+            "DMine har sky-rangering etter høgaste gjennomførte nivå. Konkurrer med spelarar over heile verda!"
+          ]
+        }
+      ],
+      "ctaText": "🎮 Start spelet"
+    },
+    "tips": {
+      "pageTitle": "Avanserte minetips – frå nybyrjar til ekspert | DMine Topp Mineryddar",
+      "metaDescription": "Bli ein mineekspert! Lær 1-2-1, 1-2-2-1 mønster, snarklikk, sannsynsrekning og strategi. Auk hastigheit og seierprosent!",
+      "metaKeywords": "minetips, avansert mine, minemønster, minestrategi, mine 1-2-1, minesannsyn, mineekspert",
+      "headerTitle": "🎯 Avanserte minetips",
+      "headerSubtitle": "Frå nybyrjar til ekspert på mine",
+      "headerSub2": "Lær mønster og strategi – dobl seierprosent og hastigheit",
+      "sections": [
+        {
+          "heading": "1. Grunnleggjande mønster",
+          "difficulty": "Nybyrjar",
+          "items": [
+            {
+              "title": "1-2-1 mønster",
+              "paragraphs": [
+                "Vanlegaste og viktigaste mønsteret i mine. Ser du 1-2-1 i rett linje, kan du trygt fastslå:"
+              ],
+              "list": [
+                [
+                  "Ei mine over kvart 1-tal",
+                  "Sett flagg"
+                ],
+                [
+                  "Ruta over 2-talet er alltid trygg",
+                  "Kan opnast med ein gong"
+                ]
+              ],
+              "tipBox": "💡 Dette er eit sikkert mønster – ingen gjetting nødvendig, 100 % logisk."
+            },
+            {
+              "title": "1-2-2-1 mønster",
+              "paragraphs": [
+                "Ser du rekkja 1-2-2-1, har du eit klassisk mønster:"
+              ],
+              "list": [
+                [
+                  "Ei mine mellom dei to 2-tala",
+                  ""
+                ],
+                [
+                  "Trygge ruter over kvart 1-tal",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Kantmønster",
+              "paragraphs": [
+                "Når tal ligg ved kanten av brettet, er enklare å rekne ut – færre naboruter å ta omsyn til."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Mellomnivå-tips",
+          "difficulty": "Vidarekommen",
+          "items": [
+            {
+              "title": "Snarklikk (Chord)",
+              "paragraphs": [
+                "Den viktigaste teknikken for å auke hastigheita. Når eit tal har like mange flagg som talet viser, klikk midtknapp eller begge knappar samstundes for å opne alle umarkerte naboruter automatisk.",
+                "Eksempel: Eit 3-tal med 3 flagg rundt – snarklikk opnar resten av rutene automatisk."
+              ],
+              "tipBox": "⚡ Ekspert-triks: Alle dyktige spelarar brukar snarklikk heile tida – hastigheita kan aukast fleire gonger."
+            },
+            {
+              "title": "Subtraksjonsrekning",
+              "paragraphs": [
+                "Trekk frå flagga du allereie har sett rundt eit tal – du får kor mange miner som attver i gjenståande ruter. Til dømes: eit 3-tal med 1 flagg att, har 2 miner til i naborutene."
+              ]
+            },
+            {
+              "title": "Samrekning av fleire tal",
+              "paragraphs": [
+                "Ikkje sjå på eitt tal av gongen – bruk nabotal saman. Dei deler ruter, og du kan finne meir informasjon med snitt og utfylling."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Avanserte teknikkar",
+          "difficulty": "Ekspert",
+          "items": [
+            {
+              "title": "Sannsynsrekning",
+              "paragraphs": [
+                "Når du ikkje kan finne sikker løysing (må gjetta), vel ruta med lågast risiko for mine:"
+              ],
+              "list": [
+                [
+                  "Vel ruter nær opna område",
+                  "Meir informasjon tilgjengeleg"
+                ],
+                [
+                  "Unngå isolerte ruter",
+                  "Høgare usikkerheit"
+                ],
+                [
+                  "Rekn ut forholdet mellom attverande miner og tomme ruter",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Ein del gjetting er uunngåeleg i mine, men med sannsynsrekning kan du få over 90 % seierprosent."
+            },
+            {
+              "title": "Mønstergjenkjenning",
+              "paragraphs": [
+                "Ekspertar tel ikkje ruter éin og éin – dei ser heile mønster med ein gong. Med trening ser du umiddelbart kvar miner ligg og kvar som er trygt."
+              ]
+            },
+            {
+              "title": "Musekontroll",
+              "list": [
+                [
+                  "Samspel mellom høgre og venstre hånd",
+                  "Høgreklikk til flagg, venstreklikk til opning"
+                ],
+                [
+                  "Minimer musebevegelse",
+                  "Bruk snarklikk framfor mange enkeltklikk"
+                ],
+                [
+                  "Finn eigen rytme",
+                  "Spel jamnt, ikkje for fort og sakte om kvarandre"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Praktisk strategi",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Startstrategi",
+              "paragraphs": [
+                "Første klikk er alltid trygt i DMine. Start med å opne store tomme område for å få fleire ledetrådar til rekning."
+              ]
+            },
+            {
+              "title": "Prioriteringsregel",
+              "paragraphs": [
+                "Handter brettet i denne rekkefølgja:"
+              ],
+              "orderedList": [
+                "Løys alle sikre mønster (1-2-1, 1-2-2-1 osv.)",
+                "Bruk snarklikk",
+                "Gå gjennom tal ved kanten",
+                "Til slutt handter område som krev gjetting"
+              ]
+            },
+            {
+              "title": "Gjettestrategi",
+              "paragraphs": [
+                "Når du må gjetta:"
+              ],
+              "list": [
+                [
+                  "Gjett helst ved kanten",
+                  "Færre samband til andre ruter, lågare risiko"
+                ],
+                [
+                  "Tel attverande miner",
+                  "Vet kor mange miner du framleis ikkje har markert"
+                ],
+                [
+                  "Gjett til slutt",
+                  "Løys andre område først for enklare oversikt"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Trening for å bli betre",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Tren mønsterreaksjon",
+                  "Utfør handling automatisk når du ser kjente tallrekkjer"
+                ],
+                [
+                  "Ikkje nøl",
+                  "Avgjer sikre trekk på under 0,5 sekund"
+                ],
+                [
+                  "Gå gjennom feil",
+                  "Tenk korleis du kunne spelt betre etter tap"
+                ],
+                [
+                  "Bruk DMine-rangering",
+                  "Sjå korleis ekspertar spelar, sett deg eit mål"
+                ],
+                [
+                  "Prøv å spele utan flagg",
+                  "Fullfør spelet utan å setje éin einaste flagg"
+                ]
+              ],
+              "tipBox": "🎯 Mål å strekke seg etter: Vanleg spelar under nivå 10, erfaren under 20, ekspert over 30, toppspelar over 30 utan flagg."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Start øving"
+    }
+  }
+}

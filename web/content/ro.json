@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "ro",
+    "langAttr": "ro",
+    "ogLocale": "ro_RO",
+    "siteName": "DMine - Cel mai bun Deminor",
+    "canonicalPrefix": "ro/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Acasă",
+    "rules": "Reguli",
+    "tips": "Sfaturi",
+    "about": "Despre noi",
+    "download": "Descărcare"
+  },
+  "footer": {
+    "copyright": "© 2026 Echipa DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Despre DMine - Top Deminor | Joc Deminor Multiplatform",
+      "metaDescription": "DMine (Top Deminor) este un joc de deminor multiplatform, disponibil pe Windows, macOS, Linux, Android, iOS, HarmonyOS și Web. Gratuit, open-source, în 66 de limbi, joacă online oricând!",
+      "metaKeywords": "joc deminor, DMine, Top Deminor, deminor multiplatform, deminor gratuit, deminor open-source",
+      "headerTitle": "💣 DMine - Top Deminor",
+      "headerSubtitle": "Un joc de deminor multiplatform, bucură-te de clasic oriunde te afli",
+      "sections": [
+        {
+          "heading": "Ce este DMine?",
+          "paragraphs": [
+            "DMine (Top Deminor) este un joc de deminor multiplatform dezvoltat cu framework-ul Flutter. Păstrează modul de joc clasic al deminorului, adăugând în același timp un design modern al interfeței și funcții bogate, oferind jucătorilor o experiență nouă de joc.",
+            "Fie că ești un jucător pasionat pe Windows, sau un jucător ocazional care se distrează pe telefon în drum, DMine îți satisface toate cerințele."
+          ]
+        },
+        {
+          "heading": "Platforme acceptate",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Date sincronizate pe toate platformele – joacă pe o singură platformă și ai progresul peste tot."
+          ]
+        },
+        {
+          "heading": "Funcții speciale",
+          "list": [
+            [
+              "Suport multilingv",
+              "Disponibil în 66 de limbi, joc fără bariere pentru jucători din întreaga lume"
+            ],
+            [
+              "Distribuire partide",
+              "Înregistrările jocului sunt partajate automat în cloud, alți jucători pot reda și urmări partida"
+            ],
+            [
+              "Clasament cloud",
+              "Compară nivelurile atinse cu jucători din întreaga lume"
+            ],
+            [
+              "Moduri multiple de joc",
+              "Două moduri: începători și provocare normală"
+            ],
+            [
+              "Complet gratuit",
+              "Fără reclame, fără achiziții în aplicație, experiență de joc pură"
+            ]
+          ]
+        },
+        {
+          "heading": "Moduri de joc",
+          "paragraphs": [
+            "Reguli joc: Tabla fixă de 16×30 (480 căsuțe). Câștigi dacă descoperi toate căsuțele sigure fără a atinge minele."
+          ],
+          "list": [
+            [
+              "Mod Începători",
+              "Începe cu 15 mine, după fiecare victorie se adaugă 6 mine, până la nivelul 15 cu 99 mine"
+            ],
+            [
+              "Mod Provocare",
+              "Începe cu 81 mine: primele 4 victorii +6 mine fiecare, apoi 3 niveluri +3 mine fiecare, ulterior 3 niveluri +2 mine fiecare, după care +1 mine pe nivel, fără limită superioară"
+            ]
+          ]
+        },
+        {
+          "heading": "Informații versiune",
+          "paragraphs": [
+            "Versiune curentă：{{VERSION}}",
+            "Tehnologii folosite：Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine este un proiect open-source, bineveniți să urmăriți și să contribuiți pe GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Începe jocul"
+    },
+    "rules": {
+      "pageTitle": "Explicație detaliată reguli deminor | DMine Top Deminor",
+      "metaDescription": "Cum se joacă deminor? Află regulile de bază, semnificația numerelor, modurile de operare și condițiile de victorie – ghid obligatoriu pentru începători!",
+      "metaKeywords": "reguli deminor, cum se joacă deminor, tutorial deminor, deminor pentru începători, reguli joc deminor",
+      "headerTitle": "💣 Reguli detaliate ale deminorului",
+      "headerSubtitle": "Învață să joci deminor de la zero – ghid pentru începători",
+      "sections": [
+        {
+          "heading": "Scopul jocului",
+          "paragraphs": [
+            "Scopul deminorului este simplu: descoperă toate căsuțele sigure fără a atinge nicio mină. Dacă apeși o mină, jocul se termină; dacă descoperi toate căsuțele fără mine, câștigi!"
+          ]
+        },
+        {
+          "heading": "Operații de bază",
+          "table": {
+            "headers": [
+              "Acțiune",
+              "Mouse",
+              "Ecran tactil",
+              "Explicație"
+            ],
+            "rows": [
+              [
+                "Descoperă căsuță",
+                "Click stânga",
+                "Apăsare simplă",
+                "Deschide căsuța selectată"
+              ],
+              [
+                "Marcare steag",
+                "Click dreapta",
+                "Apăsare lungă",
+                "Marchează locul unde crezi că este o mină (⚑)"
+              ],
+              [
+                "Marcare semn întrebare",
+                "Click dreapta din nou",
+                "Apăsare lungă din nou",
+                "Marchează cu ? când nu ești sigur"
+              ],
+              [
+                "Deschidere rapidă (Chord)",
+                "Click stânga pe căsuță cu număr descoperită",
+                "—",
+                "Când numărul de steaguri din jur corespunde cifrei, apasă numărul pentru a deschide automat toate căsuțele nemarcate din jur"
+              ]
+            ]
+          },
+          "tipBox": "💡 Sfaturi: Deschiderea rapidă (Chord) este un mod foarte eficient de joc! Când numărul steagurilor din jur unei cifre este egal cu cifra respectivă, apasă stânga pe acea căsuță și se vor deschide automat toate căsuțele nemarcate din jur."
+        },
+        {
+          "heading": "Semnificația numerelor",
+          "paragraphs": [
+            "Când deschizi o căsuță, apare un număr (1~8) care indică câte mine sunt în cele 8 căsuțe adiacente.",
+            "Exemplu local 3×3: numărul 1 din mijloc înseamnă că există exact o mină în cele 8 căsuțe din jur."
+          ],
+          "list": [
+            "1 — o mină în cele 8 căsuțe din jur",
+            "2 — două mine în cele 8 căsuțe din jur",
+            "3 — trei mine în cele 8 căsuțe din jur",
+            "……și așa mai departe, maxim 8"
+          ],
+          "tipBox": "💡 Dacă deschizi o căsuță goală (fără număr), înseamnă că nu sunt mine în jur – jocul va deschide automat zona adiacentă, mecanismul de extindere în lanț al deminorului."
+        },
+        {
+          "heading": "Moduri de joc",
+          "paragraphs": [
+            "Tabla fixă: 16 × 30 (480 căsuțe)"
+          ],
+          "table": {
+            "headers": [
+              "Mod",
+              "Mine inițiale",
+              "Regulă creștere",
+              "Explicație"
+            ],
+            "rows": [
+              [
+                "Începători",
+                "15 mine",
+                "+6 mine după fiecare victorie",
+                "Maxim nivelul 15 cu 99 mine"
+              ],
+              [
+                "Provocare",
+                "81 mine",
+                "vezi explicația de mai jos",
+                "Numărul minelor crește la fiecare rundă, fără limită"
+              ]
+            ]
+          },
+          "extraParagraph": "Regulă creștere mod Provocare: primele 4 victorii +6 mine fiecare, apoi 3 niveluri +3 mine fiecare, ulterior 3 niveluri +2 mine fiecare, după care +1 mine pe nivel, fără limită superioară."
+        },
+        {
+          "heading": "Victorie și înfrângere",
+          "list": [
+            [
+              "Victorie",
+              "Descoperă toate căsuțele fără mine sau marchează corect toate minele"
+            ],
+            [
+              "Înfrângere",
+              "Apasă o mină – jocul se termină instant"
+            ]
+          ],
+          "tipBox": "💡 Primul clic este 100% sigur! DMine garantează că prima apăsare nu va fi niciodată o mină."
+        },
+        {
+          "heading": "Redare și distribuire partide",
+          "paragraphs": [
+            "Înregistrările partidelor câștigate sunt partajate automat în cloud. Alți jucători pot reda și urmări partida în secțiunea „Partide”. Redarea este doar pentru vizualizare, fără posibilitate de modificare."
+          ]
+        },
+        {
+          "heading": "Clasament",
+          "paragraphs": [
+            "DMine dispune de clasament cloud, clasamentul se face după nivelurile atinse – cu cât nivelul este mai înalt, cu atât locul este mai bun. Compară-te cu jucători din întreaga lume."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Începe jocul"
+    },
+    "tips": {
+      "pageTitle": "Sfaturi avansate deminor – de la începător la expert | DMine Top Deminor",
+      "metaDescription": "Ghid avansat de deminor! Modele 1-2-1, 1-2-2-1, tehnici de dublu clic, analiză probabilități... Stăpânește aceste tactici pentru a crește viteza și rata de succes!",
+      "metaKeywords": "sfaturi deminor, tactici avansate deminor, modele deminor, strategii deminor, 1-2-1 deminor, probabilități deminor, expert deminor",
+      "headerTitle": "🎯 Sfaturi avansate deminor",
+      "headerSubtitle": "Devino expert în deminor de la începător",
+      "headerSub2": "Stăpânește modelele și strategiile pentru a dubla viteza și rata de succes",
+      "sections": [
+        {
+          "heading": "I. Modele de bază",
+          "difficulty": "Începător",
+          "items": [
+            {
+              "title": "Model 1-2-1",
+              "paragraphs": [
+                "Este cel mai comun și important model din deminor. Când vezi succesiunea numerelor 1-2-1 pe o linie dreaptă, poți deduce cu certitudine:"
+              ],
+              "list": [
+                [
+                  "Deasupra fiecărui 1 este câte o mină",
+                  "Marchează cu steag"
+                ],
+                [
+                  "Căsuța deasupra lui 2 este sigură",
+                  "Poți descoperi fără risc"
+                ]
+              ],
+              "tipBox": "💡 Este un model determinist – nu necesită ghicire, se deduce 100% logic."
+            },
+            {
+              "title": "Model 1-2-2-1",
+              "paragraphs": [
+                "Succesiunea 1-2-2-1 este un alt model clasic:"
+              ],
+              "list": [
+                [
+                  "Deasupra dintre cele două 2 sunt două mine",
+                  ""
+                ],
+                [
+                  "Deasupra fiecărui 1 sunt căsuțe sigure",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Modele la margine",
+              "paragraphs": [
+                "Când numerele sunt pe marginea tablei, deducerea este mai simplă – o latură este eliminată din calcul."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "II. Tehnici intermediare",
+          "difficulty": "Avansat",
+          "items": [
+            {
+              "title": "Tehnica dublu clic (Chord)",
+              "paragraphs": [
+                "Este operația cheie pentru creșterea vitezei. Când numărul de steaguri din jur unei cifre corespunde valorii acesteia, apasă rotița mouse-ului sau simultan clic stânga și dreapta pentru a deschide automat toate căsuțele nemarcate.",
+                "Exemplu: dacă lângă un 3 sunt deja 3 steaguri, dă dublu clic pe 3 și restul de 5 căsuțe se deschid automat."
+              ],
+              "tipBox": "⚡ Secret experți: aproape toți jucătorii avansați folosesc dublu clic – marchează cu steag și deschide rapid, viteza crește de mai multe ori."
+            },
+            {
+              "title": "Deducere prin scădere",
+              "paragraphs": [
+                "Când lângă un număr sunt deja marcate unele steaguri, scade numărul lor din valoarea cifrei pentru a afla câte mine mai sunt în căsuțele rămase. Ex: lângă un 3 este deja 1 steag – mai sunt 2 mine în rest."
+              ]
+            },
+            {
+              "title": "Deducere combinată între numere",
+              "paragraphs": [
+                "Nu analiza numerele izolat – combină numerele adiacente. Două numere vecine împart căsuțe comune; folosește intersecția și complementarul pentru a deduce mai multe informații."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "III. Tehnici avansate",
+          "difficulty": "Expert",
+          "items": [
+            {
+              "title": "Analiză probabilități",
+              "paragraphs": [
+                "În situațiile nedeterminate (momentele de ghicire), alege căsuța cu risc minim de mină:"
+              ],
+              "list": [
+                [
+                  "Alege prioritar căsuțele lângă zona deja descoperită",
+                  "Mai multe informații disponibile"
+                ],
+                [
+                  "Evită căsuțele din zone izolate",
+                  "Probabilitate incertă mare"
+                ],
+                [
+                  "În cazuri complexe, calculează raportul dintre minele și căsuțele rămase",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Ghicirea în deminor nu poate fi evitată complet, dar analiza probabilităților poate ridica rata de succes peste 90%."
+            },
+            {
+              "title": "Recunoaștere modele",
+              "paragraphs": [
+                "Jucătorii experți nu numără căsuțele una câte una, ci recunosc modele întregi – ca și cum ar citi un text. Cu practică, la anumite combinații de numere reacționezi instant unde sunt minele și unde sunt căsuțele sigure."
+              ]
+            },
+            {
+              "title": "Tehnici de operare mouse",
+              "list": [
+                [
+                  "Coordonare mâini fluidă",
+                  "Mâna stângă marchează steaguri (clic dreapta), mâna dreaptă descoperă (clic stânga)"
+                ],
+                [
+                  "Minimizează mișcările mouse-ului",
+                  "Folosește dublu clic în loc de clicuri simple, reduci numărul de acțiuni și distanța mișcării"
+                ],
+                [
+                  "Ritm constant",
+                  "Găsește-ți propriul ritm de joc, evită variațiile de viteză"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "IV. Strategii practice de joc",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Strategie de început",
+              "paragraphs": [
+                "DMine garantează că primul clic este sigur. La început deschide zone mari goale pentru a crea indicii pentru deduceri ulterioare."
+              ]
+            },
+            {
+              "title": "Regula priorităților",
+              "paragraphs": [
+                "Procesează tabla în această ordine:"
+              ],
+              "orderedList": [
+                "Rezolvă mai întâi toate modelele deterministe (1-2-1, 1-2-2-1 etc.)",
+                "Folosește deschiderea rapidă",
+                "Procesează pe rând numerele de la margine",
+                "La final tratează zonele care necesită ghicire"
+              ]
+            },
+            {
+              "title": "Strategie de ghicire",
+              "paragraphs": [
+                "Când trebuie să ghicești:"
+              ],
+              "list": [
+                [
+                  "Ghiceste prioritar căsuțele de la margine",
+                  "De obicei au mai puține legături informaționale, risc mai mic"
+                ],
+                [
+                  "Numără minele rămase",
+                  "Știind câte mine nu sunt marcate încă, îți ușurezi decizia"
+                ],
+                [
+                  "Lasă ghicirea pentru final",
+                  "Dacă ai timp, rezolvă mai întâi celelalte zone pentru a clarifica tabla"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "V. Antrenament pentru progres",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Antrenează reacția la modele",
+                  "La combinații de numere acționează automat, dezvoltă memorie musculară"
+                ],
+                [
+                  "Redu ezitările",
+                  "Ia decizii deterministe în maxim 0,5 secunde"
+                ],
+                [
+                  "Analizează partida pierdută",
+                  "După înfrângere gândește-te ce ai fi putut face mai bine"
+                ],
+                [
+                  "Folosește clasamentul DMine",
+                  "Urmărește înregistrările experților, stabilește-ți obiective și provoacă-te"
+                ],
+                [
+                  "Încearcă joc fără steaguri",
+                  "Încearcă să termini partida fără a marca minele cu steag"
+                ]
+              ],
+              "tipBox": "🎯 Referință nivel: Jucător obișnuit sub 15 niveluri, experimentat sub 20, expert peste 30, jucător de top depășește 30 de niveluri și fără marcare cu steaguri."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Începe antrenamentul"
+    }
+  }
+}

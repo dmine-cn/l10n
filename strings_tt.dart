@@ -51,6 +51,7 @@ const Map<String, String> stringsTt = {
   'language': 'Тел',
   // Home page
   'newbie': 'Яңа уенчы',
+  'gameIntro': 'Уен тасвирламасы',
   'newBattle': 'Яңа фронт',
   'continueChallenge': 'Чәленешне дәвам итәргә',
   'error': 'Хата',

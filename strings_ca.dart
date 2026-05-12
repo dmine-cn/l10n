@@ -53,6 +53,7 @@ const Map<String, String> stringsCa = {
   'language': 'Idioma',
   // Home page
   'newbie': 'Iniciació per a nous',
+  'gameIntro': 'Descripció del joc',
   'newBattle': 'Nova batalla',
   'continueChallenge': 'Continua el desafiament',
   'error': 'Error',

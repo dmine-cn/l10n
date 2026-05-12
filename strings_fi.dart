@@ -51,6 +51,7 @@ const Map<String, String> stringsFi = {
   'language': 'Kieli',
   // Home page
   'newbie': 'Uusien opetus',
+  'gameIntro': 'Pelin esittely',
   'newBattle': 'Uusi rintama',
   'continueChallenge': 'Jatka haastetta',
   'error': 'Virhe',

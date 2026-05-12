@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "ast",
+    "langAttr": "ast",
+    "ogLocale": "ast_ES",
+    "siteName": "DMine - Meya de Mines Cimeru",
+    "canonicalPrefix": "ast/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Aniciu",
+    "rules": "Regles",
+    "tips": "Conseyos",
+    "about": "Sobre",
+    "download": "Baxar"
+  },
+  "footer": {
+    "copyright": "© 2026 Equipu DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Tocante DMine - Buscamines Premium | Xuegu buscamines multiplataforma",
+      "metaDescription": "DMine (Buscamines Premium) ye un xuegu buscamines multiplataforma que sofita Windows, macOS, Linux, Android, iOS, HarmonyOS y Web. Gratis y de códigu abiertu, 66 idiomes, xuega en llinia!",
+      "metaKeywords": "xuegu buscamines,DMine,buscamines premium,buscamines multiplataforma,buscamines gratis,buscamines códigu abiertu",
+      "headerTitle": "💣 DMine - Buscamines Premium",
+      "headerSubtitle": "Un xuegu buscamines multiplataforma, xuega'l clásicu en cualquier momentu y llugar",
+      "sections": [
+        {
+          "heading": "¿Qué ye DMine?",
+          "paragraphs": [
+            "DMine (Buscamines Premium) ye un xuegu buscamines multiplataforma desarrolláu con Flutter. Caltiene la xugada central del buscamines clásicu, añadiendo un diseñu modernu de interfaz y carauterístiques riqueses, p'aportar una esperiencia nueva de buscamines a los xugadores.",
+            "Yea que seyes un xugador avanzáu en Windows o un xugador ocasional que se entretien col móvil nel trayectu, DMine satisface les tos necesidaes."
+          ]
+        },
+        {
+          "heading": "Plataformes sofitaes",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Los datos de toles plataformes son intercambiables; xuega nuna parte, sincroniza en toos llugares."
+          ]
+        },
+        {
+          "heading": "Carauterístiques estrella",
+          "list": [
+            [
+              "Sofitu multiplataforma",
+              "Sofita 66 idiomes, xugadores del mundu xuegu sin barreres"
+            ],
+            [
+              "Compartición de partíes",
+              "Los rexistros de xuegu compártense automáticamente na nube; otros xugadores pueden ver la reproducción"
+            ],
+            [
+              "Ranking na nube",
+              "Compite con xugadores del mundu por númberu de niveles superaos"
+            ],
+            [
+              "Modos de xuegu múltiples",
+              "Dos modos: iniciu pa principiantes y desafíu normal"
+            ],
+            [
+              "Totalmente gratis",
+              "Sin publicidá, sin compras internes, esperiencia de xuegu pura"
+            ]
+          ]
+        },
+        {
+          "heading": "Modos de xuegu",
+          "paragraphs": [
+            "Regles del xuegu: el tableru ye fijo de 16×30 (480 caselles). Gana si descubres toles caselles segures ensin tocar les minas."
+          ],
+          "list": [
+            [
+              "Iniciu pa principiantes",
+              "Empieza con 15 minas, suma 6 minas por nivel superáu, hasta 99 minas nel nivel 15"
+            ],
+            [
+              "Desafíu normal",
+              "Empieza con 81 minas; suma 6 minas nos primeros 4 niveles, 3 minas por nivel nos siguientes 3, 2 minas por nivel nos otros 3, y 1 mina por nivel darréu, sin límite superior"
+            ]
+          ]
+        },
+        {
+          "heading": "Información de la versión",
+          "paragraphs": [
+            "Versión actual: {{VERSION}}",
+            "Pila téunica: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine ye un proyeutu de códigu abiertu; bienveníu a siguilo y aportar códigu en GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Entama el xuegu"
+    },
+    "rules": {
+      "pageTitle": "Regles detallaes del buscamines - Imprescindible pa principiantes | DMine Buscamines Premium",
+      "metaDescription": "¿Cómo xugar al buscamines? Esti artículu explica les regles básiques, significáu de los númberos, modos de operación y condiciones de victoria, tutorial imprescindible pa principiantes!",
+      "metaKeywords": "regles del buscamines,cómo xugar al buscamines,tutorial de buscamines,principiante de buscamines,regles básiques de buscamines,regles del xuegu buscamines",
+      "headerTitle": "💣 Regles detallaes del buscamines",
+      "headerSubtitle": "Aprende'l buscamines dende cero, imprescindible pa principiantes",
+      "sections": [
+        {
+          "heading": "Obxetivu del xuegu",
+          "paragraphs": [
+            "L'oxetivu del buscamines ye sencillu: descubrir toles caselles segures ensin pisar minas. Si topes con una mina, el xuegu acaba; si descubres toles caselles ensin minas, ganes!"
+          ]
+        },
+        {
+          "heading": "Operaciones básiques",
+          "table": {
+            "headers": [
+              "Operación",
+              "Ratón",
+              "Táctil",
+              "Esplicación"
+            ],
+            "rows": [
+              [
+                "Descubrir casella",
+                "Clic izquierdu",
+                "Clic una vez",
+                "Descubrir la casella seleicionada"
+              ],
+              [
+                "Marcar con bandera",
+                "Clic drechu",
+                "Mantener presionáu",
+                "Marcar el llugar onde crees que hai una mina (⚑)"
+              ],
+              [
+                "Marcar con signu de interrogación",
+                "Clic drechu otra vez",
+                "Mantener presionáu otra vez",
+                "Marcar con ? si nun tas seguru"
+              ],
+              [
+                "Buscamines rápidu (Chord)",
+                "Clic izquierdu en casella de númberu descubierta",
+                "—",
+                "Si'l númberu de banderes alredor del númberu coincide col númberu, clic nel númberu pa descubrir toles caselles ensin marcar alredor"
+              ]
+            ]
+          },
+          "tipBox": "💡 Conseyu: El buscamines rápidu (Chord) ye una xugada mui eficaz! Cuando'l númberu de banderes alredor del númberu ye igual al númberu, clic izquierdu na casella descubierta p'abrir toles caselles ensin marcar."
+        },
+        {
+          "heading": "Significáu de los númberos",
+          "paragraphs": [
+            "Cuando descubres una casella, apaecer un númberu (1~8) que indica el númberu de minas nes 8 caselles alredor.",
+            "Hei un exemplu parcial de 3×3: el númberu 1 nel centru significa que hai 1 mina nes 8 caselles alredor:"
+          ],
+          "list": [
+            "1 — 1 mina nes 8 caselles alredor",
+            "2 — 2 minas nes 8 caselles alredor",
+            "3 — 3 minas nes 8 caselles alredor",
+            "…… y asina sucesivamente, hasta 8"
+          ],
+          "tipBox": "💡 Una casella vacía (sin númberu) significa que nun hai minas en delles 8 caselles alredor; el xuegu abrirá la zona automáticamente — esta ye la mecánica de «despliegue en cadena» del buscamines."
+        },
+        {
+          "heading": "Modos de xuegu",
+          "paragraphs": [
+            "Tableru fijo: 16 × 30 (480 caselles)"
+          ],
+          "table": {
+            "headers": [
+              "Modu",
+              "Minas iniciales",
+              "Regla de aumentu",
+              "Esplicación"
+            ],
+            "rows": [
+              [
+                "Iniciu pa principiantes",
+                "15 minas",
+                "+6 minas por nivel superáu",
+                "Hasta 99 minas nel nivel 15"
+              ],
+              [
+                "Desafíu normal",
+                "81 minas",
+                "Ver esplicación abaxo",
+                "Minas aumentan por ronda, sin límite superior"
+              ]
+            ]
+          },
+          "extraParagraph": "Regla de aumentu del desafíu normal: +6 minas nos primeros 4 niveles, +3 minas por nivel nos siguientes 3, +2 minas por nivel nos otros 3, +1 mina por nivel darréu, sin límite superior."
+        },
+        {
+          "heading": "Victoria y derrota",
+          "list": [
+            [
+              "Victoria",
+              "Descubrir toles caselles ensin minas, o marcar toles minas correutamente"
+            ],
+            [
+              "Derrota",
+              "Clicar nuna mina; el xuegu acaba inmediatamente"
+            ]
+          ],
+          "tipBox": "💡 El primer clic ye 100% seguru! DMine garantiza que el primer clic nun será nuna mina, entama con calma."
+        },
+        {
+          "heading": "Reproducción y compartición",
+          "paragraphs": [
+            "Los rexistros de niveles superaos compártense automáticamente na nube. Los otros xugadores pueden ver la reproducción na «Llinia de batalla». La reproducción ye solo pa ver, nun se puede participar ni modificar."
+          ]
+        },
+        {
+          "heading": "Ranking",
+          "paragraphs": [
+            "DMine sofita ranking na nube, ordenáu pol númberu de niveles superaos. Cuantos más niveles, más altu la posición; compite con xugadores del mundu."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Entama el xuegu"
+    },
+    "tips": {
+      "pageTitle": "Trucos avanzaos de buscamines - Dende principiante hasta expertu | DMine Buscamines Premium",
+      "metaDescription": "Guía pa xugadores avanzaos de buscamines! Patrón 1-2-1, patrón 1-2-2-1, truco de clic duplu, análisis de probabilidaes... domina estos trucos p'aumentar la velocidá y la tasa de victoria!",
+      "metaKeywords": "trucos de buscamines,trucos avanzaos de buscamines,patrones de buscamines,estratexa de buscamines,1-2-1 buscamines,probabilidaes de buscamines,xugador expertu de buscamines,avanzáu en buscamines",
+      "headerTitle": "🎯 Trucos avanzaos de buscamines",
+      "headerSubtitle": "Dende principiante hasta expertu, conviértete en un máster del buscamines",
+      "headerSub2": "Domina estos patrones y estratexes, duplica la toa velocidá y tasa de victoria",
+      "sections": [
+        {
+          "heading": "1. Patrones básicos",
+          "difficulty": "Principiante",
+          "items": [
+            {
+              "title": "Patrón 1-2-1",
+              "paragraphs": [
+                "Ye el patrón más común y importante del buscamines. Cuando ves una llinia recta con númberos 1-2-1 seguíos, puedes estar seguru:"
+              ],
+              "list": [
+                [
+                  "Hai una mina enriba de cada 1",
+                  "Marca con bandera"
+                ],
+                [
+                  "La casella enriba del 2 ye segura",
+                  "Puedes abrirla con calma"
+                ]
+              ],
+              "tipBox": "💡 Este ye un patrón seguro: nun necesites adivinar, 100% deducible."
+            },
+            {
+              "title": "Patrón 1-2-2-1",
+              "paragraphs": [
+                "Cuando ves 1-2-2-1, tamién ye un patrón clásicu:"
+              ],
+              "list": [
+                [
+                  "Hai una mina enriba del centru de los dos 2",
+                  ""
+                ],
+                [
+                  "La casella enriba de cada 1 ye segura",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Patrón de cantón",
+              "paragraphs": [
+                "Cuando un númberu ta na cantón del tableru, la deducción ye más fácil porque falta una cara pa calcular."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Trucos medios",
+          "difficulty": "Avanzáu",
+          "items": [
+            {
+              "title": "Truco de clic duplu (Chord)",
+              "paragraphs": [
+                "Ye la operación clave pa aumentar la velocidá. Cuando'l númberu de banderes alredor del númberu coincide col númberu, clic nel botón central del ratón o clic izquierdu + drechu al mesmu tiempu; abrirán toles caselles ensin marcar alredor.",
+                "Exemplu: si un 3 tien 3 banderes alredor, clic duplu nesi 3 y abrirán les otres 5 caselles automáticamente."
+              ],
+              "tipBox": "⚡ Segreto de los expertos: casi tolos xugadores avanzaos usen el clic duplu — marca banderes y fai clic duplu, la velocidá aumenta en veces."
+            },
+            {
+              "title": "Razonamientu por resta",
+              "paragraphs": [
+                "Cuando un númberu tien ya marcaes dalgunes banderes, «resta» elles pa saber les minas que queden. Por exemplu: un 3 con una bandera tien 2 minas más."
+              ]
+            },
+            {
+              "title": "Razonamientu con númberos xuntes",
+              "paragraphs": [
+                "Nun mirar númberos aisllaos; combina númberos axacentes. Dos númberos axacentes comparten caselles, usa la interseición y complementu pa deducir más información."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Trucos avanzaos",
+          "difficulty": "Expertu",
+          "items": [
+            {
+              "title": "Análisis de probabilidaes",
+              "paragraphs": [
+                "Cuando nun puedes decidir (momentu de «adivinar mina»), escoyer la casella con menor probabilidá de mina:"
+              ],
+              "list": [
+                [
+                  "Escoyer primero caselles cerca de zones descubiertes",
+                  "Más información"
+                ],
+                [
+                  "Evitar caselles en zones aillaes",
+                  "Más incertidumbre"
+                ],
+                [
+                  "En casos complexos, calcula la proporción ente minas y caselles restantes",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ «Adivinar» nun se puede evitar del too nel buscamines, pero con análisis de probabilidaes puedes algamar más del 90% de tasa de victoria."
+            },
+            {
+              "title": "Reconocimientu de patrones",
+              "paragraphs": [
+                "Los ojos de los expertos nun cuentan caselles una a una; reconocen «patrones» como si lleren un testu. Con practica, al ver ciertes combinaciones de númberos sabes inmediatamente onde hai minas y onde son segures."
+              ]
+            },
+            {
+              "title": "Trucos de ratón",
+              "list": [
+                [
+                  "Coordinación suave de manes",
+                  "Mano izquierda: bandera (clic drechu); mano derecha: abrir (clic izquierdu)"
+                ],
+                [
+                  "Reducir movimientu del ratón",
+                  "Usa clic duplu en llugar de clics simples"
+                ],
+                [
+                  "Ritmu",
+                  "Atopa'l tou ritmu de xugada, nun ser rápido y lento de repente"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Estratexes práctiques",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Estratexa d'entamu",
+              "paragraphs": [
+                "DMine garantiza que el primer clic ye seguru. Dempués d'entamar, abre primeramente zones grandes vacíes pa crear más pistes pa los razonamientos siguientes."
+              ]
+            },
+            {
+              "title": "Regla de prioridá",
+              "paragraphs": [
+                "Trata el tableru n'esti orden:"
+              ],
+              "orderedList": [
+                "Primero trata tolos patrones seguros (1-2-1, 1-2-2-1, etc.)",
+                "Usa la apertura rápida",
+                "Trata númberos de cantón uno a uno",
+                "Al final trata zones que necesiten adivinar"
+              ]
+            },
+            {
+              "title": "Estratexa pa adivinar",
+              "paragraphs": [
+                "Cuando tienes que adivinar:"
+              ],
+              "list": [
+                [
+                  "Adivina primero caselles de cantón",
+                  "Xeneralmente menos riesgu"
+                ],
+                [
+                  "Cuenta les minas restantes",
+                  "Sabe cuantes minas faltan pa ayudar a decidir"
+                ],
+                [
+                  "Deixa'l adivinar pa l'últimu",
+                  "Si tienes tiempu, resuelve otres zones primero pa clarificar el tableru"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. entrenamientu pa meyorar",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Practica reacción a patrones",
+                  "Al ver combinaciones, faer la operación ensin pensalu, forma memoria muscular"
+                ],
+                [
+                  "Reducir dubdes",
+                  "Decisiones segures en 0,5 segundos"
+                ],
+                [
+                  "Analizar después de perder",
+                  "Pensa en qué podíes facer meyor"
+                ],
+                [
+                  "Usa el ranking de DMine",
+                  "Ve rexistros de expertos, fija oxetivos pequeños, desafía la toa habilidá"
+                ],
+                [
+                  "Intenta xugar ensin banderes",
+                  "Intenta acabar el xuegu ensin marcar minas"
+                ]
+              ],
+              "tipBox": "🎯 Referencia d'oxetivos: xugador normal: hasta 10 niveles; xugador calificáu: hasta 20 niveles; expertu: más de 30 niveles; máster: más de 30 niveles ensin banderes."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Entama a practicar"
+    }
+  }
+}

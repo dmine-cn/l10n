@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "de",
+    "langAttr": "de",
+    "ogLocale": "de_DE",
+    "siteName": "DMine - Top Minensucher",
+    "canonicalPrefix": "de/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Startseite",
+    "rules": "Regeln",
+    "tips": "Tipps",
+    "about": "Über uns",
+    "download": "Herunterladen"
+  },
+  "footer": {
+    "copyright": "© 2026 DMine Team"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Über DMine - Top Minensucher | Plattformübergreifendes Minensucher-Spiel",
+      "metaDescription": "DMine (Top Minensucher) ist ein plattformübergreifendes Minensucher-Spiel für Windows, macOS, Linux, Android, iOS, HarmonyOS und Web. Kostenlos und Open Source, 66 Sprachen, spiel online!",
+      "metaKeywords": "Minensucher Spiel,DMine,Top Minensucher,plattformübergreifender Minensucher,kostenloser Minensucher,Open Source Minensucher",
+      "headerTitle": "💣 DMine - Top Minensucher",
+      "headerSubtitle": "Plattformübergreifendes Minensucher-Spiel, spiele den Klassiker überall und jederzeit",
+      "sections": [
+        {
+          "heading": "Was ist DMine?",
+          "paragraphs": [
+            "DMine (Top Minensucher) ist ein plattformübergreifendes Minensucher-Spiel, entwickelt mit dem Flutter-Framework. Es behält das klassische Gameplay bei und ergänzt modernes Design sowie umfangreiche Funktionen für ein neues Spielerlebnis.",
+            "Egal, ob du ein erfahrener Spieler auf Windows bist oder zwischendurch am Handy spielst – DMine erfüllt alle deine Anforderungen."
+          ]
+        },
+        {
+          "heading": "Unterstützte Plattformen",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Daten werden plattformübergreifend synchronisiert – spiele an einem Ort, synchronisiere überall."
+          ]
+        },
+        {
+          "heading": "Besondere Funktionen",
+          "list": [
+            [
+              "Mehrsprachige Unterstützung",
+              "Unterstützt 66 Sprachen, Spieler aus aller Welt spielen ohne Barrieren"
+            ],
+            [
+              "Aufnahmen teilen",
+              "Spielaufnahmen werden automatisch in der Cloud geteilt, andere Spieler können sie abspielen"
+            ],
+            [
+              "Cloud-Rangliste",
+              "Wette dich mit Spielern weltweit um abgeschlossene Level"
+            ],
+            [
+              "Mehrere Spielmodi",
+              "Zwei Modi: Einsteiger und Normaler Herausforderer"
+            ],
+            [
+              "Komplett kostenlos",
+              "Ohne Werbung und In-Game-Käufe, reines Spielerlebnis"
+            ]
+          ]
+        },
+        {
+          "heading": "Spielmodi",
+          "paragraphs": [
+            "Spielregeln: Das Feld ist fest 16×30 (480 Felder). Du gewinnst, wenn du alle sicheren Felder among einer festgelegten Minenanzahl findest."
+          ],
+          "list": [
+            [
+              "Einsteiger",
+              "Beginnt mit 15 Minen, jedes abgeschlossene Level +6 Minen, maximal 99 Minen bei Level 15"
+            ],
+            [
+              "Normaler Herausforderer",
+              "Beginnt mit 81 Minen; erste 4 Level +6 Minen, nächste 3 +3 Minen, weitere 3 +2 Minen, danach +1 Mine pro Level, kein Oberlimit"
+            ]
+          ]
+        },
+        {
+          "heading": "Versionsinformationen",
+          "paragraphs": [
+            "Aktuelle Version: {{VERSION}}",
+            "Technischer Stack: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine ist ein Open-Source-Projekt. Folge uns auf GitHub und beteilige dich am Code."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Spiel starten"
+    },
+    "rules": {
+      "pageTitle": "Detaillierte Regeln für Minensucher - Pflicht für Einsteiger | DMine Top Minensucher",
+      "metaDescription": "Wie spielt man Minensucher? Dieser Artikel erklärt die Grundregeln, Bedeutung der Zahlen, Steuerung und Siegbedingungen – Pflichtlektüre für Einsteiger!",
+      "metaKeywords": "Minensucher Regeln,wie spielt man Minensucher,Minensucher Anleitung,Einsteiger Minensucher,Grundregeln Minensucher,Spielregeln Minensucher",
+      "headerTitle": "💣 Detaillierte Regeln für Minensucher",
+      "headerSubtitle": "Lerne Minensucher von Grund auf, Pflicht für Einsteiger",
+      "sections": [
+        {
+          "heading": "Spielziel",
+          "paragraphs": [
+            "Das Ziel von Minensucher ist einfach: Öffne alle sicheren Felder, ohne eine Mine zu treffen. Wenn du eine Mine öffnest, endet das Spiel. Wenn du alle minenfreien Felder öffnest – hast du gewonnen!"
+          ]
+        },
+        {
+          "heading": "Grundlegende Steuerung",
+          "table": {
+            "headers": [
+              "Aktion",
+              "Maus",
+              "Touch",
+              "Erklärung"
+            ],
+            "rows": [
+              [
+                "Feld öffnen",
+                "Linksklick",
+                "Einmal tippen",
+                "Öffnet das ausgewählte Feld"
+              ],
+              [
+                "Mit Fahne markieren",
+                "Rechtsklick",
+                "Lange drücken",
+                "Markiert eine Stelle, von der du annimmst, dass dort eine Mine ist (⚑)"
+              ],
+              [
+                "Mit Fragezeichen markieren",
+                "Erneuter Rechtsklick",
+                "Erneut lange drücken",
+                "Markiert mit ?, wenn du unsicher bist"
+              ],
+              [
+                "Schnelles Öffnen (Chord)",
+                "Linksklick auf geöffnete Zahl",
+                "—",
+                "Wenn die Anzahl der Fahnen um eine Zahl der Zahl entspricht, öffnet der Klick alle nicht markierten Felder drumherum"
+              ]
+            ]
+          },
+          "tipBox": "💡 Tipp: Schnelles Öffnen (Chord) ist sehr effizient! Wenn die Anzahl der Fahnen um eine Zahl der Zahl entspricht, öffnet ein Linksklick alle nicht markierten Felder drumherum."
+        },
+        {
+          "heading": "Bedeutung der Zahlen",
+          "paragraphs": [
+            "Wenn du ein Feld öffnest, erscheint eine Zahl (1–8), die angibt, wie viele Minen sich in den 8 umliegenden Feldern befinden.",
+            "Hier ein 3×3-Beispiel: Die Zahl 1 in der Mitte bedeutet 1 Mine in den 8 umliegenden Feldern:"
+          ],
+          "list": [
+            "1 — 1 Mine in 8 umliegenden Feldern",
+            "2 — 2 Minen in 8 umliegenden Feldern",
+            "3 — 3 Minen in 8 umliegenden Feldern",
+            "…… usw., maximal 8"
+          ],
+          "tipBox": "💡 Ein leeres Feld (ohne Zahl) bedeutet keine Minen in den 8 umliegenden Feldern – das Spiel öffnet den Bereich automatisch. Das ist der Mechanismus der „Kettenöffnung“."
+        },
+        {
+          "heading": "Spielmodi",
+          "paragraphs": [
+            "Festes Feld: 16 × 30 (480 Felder)"
+          ],
+          "table": {
+            "headers": [
+              "Modus",
+              "Startminen",
+              "Erhöhungsregel",
+              "Erklärung"
+            ],
+            "rows": [
+              [
+                "Einsteiger",
+                "15 Minen",
+                "+6 Minen pro Level",
+                "Maximal 99 Minen bei Level 15"
+              ],
+              [
+                "Normaler Herausforderer",
+                "81 Minen",
+                "Siehe unten",
+                "Minenanzahl steigt jede Runde, kein Oberlimit"
+              ]
+            ]
+          },
+          "extraParagraph": "Erhöhungsregel für Normaler Herausforderer: erste 4 Level +6 Minen, nächste 3 +3 Minen, weitere 3 +2 Minen, danach +1 Mine pro Level, kein Oberlimit."
+        },
+        {
+          "heading": "Sieg und Niederlage",
+          "list": [
+            [
+              "Sieg",
+              "Öffne alle minenfreien Felder oder markiere alle Minen korrekt"
+            ],
+            [
+              "Niederlage",
+              "Klicke auf eine Mine – das Spiel endet sofort"
+            ]
+          ],
+          "tipBox": "💡 Der erste Klick ist 100% sicher! DMine garantiert, dass der erste Klick nie auf eine Mine fällt – starte beruhigt."
+        },
+        {
+          "heading": "Wiedergabe und Teilen",
+          "paragraphs": [
+            "Aufnahmen von abgeschlossenen Levels werden automatisch in der Cloud geteilt. Andere Spieler können sie in der „Linie“ ansehen. Nur zum Anschauen, keine Teilnahme oder Änderung möglich."
+          ]
+        },
+        {
+          "heading": "Rangliste",
+          "paragraphs": [
+            "DMine unterstützt eine Cloud-Rangliste, sortiert nach abgeschlossenen Levels. Je mehr Level, desto höher der Rang. Wettbewerb mit Spielern weltweit."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Spiel starten"
+    },
+    "tips": {
+      "pageTitle": "Fortgeschrittene Tipps für Minensucher - Vom Einsteiger zum Profi | DMine Top Minensucher",
+      "metaDescription": "Anleitung für Profis! Muster 1-2-1, 1-2-2-1, Doppelklick, Wahrscheinlichkeitsanalyse… Meistern Sie diese Tipps, um Geschwindigkeit und Siegquote zu steigern!",
+      "metaKeywords": "Minensucher Tipps,fortgeschrittene Minensucher Tipps,Minensucher Muster,Minensucher Strategie,1-2-1 Minensucher,Wahrscheinlichkeiten Minensucher,Minensucher Profi,fortgeschritten im Minensucher",
+      "headerTitle": "🎯 Fortgeschrittene Tipps für Minensucher",
+      "headerSubtitle": "Vom Einsteiger zum Profi, werde ein Minensucher-Meister",
+      "headerSub2": "Meistere diese Muster und Strategien, verdopple deine Siegquote und Geschwindigkeit",
+      "sections": [
+        {
+          "heading": "1. Grundmuster",
+          "difficulty": "Einsteiger",
+          "items": [
+            {
+              "title": "Muster 1-2-1",
+              "paragraphs": [
+                "Das ist das häufigste und wichtigste Muster im Minensucher. Wenn du eine Reihe 1-2-1 siehst, kannst du sicher sein:"
+              ],
+              "list": [
+                [
+                  "Über jeder 1 befindet sich eine Mine",
+                  "Mit Fahne markieren"
+                ],
+                [
+                  "Über der 2 ist ein sicheres Feld",
+                  "Kann bedenkenlos geöffnet werden"
+                ]
+              ],
+              "tipBox": "💡 Das ist ein sicheres Muster – kein Raten nötig, 100% logisch ableitbar."
+            },
+            {
+              "title": "Muster 1-2-2-1",
+              "paragraphs": [
+                "Wenn du 1-2-2-1 siehst, handelt es sich ebenfalls um ein klassisches Muster:"
+              ],
+              "list": [
+                [
+                  "Über der Mitte der beiden 2 befindet sich jeweils eine Mine",
+                  ""
+                ],
+                [
+                  "Über jeder 1 befindet sich ein sicheres Feld",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Randmuster",
+              "paragraphs": [
+                "Wenn eine Zahl am Rand des Feldes steht, wird die Logik einfacher, da eine Seite zum Berechnen fehlt."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Mittlere Tipps",
+          "difficulty": "Fortgeschritten",
+          "items": [
+            {
+              "title": "Doppelklick-Technik (Chord)",
+              "paragraphs": [
+                "Das ist die entscheidende Aktion zur Geschwindigkeitssteigerung. Wenn die Anzahl der Fahnen um eine Zahl der Zahl entspricht, klicke die mittlere Maustaste oder links + rechts gleichzeitig – alle nicht markierten Felder öffnen sich automatisch.",
+                "Beispiel: Wenn um eine 3 bereits 3 Fahnen stehen, öffnet ein Doppelklick auf die 3 die restlichen 5 Felder automatisch."
+              ],
+              "tipBox": "⚡ Profi-Geheimnis: Fast alle fortgeschrittenen Spieler nutzen den Doppelklick – markieren und doppelklicken, Geschwindigkeit vervielfacht sich."
+            },
+            {
+              "title": "Subtraktionslogik",
+              "paragraphs": [
+                "Wenn um eine Zahl bereits Fahnen markiert sind, „ziehe“ diese ab, um die verbleibenden Minen zu ermitteln. Beispiel: Eine 3 mit einer Fahne hat noch 2 Minen."
+              ]
+            },
+            {
+              "title": "Kombinierte Zahlenlogik",
+              "paragraphs": [
+                "Betrachte Zahlen nicht isoliert, kombiniere benachbarte Zahlen. Zwei benachbarte Zahlen teilen Felder – nutze Schnittmenge und Komplement, um mehr Informationen abzuleiten."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Fortgeschrittene Tipps",
+          "difficulty": "Profi",
+          "items": [
+            {
+              "title": "Wahrscheinlichkeitsanalyse",
+              "paragraphs": [
+                "Bei unsicheren Situationen (dem „Raten“), bewerte, welches Feld die niedrigste Minenwahrscheinlichkeit hat:"
+              ],
+              "list": [
+                [
+                  "Bevorzuge Felder nahe offener Bereiche",
+                  "Mehr Informationen"
+                ],
+                [
+                  "Vermeide Felder in isolierten Bereichen",
+                  "Hohe Unsicherheit"
+                ],
+                [
+                  "Lerne in komplexen Fällen, das Verhältnis von verbleibenden Minen und Feldern zu berechnen",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ „Raten“ ist im Minensucher nicht völlig vermeidbar, aber mit Wahrscheinlichkeitsanalyse erreichst du eine Siegquote über 90%."
+            },
+            {
+              "title": "Mustereerkennung",
+              "paragraphs": [
+                "Profis zählen nicht Feld für Feld – sie erkennen „Muster“ wie Textlesen. Viel Übung lässt dich bestimmte Zahlenkombinationen sofort erkennen und wissen, wo Minen und sichere Felder sind."
+              ]
+            },
+            {
+              "title": "Maussteuerungstipps",
+              "list": [
+                [
+                  "Flüssige Handkoordination",
+                  "Linke Hand: Fahnen (Rechtsklick), Rechte Hand: Öffnen (Linksklick)"
+                ],
+                [
+                  "Weniger Mausbewegungen",
+                  "Nutze Doppelklick statt Einfachklicks"
+                ],
+                [
+                  "Rhythmus",
+                  "Finde deinen Steuerungsrhythmus, nicht zu schnell und nicht zu langsam"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Praktische Strategien",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Startstrategie",
+              "paragraphs": [
+                "DMine garantiert, dass der erste Klick sicher ist. Nach dem Start öffne zuerst große leere Bereiche, um mehr Hinweise für spätere Logik zu schaffen."
+              ]
+            },
+            {
+              "title": "Prioritätsregel",
+              "paragraphs": [
+                "Bearbeite das Feld in dieser Reihenfolge:"
+              ],
+              "orderedList": [
+                "Zuerst alle sicheren Muster (1-2-1, 1-2-2-1 etc.)",
+                "Nutze schnelles Öffnen",
+                "Bearbeite Randzahlen nacheinander",
+                "Zum Schluss Bereiche, die raten erfordern"
+              ]
+            },
+            {
+              "title": "Ratestrategie",
+              "paragraphs": [
+                "Wenn du raten musst:"
+              ],
+              "list": [
+                [
+                  "Rate zuerst Randfelder",
+                  "Meist geringeres Risiko"
+                ],
+                [
+                  "Zähle verbleibende Minen",
+                  "Wisse, wie viele Minen übrig sind, um zu entscheiden"
+                ],
+                [
+                  "Rate zum Schluss",
+                  "Wenn Zeit da ist, löse zuerst andere Bereiche, um das Feld klarer zu machen"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Übung zur Verbesserung",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Übe Musterreaktion",
+                  "Handle sofort bei Zahlenkombinationen, muskuläre Gedächtnisbildung"
+                ],
+                [
+                  "Weniger Zögern",
+                  "Sichere Entscheidungen in 0,5 Sekunden"
+                ],
+                [
+                  "Analyse nach Niederlage",
+                  "Überlege, was besser gemacht werden konnte"
+                ],
+                [
+                  "Nutze die DMine-Rangliste",
+                  "Sieh dir Profi-Aufnahmen an, setze kleine Ziele, fordere dich selbst heraus"
+                ],
+                [
+                  "Versuche es ohne Fahnen",
+                  "Versuche das Spiel ohne Markierungen abzuschließen"
+                ]
+              ],
+              "tipBox": "🎯 Zielreferenz: Normaler Spieler – bis 10 Level, geübt – bis 20, Profi – über 30, Top-Spieler – schaffen über 30 Level ohne Fahnen."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Übung starten"
+    }
+  }
+}

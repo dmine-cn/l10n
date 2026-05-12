@@ -52,6 +52,7 @@ const Map<String, String> stringsSq = {
   'language': 'Gjuha',
   // Home page
   'newbie': 'Fillestar',
+  'gameIntro': 'Prezantim i lojës',
   'newBattle': 'Front i Ri',
   'continueChallenge': 'Vazhdo',
   'error': 'Gabim',

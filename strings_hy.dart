@@ -52,6 +52,7 @@ const Map<String, String> stringsHy = {
   'language': 'Լեզու',
   // Home page
   'newbie': 'Նորեկի Նկարագրություն',
+  'gameIntro': 'Խաղի ներկայացում',
   'newBattle': 'Նոր Պատերազմային Ֆրոնտ',
   'continueChallenge': 'Շարունակել Արդարադրություն',
   'error': 'Սխալ',

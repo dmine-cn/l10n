@@ -51,6 +51,7 @@ const Map<String, String> stringsLv = {
   'language': 'Valoda',
   // Home page
   'newbie': 'Iesācējs',
+  'gameIntro': 'Spēles apraksts',
   'newBattle': 'Jauna līnija',
   'continueChallenge': 'Turpināt izaicinājumu',
   'error': 'Kļūda',

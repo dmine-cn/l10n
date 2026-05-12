@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "sv",
+    "langAttr": "sv",
+    "ogLocale": "sv_SE",
+    "siteName": "DMine - Topp Minröjare",
+    "canonicalPrefix": "sv/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Hem",
+    "rules": "Regler",
+    "tips": "Tips",
+    "about": "Om oss",
+    "download": "Ladda ner"
+  },
+  "footer": {
+    "copyright": "© 2026 DMine-teamet"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Om DMine - Topp Minröjare | Plattformsoberoende minröjarspel",
+      "metaDescription": "DMine (Topp Minröjare) är ett plattformsoberoende minröjarspel. Stödjer Windows, macOS, Linux, Android, iOS, HarmonyOS och webb. Helt gratis med öppen källkod, tillgängligt på 66 språk – spela online var som helst!",
+      "metaKeywords": "minröjarspel, DMine, topp minröjare, plattformsoberoende minröjare, gratis minröjare, minröjare med öppen källkod",
+      "headerTitle": "💣 DMine - Topp Minröjare",
+      "headerSubtitle": "Ett plattformsoberoende minröjarspel – njut av klassiken när som helst och var som helst",
+      "sections": [
+        {
+          "heading": "Vad är DMine?",
+          "paragraphs": [
+            "DMine (Topp Minröjare) är ett plattformsoberoende minröjarspel byggt med Flutter-ramverket. Spelet behåller den klassiska minröjarens kärnmekanik, kombinerat med modern gränssnittsdesign och många funktioner som ger en helt ny spelupplevelse.",
+            "Oavsett om du är en erfaren spelare på Windows eller en tillfällig spelare på mobilen under pendling, uppfyller DMine alla dina behov."
+          ]
+        },
+        {
+          "heading": "Stödda plattformar",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Webb",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Data synkroniseras över alla plattformar – spela på en enhet, fortsätt på alla andra."
+          ]
+        },
+        {
+          "heading": "Huvudfunktioner",
+          "list": [
+            [
+              "Flerspråkigt stöd",
+              "Tillgängligt på 66 språk, spela utan hinder med spelare över hela världen"
+            ],
+            [
+              "Spelhistorikdelning",
+              "Dina spelrekord delas automatiskt till molnet, andra spelare kan titta på repriser"
+            ],
+            [
+              "Molnbaserad rankning",
+              "Tävla med spelare världen över om att klara fler nivåer"
+            ],
+            [
+              "Fler spellägen",
+              "Två lägen: Nybörjarläge och Vanlig utmaning"
+            ],
+            [
+              "Helt gratis",
+              "Inga annonser och inga köp i appen – en ren spelupplevelse"
+            ]
+          ]
+        },
+        {
+          "heading": "Spellägen",
+          "paragraphs": [
+            "Spelregler: Spelbrädet är fast 16×30 (480 rutor). Hitta alla säkra rutor bland minorna för att vinna."
+          ],
+          "list": [
+            [
+              "Nybörjarläge",
+              "Börjar med 15 minor, lägger till 6 minor efter varje klar nivå, max 99 minor på nivå 15"
+            ],
+            [
+              "Vanlig utmaning",
+              "Börjar med 81 minor. De första 4 nivåerna lägger till 6 minor vardera, sedan 3 minor var tredje nivå, därefter 2 minor var tredje nivå, slutligen 1 minor per nivå utan övre gräns"
+            ]
+          ]
+        },
+        {
+          "heading": "Versionsinformation",
+          "paragraphs": [
+            "Nuvarande version: {{VERSION}}",
+            "Teknisk stack: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine är ett projekt med öppen källkod – följ och bidra med kod på GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Börja spela"
+    },
+    "rules": {
+      "pageTitle": "Detaljerade minröjarregler – Måste läsas för nybörjare | DMine Topp Minröjare",
+      "metaDescription": "Hur spelar man minröjare? Denna guide förklarar grundregler, siffors betydelse, kontroller och vinstvillkor perfekt för nybörjare!",
+      "metaKeywords": "minröjarregler, hur man spelar minröjare, minröjarguide, nybörjare minröjare, grundregler för minröjare",
+      "headerTitle": "💣 Detaljerade minröjarregler",
+      "headerSubtitle": "Lär dig spela från grunden – perfekt för nybörjare",
+      "sections": [
+        {
+          "heading": "Spelets mål",
+          "paragraphs": [
+            "Målet med minröjare är enkelt: Öppna alla säkra rutor utan att klicka på en mina. Klickar du på en mina tar spelet slut; öppnar du alla rutor utan minor har du vunnit!"
+          ]
+        },
+        {
+          "heading": "Grundläggande kontroller",
+          "table": {
+            "headers": [
+              "Åtgärd",
+              "Mus",
+              "Pekskärm",
+              "Förklaring"
+            ],
+            "rows": [
+              [
+                "Öppna ruta",
+                "Vänsterklick",
+                "Ett tryck",
+                "Öppna vald ruta"
+              ],
+              [
+                "Markera med flagga",
+                "Högerklick",
+                "Långt tryck",
+                "Markera plats där du tror det finns en mina (⚑)"
+              ],
+              [
+                "Markera med frågetecken",
+                "Högerklick igen",
+                "Långt tryck igen",
+                "Markera med ? när du är osäker"
+              ],
+              [
+                "Snabbröjning (Chord)",
+                "Vänsterklick på öppen siffra",
+                "—",
+                "När antalet flaggor runt en siffra matchar siffran, klicka för att automatiskt öppna alla omarkerade angränsande rutor"
+              ]
+            ]
+          },
+          "tipBox": "💡 Användbart tips: Snabbröjning (Chord) är extremt effektivt! När antalet flaggor runt en siffra är lika med siffran, vänsterklicka så öppnas alla omarkerade angränsande rutor automatiskt."
+        },
+        {
+          "heading": "Siffors betydelse",
+          "paragraphs": [
+            "När du öppnar en ruta visas en siffra mellan 1 och 8 – den anger hur många minor som finns i de åtta angränsande rutorna.",
+            "Exempel på ett 3×3-område: Siffran 1 i mitten betyder att det finns exakt en mina bland de åtta omgivande rutorna."
+          ],
+          "list": [
+            "1 – 1 mina i de åtta omgivande rutorna",
+            "2 – 2 minor i de åtta omgivande rutorna",
+            "3 – 3 minor i de åtta omgivande rutorna",
+            "… och så vidare, upp till max 8"
+          ],
+          "tipBox": "💡 En tom ruta utan siffra betyder att det inte finns några minor i de åtta angränsande rutorna. Spelet öppnar automatiskt omgivande rutor – detta är kedjeöppning i minröjare."
+        },
+        {
+          "heading": "Spellägen",
+          "paragraphs": [
+            "Fast brädstorlek: 16 × 30 (480 rutor)"
+          ],
+          "table": {
+            "headers": [
+              "Läge",
+              "Startantal minor",
+              "Ökningsregel",
+              "Förklaring"
+            ],
+            "rows": [
+              [
+                "Nybörjarläge",
+                "15 minor",
+                "+6 minor per klar nivå",
+                "Max 99 minor på nivå 15"
+              ],
+              [
+                "Vanlig utmaning",
+                "81 minor",
+                "Se förklaring nedan",
+                "Antalet minor ökar obegränsat för varje omgång"
+              ]
+            ]
+          },
+          "extraParagraph": "Ökningsregel för vanlig utmaning: De första 4 klarade nivåerna lägger till 6 minor vardera, sedan 3 minor var tredje nivå, därefter 2 minor var tredje nivå, slutligen 1 minor per nivå utan övre gräns."
+        },
+        {
+          "heading": "Vinst och förlust",
+          "list": [
+            [
+              "Vinsta",
+              "Öppna alla rutor utan minor eller markera alla minplatser korrekt"
+            ],
+            [
+              "Förlust",
+              "Klicka på en mina – spelet avslutas omedelbart"
+            ]
+          ],
+          "tipBox": "💡 Första klicket är alltid 100% säkert! DMine garanterar att ditt första klick aldrig träffar en mina, så du kan börja spela tryggt."
+        },
+        {
+          "heading": "Repriser och delning",
+          "paragraphs": [
+            "Dina klarade nivåer sparas automatiskt i molnet. Andra spelare kan titta på dina repriser. Repriser går bara att titta på, inte att redigera eller delta i."
+          ]
+        },
+        {
+          "heading": "Ranklista",
+          "paragraphs": [
+            "DMine har en molnbaserad ranklista som rangordnar spelare efter antalet klarade nivåer. Fler nivåer ger högre placering – tävla med spelare över hela världen."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Börja spela"
+    },
+    "tips": {
+      "pageTitle": "Avancerade minröjartips – Från nybörjare till mästare | DMine Topp Minröjare",
+      "metaDescription": "Guide till avancerad minröjning! Mönster 1-2-1, 1-2-2-1, snabbt klick, sannolikhetsanalys – bemästra tipsen och öka din hastighet och vinstchans!",
+      "metaKeywords": "minröjartips, avancerade minröjartips, minröjarmönster, minröjarstrategi, 1-2-1 minröjare, sannolikhet minröjare, minröjarmästare",
+      "headerTitle": "🎯 Avancerade minröjartips",
+      "headerSubtitle": "Från nybörjare till mästare – bli en expert på minröjare",
+      "headerSub2": "Bemästra mönster och strategier för att dubbla din vinstchans och spelhastighet",
+      "sections": [
+        {
+          "heading": "I. Grundläggande mönster",
+          "difficulty": "Nybörjare",
+          "items": [
+            {
+              "title": "Mönster 1-2-1",
+              "paragraphs": [
+                "Det vanligaste och viktigaste mönstret i minröjare. När du ser siffrorna 1-2-1 i en rak linje kan du vara säker på:"
+              ],
+              "list": [
+                [
+                  "En mina ovanför vardera 1:a",
+                  "Markera med flagga"
+                ],
+                [
+                  "Rutan ovanför 2:an är säker",
+                  "Kan öppnas utan risk"
+                ]
+              ],
+              "tipBox": "💡 Detta är ett säkert mönster – ingen gissning behövs, slutsatsen kan dras helt logiskt till 100%."
+            },
+            {
+              "title": "Mönster 1-2-2-1",
+              "paragraphs": [
+                "Ett annat klassiskt mönster när du ser följd 1-2-2-1:"
+              ],
+              "list": [
+                [
+                  "En mina ovanför mitten av de två 2:orna",
+                  ""
+                ],
+                [
+                  "En säker ruta ovanför vardera 1:a",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Kantmönster",
+              "paragraphs": [
+                "När en siffra ligger vid brädans kant blir logiken enklare – en sida mindre att beräkna."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "II. Mellannivåns tips",
+          "difficulty": "Avancerad",
+          "items": [
+            {
+              "title": "Dubbelklicksteknik (Chord)",
+              "paragraphs": [
+                "Den viktigaste tekniken för att öka hastigheten. När antalet flaggor runt en siffra matchar siffran, använd mushjul eller klicka vänster och höger samtidigt för att automatiskt öppna alla omarkerade angränsande rutor.",
+                "Exempel: Om en 3:a har tre flaggor runt sig, dubbelklicka på 3:an så öppnas de återstående fem rutorna automatiskt."
+              ],
+              "tipBox": "⚡ Mästarhemlighet: Nästan alla erfarna spelare använder dubbelklick – markera med flaggor och öppna samtidigt, hastigheten mångdubblas."
+            },
+            {
+              "title": "Logik med subtraktion",
+              "paragraphs": [
+                "När du redan har markerat några flaggor runt en siffra kan du subtrahera antalet flaggor från siffran för att få veta hur många minor som återstår i omarkerade rutor. Till exempel: Om en 3:a har en flagga återstår två minor i de återstående rutorna."
+              ]
+            },
+            {
+              "title": "Samverkande sifferlogik",
+              "paragraphs": [
+                "Betrakta inte siffror isolerat – kombinera angränsande siffror för att dra slutsatser. Två närliggande siffror delar rutor, använd skärning och komplement för att få mer information."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "III. Avancerade tekniker",
+          "difficulty": "Mästare",
+          "items": [
+            {
+              "title": "Sannolikhetsanalys",
+              "paragraphs": [
+                "När situationen är osäker och du måste gissa – välj rutan med lägst minrisk:"
+              ],
+              "list": [
+                [
+                  "Välj helst rutor nära redan öppnade områden",
+                  "Mer information att tillgå"
+                ],
+                [
+                  "Undvik isolerade rutor",
+                  "Hög osäkerhet i sannolikheten"
+                ],
+                [
+                  "I komplexa lägen, beräkna förhållandet mellan återstående minor och tomma rutor",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Gissning går inte helt att undvika i minröjare, men med sannolikhetsanalys kan du höja din vinstchans till över 90%."
+            },
+            {
+              "title": "Mönsterigenkänning",
+              "paragraphs": [
+                "Mästare räknar inte rutor en efter en – de känner igen hela mönster på samma sätt som att läsa text. Med träning känner du direkt var minor och säkra rutor finns vid en sifferkombination."
+              ]
+            },
+            {
+              "title": "Musstyrningsteknik",
+              "list": [
+                [
+                  "Samordnad vänster och höger hand",
+                  "Vänster hand markerar flaggor (högerklick), höger hand öppnar rutor (vänsterklick)"
+                ],
+                [
+                  "Minska musrörelser",
+                  "Använd dubbelklick istället för enskilda klick för färre rörelser"
+                ],
+                [
+                  "Håll en jämn rytm",
+                  "Hitta din egen spelrytm, undvik att spela ojämnt fort och långsamt"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "IV. Spelstrategi i praktiken",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Startstrategi",
+              "paragraphs": [
+                "DMine garanterar att ditt första klick alltid är säkert. Börja med att öppna stora tomma ytor för att få fler ledtrådar till senare logik."
+              ]
+            },
+            {
+              "title": "Prioriteringsregel",
+              "paragraphs": [
+                "Hantera brädet i följande ordning:"
+              ],
+              "orderedList": [
+                "Börja med alla säkra mönster (1-2-1, 1-2-2-1 med flera)",
+                "Använd snabbröjning",
+                "Gå igenom siffrorna vid brädans kant",
+                "Hantera till sist områden som kräver gissning"
+              ]
+            },
+            {
+              "title": "Gissningsstrategi",
+              "paragraphs": [
+                "När du är tvungen att gissa:"
+              ],
+              "list": [
+                [
+                  "Gissa helst vid kanten av brädet",
+                  "Kantrutor har färre kopplingar och lägre risk"
+                ],
+                [
+                  "Räkna återstående minor",
+                  "Vet hur många minor som är omarkerade för bättre bedömning"
+                ],
+                [
+                  "Spara gissning till slutet",
+                  "Lös andra områden först om tid finns, gör brädet tydligare"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "V. Övning och förbättring",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Öva mönsterreaktion",
+                  "Reagera automatiskt på sifferkombinationer, bygg muskelminne"
+                ],
+                [
+                  "Minska tvekan",
+                  "Fatta säkra beslut inom 0,5 sekunder"
+                ],
+                [
+                  "Analysera dina förluster",
+                  "Tänk igenom vad du kunde ha gjort bättre efter en förlust"
+                ],
+                [
+                  "Använd DMines ranklista",
+                  "Se mästarnas rekord, sätt egna mål och utmana dig själv"
+                ],
+                [
+                  "Prova att spela utan flaggor",
+                  "Försök klara spelet utan att markera med flaggor"
+                ]
+              ],
+              "tipBox": "🎯 Målreferens: Vanlig spelare klarar under 10 nivåer, erfaren under 20, mästare över 30, toppspelare kan klara över 30 nivåer även utan flaggor."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Börja öva"
+    }
+  }
+}

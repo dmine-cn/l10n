@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "fr",
+    "langAttr": "fr",
+    "ogLocale": "fr_FR",
+    "siteName": "DMine - Top Démineur",
+    "canonicalPrefix": "fr/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Accueil",
+    "rules": "Règles",
+    "tips": "Conseils",
+    "about": "À propos",
+    "download": "Télécharger"
+  },
+  "footer": {
+    "copyright": "© 2026 L'équipe DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "À propos de DMine - Top Démineur | Jeu de démineur multiplateforme",
+      "metaDescription": "DMine (Top Démineur) est un jeu de démineur multiplateforme compatible avec Windows, macOS, Linux, Android, iOS, HarmonyOS et le web. Gratuit et open source, prise en charge de 66 langues, jouez en ligne partout !",
+      "metaKeywords": "jeu de démineur, DMine, top démineur, démineur multiplateforme, démineur gratuit, démineur open source",
+      "headerTitle": "💣 DMine - Top Démineur",
+      "headerSubtitle": "Un classique du démineur multiplateforme, jouez quand vous voulez, où vous voulez",
+      "sections": [
+        {
+          "heading": "Qu'est-ce que DMine ?",
+          "paragraphs": [
+            "DMine (Top Démineur) est un jeu de démineur multiplateforme développé avec le framework Flutter. Il conserve le gameplay classique du démineur tout en proposant une interface moderne et de riches fonctionnalités pour offrir une expérience inédite.",
+            "Que vous soyez un joueur régulier sur Windows ou un joueur occasionnel sur mobile pendant vos déplacements, DMine répond parfaitement à vos attentes."
+          ]
+        },
+        {
+          "heading": "Plateformes prises en charge",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Vos données sont synchronisées sur toutes les plateformes ; jouez sur un appareil et continuez votre partie partout."
+          ]
+        },
+        {
+          "heading": "Fonctionnalités principales",
+          "list": [
+            [
+              "Prise en charge multilingue",
+              "66 langues prises en charge, jouez sans limite avec le monde entier"
+            ],
+            [
+              "Partage de parties",
+              "Vos parties sont automatiquement sauvegardées sur le cloud, les autres joueurs peuvent les revoir"
+            ],
+            [
+              "Classement cloud",
+              "Affrontez des joueurs du monde entier sur le nombre de niveaux terminés"
+            ],
+            [
+              "Modes de jeu variés",
+              "Deux modes : Débutant et Défi classique"
+            ],
+            [
+              "Totalement gratuit",
+              "Sans publicité ni achat intégré, profitez d'une expérience de jeu pure"
+            ]
+          ]
+        },
+        {
+          "heading": "Modes de jeu",
+          "paragraphs": [
+            "Règles du jeu : Grille fixe de 16×30 (480 cases). Gagnez en découvrant toutes les cases sûres parmi un nombre défini de mines."
+          ],
+          "list": [
+            [
+              "Mode Débutant",
+              "Commencez avec 15 mines, +6 mines à chaque niveau terminé, maximum 99 mines au niveau 15"
+            ],
+            [
+              "Défi classique",
+              "Commencez avec 81 mines, +6 mines pour les 4 premiers niveaux, puis +3 mines tous les 3 niveaux, ensuite +2 mines tous les 3 niveaux et enfin +1 mine par niveau sans limite"
+            ]
+          ]
+        },
+        {
+          "heading": "Informations de version",
+          "paragraphs": [
+            "Version actuelle : {{VERSION}}",
+            "Stack technique : Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine est un projet open source. N'hésitez pas à nous suivre et à contribuer sur GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Jouer maintenant"
+    },
+    "rules": {
+      "pageTitle": "Règles du démineur expliquées - Guide pour débutants | DMine Top Démineur",
+      "metaDescription": "Comment jouer au démineur ? Ce guide détaille les règles de base, la signification des chiffres, les contrôles et les conditions de victoire. Indispensable pour les débutants !",
+      "metaKeywords": "règles du démineur, comment jouer au démineur, tutoriel démineur, démineur débutant, règles classiques du démineur",
+      "headerTitle": "💣 Règles du démineur détaillées",
+      "headerSubtitle": "Apprenez le démineur de zéro, guide indispensable pour débutants",
+      "sections": [
+        {
+          "heading": "Objectif du jeu",
+          "paragraphs": [
+            "Le but du démineur est simple : découvrez toutes les cases sûres sans tomber sur une mine. Si vous cliquez sur une mine, la partie se termine. Si vous découvrez toutes les cases sans mine, vous gagnez !"
+          ]
+        },
+        {
+          "heading": "Contrôles de base",
+          "table": {
+            "headers": [
+              "Action",
+              "Souris",
+              "Écran tactile",
+              "Explication"
+            ],
+            "rows": [
+              [
+                "Découvrir une case",
+                "Clic gauche",
+                "Appui simple",
+                "Ouvrir la case sélectionnée"
+              ],
+              [
+                "Marquer d'un drapeau",
+                "Clic droit",
+                "Appui long",
+                "Marquer une case suspectée de contenir une mine (⚑)"
+              ],
+              [
+                "Marquer d'un point d'interrogation",
+                "Nouveau clic droit",
+                "Nouvel appui long",
+                "Marquer d'un ? lorsque vous n'êtes pas sûr"
+              ],
+              [
+                "Ouverture rapide (Chord)",
+                "Clic gauche sur une case chiffre découverte",
+                "—",
+                "Quand le nombre de drapeaux autour d'un chiffre correspond à sa valeur, cliquez pour ouvrir automatiquement toutes les cases voisines non marquées"
+              ]
+            ]
+          },
+          "tipBox": "💡 Astuce : L'ouverture rapide (Chord) est très efficace ! Lorsque le nombre de drapeaux autour d'un chiffre est égal à celui-ci, cliquez dessus pour ouvrir toutes les cases voisines automatiquement."
+        },
+        {
+          "heading": "Signification des chiffres",
+          "paragraphs": [
+            "Lorsque vous découvrez une case, un chiffre de 1 à 8 apparaît. Il indique le nombre de mines présentes dans les 8 cases adjacentes.",
+            "Exemple sur une zone 3×3 : le chiffre 1 au centre signifie qu'une seule mine se trouve parmi les 8 cases voisines."
+          ],
+          "list": [
+            "1 — Une mine dans les 8 cases voisines",
+            "2 — Deux mines dans les 8 cases voisines",
+            "3 — Trois mines dans les 8 cases voisines",
+            "Et ainsi de suite jusqu'à 8"
+          ],
+          "tipBox": "💡 Une case vide sans chiffre signifie qu'aucune mine ne se trouve dans les 8 cases alentour. Le jeu ouvre automatiquement la zone, c'est l'effet de chaîne du démineur."
+        },
+        {
+          "heading": "Modes de jeu",
+          "paragraphs": [
+            "Grille fixe : 16 × 30 (480 cases)"
+          ],
+          "table": {
+            "headers": [
+              "Mode",
+              "Nombre initial de mines",
+              "Règle d'augmentation",
+              "Explication"
+            ],
+            "rows": [
+              [
+                "Débutant",
+                "15 mines",
+                "+6 mines par niveau",
+                "Jusqu'à 99 mines au niveau 15"
+              ],
+              [
+                "Défi classique",
+                "81 mines",
+                "Voir ci-dessous",
+                "Nombre de mines croissant sans limite"
+              ]
+            ]
+          },
+          "extraParagraph": "Règle du défi classique : +6 mines pour les 4 premiers niveaux, puis +3 mines tous les 3 niveaux, ensuite +2 mines tous les 3 niveaux et enfin +1 mine par niveau sans plafond."
+        },
+        {
+          "heading": "Victoire et défaite",
+          "list": [
+            [
+              "Victoire",
+              "Découvrir toutes les cases sans mine ou marquer correctement toutes les mines"
+            ],
+            [
+              "Défaite",
+              "Cliquer sur une mine, fin immédiate de la partie"
+            ]
+          ],
+          "tipBox": "💡 Le premier clic est 100% sûr ! DMine garantit que votre première case ne contient jamais de mine, commencez sereinement."
+        },
+        {
+          "heading": "Replay et partage",
+          "paragraphs": [
+            "Les niveaux terminés sont automatiquement sauvegardés sur le cloud. Les autres joueurs peuvent revoir votre parcours. Les replays sont uniquement en lecture, pas modifiables."
+          ]
+        },
+        {
+          "heading": "Classement",
+          "paragraphs": [
+            "DMine propose un classement cloud basé sur le nombre de niveaux terminés. Plus vous avancez, plus votre classement est élevé, affrontez des joueurs du monde entier."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Jouer maintenant"
+    },
+    "tips": {
+      "pageTitle": "Astuces avancées du démineur - Débutant à expert | DMine Top Démineur",
+      "metaDescription": "Stratégies avancées du démineur ! Motifs 1-2-1, 1-2-2-1, technique du double clic, analyse probabiliste... Maîtrisez ces astuces pour doubler votre vitesse et votre taux de victoire !",
+      "metaKeywords": "astuces démineur, techniques avancées démineur, motifs démineur, stratégie démineur, 1-2-1 démineur, probabilité démineur, expert démineur",
+      "headerTitle": "🎯 Astuces avancées du démineur",
+      "headerSubtitle": "Du débutant à l'expert, devenez un maître du démineur",
+      "headerSub2": "Maîtrisez ces motifs et stratégies pour doubler votre vitesse et vos victoires",
+      "sections": [
+        {
+          "heading": "1. Motifs de base",
+          "difficulty": "Débutant",
+          "items": [
+            {
+              "title": "Motif 1-2-1",
+              "paragraphs": [
+                "C'est le motif le plus courant et le plus important du démineur. Lorsque vous voyez la suite 1-2-1 alignée, vous pouvez affirmer avec certitude :"
+              ],
+              "list": [
+                [
+                  "Une mine au-dessus de chaque 1",
+                  "Marquez d'un drapeau"
+                ],
+                [
+                  "La case au-dessus du 2 est forcément sûre",
+                  "Vous pouvez l'ouvrir sans hésiter"
+                ]
+              ],
+              "tipBox": "💡 Ce motif est fiable à 100%, pas besoin de deviner, déduction logique assurée."
+            },
+            {
+              "title": "Motif 1-2-2-1",
+              "paragraphs": [
+                "La suite 1-2-2-1 est aussi un motif classique :"
+              ],
+              "list": [
+                [
+                  "Une mine de chaque côté au-dessus des deux 2",
+                  ""
+                ],
+                [
+                  "Une case sûre au-dessus de chaque 1",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Motif de bordure",
+              "paragraphs": [
+                "Quand un chiffre est sur le bord de la grille, la déduction est plus simple car un côté n'a pas de case à calculer."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Techniques intermédiaires",
+          "difficulty": "Intermédiaire",
+          "items": [
+            {
+              "title": "Double clic (Chord)",
+              "paragraphs": [
+                "C'est la technique clé pour augmenter sa vitesse. Quand le nombre de drapeaux autour d'un chiffre correspond à sa valeur, utilisez la molette de la souris ou cliquez simultanément gauche et droit pour ouvrir automatiquement toutes les cases non marquées.",
+                "Exemple : Si un 3 a déjà 3 drapeaux autour de lui, double-cliquez dessus, les 5 cases restantes s'ouvrent seules."
+              ],
+              "tipBox": "⚡ Secret des experts : presque tous les joueurs confirmés utilisent le double clic. Marquez des drapeaux et utilisez l'ouverture rapide en même temps pour multiplier votre vitesse."
+            },
+            {
+              "title": "Déduction soustractive",
+              "paragraphs": [
+                "Lorsque certains drapeaux sont déjà placés autour d'un chiffre, soustrayez leur nombre pour connaître le nombre de mines restantes. Par exemple, un 3 avec 1 drapeau possède encore 2 mines dans les cases voisines."
+              ]
+            },
+            {
+              "title": "Déduction multiple",
+              "paragraphs": [
+                "Ne lisez pas les chiffres isolément, associez les chiffres adjacents. Deux chiffres voisins partagent des cases, utilisez leurs intersections pour obtenir plus d'informations."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Techniques avancées",
+          "difficulty": "Expert",
+          "items": [
+            {
+              "title": "Analyse probabiliste",
+              "paragraphs": [
+                "Lorsqu'une situation ne peut pas être résolue avec certitude (moment de deviner), évaluez quelle case a le moins de risque de contenir une mine :"
+              ],
+              "list": [
+                [
+                  "Privilégiez les cases proches des zones déjà découvertes",
+                  "Plus d'informations"
+                ],
+                [
+                  "Évitez les zones isolées",
+                  "Forte incertitude"
+                ],
+                [
+                  "Dans les cas complexes, calculez le ratio mines restantes / cases restantes",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Le devinage est inévitable au démineur, mais l'analyse probabiliste peut porter votre taux de victoire au-delà de 90%."
+            },
+            {
+              "title": "Reconnaissance de motifs",
+              "paragraphs": [
+                "Les experts ne comptent pas les cases une à une, ils reconnaissent des ensembles de motifs comme on lit un texte. Avec l'entraînement, vous identifiez instantanément les mines et les cases sûres devant une combinaison de chiffres."
+              ]
+            },
+            {
+              "title": "Maîtrise de la souris",
+              "list": [
+                [
+                  "Coordination des deux mains",
+                  "Main gauche : drapeaux (clic droit), main droite : découvrir les cases (clic gauche), répartition claire des tâches"
+                ],
+                [
+                  "Réduire les mouvements",
+                  "Utilisez le double clic au lieu de clics simples, réduisez les déplacements de souris"
+                ],
+                [
+                  "Rythme de jeu",
+                  "Trouvez votre propre rythme, ne jouez pas trop vite ni trop lentement"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Stratégies pratiques",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Stratégie de début de partie",
+              "paragraphs": [
+                "DMine garantit la sécurité du premier clic. Commencez par ouvrir de grandes zones vides pour avoir plus d'indices pour la suite."
+              ]
+            },
+            {
+              "title": "Ordre de priorité",
+              "paragraphs": [
+                "Traitez la grille dans cet ordre :"
+              ],
+              "orderedList": [
+                "Résoudre d'abord tous les motifs certains (1-2-1, 1-2-2-1…)",
+                "Utiliser l'ouverture rapide",
+                "Traiter un par un les chiffres sur les bords",
+                "Finir par les zones qui nécessitent un devinage"
+              ]
+            },
+            {
+              "title": "Stratégie de devinage",
+              "paragraphs": [
+                "Quand vous devez deviner :"
+              ],
+              "list": [
+                [
+                  "Privilégiez les cases en bordure",
+                  "Moins de liens d'information, risque plus faible"
+                ],
+                [
+                  "Comptez les mines restantes",
+                  "Savoir combien de mines ne sont pas marquées pour aider votre choix"
+                ],
+                [
+                  "Deviner en dernier",
+                  "Si vous avez le temps, résolvez d'autres zones pour clarifier la grille"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Entraînement et progression",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "S'entraîner aux motifs",
+                  "Réagir instantanément aux suites de chiffres pour créer une mémoire gestuelle"
+                ],
+                [
+                  "Réduire l'hésitation",
+                  "Prendre des décisions certaines en moins de 0,5 seconde"
+                ],
+                [
+                  "Analyser ses défaites",
+                  "Réfléchir à ce que vous auriez pu faire mieux après avoir perdu"
+                ],
+                [
+                  "Consulter le classement DMine",
+                  "Voir les records des experts, fixez-vous un objectif et dépassez-vous"
+                ],
+                [
+                  "Tenter sans drapeaux",
+                  "Essayez de terminer une partie sans poser aucun drapeau"
+                ]
+              ],
+              "tipBox": "🎯 Référence de niveau : Joueur ordinaire < 10 niveaux, confirmé < 20 niveaux, expert > 30 niveaux, top joueur capable de dépasser 30 niveaux sans drapeaux."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 S'entraîner"
+    }
+  }
+}

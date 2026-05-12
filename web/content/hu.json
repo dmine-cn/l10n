@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "hu",
+    "langAttr": "hu",
+    "ogLocale": "hu_HU",
+    "siteName": "DMine - Legjobb Aknakereső",
+    "canonicalPrefix": "hu/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Kezdőlap",
+    "rules": "Szabályok",
+    "tips": "Tippek",
+    "about": "Rólunk",
+    "download": "Letöltés"
+  },
+  "footer": {
+    "copyright": "© 2026 DMine Csapat"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "A DMine-ről - Legjobb Aknakereső | Többplatformos aknakereső játék",
+      "metaDescription": "A DMine (Legjobb Aknakereső) egy többplatformos aknakereső játék, amely támogatja a Windows, macOS, Linux, Android, iOS, HarmonyOS és Web platformokat. Teljesen ingyenes és nyílt forráskódú, 66 nyelvet támogat, játssz online bármikor!",
+      "metaKeywords": "aknakereső játék, DMine, legjobb aknakereső, többplatformos aknakereső, ingyenes aknakereső, nyílt forráskódú aknakereső",
+      "headerTitle": "💣 DMine - Legjobb Aknakereső",
+      "headerSubtitle": "Klasszikus többplatformos aknakereső játék, játssz bárhol és bármikor",
+      "sections": [
+        {
+          "heading": "Mi az a DMine?",
+          "paragraphs": [
+            "A DMine (Legjobb Aknakereső) egy Flutter keretrendszerrel fejlesztett többplatformos aknakereső játék. Megőrzi a klasszikus aknakereső alapjátékmenetét, miközben modern felületi dizájnt és gazdag funkciókat kínál, amely teljesen új játékélményt nyújt a játékosok számára.",
+            "Legyen szó mély játékosról Windowson, vagy csak időtöltő játékosról mobiltelefonon utazás közben, a DMine minden igényedet kielégíti."
+          ]
+        },
+        {
+          "heading": "Támogatott platformok",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Az adatok szinkronizálva vannak az összes platformon – játssz egy eszközön, folytasd bármely másikon."
+          ]
+        },
+        {
+          "heading": "Fő funkciók",
+          "list": [
+            [
+              "Többnyelvű támogatás",
+              "66 nyelvet támogat, akadálymentesen játssz a világ minden tájáról érkező játékosokkal"
+            ],
+            [
+              "Játékmenet megosztása",
+              "A játékrekordok automatikusan mentésre kerülnek a felhőbe, más játékosok visszajátszhatják a játékodat"
+            ],
+            [
+              "Felhőbeli ranglista",
+              "Versenyezz a világ játékosaival a szintek teljesítésében"
+            ],
+            [
+              "Több játékmód",
+              "Két mód: kezdő és normál kihívás"
+            ],
+            [
+              "Teljesen ingyenes",
+              "Nincs hirdetés, nincs alkalmazáson belüli vásárlás, tiszta játékélmény"
+            ]
+          ]
+        },
+        {
+          "heading": "Játékmódok",
+          "paragraphs": [
+            "Játékszabályok: A tábla mérete rögzített 16×30 (480 mező). Nyerd meg a játékot az összes biztonságos mező felfedésével, anélkül, hogy aknára lépnél."
+          ],
+          "list": [
+            [
+              "Kezdő mód",
+              "15 aknával indul, minden teljesített szint 6 aknát ad hozzá, maximum 99 akna a 15. szintig"
+            ],
+            [
+              "Normál kihívás",
+              "81 aknával indul, az első 4 szintenként 6 akna hozzáadása, majd minden 3 szintenként 3 akna, később minden 3 szintenként 2 akna, végül szintenként 1 akna, felső korlát nélkül"
+            ]
+          ]
+        },
+        {
+          "heading": "Verzió információ",
+          "paragraphs": [
+            "Jelenlegi verzió: {{VERSION}}",
+            "Technológiai stack: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "A DMine egy nyílt forráskódú projekt. Kövess minket és járulj hozzá a kódhoz a GitHubon."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Játssz most"
+    },
+    "rules": {
+      "pageTitle": "Az aknakereső szabályai részletesen – Kötelező kezdőknek | DMine Legjobb Aknakereső",
+      "metaDescription": "Hogyan kell játszani az aknakeresőt? Ez a útmutató részletesen elmagyarázza az alapvető szabályokat, a számok jelentését, a kezelési módot és a győzelem feltételeit. Elengedhetetlen tutorial új játékosok számára!",
+      "metaKeywords": "aknakereső szabályok, hogyan játssz aknakeresőt, aknakereső tutorial, aknakereső kezdőknek, alap aknakereső szabályok",
+      "headerTitle": "💣 Az aknakereső szabályai részletesen",
+      "headerSubtitle": "Tanuld meg játszani a nulláról, útmutató kezdőknek",
+      "sections": [
+        {
+          "heading": "Játék célja",
+          "paragraphs": [
+            "Az aknakereső célja egyszerű: fedd fel az összes biztonságos mezőt anélkül, hogy aknára lépnél. Ha rákattintasz egy aknára, a játék azonnal véget ér. Ha felfeded az összes aknamentes mezőt, megnyered a játékot!"
+          ]
+        },
+        {
+          "heading": "Alap kezelés",
+          "table": {
+            "headers": [
+              "Művelet",
+              "Egér",
+              "Érintőképernyő",
+              "Leírás"
+            ],
+            "rows": [
+              [
+                "Mező felfedése",
+                "Bal kattintás",
+                "Egyszeri érintés",
+                "Kiválasztott mező megnyitása"
+              ],
+              [
+                "Zászló jelölése",
+                "Jobb kattintás",
+                "Hosszú nyomás",
+                "Jelöld meg a helyet, ahol szerinted akna van (⚑)"
+              ],
+              [
+                "Kérdőjel jelölése",
+                "Újabb jobb kattintás",
+                "Újabb hosszú nyomás",
+                "Jelöld meg kérdőjellel, ha nem vagy biztos"
+              ],
+              [
+                "Gyors felfedés (Chord)",
+                "Bal kattintás a felfedett számon",
+                "—",
+                "Ha a zászlók száma megegyezik a szám értékével, az összes környező jelöletlen mező automatikusan megnyílik"
+              ]
+            ]
+          },
+          "tipBox": "💡 Tipp: A gyors felfedés (Chord) nagyon hatékony játékmenet! Ha a szám körül lévő zászlók száma megegyezik a szám értékével, kattints és nyisd fel az összes környező mezőt egyszerre."
+        },
+        {
+          "heading": "A számok jelentése",
+          "paragraphs": [
+            "Amikor felfedsz egy mezőt, egy 1-től 8-ig terjedő szám jelenik meg, amely megmutatja, hány akna van a nyolc környező mezőben.",
+            "Példa 3×3-as táblán: a középső 1-es szám azt jelenti, hogy a nyolc környező mezőben 1 akna található."
+          ],
+          "list": [
+            "1 — A környező 8 mezőben 1 akna van",
+            "2 — A környező 8 mezőben 2 akna van",
+            "3 — A környező 8 mezőben 3 akna van",
+            "És így tovább egészen a maximális 8-ig"
+          ],
+          "tipBox": "💡 Ha üres, szám nélküli mezőt fedsz fel, a környező mezőkben nincs akna, és a játék automatikusan felfedi az egész területet – ez a láncreakciós mechanizmus az aknakeresőben."
+        },
+        {
+          "heading": "Játékmódok",
+          "paragraphs": [
+            "Rögzített táblaméret: 16 × 30 (480 mező)"
+          ],
+          "table": {
+            "headers": [
+              "Mód",
+              "Kezdő aknaszám",
+              "Növekedési szabály",
+              "Leírás"
+            ],
+            "rows": [
+              [
+                "Kezdő",
+                "15 akna",
+                "+6 akna szintenként",
+                "Maximum 99 akna a 15. szintig"
+              ],
+              [
+                "Normál kihívás",
+                "81 akna",
+                "Lásd lent",
+                "Az aknák száma folyamatosan növekszik felső korlát nélkül"
+              ]
+            ]
+          },
+          "extraParagraph": "Normál kihívás növekedési szabálya: Az első 4 szintenként 6 akna hozzáadása, majd minden 3 szintenként 3 akna, később minden 3 szintenként 2 akna, végül szintenként 1 akna, korlát nélkül."
+        },
+        {
+          "heading": "Győzelem és vereség",
+          "list": [
+            [
+              "Győzelem",
+              "Fedd fel az összes aknamentes mezőt, vagy jelöld meg helyesen az összes aknát"
+            ],
+            [
+              "Vereség",
+              "Ha rákattintasz egy aknára, a játék azonnal véget ér"
+            ]
+          ],
+          "tipBox": "💡 Az első kattintás 100%-ban biztonságos! A DMine garantálja, hogy az első kattintásod soha nem lesz aknán, kezdj nyugodtan játszani."
+        },
+        {
+          "heading": "Visszajátszás és megosztás",
+          "paragraphs": [
+            "A teljesített szintek rekordjai automatikusan mentésre kerülnek a felhőbe. Más játékosok megtekinthetik a teljes játékmenet visszajátszását. A visszajátszás csak megtekinthető, nem módosítható és nem lehet benne részt venni."
+          ]
+        },
+        {
+          "heading": "Ranglista",
+          "paragraphs": [
+            "A DMine felhőbeli ranglistával rendelkezik, amely a teljesített szintek szerint van rendezve. Minél több szintet teljesítesz, annál jobb a helyezésed, és versenyezhetsz a világ minden tájáról érkező játékosokkal."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Játssz most"
+    },
+    "tips": {
+      "pageTitle": "Haladó aknakereső tippek – Kezdőtől profi szintig | DMine Legjobb Aknakereső",
+      "metaDescription": "Profi stratégiák az aknakeresőhöz! 1-2-1 minta, 1-2-2-1 minta, dupla kattintásos technika, valószínűség elemzés… Sajátítsd el ezeket a tippeket, és növeld a játéksebességet és a nyerési arányt!",
+      "metaKeywords": "aknakereső tippek, haladó aknakereső tippek, aknakereső minták, aknakereső stratégiák, 1-2-1 aknakereső, aknakereső valószínűség, aknakereső profi",
+      "headerTitle": "🎯 Haladó aknakereső tippek",
+      "headerSubtitle": "Kezdőtől mester szintig, válj aknakereső szakértővé",
+      "headerSub2": "Sajátítsd el ezeket a mintákat és stratégiákat, és duplázd meg a nyerési arányodat és a játéksebességedet",
+      "sections": [
+        {
+          "heading": "1. Alap minták",
+          "difficulty": "Kezdő",
+          "items": [
+            {
+              "title": "1-2-1 minta",
+              "paragraphs": [
+                "Ez a leggyakoribb és legfontosabb minta az aknakeresőben. Ha egy egyenes vonalban látod az 1-2-1 számsort, biztosan következtethetsz:"
+              ],
+              "list": [
+                [
+                  "Mindkét 1-es felett egy-egy akna található",
+                  "Jelöld meg zászlóval"
+                ],
+                [
+                  "A 2-es feletti mező teljesen biztonságos",
+                  "Nyisd fel nyugodtan"
+                ]
+              ],
+              "tipBox": "💡 Ez a minta 100%-ban biztos – nincs szükség találgatásra, logikusan teljesen következtethető."
+            },
+            {
+              "title": "1-2-2-1 minta",
+              "paragraphs": [
+                "Az 1-2-2-1 sor szintén klasszikus minta:"
+              ],
+              "list": [
+                [
+                  "A két 2-es között felett egy-egy akna található",
+                  ""
+                ],
+                [
+                  "Mindkét 1-es felett biztonságos mező van",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Szélső minta",
+              "paragraphs": [
+                "Ha egy szám a tábla szélén helyezkedik el, a logikus következtetés könnyebb lesz, mivel az egyik oldalt nem kell számolni."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Középszintű technikák",
+          "difficulty": "Középhaladó",
+          "items": [
+            {
+              "title": "Dupla kattintásos technika (Chord)",
+              "paragraphs": [
+                "Ez a legfontosabb technika a sebesség növeléséhez. Ha a szám körül lévő zászlók száma megegyezik a szám értékével, az egér görgőjével vagy egyidejű bal és jobb kattintással az összes környező jelöletlen mező automatikusan megnyílik.",
+                "Példa: Ha a 3-as szám körül 3 zászló van, a dupla kattintás automatikusan felfedi a maradék 5 mezőt."
+              ],
+              "tipBox": "⚡ Profi titok: Szinte minden haladó játékos használja a dupla kattintást. Jelöld a zászlókat és használd a gyors felfedést, hogy többszörösen felgyorsítsd a játékot."
+            },
+            {
+              "title": "Kivonásos logika",
+              "paragraphs": [
+                "Ha a szám körül már vannak jelölt zászlók, vond le a számukat, hogy megtudd, hány akna marad a fennmaradó mezőkben. Például ha a 3-as körül 1 zászló van jelölve, akkor a többi mezőben még 2 akna található."
+              ]
+            },
+            {
+              "title": "Több szám együttes következtetése",
+              "paragraphs": [
+                "Ne vizsgáld a számokat elszigetelten, kapcsold össze a szomszédos számokat a logikus következtetéshez. Két szomszédos szám megoszt néhány mezőt, használd kapcsolatukat a több információ megszerzésére."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Haladó technikák",
+          "difficulty": "Profi",
+          "items": [
+            {
+              "title": "Valószínűség elemzés",
+              "paragraphs": [
+                "Ha egy területet nem lehet logikával megoldani (találgatásra van szükség), válaszd azt a mezőt, amelynek a legkisebb a valószínűsége, hogy aknát tartalmaz:"
+              ],
+              "list": [
+                [
+                  "Először válaszd a már felfedett területek közelében lévő mezőket",
+                  "Több rendelkezésre álló információ"
+                ],
+                [
+                  "Kerüld el az elszigetelt területek mezőit",
+                  "Magasabb bizonytalansági valószínűség"
+                ],
+                [
+                  "Bonyolult helyzetekben számold ki a fennmaradó aknák és mezők arányát",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ A találgatást nem lehet teljesen elkerülni az aknakeresőben, de valószínűség elemzéssel 90% fölé emelheted a nyerési arányodat."
+            },
+            {
+              "title": "Mintafelismerés",
+              "paragraphs": [
+                "A profi játékosok nem számolnak mezőről mezőre, hanem egész mintablokkokat ismernek fel, mint a szöveg olvasása. Gyakorlással azonnal felismered a számkombinációkat, és tudni fogod, hol vannak aknák és hol biztonságos mezők."
+              ]
+            },
+            {
+              "title": "Egérkezelési tippek",
+              "list": [
+                [
+                  "Két kéz összehangolása",
+                  "Bal kéz: zászló jelölése (jobb kattintás), jobb kéz: mező felfedése (bal kattintás), egyértelmű feladatmegosztás"
+                ],
+                [
+                  "Csökkentsd az egér mozgását",
+                  "Használj dupla kattintást az egyszeri kattintás helyett, kevesebb kattintás és rövidebb egérút"
+                ],
+                [
+                  "Játékritmus",
+                  "Találd meg a saját ritmusodat, ne játssz se túl gyorsan, se túl lassan"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Gyakorlati stratégiák",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Kezdő stratégia",
+              "paragraphs": [
+                "A DMine garantálja, hogy az első kattintás biztonságos. A játék elején először fedd fel nagy üres területeket, hogy több nyomot szerezz a későbbi logikus következtetéshez."
+              ]
+            },
+            {
+              "title": "Prioritási szabály",
+              "paragraphs": [
+                "Oldd meg a táblát a következő sorrendben:"
+              ],
+              "orderedList": [
+                "Először oldd meg az összes biztos mintát (1-2-1, 1-2-2-1 stb.)",
+                "Használj gyors felfedési technikát",
+                "Egyenként oldd meg a tábla szélén lévő számokat",
+                "Végül hagyd a találgatást igénylő területeket"
+              ]
+            },
+            {
+              "title": "Találgatási stratégia",
+              "paragraphs": [
+                "Ha muszáj találgatni:"
+              ],
+              "list": [
+                [
+                  "Először találgass a szélső mezőket",
+                  "Általában kevesebb információs kapcsolatuk van, alacsonyabb kockázat"
+                ],
+                [
+                  "Számold meg a fennmaradó aknákat",
+                  "Tudd meg, hány akna nincs még jelölve a jobb döntéshez"
+                ],
+                [
+                  "Hagyd a találgatást a végére",
+                  "Ha van időd, először oldd meg a többi területet, hogy tisztább legyen a tábla"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Készségfejlesztő gyakorlat",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Mintareakció gyakorlása",
+                  "Reagálj automatikusan a számkombinációkra, hogy izommemóriát alakíts ki"
+                ],
+                [
+                  "Csökkentsd a habozást",
+                  "A biztos döntéseket hozd meg 0,5 másodpercen belül"
+                ],
+                [
+                  "Elemzd a vereségeket",
+                  "Vereség után gondold át, mit csinálhattál volna jobban"
+                ],
+                [
+                  "Használj DMine ranglistát",
+                  "Nézd meg a profik rekordjait, állíts be kis célt és kihívd magad"
+                ],
+                [
+                  "Próbáld ki zászló nélküli játékot",
+                  "Próbáld meg befejezni a játékot egyetlen zászló jelölése nélkül"
+                ]
+              ],
+              "tipBox": "🎯 Szint referencia: Átlagos játékos 10 szint alatt, tapasztalt 20 szint alatt, profi 30 szint felett, elit játékos 30 szint felett tud játszani zászló nélkül."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Gyakorolj most"
+    }
+  }
+}

@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "gl",
+    "langAttr": "gl",
+    "ogLocale": "gl_ES",
+    "siteName": "DMine - Mellor Buscaminas",
+    "canonicalPrefix": "gl/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Inicio",
+    "rules": "Regras",
+    "tips": "Consellos",
+    "about": "Sobre nós",
+    "download": "Descargar"
+  },
+  "footer": {
+    "copyright": "© 2026 Equipo DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Sobre DMine - Top Buscaminas | Xogo Buscaminas multiplataforma",
+      "metaDescription": "DMine (Top Buscaminas) é un xogo de buscaminas multiplataforma compatible con Windows, macOS, Linux, Android, iOS, HarmonyOS e Web. Gratuito e de código aberto, con soporte para 66 idiomas, xoga en liña cando queiras!",
+      "metaKeywords": "xogo buscaminas, DMine, top buscaminas, buscaminas multiplataforma, buscaminas gratuíto, buscaminas código aberto",
+      "headerTitle": "💣 DMine - Top Buscaminas",
+      "headerSubtitle": "Un clásico buscaminas multiplataforma, xoga en calquera momento e lugar",
+      "sections": [
+        {
+          "heading": "Que é DMine?",
+          "paragraphs": [
+            "DMine (Top Buscaminas) é un xogo de buscaminas multiplataforma desenvolvido co framework Flutter. Mantén a mecánica clásica do buscaminas e incorpora un deseño de interface moderno e funcións avanzadas para ofrecer unha experiencia totalmente nova.",
+            "Tanto se es un xogador experimentado en Windows como se xogas no móbil nos desprazamentos diarios, DMine se adapta perfectamente ás túas necesidades."
+          ]
+        },
+        {
+          "heading": "Plataformas compatibles",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Os datos sincronízanse en todas as plataformas; xoga nun dispositivo e continúa a partida en calquera outro."
+          ]
+        },
+        {
+          "heading": "Características principais",
+          "list": [
+            [
+              "Soporte multilingüe",
+              "Compatible con 66 idiomas, xoga sen barreiras con xogadores de todo o mundo"
+            ],
+            [
+              "Compartir partidas",
+              "As túas partidas gárdanse automaticamente na nube e outros xogadores poden reproducilas"
+            ],
+            [
+              "Ranking na nube",
+              "Compite con xogadores globais polo maior número de niveis superados"
+            ],
+            [
+              "Dous modos de xogo",
+              "Modo principiante e modo desafío normal"
+            ],
+            [
+              "Totalmente gratuíto",
+              "Sen publicidade nin compras dentro da app, experiencia de xogo limpa"
+            ]
+          ]
+        },
+        {
+          "heading": "Modos de xogo",
+          "paragraphs": [
+            "Regras do xogo: Taboleiro fixo de 16×30 (480 casillas). Gaña descubrindo todas as casillas seguras evitando as minas."
+          ],
+          "list": [
+            [
+              "Modo Principiante",
+              "Comeza con 15 minas, engade 6 minas cada nivel, ata un máximo de 99 minas no nivel 15"
+            ],
+            [
+              "Desafío Normal",
+              "Comeza con 81 minas, engade 6 minas nos primeiros 4 niveis, despois 3 minas cada 3 niveis, logo 2 minas cada 3 niveis e finalmente 1 mina por nivel sen límite superior"
+            ]
+          ]
+        },
+        {
+          "heading": "Información da versión",
+          "paragraphs": [
+            "Versión actual: {{VERSION}}",
+            "Tecnoloxías: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine é un proxecto de código aberto. Síguenos e contribúe no GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Xogar agora"
+    },
+    "rules": {
+      "pageTitle": "Explicación das regras do Buscaminas - Guía para principiantes | DMine Top Buscaminas",
+      "metaDescription": "Como xogar ao buscaminas? Esta guía explica as regras básicas, o significado dos números, os controis e as condicións de vitoria. Imprescindible para novos xogadores!",
+      "metaKeywords": "regras buscaminas, como xogar buscaminas, tutorial buscaminas, buscaminas para principiantes, regras básicas buscaminas",
+      "headerTitle": "💣 Explicación detallada das regras do Buscaminas",
+      "headerSubtitle": "Aprende a xogar desde cero, guía esencial para principiantes",
+      "sections": [
+        {
+          "heading": "Obxectivo do xogo",
+          "paragraphs": [
+            "O obxectivo do buscaminas é sinxelo: descubre todas as casillas seguras sen pisar ningunha mina. Se pisas unha mina, remata a partida. Se descubres todas as casillas sen minas, gañas!"
+          ]
+        },
+        {
+          "heading": "Controis básicos",
+          "table": {
+            "headers": [
+              "Acción",
+              "Rato",
+              "Pantalla táctil",
+              "Descrición"
+            ],
+            "rows": [
+              [
+                "Descubrir casilla",
+                "Clic esquerdo",
+                "Tocar unha vez",
+                "Abre a casilla seleccionada"
+              ],
+              [
+                "Marcar bandeira",
+                "Clic dereito",
+                "Mantener presionado",
+                "Marca un lugar onde cres que hai unha mina (⚑)"
+              ],
+              [
+                "Marcar interrogante",
+                "Clic dereito de novo",
+                "Mantener presionado de novo",
+                "Marca con ? cando non esteas seguro"
+              ],
+              [
+                "Apertura rápida (Chord)",
+                "Clic esquerdo nun número descuberto",
+                "—",
+                "Cando o número de bandeiras coincida co valor da cifra, abre automaticamente todas as casillas adxacentes non marcadas"
+              ]
+            ]
+          },
+          "tipBox": "💡 Consello: A apertura rápida (Chord) é moi eficaz! Cando o número de bandeiras arredor dunha cifra sexa igual ao seu valor, clica para abrir todas as casillas veciñas automaticamente."
+        },
+        {
+          "heading": "Significado dos números",
+          "paragraphs": [
+            "Ao descubrir unha casilla aparecerá un número entre 1 e 8, que indica cantas minas hai nas 8 casillas veciñas.",
+            "Exemplo nunha zona 3×3: o número 1 no centro significa que hai 1 mina nas 8 casillas ao seu redor."
+          ],
+          "list": [
+            "1 — Hai 1 mina nas 8 casillas veciñas",
+            "2 — Hai 2 minas nas 8 casillas veciñas",
+            "3 — Hai 3 minas nas 8 casillas veciñas",
+            "E así sucesivamente ata o número 8"
+          ],
+          "tipBox": "💡 Se atopas unha casilla baleira sen número, non hai minas nas súas veciñas e o xogo abrirá a zona automaticamente — este é o mecanismo de expansión en cadea do buscaminas."
+        },
+        {
+          "heading": "Modos de xogo",
+          "paragraphs": [
+            "Taboleiro fixo: 16 × 30 (480 casillas)"
+          ],
+          "table": {
+            "headers": [
+              "Modo",
+              "Minas iniciais",
+              "Regra de aumento",
+              "Descrición"
+            ],
+            "rows": [
+              [
+                "Principiante",
+                "15 minas",
+                "+6 minas por nivel",
+                "Máximo 99 minas no nivel 15"
+              ],
+              [
+                "Desafío Normal",
+                "81 minas",
+                "Ver abaixo",
+                "Cantidade de minas crecente sen límite"
+              ]
+            ]
+          },
+          "extraParagraph": "Regra de aumento do Desafío Normal: Engade 6 minas nos primeiros 4 niveis, despois 3 minas cada 3 niveis, logo 2 minas cada 3 niveis e finalmente 1 mina por nivel sen límite superior."
+        },
+        {
+          "heading": "Vitoria e derrota",
+          "list": [
+            [
+              "Vitoria",
+              "Descubrir todas as casillas sen minas ou marcar correctamente todas as minas"
+            ],
+            [
+              "Derrota",
+              "Pisar unha mina, a partida remata inmediatamente"
+            ]
+          ],
+          "tipBox": "💡 O primeiro clic é 100% seguro! DMine garante que a primeira casilla que abras nunca terá mina, xoga con tranquilidade."
+        },
+        {
+          "heading": "Reproducir e compartir",
+          "paragraphs": [
+            "As partidas superadas gárdanse automaticamente na nube. Outros xogadores poden ver a reprodución completa da túa partida. Só se pode visualizar, non se pode editar nin intervir."
+          ]
+        },
+        {
+          "heading": "Ranking",
+          "paragraphs": [
+            "DMine conta cun ranking na nube ordenado polo número de niveis superados. Canto máis niveis completes, máis alto será o teu posto, competindo con xogadores de todo o mundo."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Xogar agora"
+    },
+    "tips": {
+      "pageTitle": "Consellos avanzados do Buscaminas - De principiante a experto | DMine Top Buscaminas",
+      "metaDescription": "Trucos de expertos no buscaminas! Patróns 1-2-1, 1-2-2-1, técnica de dobre clic, análise de probabilidades... Domina estes consellos para aumentar a túa velocidade e taxa de vitoria!",
+      "metaKeywords": "consellos buscaminas, trucos avanzados buscaminas, patróns buscaminas, estratexias buscaminas, 1-2-1 buscaminas, probabilidade buscaminas, experto buscaminas",
+      "headerTitle": "🎯 Consellos avanzados do Buscaminas",
+      "headerSubtitle": "De principiante a mestre, convértete nun experto do buscaminas",
+      "headerSub2": "Domina estes patróns e estratexias para duplicar a túa taxa de vitoria e velocidade",
+      "sections": [
+        {
+          "heading": "1. Patróns básicos",
+          "difficulty": "Principiante",
+          "items": [
+            {
+              "title": "Patrón 1-2-1",
+              "paragraphs": [
+                "É o patrón máis común e importante do buscaminas. Cando vexas a secuencia 1-2-1 en liña recta podes afirmar con total seguridade:"
+              ],
+              "list": [
+                [
+                  "Arriba de cada 1 hai unha mina",
+                  "Marca con bandeira"
+                ],
+                [
+                  "A casilla arriba do 2 é totalmente segura",
+                  "Podes descubrila sen dúbida"
+                ]
+              ],
+              "tipBox": "💡 Este patrón é 100% fiable — non fai falta adiviñar, pódese deducir loxicamente."
+            },
+            {
+              "title": "Patrón 1-2-2-1",
+              "paragraphs": [
+                "A secuencia 1-2-2-1 tamén é un patrón clásico:"
+              ],
+              "list": [
+                [
+                  "Arriba entre os dous 2 hai unha mina cada un",
+                  ""
+                ],
+                [
+                  "Arriba de cada 1 hai unha casilla segura",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Patrón de bordo",
+              "paragraphs": [
+                "Cando un número está no borde do taboleiro, a deducción é máis sinxela, xa que non hai que contar por un dos lados."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Técnicas intermedias",
+          "difficulty": "Intermedio",
+          "items": [
+            {
+              "title": "Dobre clic (Chord)",
+              "paragraphs": [
+                "É a técnica clave para gañar velocidade. Cando o número de bandeiras arredor dunha cifra coincida co seu valor, usa a roda do rato ou clica esquerdo e dereito á vez para abrir automaticamente todas as casillas non marcadas.",
+                "Exemplo: Se hai 3 bandeiras arredor dun 3, fai dobre clic e as 5 casillas restantes ábrense soas."
+              ],
+              "tipBox": "⚡ Segredo dos expertos: case todos os xogadores avanzados usan o dobre clic. Marca bandeiras e usa a apertura rápida ao mesmo tempo para multiplicar a túa velocidade."
+            },
+            {
+              "title": "Deducción por resta",
+              "paragraphs": [
+                "Cando xa tes algunhas bandeiras marcadas arredor dun número, resta esa cantidade para saber cantas minas quedan nas casillas veciñas. Por exemplo, se hai 1 bandeira nun 3, quedan 2 minas por localizar."
+              ]
+            },
+            {
+              "title": "Deducción combinada de números",
+              "paragraphs": [
+                "Non analices os números de forma illada, combina os números adxacentes para deducir máis información. Dous números veciños comparten casillas, usa a intersección e complemento para descubrir segredos."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Técnicas avanzadas",
+          "difficulty": "Experto",
+          "items": [
+            {
+              "title": "Análise de probabilidades",
+              "paragraphs": [
+                "Cando non se pode resolver unha zona con lóxica (momento de adiviñar), elixe a casilla con menor probabilidade de ter mina:"
+              ],
+              "list": [
+                [
+                  "Prefire casillas próximas a zonas xa descubertas",
+                  "Máis información dispoñible"
+                ],
+                [
+                  "Evita zonas illadas",
+                  "Maior incerteza de probabilidade"
+                ],
+                [
+                  "En casos complexos, calcula a proporción entre minas e casillas restantes",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Non se pode evitar totalmente a adiviñación no buscaminas, pero coa análise de probabilidades podes subir a taxa de vitoria por encima do 90%."
+            },
+            {
+              "title": "Recoñecemento de patróns",
+              "paragraphs": [
+                "Os expertos non contan casilla por casilla, senón que recoñecen bloques de patróns como se leran texto. Con práctica, reaccionarás instantaneamente ao ver combinacións de números para saber onde están as minas e as casillas seguras."
+              ]
+            },
+            {
+              "title": "Trucos de control do rato",
+              "list": [
+                [
+                  "Coordinación das dúas mans",
+                  "Máo esquerda: marcar bandeiras (clic dereito), máo dereita: descubrir casillas (clic esquerdo), reparto de tarefas claro"
+                ],
+                [
+                  "Reducir movementos do rato",
+                  "Usa o dobre clic en lugar de clics individuais, menos movemento e menos clics"
+                ],
+                [
+                  "Ritmo de xogo",
+                  "Atopa o teu propio ritmo, non xoges demasiado rápido nin demasiado lento"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Estratexias prácticas",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Estratexia de inicio",
+              "paragraphs": [
+                "DMine garante que o primeiro clic sexa seguro. Ao comezar a partida abre primeiro grandes zonas baleiras para obter máis pistas para as deduccións posteriores."
+              ]
+            },
+            {
+              "title": "Orde de prioridade",
+              "paragraphs": [
+                "Procesa o taboleiro nesta orde:"
+              ],
+              "orderedList": [
+                "Resolve primeiro todos os patróns seguros (1-2-1, 1-2-2-1 etc.)",
+                "Usa a apertura rápida",
+                "Analiza un a un os números do borde",
+                "Deixa para o final as zonas que requiren adiviñación"
+              ]
+            },
+            {
+              "title": "Estratexia de adiviñación",
+              "paragraphs": [
+                "Cando teñas que adiviñar:"
+              ],
+              "list": [
+                [
+                  "Prefire casillas do borde",
+                  "Normalmente teñen menos relacións de información e menor risco"
+                ],
+                [
+                  "Conta as minas restantes",
+                  "Sabe cantas minas quedan sen marcar para axudar na decisión"
+                ],
+                [
+                  "Deixa a adiviñación para o final",
+                  "Se tes tempo resolve antes outras zonas para deixar o taboleiro máis claro"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Adestramento e mellora de habilidades",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Práctica de reacción a patróns",
+                  "Reacciona automaticamente ao ver combinacións de números para crear memoria muscular"
+                ],
+                [
+                  "Reducir indecisión",
+                  "Toma decisións seguras en menos de 0,5 segundos"
+                ],
+                [
+                  "Análise tras a derrota",
+                  "Reflexiona sobre que poderías facer mellor despois de perder"
+                ],
+                [
+                  "Consulta o ranking DMine",
+                  "Mira os récords dos expertos, marca un obxectivo e supérate a ti mesmo"
+                ],
+                [
+                  "Proba o modo sen bandeiras",
+                  "Intenta completar o xogo sen marcar ningunha bandeira"
+                ]
+              ],
+              "tipBox": "🎯 Referencia de nivel: Xogador normal menos de 10 niveis, experimentado menos de 20 niveis, experto máis de 30 niveis, elite capaz de superar máis de 30 niveis sen bandeiras."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Practicar agora"
+    }
+  }
+}

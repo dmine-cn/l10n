@@ -51,6 +51,7 @@ const Map<String, String> stringsPs = {
   'language': 'ژبه',
   // Home page
   'newbie': 'نووکارانو لپاره لاسرسي',
+  'gameIntro': 'د لوبې پیژندنه',
   'newBattle': 'نوې جګړه لاره',
   'continueChallenge': 'ننوتنې ته دوام ورکړئ',
   'error': 'خطا',

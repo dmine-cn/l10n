@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "ga",
+    "langAttr": "ga",
+    "ogLocale": "ga_IE",
+    "siteName": "DMine - Barr Mianach",
+    "canonicalPrefix": "ga/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Baile",
+    "rules": "Rialacha",
+    "tips": "Leideanna",
+    "about": "Fúinn",
+    "download": "Íoslódáil"
+  },
+  "footer": {
+    "copyright": "© 2026 Foireann DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Fúinn faoi DMine - Barr Mianach | Cluiche mianachraíochta ilardáin",
+      "metaDescription": "Is cluiche mianachraíochta ilardáin é DMine (Barr Mianach) a thacaíonn le Windows, macOS, Linux, Android, iOS, HarmonyOS agus an Gréasán. Saor in aisce agus foinse oscailte, tacaíocht do 66 teanga, imir ar líne am ar bith!",
+      "metaKeywords": "cluiche mianachraíochta, DMine, barr mianachraíochta, mianachraíochta ilardáin, mianachraíochta saor, mianachraíochta foinse oscailte",
+      "headerTitle": "💣 DMine - Barr Mianach",
+      "headerSubtitle": "Cluiche mianachraíochta clasaiceach ilardáin – imir am ar bith, áit ar bith",
+      "sections": [
+        {
+          "heading": "Cad é DMine?",
+          "paragraphs": [
+            "Is cluiche mianachraíochta ilardáin é DMine (Barr Mianach) forbartha le creat Flutter. Coinníonn sé croí-imirt an mhianachraíochta chasaicigh agus cuireann sé dearadh comhéadan nua-aimseartha agus gnéithe saibhir leis chun taithí nua a thabhairt d’imirtheoirí.",
+            "Cibé acu imirtheoir tiomanta ar Windows nó imirtheoir ócáideach ar fhón póca agus tú ag taisteal, comhlíonann DMine do riachtanais go hiomlán."
+          ]
+        },
+        {
+          "heading": "Ardáin tacaithe",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Gréasán",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Comhshioncronaíonn sonraí ar gach ardán; imir in aon áit amháin agus lean ar aghaidh ar gach gléas."
+          ]
+        },
+        {
+          "heading": "Príomhghnéithe",
+          "list": [
+            [
+              "Tacaíocht ilteangach",
+              "Tacaíocht do 66 teanga, imir gan bhac le himirtheoirí ar fud an domhain"
+            ],
+            [
+              "Comhroinnt cluichí",
+              "Roinntear taifid cluiche go huathoibríoch sa scamall, is féidir le himirtheoirí eile athsheinm a fheiceáil"
+            ],
+            [
+              "Rangú scamall",
+              "Déan comórtas le himirtheoirí domhanda ar líon na leibhéal críochnaithe"
+            ],
+            [
+              "Modhanna cluiche éagsúla",
+              "Dhá mhodh: Tosaitheoir agus Dúshlán Gnáth"
+            ],
+            [
+              "Go hiomlán saor in aisce",
+              "Gan fógraí, gan ceannacháin in-app, taithí cluiche glan"
+            ]
+          ]
+        },
+        {
+          "heading": "Modhanna Cluiche",
+          "paragraphs": [
+            "Rialacha cluiche: Greille sheasta 16×30 (480 cealla). Buann tú trí gach cill shábháilte a nochtadh i measc líon áirithe mianach."
+          ],
+          "list": [
+            [
+              "Modh Tosaitheoir",
+              "Tosaigh le 15 mianach, cuir 6 mianach leis tar éis gach leibhéal, uasmhéid 99 mianach ag leibhéal 15"
+            ],
+            [
+              "Dúshlán Gnáth",
+              "Tosaigh le 81 mianach, cuir 6 mianach leis do na chéad 4 leibhéal, ansin 3 mianach gach 3 leibhéal, ina dhiaidh sin 2 mianach gach 3 leibhéal agus ar deireadh 1 mianach in aghaidh an leibhéil gan teorainn uachtair"
+            ]
+          ]
+        },
+        {
+          "heading": "Eolas ar Leagan",
+          "paragraphs": [
+            "Leagan reatha: {{VERSION}}",
+            "Cnuasach teicneolaíochta: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "Is tionscadal foinse oscailte é DMine. Fáilte romhat sinn a leanúint agus cur leis an gcód ar GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Imir Anois"
+    },
+    "rules": {
+      "pageTitle": "Míniú ar Rialacha an Mhianachraíochta - Treoir do Thosaitheoirí | DMine Barr Mianach",
+      "metaDescription": "Conas an mianachraíocht a imirt? Míníonn an treoir seo na bunrialacha, brí na n-uimhreacha, modh rialaithe agus coinníollacha bua. Treoir riachtanach do thosaitheoirí!",
+      "metaKeywords": "rialacha mianachraíochta, conas mianachraíocht a imirt, teagasc mianachraíochta, mianachraíocht do thosaitheoirí, bunrialacha an mhianachraíochta",
+      "headerTitle": "💣 Míniú Mionsonraithe ar Rialacha an Mhianachraíochta",
+      "headerSubtitle": "Foghlaim an mianachraíocht ón tús – riachtanach do thosaitheoirí",
+      "sections": [
+        {
+          "heading": "Cuspóir an Chluiche",
+          "paragraphs": [
+            "Tá cuspóir an mhianachraíochta simplí: Nocht gach cill shábháilte gan dul i dteagmháil le mianach. Má chliceálann tú ar mhianach, críochnaíonn an cluiche láithreach. Má nochtann tú gach cill gan mhianach, bíonn bua agat!"
+          ]
+        },
+        {
+          "heading": "Bunrialúithe",
+          "table": {
+            "headers": [
+              "Gníomh",
+              "Luch",
+              "Scáileán Tadhaill",
+              "Míniú"
+            ],
+            "rows": [
+              [
+                "Nocht cill",
+                "Cliceáil ar chlé",
+                "Tapáil amháin",
+                "Nocht an chill roghnaithe"
+              ],
+              [
+                "Marcáil le bratach",
+                "Cliceáil ar dheis",
+                "Brú fada",
+                "Marcáil áit a bhfuil amhras ort faoi mhianach (⚑)"
+              ],
+              [
+                "Marcáil le comhartha ceiste",
+                "Cliceáil ar dheis arís",
+                "Brú fada arís",
+                "Marcáil le ? nuair nach bhfuil tú cinnte"
+              ],
+              [
+                "Oscailt Thapa (Chord)",
+                "Cliceáil ar chlé ar chill uimhreach nochtaithe",
+                "—",
+                "Nuair a bhíonn líon bratach timpeall uimhir comhionann lena luach, cliceáil chun gach cill neamh-mharcáilte in aice leis a oscailt go huathoibríoch"
+              ]
+            ]
+          },
+          "tipBox": "💡 Leid: Tá an Oscailt Thapa (Chord) an-éifeachtach! Nuair a bhíonn líon bratach timpeall uimhir comhionann leis an uimhir féin, cliceáil uirthi chun gach cill in aice léi a oscailt go huathoibríoch."
+        },
+        {
+          "heading": "Brí na n-Uimhreacha",
+          "paragraphs": [
+            "Nuair a nochtann tú cill, feictear uimhir idir 1 agus 8 uirthi. Léiríonn sí líon na mianach sna 8 gcealla tadhlacha léi.",
+            "Sampla ar limistéar 3×3: Ciallaíonn an uimhir 1 sa lár go bhfuil aon mhianach amháin sna 8 gcealla timpeall uirthi."
+          ],
+          "list": [
+            "1 — Mianach amháin sna 8 gcealla tadhlacha",
+            "2 — Dhá mhianach sna 8 gcealla tadhlacha",
+            "3 — Trí mhianach sna 8 gcealla tadhlacha",
+            "Agus mar sin ar aghaidh go dtí 8"
+          ],
+          "tipBox": "💡 Ciallaíonn cill fholamh gan uimhir nach bhfuil aon mhianach sna 8 gcealla timpeall uirthi. Osclaíonn an cluiche an limistéar go huathoibríoch – is é seo meicníocht slabhra an mhianachraíochta."
+        },
+        {
+          "heading": "Modhanna Cluiche",
+          "paragraphs": [
+            "Greille sheasta: 16 × 30 (480 cealla)"
+          ],
+          "table": {
+            "headers": [
+              "Modh",
+              "Líon tosaigh mianach",
+              "Rialachán méadaithe",
+              "Míniú"
+            ],
+            "rows": [
+              [
+                "Tosaitheoir",
+                "15 mianach",
+                "+6 mianach tar éis gach leibhéal",
+                "Uasmhéid 99 mianach ag leibhéal 15"
+              ],
+              [
+                "Dúshlán Gnáth",
+                "81 mianach",
+                "Féach thíos",
+                "Líon na mianach ag méadú gan teorainn uachtair"
+              ]
+            ]
+          },
+          "extraParagraph": "Rialachán an Dúshláin Gnátha: Cuir 6 mianach leis do na chéad 4 leibhéal, ansin 3 mianach gach 3 leibhéal, ina dhiaidh sin 2 mianach gach 3 leibhéal agus ar deireadh 1 mianach in aghaidh an leibhéil gan teorainn uachtair."
+        },
+        {
+          "heading": "Bua agus Cloí",
+          "list": [
+            [
+              "Bua",
+              "Nocht gach cill gan mhianach nó marcáil suíomh gach mianach go ceart"
+            ],
+            [
+              "Cloí",
+              "Cliceáil ar mhianach – críochnaíonn an cluiche láithreach"
+            ]
+          ],
+          "tipBox": "💡 Tá an chéad chliceáil 100% sábháilte! Ráthaíonn DMine nach mianach a bheidh sa chéad chill a osclaíonn tú, imir go suaimhneach."
+        },
+        {
+          "heading": "Athsheinm agus Comhroinnt",
+          "paragraphs": [
+            "Roinntear taifid leibhéal críochnaithe go huathoibríoch sa scamall. Is féidir le himirtheoirí eile dul siar ar do chluiche. Níl cead ach féachaint ar athsheinm, ní féidir é a athrú ná páirt a ghlacadh ann."
+          ]
+        },
+        {
+          "heading": "Rangú",
+          "paragraphs": [
+            "Tá rangú scamall ag DMine bunaithe ar líon na leibhéal críochnaithe. Dá mhéad leibhéal a chríochnaíonn tú, is airde do rangú – déan comórtas le himirtheoirí ar fud an domhain."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Imir Anois"
+    },
+    "tips": {
+      "pageTitle": "Leideanna Ardleibhéil an Mhianachraíochta - Ó Thosaitheoir go Saineolaí | DMine Barr Mianach",
+      "metaDescription": "Straitéisí ardleibhéil an mhianachraíochta! Patrúin 1-2-1, 1-2-2-1, teicníocht dúchliceála, anailís dóchúlachta... Máistir na leideanna seo chun do luas agus do ráta bua a dhúbailt!",
+      "metaKeywords": "leideanna mianachraíochta, teicníochtaí ardleibhéil mianachraíochta, patrúin mianachraíochta, straitéis mianachraíochta, 1-2-1 mianachraíochta, dóchúlacht mianachraíochta, saineolaí mianachraíochta",
+      "headerTitle": "🎯 Leideanna Ardleibhéil an Mhianachraíochta",
+      "headerSubtitle": "Ó thosaitheoir go saineolaí – bí i do mháistir ar an mianachraíocht",
+      "headerSub2": "Máistir na patrúin agus na straitéisí seo chun do ráta bua agus do luas cluiche a dhúbailt",
+      "sections": [
+        {
+          "heading": "1. Bunphatrúin",
+          "difficulty": "Tosaitheoir",
+          "items": [
+            {
+              "title": "Patrún 1-2-1",
+              "paragraphs": [
+                "Is é seo an patrún is coitianta agus is tábhachtaí sa mhianachraíocht. Nuair a fheiceann tú seicheamh uimhreacha 1-2-1 i líne dhíreach, is féidir leat a dhearbhú go cinnte:"
+              ],
+              "list": [
+                [
+                  "Mianach amháin os cionn gach 1",
+                  "Marcáil le bratach"
+                ],
+                [
+                  "Tá an chill os cionn an 2 sábháilte go cinnte",
+                  "Is féidir í a nochtadh gan amhras"
+                ]
+              ],
+              "tipBox": "💡 Tá an patrún seo cinnte 100% – ní gá buille faoi thuairim a thabhairt, is féidir é a dhéaduchtú go loighciúil."
+            },
+            {
+              "title": "Patrún 1-2-2-1",
+              "paragraphs": [
+                "Is patrún clasaiceach freisin an seicheamh 1-2-2-1:"
+              ],
+              "list": [
+                [
+                  "Mianach amháin ar gach taobh os cionn an dá 2",
+                  ""
+                ],
+                [
+                  "Cill shábháilte amháin os cionn gach 1",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Patrún Imeall",
+              "paragraphs": [
+                "Nuair a bhíonn uimhir ar imeall na greille, bíonn an déaduchtú níos simplí mar níl taobh amháin le háireamh."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Teicníochtaí Meánleibhéil",
+          "difficulty": "Meánleibhéal",
+          "items": [
+            {
+              "title": "Dúchliceáil (Chord)",
+              "paragraphs": [
+                "Is í seo an teicníocht is tábhachtaí chun luas cluiche a mhéadú. Nuair a bhíonn líon bratach timpeall uimhir comhionann lena luach, úsáid rothán na luiche nó cliceáil ar chlé agus ar dheis ag an am céanna chun gach cill neamh-mharcáilte in aice leis a oscailt go huathoibríoch.",
+                "Sampla: Má tá 3 bratach timpeall uimhir 3, déan dúchliceáil uirthi agus osclóidh na 5 chill eile go huathoibríoch."
+              ],
+              "tipBox": "⚡ Rún na saineolaithe: Úsáideann beagnach gach imirtheoir taithíoch an dúchliceáil. Marcáil bratacha agus úsáid an oscailt thapa ag an am céanna chun do luas a iolrú."
+            },
+            {
+              "title": "Déaduchtú Dealaithe",
+              "paragraphs": [
+                "Nuair atá roinnt bratach curtha cheana féin timpeall uimhir, dealaithe a líon chun líon na mianach atá fágtha sna cealla a fháil amach. Mar shampla, má tá 1 bratach timpeall uimhir 3, tá 2 mhianach eile sna cealla tadhlacha."
+              ]
+            },
+            {
+              "title": "Déaduchtú Iluimhreach",
+              "paragraphs": [
+                "Ná léigh uimhreacha ina n-aonar; ceangail uimhreacha tadhlacha le chéile le haghaidh déaduchtaithe. Roinneann dhá uimhir tadhlacha cealla áirithe, bain úsáid as a dteagmhálacha chun tuilleadh faisnéise a fháil."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Teicníochtaí Ardleibhéil",
+          "difficulty": "Saineolaí",
+          "items": [
+            {
+              "title": "Anailís Dóchúlachta",
+              "paragraphs": [
+                "Nuair nach féidir cás a réiteach go cinnte (am buille faoi thuairim), meas cén chill is lú an baol mianach a bheith inti:"
+              ],
+              "list": [
+                [
+                  "Roghnaigh cealla in aice le limistéir nochtaithe ar dtús",
+                  "Níos mó faisnéise"
+                ],
+                [
+                  "Seachain limistéir iargúlta",
+                  "Éiginnteacht ard"
+                ],
+                [
+                  "I gcásanna casta, ríomh cóimheas na mianach fágtha agus na gceall fágtha",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Ní féidir buille faoi thuairim a sheachaint go hiomlán sa mhianachraíocht, ach is féidir do ráta bua a ardú os cionn 90% leis anailís dóchúlachta."
+            },
+            {
+              "title": "Aithint Patrún",
+              "paragraphs": [
+                "Ní áiríonn saineolaithe na cealla ceann ar cheann; aithníonn siad bloic patrún mar a léann siad téacs. Le cleachtadh, aithneoidh tú láithreach cá bhfuil mianacha agus cá bhfuil cealla sábháilte nuair a fheiceann tú comhcheangal uimhreacha."
+              ]
+            },
+            {
+              "title": "Scil Rialaithe Luiche",
+              "list": [
+                [
+                  "Comhoibriú dhá láimh",
+                  "Láimh chlé: marcáil bratacha (cliceáil ar dheis), láimh dheis: nocht cealla (cliceáil ar chlé), roinnt soiléir oibre"
+                ],
+                [
+                  "Laghdaigh gluaiseacht luiche",
+                  "Úsáid dúchliceáil in ionad cliceanna aonair, laghdaigh líon na gcliceanna agus fad gluaiseachta na luiche"
+                ],
+                [
+                  "Rithim Cluiche",
+                  "Faigh do rithim féin cluiche, ná himir ró-thapa ná ró-mhall"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Straitéisí Praiticiúla",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Straitéis Tús Cluiche",
+              "paragraphs": [
+                "Ráthaíonn DMine sábháilteacht an chéad chliceála. Ag tús an chluiche, noch limistéir fhola mhóra ar dtús chun níos mó leideanna a fháil don déaduchtú ina dhiaidh sin."
+              ]
+            },
+            {
+              "title": "Riachtanas Tosaíochta",
+              "paragraphs": [
+                "Déileáil leis an ngreille san ord seo:"
+              ],
+              "orderedList": [
+                "Réitigh na patrúin chinnte ar dtús (1-2-1, 1-2-2-1 srl.)",
+                "Úsáid an oscailt thapa",
+                "Déileáil le huimhreacha ar na himill ceann ar cheann",
+                "Críochnaigh le limistéir a dteastaíonn buille faoi thuairim uathu"
+              ]
+            },
+            {
+              "title": "Straitéis Buille Faoi Thuairim",
+              "paragraphs": [
+                "Nuair nach mór duit buille faoi thuairim a thabhairt:"
+              ],
+              "list": [
+                [
+                  "Roghnaigh cealla imeall ar dtús",
+                  "Is lú na naisc faisnéise de ghnáth, is lú an baol"
+                ],
+                [
+                  "Áirigh na mianach fágtha",
+                  "Bíodh a fhios agat cé mhéad mianach nár marcáladh fós chun cabhrú le do rogha"
+                ],
+                [
+                  "Fág buille faoi thuairim go deireadh",
+                  "Má tá am agat, réitigh limistéir eile ar dtús chun an ghreille a shoiléiriú"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Cleachtadh agus Forbairt Scileanna",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Cleachtadh freagairt patrún",
+                  "Gníomhaigh láithreach nuair a fheiceann tú comhcheangal uimhreacha chun cuimhne matáin a chruthú"
+                ],
+                [
+                  "Laghdaigh leisce",
+                  "Déan cinntí cinnte laistigh de 0.5 soicind"
+                ],
+                [
+                  "Anailís iar-chluiche",
+                  "Smaoinigh ar cad a d’fhéadfadh a bheith déanta níos fearr tar éis cloí"
+                ],
+                [
+                  "Úsáid rangú DMine",
+                  "Féach taifid na saineolaithe, socraigh sprioc beag agus tabhair dúshlán duit féin"
+                ],
+                [
+                  "Bain triail as gan bratacha",
+                  "Déan iarracht an cluiche a chríochnú gan aon bhratach a chur"
+                ]
+              ],
+              "tipBox": "🎯 Tagairt leibhéil: Imirtheoir gnáth < 10 leibhéal, taithíoch < 20 leibhéal, saineolaí > 30 leibhéal, barr-imirtheoir in ann breis is 30 leibhéal a chríochnú gan bratacha."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Cleachtadh Anois"
+    }
+  }
+}

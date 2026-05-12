@@ -1,0 +1,437 @@
+{
+  "meta": {
+    "locale": "fi",
+    "langAttr": "fi",
+    "ogLocale": "fi_FI",
+    "siteName": "DMine - Huippumiinanraivaaja",
+    "canonicalPrefix": "fi/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Etusivu",
+    "rules": "Säännöt",
+    "tips": "Vinkit",
+    "about": "Tietoa",
+    "download": "Lataa"
+  },
+  "footer": {
+    "copyright": "© 2026 DMine-tiimi"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Tietoa DMinesta - Huippumiinanraivaaja | Monialustainen miinanraivauspeli",
+      "metaDescription": "DMine (Huippumiinanraivaaja) on monialustainen miinanraivauspeli, joka tukee Windowsia, macOS:ää, Linuxia, Androidia, iOS:ää, HarmonyOS:ää ja verkkoa. Ilmainen ja avoin lähdekoodi, tukee 66 kieltä – pelaa verkossa milloin tahansa!",
+      "metaKeywords": "miinanraivauspeli, DMine, huippumiinanraivaaja, monialustainen miinanraivaus, ilmainen miinanraivaus, avoimen lähdekoodin miinanraivaus",
+      "headerTitle": "💣 DMine - Huippumiinanraivaaja",
+      "headerSubtitle": "Monialustainen klassinen miinanraivauspeli – pelaa milloin ja missä tahansa",
+      "sections": [
+        {
+          "heading": "Mikä on DMine?",
+          "paragraphs": [
+            "DMine (Huippumiinanraivaaja) on Flutter-kehyksellä kehitetty monialustainen miinanraivauspeli. Se säilyttää klassisen miinanraivauksen ydinpelimekaniikan ja lisää modernin käyttöliittymän sekä monipuoliset ominaisuudet tarjoten pelaajille täysin uudenlaisen pelikokemuksen.",
+            "Olipa sitten syvällinen Windows-pelaaja tai vapaa-ajan pelaaja matkapuhelimella matkalla, DMine vastaa kaikkiin tarpeisiisi."
+          ]
+        },
+        {
+          "heading": "Tuetut alustat",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Verkko",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Kaikkien alustojen tiedot synkronoituvat keskenään; pelaa yhdessä paikassa ja jatka kaikilla laitteilla."
+          ]
+        },
+        {
+          "heading": "Erityisominaisuudet",
+          "list": [
+            [
+              "Monikielinen tuki",
+              "Tukee 66 kieltä, pelaa esteettömästi maailman pelaajien kanssa"
+            ],
+            [
+              "Pelireittien jakaminen",
+              "Pelisuoritukset jaetaan automaattisesti pilveen, muut pelaajat voivat katsoa pelin uudelleen"
+            ],
+            [
+              "Pilvitulokset",
+              "Kilpaile maailman pelaajien kanssa suoritettujen tasojen määrässä"
+            ],
+            [
+              "Useat pelimoodit",
+              "Kaksi moodia: aloittelija ja normaali haaste"
+            ],
+            [
+              "Täysin ilmainen",
+              "Ei mainoksia, ei sisäisiä ostoksia – puhdas pelikokemus"
+            ]
+          ]
+        },
+        {
+          "heading": "Pelimoodit",
+          "paragraphs": [
+            "Pelinsäännöt: Pelilauta on kiinteä 16×30 (480 ruutua). Voit löytämällä kaikki turvalliset ruudut määritellystä miinojen määrästä."
+          ]
+        },
+        {
+          "heading": "Pelimoodit",
+          "list": [
+            [
+              "Aloittelija",
+              "Aloita 15 miinalla, jokaisen tason jälkeen lisää 6 miinaa, enintään 15. tasolla 99 miinaa"
+            ],
+            [
+              "Normaali haaste",
+              "Aloita 81 miinalla, neljän ensimmäisen tason jälkeen lisää 6 miinaa kerrallaan, sitten joka kolmas taso lisää 3 miinaa, seuraavat kolme tasoa 2 miinaa ja lopuksi jokainen taso yhden miinan ilman ylärajaa"
+            ]
+          ]
+        },
+        {
+          "heading": "Versiotiedot",
+          "paragraphs": [
+            "Nykyinen versio: {{VERSION}}",
+            "Teknologiapino: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine on avoimen lähdekoodin projekti. Seuraa meitä GitHubissa ja osallistu koodin kehittämiseen."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Aloita peli"
+    },
+    "rules": {
+      "pageTitle": "Miinanraivauksen säännöt selitettynä – pakollinen opetus aloittelijoille | DMine Huippumiinanraivaaja",
+      "metaDescription": "Miten miinanraivausta pelataan? Tämä artikkeli selittää perussäännöt, lukujen merkityksen, ohjaustavan ja voittoehdot. Pakollinen opetus aloittelijoille!",
+      "metaKeywords": "miinanraivauksen säännöt, miten pelata miinanraivausta, miinanraivausopetus, miinanraivaus aloittelijoille, klassisen miinanraivauksen säännöt",
+      "headerTitle": "💣 Miinanraivauksen säännöt selitettynä",
+      "headerSubtitle": "Opi miinanraivausta alusta alkaen – aloittelijoille pakollinen",
+      "sections": [
+        {
+          "heading": "Pelin tavoite",
+          "paragraphs": [
+            "Miinanraivauksen tavoite on yksinkertainen: avaa kaikki turvalliset ruudut ilman, että osut miinaan. Jos avaat miinaruudun, peli päättyy heti. Jos avaat kaikki ruudut ilman miinoja, voitat pelin!"
+          ]
+        },
+        {
+          "heading": "Perusohjaus",
+          "table": {
+            "headers": [
+              "Toiminto",
+              "Hiiri",
+              "Kosketusnäyttö",
+              "Selitys"
+            ],
+            "rows": [
+              [
+                "Avaa ruutu",
+                "Vasen klikkaus",
+                "Yksi napautus",
+                "Avaa valittu ruutu"
+              ],
+              [
+                "Merkitse lippu",
+                "Oikea klikkaus",
+                "Pitkä painallus",
+                "Merkitse ruutu, jossa epäilet olevan miina (⚑)"
+              ],
+              [
+                "Kysymysmerkintä",
+                "Uusi oikea klikkaus",
+                "Uusi pitkä painallus",
+                "Merkitse kysymysmerkillä (?) kun et ole varma"
+              ],
+              [
+                "Nopea avaus (Chord)",
+                "Vasen klikkaus avatulle lukuruudulle",
+                "—",
+                "Kun luvun ympärillä on oikea määrä lippuja, klikkaamalla lukua avaat kaikki merkitsemättömät ympäröivät ruudut kerralla"
+              ]
+            ]
+          },
+          "tipBox": "💡 Pieni vinkki: Nopea avaus (Chord) on erittäin tehokas pelitapa! Kun luvun ympärillä on sama määrä lippuja kuin luku itsessään, klikkaa avattua lukua vasemmalla ja kaikki ympäröivät ruudut avautuvat automaattisesti."
+        },
+        {
+          "heading": "Lukujen merkitys",
+          "paragraphs": [
+            "Kun avaat ruudun, siihen ilmestyy luku väliltä 1–8. Luku kertoo kuinka monta miinaa on kahdeksassa ympäröivässä ruudussa.",
+            "Esimerkki 3×3-alueesta: keskellä oleva luku 1 tarkoittaa, että kahdeksassa ympäröivässä ruudussa on yksi miina."
+          ],
+          "list": [
+            "1 – Yksi miina kahdeksassa ympäröivässä ruudussa",
+            "2 – Kaksi miinaa kahdeksassa ympäröivässä ruudussa",
+            "3 – Kolme miinaa kahdeksassa ympäröivässä ruudussa",
+            "jne., suurin luku on 8"
+          ],
+          "tipBox": "💡 Tyhjä ruutu (ilman lukua) tarkoittaa, että ympäröivissä kahdeksassa ruudussa ei ole yhtään miinaa. Peli avaa automaattisesti koko ympäröivän alueen – tämä on miinanraivauksen ketjureaktio."
+        },
+        {
+          "heading": "Pelimoodit",
+          "paragraphs": [
+            "Kiinteä pelilauta: 16 × 30 (480 ruutua)"
+          ],
+          "table": {
+            "headers": [
+              "Moodi",
+              "Alkuperäinen miinoiden määrä",
+              "Kasvusääntö",
+              "Selitys"
+            ],
+            "rows": [
+              [
+                "Aloittelija",
+                "15 miinaa",
+                "+6 miinaa jokaisen tason jälkeen",
+                "Enintään 15. tasolla 99 miinaa"
+              ],
+              [
+                "Normaali haaste",
+                "81 miinaa",
+                "Katso selitys alta",
+                "Miinojen määrä kasvaa jokaisella kierroksella ilman ylärajaa"
+              ]
+            ]
+          },
+          "extraParagraph": "Normaalin haasteen kasvusääntö: Neljän ensimmäisen tason jälkeen lisää 6 miinaa kerrallaan, sitten joka kolmas taso lisää 3 miinaa, seuraavat kolme tasoa 2 miinaa ja lopuksi jokainen taso yhden miinan ilman ylärajaa."
+        },
+        {
+          "heading": "Voitto ja tappio",
+          "list": [
+            [
+              "Voitto",
+              "Avaa kaikki ruudut ilman miinoja tai merkitse kaikki miinapaikat oikein"
+            ],
+            [
+              "Tappio",
+              "Klikkaa miinaruutua – peli päättyy heti"
+            ]
+          ],
+          "tipBox": "💡 Ensimmäinen klikkaus on 100% turvallinen! DMine takaa, että ensimmäinen avattava ruutu ei ole koskaan miina – aloita pelaaminen luottavaisin mielin."
+        },
+        {
+          "heading": "Uudelleenkatseleminen ja jakaminen",
+          "paragraphs": [
+            "Pelaajien tasosuoritukset jaetaan automaattisesti pilveen. Muut pelaajat voivat katsoa pelin kulun uudelleen Pelireitit-osiossa. Uudelleenkatseleminen on vain katselua – sitä ei voi muokata tai osallistua siihen."
+          ]
+        },
+        {
+          "heading": "Tulokset",
+          "paragraphs": [
+            "DMinessä on pilvipohjainen tulosluokitus, joka järjestää pelaajat suoritettujen tasojen perusteella. Mitä enemmän tasoja suoritat, sitä korkeampi sijoitus on kilpailussa maailman pelaajien kanssa."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Aloita peli"
+    },
+    "tips": {
+      "pageTitle": "Miinanraivauksen edistyneet vinkit – aloittelijasta mestariksi | DMine Huippumiinanraivaaja",
+      "metaDescription": "Edistyneet vinkit miinanraivaukseen! 1-2-1 ja 1-2-2-1 mallit, kaksoisklikkaustekniikka, todennäköisyysanalyysi… hallitse nämä taidot ja kaksinkertaista nopeutesi ja voittojen määrä!",
+      "metaKeywords": "miinanraivausvinkit, edistyneet miinanraivaustekniikat, miinanraivausmallit, miinanraivausstrategia, miinanraivaus 1-2-1, todennäköisyys miinanraivaus, miinanraivausmestari",
+      "headerTitle": "🎯 Miinanraivauksen edistyneet vinkit",
+      "headerSubtitle": "Aloittelijasta mestariksi – tule miinanraivausammattilaiseksi",
+      "headerSub2": "Hallitse nämä mallit ja strategiat ja kaksinkertaista voittojen määrä ja pelinopeus",
+      "sections": [
+        {
+          "heading": "1. Perusmallit",
+          "difficulty": "Aloittelija",
+          "items": [
+            {
+              "title": "1-2-1 malli",
+              "paragraphs": [
+                "Tämä on miinanraivauksen yleisin ja tärkein perusmalli. Kun näet suorassa linjassa lukujen järjestyksen 1-2-1, voit päätellä varmasti:"
+              ],
+              "list": [
+                [
+                  "Kummankin luvun 1 yläpuolella on yksi miina",
+                  "Merkitse lipulla"
+                ],
+                [
+                  "Luvun 2 yläpuolella on ehdottomasti turvallinen ruutu",
+                  "Voit avata sen luottavaisesti"
+                ]
+              ],
+              "tipBox": "💡 Tämä malli on täysin varma – ei tarvitse arvata, päättele loogisesti 100% varmuudella."
+            },
+            {
+              "title": "1-2-2-1 malli",
+              "paragraphs": [
+                "Järjestys 1-2-2-1 on myös klassinen malli:"
+              ],
+              "list": [
+                [
+                  "Kahden luvun 2 välissä yläpuolella on yksi miina kummallakin puolella",
+                  ""
+                ],
+                [
+                  "Kummankin luvun 1 yläpuolella on yksi turvallinen ruutu",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Reunamalli",
+              "paragraphs": [
+                "Kun luku sijaitsee pelilaudan reunassa, päättely on helpompaa, koska yksi sivu ei tarvitse laskea mukaan."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Keskitason tekniikat",
+          "difficulty": "Edistynyt",
+          "items": [
+            {
+              "title": "Kaksoisklikkaus (Chord)",
+              "paragraphs": [
+                "Tämä on tärkein tekniikka pelinopeuden parantamiseen. Kun luvun ympärillä on sama määrä lippuja kuin luku itsessään, käytä hiiren keskipainiketta tai klikkaa vasenta ja oikeaa painiketta samanaikaisesti – kaikki merkitsemättömät ympäröivät ruudut avautuvat automaattisesti.",
+                "Esimerkki: Jos luvun 3 ympärillä on kolme lippua, kaksoisklikkaa lukua ja loput viisi ruutua avautuvat itsestään."
+              ],
+              "tipBox": "⚡ Ammattilaisten salaisuus: Lähes kaikki edistyneet pelaajat käyttävät kaksoisklikkausta. Merkitse lippuja ja käytä kaksoisklikkausta samanaikaisesti – nopeus moninkertaistuu."
+            },
+            {
+              "title": "Vähennyspäättely",
+              "paragraphs": [
+                "Kun luvun ympärillä on jo merkitty joitain lippuja, vähennä lippujen määrä luvusta ja saat selville jäljellä olevien ruutujen miinoiden määrän. Esimerkiksi jos luvun 3 ympärillä on yksi lippu, jäljellä olevissa ruuduissa on kaksi miinaa."
+              ]
+            },
+            {
+              "title": "Useiden lukujen yhdistetty päättely",
+              "paragraphs": [
+                "Älä tarkastele lukuja erikseen, yhdistä vierekkäiset luvut päättelyyn. Kahdella vierekkäisellä luvulla on yhteisiä ruutuja. Käytä leikkaus- ja täydennyssuhteita ja saat lisää tietoa päätelmiin."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Edistyneet tekniikat",
+          "difficulty": "Mestari",
+          "items": [
+            {
+              "title": "Todennäköisyysanalyysi",
+              "paragraphs": [
+                "Kun tilannetta ei voi päätellä varmasti (arvausvaihe), arvioi mikä ruutu on vähiten todennäköinen miinan paikka:"
+              ],
+              "list": [
+                [
+                  "Valitse ensisijaisesti avatun alueen lähellä olevat ruudut",
+                  "Enemmän tietoa"
+                ],
+                [
+                  "Vältä eristyneiden alueiden ruutuja",
+                  "Suuri epävarmuus"
+                ],
+                [
+                  "Monimutkaisissa tapauksissa laske jäljellä olevien miinojen ja ruutujen suhde",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Arvaamista ei voi välttää kokonaan miinanraivauksessa, mutta todennäköisyysanalyysillä voit nostaa voittojen määrän yli 90%."
+            },
+            {
+              "title": "Mallien tunnistus",
+              "paragraphs": [
+                "Mestarit eivät laske ruutuja yksitellen, vaan tunnistavat kokonaisia malleja kuten lukemista tekstiä. Kun harjoittelet tarpeeksi, tunnistat heti lukuyhdistelmistä missä on miinoja ja missä turvallisia ruutuja."
+              ]
+            },
+            {
+              "title": "Hiiren ohjaustekniikat",
+              "list": [
+                [
+                  "Sujuva kahden käden yhteistyö",
+                  "Vasen käsi merkitsee lippuja (oikea klikkaus), oikea käsi avaa ruutuja (vasen klikkaus) – selkeä työnjako"
+                ],
+                [
+                  "Vähennä hiiren liikettä",
+                  "Käytä kaksoisklikkausta yksittäisten klikkausten sijaan, vähennä klikkausten määrää ja hiiren liikkumismatkaa"
+                ],
+                [
+                  "Pelirytmi",
+                  "Löydä oma pelirytmi, älä pelaa liian nopeasti tai hitaasti"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Käytännön strategiat",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Aloitusstrategia",
+              "paragraphs": [
+                "DMine takaa ensimmäisen klikkauksen turvallisuuden. Aloituksessa avaa ensisijaisesti suuria tyhjiä alueita saadaksesi lisää vihjeitä myöhempään päättelyyn."
+              ]
+            },
+            {
+              "title": "Ensisijaisuussääntö",
+              "paragraphs": [
+                "Käsittele pelilauta seuraavassa järjestyksessä:"
+              ],
+              "orderedList": [
+                "Käsittele ensin kaikki varmat mallit (1-2-1, 1-2-2-1 jne.)",
+                "Käytä nopeaa avausta",
+                "Käsittele reunojen luvut yksi kerrallaan",
+                "Lopuksi käsittele alueet, jotka vaativat arvailua"
+              ]
+            },
+            {
+              "title": "Miina-arvausstrategia",
+              "paragraphs": [
+                "Kun joudut arvamaan:"
+              ],
+              "list": [
+                [
+                  "Arvaa ensisijaisesti reunaruutuja",
+                  "Reunaruuduilla on yleensä vähemmän tietoyhteyksiä ja pienempi riski"
+                ],
+                [
+                  "Laske jäljellä olevat miinat",
+                  "Tiedä kuinka monta miinaa on vielä merkitsemättä päätöksenteon avuksi"
+                ],
+                [
+                  "Jätä arvaus loppuun",
+                  "Jos aikaa on, ratkaise ensin muut alueet ja selvennä pelilautaa"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Taitojen kehittäminen",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Harjoittele mallireaktiota",
+                  "Toimi heti nähdessäsi lukuyhdistelmiä ja kehitä lihasmuisti"
+                ],
+                [
+                  "Vähennä epäröintiä",
+                  "Tee varmat päätökset alle 0,5 sekunnissa"
+                ],
+                [
+                  "Jälkianalyysi",
+                  "Mieti tappion jälkeen, mitä olisi voinut tehdä paremmin"
+                ],
+                [
+                  "Käytä DMinen tuloksia",
+                  "Katso mestareiden ennätyksiä, aseta pieni tavoite ja haasta itsesi"
+                ],
+                [
+                  "Kokeile pelaamista ilman lippuja",
+                  "Yritä suorittaa peli ilman lippujen merkitsemistä"
+                ]
+              ],
+              "tipBox": "🎯 Tavoitearvio: Tavallinen pelaaja alle 10 tasoa, taitava pelaaja alle 20 tasoa, mestari yli 30 tasoa, huippupelaaja pystyy suorittamaan yli 30 tasoa myös ilman lippuja."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Aloita harjoittelu"
+    }
+  }
+}

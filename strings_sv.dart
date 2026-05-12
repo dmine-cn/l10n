@@ -51,6 +51,7 @@ const Map<String, String> stringsSv = {
   'language': 'Språk',
   // Home page
   'newbie': 'Nybörjare',
+  'gameIntro': 'Spelintroduktion',
   'newBattle': 'Ny Framfront',
   'continueChallenge': 'Fortsätt utmaningen',
   'error': 'Fel',

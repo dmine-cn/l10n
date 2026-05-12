@@ -51,6 +51,7 @@ const Map<String, String> stringsRo = {
   'language': 'Limbă',
   // Home page
   'newbie': 'Începător',
+  'gameIntro': 'Prezentarea jocului',
   'newBattle': 'Front nou',
   'continueChallenge': 'Continuă provocarea',
   'error': 'Eroare',

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="{{LANG_ATTR}}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{PAGES.rules.pageTitle}}</title>
+  <meta name="description" content="{{PAGES.rules.metaDescription}}">
+  <meta name="keywords" content="{{PAGES.rules.metaKeywords}}">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.dmine.cn/{{PREFIX}}rules.html">
+  <link rel="sitemap" type="application/xml" href="/sitemap.xml">
+  <link rel="icon" type="image/png" href="/favicon.png">
+  <link rel="stylesheet" href="/css/rules.css">
+
+  <!-- hreflang -->
+  {{HREFLANG_RULES}}
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://www.dmine.cn/{{PREFIX}}rules.html">
+  <meta property="og:title" content="{{PAGES.rules.pageTitle}}">
+  <meta property="og:description" content="{{PAGES.rules.metaDescription}}">
+  <meta property="og:image" content="https://www.dmine.cn/icons/Icon-512.png">
+  <meta property="og:locale" content="{{OG_LOCALE}}">
+  <meta property="og:site_name" content="{{META.siteName}}">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="navbar-inner">
+      <a href="/index.html?lang={{LANG_CODE}}" class="navbar-logo"><img src="/icons/Icon-32.png" alt="DMine"></a>
+      <a href="/index.html?lang={{LANG_CODE}}">{{NAV.home}}</a>
+      <a href="rules.html" class="active">{{NAV.rules}}</a>
+      <a href="tips.html">{{NAV.tips}}</a>
+      <a href="about.html">{{NAV.about}}</a>
+      <a href="/index.html?lang={{LANG_CODE}}#/download">{{NAV.download}}</a>
+      <div class="lang-switch">
+        <select onchange="location.href=this.value">
+          {{LANG_DROPDOWN}}
+        </select>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container">
+    <header>
+      <h1>{{PAGES.rules.headerTitle}}</h1>
+      <p>{{PAGES.rules.headerSubtitle}}</p>
+    </header>
+
+    {{RULES_SECTIONS}}
+
+    <div class="cta">
+      <a href="/index.html?lang={{LANG_CODE}}">{{PAGES.rules.ctaText}}</a>
+    </div>
+
+    <footer>
+      <p>{{FOOTER.copyright}}</p>
+    </footer>
+  </div>
+</body>
+</html>

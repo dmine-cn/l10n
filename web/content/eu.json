@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "eu",
+    "langAttr": "eu",
+    "ogLocale": "eu_ES",
+    "siteName": "DMine - Meategi Bilatzaile",
+    "canonicalPrefix": "eu/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Hasiera",
+    "rules": "Arauak",
+    "tips": "Aholkuak",
+    "about": "Guri buruz",
+    "download": "Deskargatu"
+  },
+  "footer": {
+    "copyright": "© 2026 DMine Taldea"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "DMine-ri Buruz - Meategi Bilatzaile Nagusia | Plataforma Anitzeko Meategi Jokoa",
+      "metaDescription": "DMine (Meategi Bilatzaile Nagusia) plataforma anitzeko meategi bilatzaile jokoa da. Windows, macOS, Linux, Android, iOS, HarmonyOS eta Web plataformak onartzen ditu. Doakoa eta kode irekikoa, 66 hizkuntza, jolastu sarean!",
+      "metaKeywords": "meategi jokoa, DMine, meategi bilatzaile nagusia, plataforma anitzeko meategia, doako meategia, kode irekiko meategia",
+      "headerTitle": "💣 DMine - Meategi Bilatzaile Nagusia",
+      "headerSubtitle": "Plataforma anitzeko meategi jokoa, klasikoa edonoiz eta edonon jolastu",
+      "sections": [
+        {
+          "heading": "Zer da DMine?",
+          "paragraphs": [
+            "DMine (Meategi Bilatzaile Nagusia) Flutter esparruarekin garatutako plataforma anitzeko meategi bilatzaile jokoa da. Klasikoaren joko modua mantentzen du, diseinu modernoa eta funtzio ugari gehituz, esperientzia berria eskainiz jokalarientzat.",
+            "Windows erabiltzaile sakona edo bidean mugikorrarekin jolasten den jokalari lasaia izan, DMinek zure beharrak beteko ditu."
+          ]
+        },
+        {
+          "heading": "Onartutako Plataformak",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Plataforma guztien datuak sinkronizatuta daude; jolastu leku batean, jarraitu beste edozeinetan."
+          ]
+        },
+        {
+          "heading": "Ezaugarri Bereziak",
+          "list": [
+            [
+              "Hizkuntza anitzeko laguntza",
+              "66 hizkuntza onartzen ditu, mundu osoko jokalariek oztoporik gabe jolastu"
+            ],
+            [
+              "Joko ibilbideak partekatu",
+              "Joko erregistroak automatikoki hodeira partekatzen dira, beste jokalariek ikusi eta berriro erreproduzitu ditzakete"
+            ],
+            [
+              "Hodeiko sailkapena",
+              "Mundu osoko jokalariekin mailak gainditzeko lehian sartu"
+            ],
+            [
+              "Joko modu anitz",
+              "Hasiberrientzako eta erronka arruntaren bi modu"
+            ],
+            [
+              "Erabat doakoa",
+              "Iragarkirik gabe, aplikazio barruko erosketarik gabe, joko esperientzia garbia"
+            ]
+          ]
+        },
+        {
+          "heading": "Joko Moduak",
+          "paragraphs": [
+            "Joko arauak: Taula finkoa 16×30 (480 gelaxka). Meategi kopuru jakin batean gelaxka seguru guztiak aurkituz gero irabazten duzu."
+          ],
+          "list": [
+            [
+              "Hasiberrientzako modua",
+              "15 meategirekin hasi, maila bakoitzean 6 meategi gehitzen dira, gehienez 15. mailan 99 meategi"
+            ],
+            [
+              "Erronka arrunta",
+              "81 meategirekin hasi. Lehenengo 4 mailak gainditzean 6 meategi gehitzen dira, ondoren hiru mailatan 3, beste hiru mailatan 2, eta gero maila bakoitzean 1; mugarik gabe"
+            ]
+          ]
+        },
+        {
+          "heading": "Bertsio Informazioa",
+          "paragraphs": [
+            "Uneko bertsioa: {{VERSION}}",
+            "Teknologia pila: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine kode irekiko proiektua da. GitHub-en jarraitu eta kodea lagundu."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Jolastu Hasi"
+    },
+    "rules": {
+      "pageTitle": "Meategi Jokoaren Arauak Azalduta - Hasiberrientzako Ezinbestekoa | DMine Meategi Nagusia",
+      "metaDescription": "Nola jolastu meategia? Artikulu honek oinarrizko arauak, zenbakien esanahia, eragiketak eta irabazteko baldintzak zehatz azaltzen ditu. Hasiberrientzako tutorial ezinbestekoa!",
+      "metaKeywords": "meategi arauak, nola jolastu meategia, meategi tutoriala, meategi hasiberria, meategi oinarrizko arauak",
+      "headerTitle": "💣 Meategi Jokoaren Arauak Azalduta",
+      "headerSubtitle": "Hasieratik ikasi meategia, hasiberrientzako ezinbestekoa",
+      "sections": [
+        {
+          "heading": "Joko Helburua",
+          "paragraphs": [
+            "Meategi jokoaren helburua oso sinplea da: meategia zapaldu gabe gelaxka seguru guztiak ireki. Meategia irekitzen baduzu, jokoa amaitzen da; meategirik gabeko gelaxka guztiak irekitzen badituzu, irabazten duzu!"
+          ]
+        },
+        {
+          "heading": "Oinarrizko Eragiketak",
+          "table": {
+            "headers": [
+              "Eragiketa",
+              "Sagua",
+              "Ukipen pantaila",
+              "Azalpena"
+            ],
+            "rows": [
+              [
+                "Gelaxka ireki",
+                "Ezkerreko klik",
+                "Ukitu behin",
+                "Aukeratutako gelaxka ireki"
+              ],
+              [
+                "Bandera markatu",
+                "Eskuineko klik",
+                "Luze ukitu",
+                "Meategia dagoela uste duzun lekua markatu (⚑)"
+              ],
+              [
+                "Galdera ikurra markatu",
+                "Berriro eskuineko klik",
+                "Berriro luze ukitu",
+                "Ziur ez zaudenean galdera ikurrarekin markatu (?)"
+              ],
+              [
+                "Meategi irekiera azkarra (Chord)",
+                "Irekitako zenbaki gelaxkan ezkerreko klik",
+                "—",
+                "Zenbakiaren inguruko bandera kopurua nahikoa denean, gelaxka horretan klik eginez inguruko markatu gabeko gelaxka guztiak irekitzen dira aldi berean"
+              ]
+            ]
+          },
+          "tipBox": "💡 Aholkua: Meategi irekiera azkarra (Chord) joko modu oso eraginkorra da! Zenbaki baten inguruko bandera kopurua zenbakiaren berdina denean, irekitako zenbaki horretan klikatu, inguruko markatu gabeko gelaxka guztiak automatikoki irekiko dira."
+        },
+        {
+          "heading": "Zenbakien Esanahia",
+          "paragraphs": [
+            "Gelaxka bat irekitzen duzunean, zenbaki bat (1~8) agertuko da. Zenbaki horrek inguruko 8 gelaxketako meategi kopurua adierazten du.",
+            "Hona 3×3 adibide bat: erdiko 1 zenbakiak esan nahi du inguruko 8 gelaxketan meategi bat dagoela."
+          ],
+          "list": [
+            "1 — Inguruko 8 gelaxketan meategi 1",
+            "2 — Inguruko 8 gelaxketan meategi 2",
+            "3 — Inguruko 8 gelaxketan meategi 3",
+            "… eta horrela jarraituz, gehienez 8"
+          ],
+          "tipBox": "💡 Gelaxka huts bat irekitzen baduzu (zenbakirik gabe), inguruko 8 gelaxketan ez dago meategirik. Jokoak automatikoki irekiko du inguruko eremua —hori da meategi jokoaren kate irekiera mekanismoa."
+        },
+        {
+          "heading": "Joko Moduak",
+          "paragraphs": [
+            "Taula finkoa: 16 × 30 (480 gelaxka)"
+          ],
+          "table": {
+            "headers": [
+              "Modua",
+              "Hasierako meategi kopurua",
+              "Hazkunde araua",
+              "Azalpena"
+            ],
+            "rows": [
+              [
+                "Hasiberrientzako modua",
+                "15 meategi",
+                "Maila bakoitza gainditzean +6 meategi",
+                "Gehienez 15. mailan 99 meategi"
+              ],
+              [
+                "Erronka arrunta",
+                "81 meategi",
+                "Ikusi beheko azalpena",
+                "Ziklo bakoitzean meategi kopurua handitzen da, mugarik gabe"
+              ]
+            ]
+          },
+          "extraParagraph": "Erronka arruntaren hazkunde araua: Lehenengo 4 mailak gainditzean 6 meategi gehitzen dira maila bakoitzean, ondoren hiru mailatan 3 meategi, beste hiru mailatan 2 meategi, eta gero maila bakoitzean 1 meategi; mugarik gabe."
+        },
+        {
+          "heading": "Irabaztea eta Galtzea",
+          "list": [
+            [
+              "Irabaztea",
+              "Meategirik gabeko gelaxka guztiak ireki, edo meategi leku guztiak zuzen markatu"
+            ],
+            [
+              "Galtzea",
+              "Meategian klikatu, jokoa berehala amaitzen da"
+            ]
+          ],
+          "tipBox": "💡 Lehenengo klika %100 segurua da! DMinek bermatzen du lehenengo irekitako gelaxka ez dela inoiz meategia, lasai has zaitez jolasten."
+        },
+        {
+          "heading": "Erreprodukzioa eta Partekatzea",
+          "paragraphs": [
+            "Jokalarien maila gainditzeko erregistroak automatikoki hodeira igotzen dira. Beste jokalariek 'ibilbideetan' erreproduzitu eta ikusi dezakete jokoaren ibilbidea. Erreprodukzioa ikusi baino ezin da, ezin da aldatu ez parte hartu."
+          ]
+        },
+        {
+          "heading": "Sailkapena",
+          "paragraphs": [
+            "DMinek hodeiko sailkapena du, jokalariak gainditutako maila kopuruaren arabera ordenatuta. Zenbat eta maila gehiago gainditu, orduan eta posizio altuagoa mundu osoko jokalariekin lehian."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Jolastu Hasi"
+    },
+    "tips": {
+      "pageTitle": "Meategi Jokoaren Aholku Aurreratuak - Hasiberritik Aditu Izatera | DMine Meategi Nagusia",
+      "metaDescription": "Meategi adituen aholku aurreratuak! 1-2-1 eredua, 1-2-2-1 eredua, klik bikoitza, probabilitate analisia… Aholku hauek menperatuz, abiadura eta irabazteko tasa erraz hobetu!",
+      "metaKeywords": "meategi aholkuak, meategi aholku aurreratuak, meategi ereduak, meategi estrategia, meategi 1-2-1, meategi probabilitatea, meategi aditua",
+      "headerTitle": "🎯 Meategi Jokoaren Aholku Aurreratuak",
+      "headerSubtitle": "Hasiberritik aditu izatera, meategi jokalari bikaina bilakatu",
+      "headerSub2": "Eredu eta estrategia hauek menperatuz, irabazteko tasa eta abiadura bikoiztu",
+      "sections": [
+        {
+          "heading": "Bat: Oinarrizko Ereduak",
+          "difficulty": "Hasiberria",
+          "items": [
+            {
+              "title": "1-2-1 Eredua",
+              "paragraphs": [
+                "Hau da meategi jokoaren eredu ohikoena eta garrantzitsuena. Lerro zuzen batean 1-2-1 zenbakien sekuentzia ikusten duzunean, ziur egon zaitezke:"
+              ],
+              "list": [
+                [
+                  "Bi 1en gainean meategi bana dago",
+                  "Bandera batekin markatu"
+                ],
+                [
+                  "2aren gainean gelaxka segurua da",
+                  "Lasai ireki dezakezu"
+                ]
+              ],
+              "tipBox": "💡 Hau eredu ziurra da —ez da asmatu behar, %100 logikaz ondorioztatu daiteke."
+            },
+            {
+              "title": "1-2-2-1 Eredua",
+              "paragraphs": [
+                "1-2-2-1 sekuentzia ikusten duzunean, klasiko eredua da:"
+              ],
+              "list": [
+                [
+                  "Bi 2en arteko gainean meategi bana dago",
+                  ""
+                ],
+                [
+                  "Bi 1en gainean gelaxka seguru bana dago",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Muga Eredua",
+              "paragraphs": [
+                "Zenbakia taularen ertzean dagoenean, ondorioztatzea errazagoa da, alde bat kalkulatu behar ez delako."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bi: Erdi Mailako Teknikak",
+          "difficulty": "Aurreratua",
+          "items": [
+            {
+              "title": "Klik bikoitza (Chord)",
+              "paragraphs": [
+                "Hau abiadura hobetzeko eragiketa gakoa da. Zenbaki baten inguruko bandera kopurua zenbakiaren berdina denean, saguiaren erdiko botoiarekin edo ezker eta eskuineko botoiak aldi berean klikatu, inguruko markatu gabeko gelaxka guztiak automatikoki irekiko dira.",
+                "Adibidez: 3 baten inguruan 3 bandera badaude, 3 horretan klik bikoitza egin, gainerako 5 gelaxkak automatikoki irekiko dira."
+              ],
+              "tipBox": "⚡ Adituen sekretua: Jokalari aurreratu guztiek ia erabiltzen dute klik bikoitza —banderak markatu eta klik bikoitza egin aldi berean, abiadura hainbat aldiz handitzen da."
+            },
+            {
+              "title": "Kenketa bidezko ondorioztapena",
+              "paragraphs": [
+                "Zenbaki baten inguruan bandera batzuk markatuta daudenean, bandera horiek kenduz gainerako gelaxketako meategi kopurua jakin dezakezu. Adibidez: 3 baten inguruan bandera bat badago, gainerako gelaxketan 2 meategi daude."
+              ]
+            },
+            {
+              "title": "Zenbaki anitzen baterako ondorioztapena",
+              "paragraphs": [
+                "Ez ikusi zenbaki bakoitza bakarka, elkartu ondoko zenbakiak logikaz. Ondoko bi zenbakiek gelaxka batzuk partekatzen dituzte, elkarketa eta osagarri erlazioak erabiliz informazio gehiago ondorioztatu."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Hiru: Aholku Aurreratuak",
+          "difficulty": "Aditua",
+          "items": [
+            {
+              "title": "Probabilitate Analisia",
+              "paragraphs": [
+                "Egoera logikaz ziurtatu ezin denean (asmatu beharreko unea), zein gelaxkak meategia izateko probabilitate txikiena duen ebaluatu:"
+              ],
+              "list": [
+                [
+                  "Lehenetsi irekitako eremutik gertuko gelaxkak",
+                  "Informazio gehiago"
+                ],
+                [
+                  "Saihestu eremu isolatuetako gelaxkak",
+                  "Probabilitate ziurgabetasun handia"
+                ],
+                [
+                  "Egoera konplexuetan, kalkulatu geratzen diren meategi eta gelaxka kopuruaren erlazioa",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Meategi jokoan asmatzea ezin da guztiz saihestu, baina probabilitate analisiaren bidez irabazteko tasa %90etik gora igo daiteke."
+            },
+            {
+              "title": "Ereduen Ezagutza",
+              "paragraphs": [
+                "Adituek ez dituzte gelaxkak banaka kontatzen; 'ereduak' ezagutzen dituzte bloke osoan, testua irakurtzen duten moduan. Asko praktikatuz, zenbaki konbinazioak ikustean berehala jakingo duzu non meategiak eta non gelaxka seguruak diren."
+              ]
+            },
+            {
+              "title": "Saguaren Eragiketa Teknikak",
+              "list": [
+                [
+                  "Esku bien lankidetza leuna",
+                  "Ezker eskua banderak markatu (eskuineko klik), eskuin eskua gelaxkak ireki (ezkerreko klik), lan banaketa argia"
+                ],
+                [
+                  "Saguaren mugimendua murriztu",
+                  "Klik bikoitza erabili klik bakarraren ordez, klik kopurua eta saguaren ibilbidea murriztu"
+                ],
+                [
+                  "Joko erritmoa",
+                  "Aurkitu zure erritmoa, ez jolastu oso azkar ez oso motel"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Lau: Praktika Estrategiak",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Hasiera Estrategia",
+              "paragraphs": [
+                "DMinek bermatzen du lehenengo klika segurua dela. Jolasten hasitzean lehenetsi eremu huts handiak ireki, ondorengo ondorioztapenerako pista gehiago sortuz."
+              ]
+            },
+            {
+              "title": "Lehentasun Araua",
+              "paragraphs": [
+                "Taula honela prozesatu:"
+              ],
+              "orderedList": [
+                "Lehenbizi konpondu eredu ziur guztiak (1-2-1, 1-2-2-1 eta abar)",
+                "Irekiera azkarreko eragiketak erabili",
+                "Banaka prozesatu ertzeko zenbakiak",
+                "Azkenik asmatu beharreko eremuak konpondu"
+              ]
+            },
+            {
+              "title": "Asmatu Estrategia",
+              "paragraphs": [
+                "Asmatu behar duzunean:"
+              ],
+              "list": [
+                [
+                  "Lehenetsi ertzeko gelaxkak asmatu",
+                  "Normalean ertzeko gelaxkek lotura gutxiago dute, arrisku txikiagoa"
+                ],
+                [
+                  "Geratzen diren meategiak kontatu",
+                  "Zenbat meategi markatu gabe dauden jakin, erabakia hartzen laguntzeko"
+                ],
+                [
+                  "Azken unean asmatu",
+                  "Denbora baduzu, lehenbizi beste eremuak konpondu, taula argiago geratuko da"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bost: Trebetasun Hobekuntzarako Entrenamendua",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Ereduen erreakzioa praktikatu",
+                  "Zenbaki konbinazioak ikustean automatikoki eragiketa egin, muskulu memoria sortu"
+                ],
+                [
+                  "Zalantzak murriztu",
+                  "Erabaki ziurrak 0,5 segundotan hartu"
+                ],
+                [
+                  "Erreprodukzio analisia",
+                  "Galtzean pentsatu hurrengoan hobetu daitekeena"
+                ],
+                [
+                  "DMine sailkapena erabili",
+                  "Ikusi adituen erregistroak, helburu txiki bat jarri eta zure burua desafiatu"
+                ],
+                [
+                  "Bandera gabe jolasten saiatu",
+                  "Bandera jarri gabe jokoa amaitzen saiatu"
+                ]
+              ],
+              "tipBox": "🎯 Helburu erreferentzia: Jokalari arrunta 10 maila baino gutxiago, jokalari trebea 20 maila baino gutxiago, aditua 30 maila baino gehiago, jokalari nagusia bandera gabe 30 maila baino gehiago gainditu dezake."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Praktikatu Hasi"
+    }
+  }
+}

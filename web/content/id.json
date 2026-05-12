@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "id",
+    "langAttr": "id",
+    "ogLocale": "id_ID",
+    "siteName": "DMine - Penyapu Ranjau Terbaik",
+    "canonicalPrefix": "id/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Beranda",
+    "rules": "Aturan",
+    "tips": "Tips",
+    "about": "Tentang",
+    "download": "Unduh"
+  },
+  "footer": {
+    "copyright": "© 2026 Tim DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Tentang DMine - Penyapu Ranjau Terbaik | Game Penyapu Ranjau Lintas Platform",
+      "metaDescription": "DMine (Penyapu Ranjau Terbaik) adalah game penyapu ranjau lintas platform yang dikembangkan dengan framework Flutter. Mendukung Windows, macOS, Linux, Android, iOS, HarmonyOS dan Web. Gratis, sumber terbuka, mendukung 66 bahasa, mainkan kapan saja secara online!",
+      "metaKeywords": "game penyapu ranjau, DMine, penyapu ranjau terbaik, penyapu ranjau lintas platform, penyapu ranjau gratis, penyapu ranjau open source",
+      "headerTitle": "💣 DMine - Penyapu Ranjau Terbaik",
+      "headerSubtitle": "Game penyapu ranjau klasik lintas platform, mainkan kapan saja dan di mana saja",
+      "sections": [
+        {
+          "heading": "Apa itu DMine?",
+          "paragraphs": [
+            "DMine (Penyapu Ranjau Terbaik) adalah game penyapu ranjau lintas platform berbasis framework Flutter. Game ini tetap mempertahankan cara bermain inti penyapu ranjau klasik, sekaligus menghadirkan desain antarmuka modern dan fitur lengkap untuk memberikan pengalaman bermain yang baru.",
+            "Baik kamu pemain lama di Windows maupun pemain santai yang mengisi waktu luang di ponsel, DMine siap memenuhi semua kebutuhanmu."
+          ]
+        },
+        {
+          "heading": "Platform yang Didukung",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Data tersinkron di semua platform, mainkan di satu perangkat dan lanjutkan di perangkat lain."
+          ]
+        },
+        {
+          "heading": "Fitur Unggulan",
+          "list": [
+            [
+              "Dukungan Multibahasa",
+              "Mendukung 66 bahasa, mainkan tanpa hambatan bersama pemain seluruh dunia"
+            ],
+            [
+              "Bagikan Rekaman Permainan",
+              "Rekaman permainan tersimpan otomatis di cloud, pemain lain dapat memutar ulang"
+            ],
+            [
+              "Papan Peringkat Cloud",
+              "Bersaing dengan pemain dunia dalam menyelesaikan level"
+            ],
+            [
+              "Mode Permainan Beragam",
+              "Tersedia dua mode: Pemula dan Tantangan Normal"
+            ],
+            [
+              "Gratis Sepenuhnya",
+              "Tanpa iklan dan pembelian dalam aplikasi, pengalaman bermain murni"
+            ]
+          ]
+        },
+        {
+          "heading": "Mode Permainan",
+          "paragraphs": [
+            "Aturan permainan: Papan permainan berukuran tetap 16×30 (480 kotak). Menangkan permainan dengan membuka semua kotak aman tanpa menyentuh ranjau."
+          ],
+          "list": [
+            [
+              "Mode Pemula",
+              "Dimulai dengan 15 ranjau, setiap selesai level bertambah 6 ranjau, maksimal 99 ranjau di level 15"
+            ],
+            [
+              "Tantangan Normal",
+              "Dimulai dengan 81 ranjau, 4 level pertama bertambah 6 ranjau tiap level, kemudian tiap 3 level bertambah 3 ranjau, selanjutnya tiap 3 level bertambah 2 ranjau, lalu tiap level bertambah 1 ranjau tanpa batas maksimal"
+            ]
+          ]
+        },
+        {
+          "heading": "Informasi Versi",
+          "paragraphs": [
+            "Versi saat ini: {{VERSION}}",
+            "Stack Teknologi: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine adalah proyek sumber terbuka, silakan ikuti dan berkontribusi kode di GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Mulai Main"
+    },
+    "rules": {
+      "pageTitle": "Penjelasan Aturan Penyapu Ranjau | Wajib Dibaca Pemula | DMine Penyapu Ranjau Terbaik",
+      "metaDescription": "Cara main penyapu ranjau? Artikel ini menjelaskan aturan dasar, arti angka, cara kontrol dan syarat menang. Tutorial lengkap untuk pemula!",
+      "metaKeywords": "aturan penyapu ranjau, cara main penyapu ranjau, tutorial penyapu ranjau, penyapu ranjau untuk pemula, aturan dasar penyapu ranjau",
+      "headerTitle": "💣 Penjelasan Aturan Penyapu Ranjau",
+      "headerSubtitle": "Belajar main dari nol, panduan wajib pemula",
+      "sections": [
+        {
+          "heading": "Tujuan Permainan",
+          "paragraphs": [
+            "Tujuan penyapu ranjau sangat sederhana: buka semua kotak aman tanpa menyentuh ranjau. Jika membuka kotak berisi ranjau, permainan berakhir. Jika semua kotak aman terbuka, kamu menang!"
+          ]
+        },
+        {
+          "heading": "Kontrol Dasar",
+          "table": {
+            "headers": [
+              "Aksi",
+              "Mouse",
+              "Layar Sentuh",
+              "Keterangan"
+            ],
+            "rows": [
+              [
+                "Buka Kotak",
+                "Klik kiri",
+                "Tekan sekali",
+                "Membuka kotak yang dipilih"
+              ],
+              [
+                "Tandai Bendera",
+                "Klik kanan",
+                "Tekan tahan",
+                "Tandai kotak yang diduga ada ranjau (⚑)"
+              ],
+              [
+                "Tandai Tanda Tanya",
+                "Klik kanan lagi",
+                "Tekan tahan lagi",
+                "Tandai dengan tanda tanya jika ragu"
+              ],
+              [
+                "Buka Cepat (Chord)",
+                "Klik kiri pada angka yang terbuka",
+                "—",
+                "Jika jumlah bendera di sekitar angka sesuai nilainya, semua kotak tak bertanda akan terbuka sekaligus"
+              ]
+            ]
+          },
+          "tipBox": "💡 Tips: Fitur buka cepat (Chord) sangat efisien! Jika jumlah bendera di sekitar angka sama dengan nilai angka, klik angka tersebut untuk membuka semua kotak sekitarnya secara otomatis."
+        },
+        {
+          "heading": "Arti Angka",
+          "paragraphs": [
+            "Setelah membuka kotak, akan muncul angka 1~8 yang menunjukkan jumlah ranjau di 8 kotak sebelahnya.",
+            "Contoh area 3×3: angka 1 di tengah berarti ada 1 ranjau di 8 kotak sekitarnya."
+          ],
+          "list": [
+            "1 — Ada 1 ranjau di 8 kotak sekitar",
+            "2 — Ada 2 ranjau di 8 kotak sekitar",
+            "3 — Ada 3 ranjau di 8 kotak sekitar",
+            "Dan seterusnya hingga angka maksimal 8"
+          ],
+          "tipBox": "💡 Jika menemukan kotak kosong tanpa angka, berarti tidak ada ranjau di sekitarnya dan game akan membuka area sekitar secara otomatis — ini adalah mekanisme rantai buka di penyapu ranjau."
+        },
+        {
+          "heading": "Mode Permainan",
+          "paragraphs": [
+            "Ukuran papan tetap: 16 × 30 (480 kotak)"
+          ],
+          "table": {
+            "headers": [
+              "Mode",
+              "Jumlah Ranjau Awal",
+              "Aturan Penambahan",
+              "Keterangan"
+            ],
+            "rows": [
+              [
+                "Pemula",
+                "15 ranjau",
+                "+6 ranjau tiap selesai level",
+                "Maksimal 99 ranjau hingga level 15"
+              ],
+              [
+                "Tantangan Normal",
+                "81 ranjau",
+                "Lihat keterangan di bawah",
+                "Jumlah ranjau terus bertambah tanpa batas"
+              ]
+            ]
+          },
+          "extraParagraph": "Aturan penambahan Tantangan Normal: 4 level pertama bertambah 6 ranjau tiap level, kemudian tiap 3 level bertambah 3 ranjau, selanjutnya tiap 3 level bertambah 2 ranjau, lalu tiap level bertambah 1 ranjau tanpa batas maksimal."
+        },
+        {
+          "heading": "Menang dan Kalah",
+          "list": [
+            [
+              "Menang",
+              "Buka semua kotak aman atau tandai semua posisi ranjau dengan benar"
+            ],
+            [
+              "Kalah",
+              "Menyentuh ranjau membuat permainan langsung berakhir"
+            ]
+          ],
+          "tipBox": "💡 Klik pertama 100% aman! DMine menjamin klik pertama tidak akan mengenai ranjau, kamu bisa mulai main dengan tenang."
+        },
+        {
+          "heading": "Putar Ulang & Bagikan",
+          "paragraphs": [
+            "Rekaman penyelesaian level tersimpan otomatis di cloud. Pemain lain dapat memutar ulang jalur permainan. Putar ulang hanya bisa ditonton, tidak dapat diubah atau diintervensi."
+          ]
+        },
+        {
+          "heading": "Papan Peringkat",
+          "paragraphs": [
+            "DMine memiliki papan peringkat cloud yang diurutkan berdasarkan jumlah level yang diselesaikan. Semakin tinggi level yang dicapai, semakin tinggi peringkatmu, bersainglah dengan pemain seluruh dunia."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Mulai Main"
+    },
+    "tips": {
+      "pageTitle": "Tips Mahir Penyapu Ranjau - Dari Pemula Hingga Ahli | DMine Penyapu Ranjau Terbaik",
+      "metaDescription": "Panduan rahasia pemain ahli! Pola 1-2-1, pola 1-2-2-1, teknik klik ganda, analisis peluang… Kuasai tips ini untuk meningkatkan kecepatan dan tingkat kemenangan!",
+      "metaKeywords": "tips penyapu ranjau, tips mahir penyapu ranjau, pola penyapu ranjau, strategi penyapu ranjau, pola 1-2-1 penyapu ranjau, analisis peluang penyapu ranjau, ahli penyapu ranjau",
+      "headerTitle": "🎯 Tips Mahir Penyapu Ranjau",
+      "headerSubtitle": "Dari pemula hingga ahli, jadikan dirimu pemain profesional",
+      "headerSub2": "Kuasai pola dan strategi ini untuk melipatgandakan kecepatan dan peluang menang",
+      "sections": [
+        {
+          "heading": "1. Pola Dasar",
+          "difficulty": "Pemula",
+          "items": [
+            {
+              "title": "Pola 1-2-1",
+              "paragraphs": [
+                "Ini adalah pola paling umum dan penting di penyapu ranjau. Jika melihat urutan angka 1-2-1 dalam satu garis lurus, kamu bisa memastikan:"
+              ],
+              "list": [
+                [
+                  "Di atas kedua angka 1 masing-masing ada ranjau",
+                  "Tandai dengan bendera"
+                ],
+                [
+                  "Kotak di atas angka 2 pasti aman",
+                  "Buka dengan aman"
+                ]
+              ],
+              "tipBox": "💡 Pola ini 100% pasti — tidak perlu menebak, bisa disimpulkan dengan logika sepenuhnya."
+            },
+            {
+              "title": "Pola 1-2-2-1",
+              "paragraphs": [
+                "Urutan 1-2-2-1 juga merupakan pola klasik:"
+              ],
+              "list": [
+                [
+                  "Di atas tengah kedua angka 2 masing-masing ada ranjau",
+                  ""
+                ],
+                [
+                  "Di atas kedua angka 1 terdapat kotak aman",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Pola Tepi",
+              "paragraphs": [
+                "Jika angka berada di tepi papan permainan, penalaran menjadi lebih mudah karena tidak perlu menghitung satu sisi."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Teknik Menengah",
+          "difficulty": "Lanjutan",
+          "items": [
+            {
+              "title": "Teknik Klik Ganda (Chord)",
+              "paragraphs": [
+                "Ini adalah teknik terpenting untuk meningkatkan kecepatan. Jika jumlah bendera di sekitar angka sesuai nilainya, tekan tombol tengah mouse atau klik kiri-kanan secara bersamaan untuk membuka semua kotak tak bertanda di sekitarnya secara otomatis.",
+                "Contoh: Jika ada 3 bendera di sekitar angka 3, klik ganda angka 3 akan membuka 5 kotak sisanya secara otomatis."
+              ],
+              "tipBox": "⚡ Rahasia ahli: Hampir semua pemain mahir menggunakan teknik klik ganda. Tandai bendera sekaligus buka cepat untuk mempercepat permainan berkali-kali lipat."
+            },
+            {
+              "title": "Penalaran Pengurangan",
+              "paragraphs": [
+                "Jika sebagian bendera sudah ditandai di sekitar angka, kurangi jumlah bendera tersebut untuk mengetahui sisa ranjau di kotak lain. Contoh: jika ada 1 bendera di sekitar angka 3, masih ada 2 ranjau di kotak sisanya."
+              ]
+            },
+            {
+              "title": "Penalaran Gabungan Angka",
+              "paragraphs": [
+                "Jangan lihat angka secara terpisah, gabungkan penalaran dengan angka tetangga. Dua angka tetangga akan berbagi beberapa kotak, manfaatkan hubungan irisan dan pelengkap untuk mendapatkan lebih banyak informasi."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Teknik Tingkat Lanjut",
+          "difficulty": "Ahli",
+          "items": [
+            {
+              "title": "Analisis Peluang",
+              "paragraphs": [
+                "Saat menghadapi situasi tidak pasti (perlu menebak ranjau), pilih kotak dengan peluang terkecil terkena ranjau:"
+              ],
+              "list": [
+                [
+                  "Utamakan kotak dekat area yang sudah terbuka",
+                  "Lebih banyak informasi tersedia"
+                ],
+                [
+                  "Hindari kotak di area terpencil",
+                  "Peluang ketidakpastian lebih tinggi"
+                ],
+                [
+                  "Dalam situasi rumit, hitung rasio sisa ranjau dan jumlah kotak",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Menebak ranjau tidak bisa dihindari sepenuhnya, namun analisis peluang dapat meningkatkan tingkat kemenangan di atas 90%."
+            },
+            {
+              "title": "Pengenalan Pola",
+              "paragraphs": [
+                "Pemain ahli tidak menghitung kotak satu per satu, melainkan mengenali pola secara keseluruhan seperti membaca teks. Dengan sering latihan, kamu akan langsung bereaksi mengetahui posisi ranjau dan kotak aman saat melihat kombinasi angka tertentu."
+              ]
+            },
+            {
+              "title": "Tips Kontrol Mouse",
+              "list": [
+                [
+                  "Koordinasi Tangan Kiri dan Kanan",
+                  "Tangan kiri: tandai bendera (klik kanan), tangan kanan: buka kotak (klik kiri), pembagian tugas jelas"
+                ],
+                [
+                  "Kurangi Gerakan Mouse",
+                  "Gunakan klik ganda sebagai pengganti klik tunggal, kurangi jumlah klik dan jarak gerakan mouse"
+                ],
+                [
+                  "Irama Bermain",
+                  "Temukan irama bermain sendiri, jangan terlalu cepat atau lambat"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Strategi Praktis",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Strategi Awal Permainan",
+              "paragraphs": [
+                "DMine menjamin klik pertama aman. Di awal permainan, utamakan membuka area kosong luas untuk mendapatkan lebih banyak petunjuk penalaran selanjutnya."
+              ]
+            },
+            {
+              "heading": "Aturan Prioritas",
+              "paragraphs": [
+                "Selesaikan papan permainan dengan urutan berikut:"
+              ],
+              "orderedList": [
+                "Selesaikan semua pola pasti terlebih dahulu (1-2-1, 1-2-2-1 dll)",
+                "Gunakan fitur buka cepat",
+                "Selesaikan angka di tepi papan satu per satu",
+                "Terakhir tangani area yang perlu menebak"
+              ]
+            },
+            {
+              "title": "Strategi Menebak",
+              "paragraphs": [
+                "Jika terpaksa menebak:"
+              ],
+              "list": [
+                [
+                  "Utamakan menebak kotak di tepi",
+                  "Biasanya memiliki kaitan informasi lebih sedikit, risiko lebih rendah"
+                ],
+                [
+                  "Hitung sisa ranjau",
+                  "Ketahui jumlah ranjau yang belum ditandai sebagai bahan pertimbangan"
+                ],
+                [
+                  "Tunda menebak hingga akhir",
+                  "Jika waktu cukup, selesaikan area lain terlebih dahulu agar papan lebih jelas"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Latihan Meningkatkan Kemampuan",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Latihan Reaksi Pola",
+                  "Bereaksi otomatis melihat kombinasi angka, bentuk memori otot"
+                ],
+                [
+                  "Kurangi Keraguan",
+                  "Ambil keputusan pasti dalam waktu 0,5 detik"
+                ],
+                [
+                  "Evaluasi Kekalahan",
+                  "Setelah kalah, pikirkan bagian yang bisa diperbaiki"
+                ],
+                [
+                  "Gunakan Papan Peringkat DMine",
+                  "Lihat rekor pemain ahli, tetapkan target kecil dan tantang dirimu sendiri"
+                ],
+                [
+                  "Coba Main Tanpa Bendera",
+                  "Coba selesaikan permainan tanpa menandai satu bendera pun"
+                ]
+              ],
+              "tipBox": "🎯 Referensi Level: Pemula biasa ≤10 level, Mahir ≤20 level, Ahli ≥30 level, Pemain Top mampu menyelesaikan ≥30 level tanpa bendera."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Mulai Latihan"
+    }
+  }
+}

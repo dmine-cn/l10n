@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "ms",
+    "langAttr": "ms",
+    "ogLocale": "ms_MY",
+    "siteName": "DMine - Pencari Periuk Api Teratas",
+    "canonicalPrefix": "ms/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Laman Utama",
+    "rules": "Peraturan",
+    "tips": "Petua",
+    "about": "Tentang Kami",
+    "download": "Muat Turun"
+  },
+  "footer": {
+    "copyright": "© 2026 Pasukan DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Tentang DMine - Permainan Sweepers Terunggul | Permainan Sweepers Lintas Platform",
+      "metaDescription": "DMine (Permainan Sweepers Terunggul) ialah permainan sweepers lintas platform, menyokong Windows、macOS、Linux、Android、iOS、HarmonyOS dan Web. Percuma sumber terbuka, tersedia dalam 66 bahasa, main dalam talian dengan bebas!",
+      "metaKeywords": "Permainan Sweepers,DMine,Sweepers Terunggul,Sweepers Lintas Platform,Sweepers Percuma,Sweepers Sumber Terbuka",
+      "headerTitle": "💣 DMine - Permainan Sweepers Terunggul",
+      "headerSubtitle": "Permainan sweepers lintas platform, main klasik pada bila-bila masa dan di mana sahaja",
+      "sections": [
+        {
+          "heading": "Apakah itu DMine？",
+          "paragraphs": [
+            "DMine (Permainan Sweepers Terunggul) ialah permainan sweepers lintas platform dibangunkan dengan rangka kerja Flutter. Ia mengekalkan permainan teras sweepers klasik, sambil menambah reka bentuk antara muka moden dan fungsi yang kaya, memberikan pengalaman sweepers baharu kepada pemain.",
+            "Sama ada pemain tegar di Windows, mahupun pemain santai yang bermain di telefon semasa perjalanan, DMine dapat memenuhi keperluan anda."
+          ]
+        },
+        {
+          "heading": "Platform Disokong",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Data disegerakkan merentas semua platform, main sekali, segerak di mana-mana sahaja."
+          ]
+        },
+        {
+          "heading": "Ciri-ciri Istimewa",
+          "list": [
+            [
+              "Sokongan Pelbagai Bahasa",
+              "Tersedia dalam 66 bahasa, pemain seluruh dunia boleh bermain tanpa halangan"
+            ],
+            [
+              "Perkongsian Rekod Permainan",
+              "Rekod permainan dikongsi secara automatik ke awan, pemain lain boleh main semula tontonan"
+            ],
+            [
+              "Kedudukan Awan",
+              "Bandingkan tahap penyelesaian dengan pemain seluruh dunia"
+            ],
+            [
+              "Pelbagai Mod Permainan",
+              "Dua mod: Permulaan Pemula dan Cabaran Biasa"
+            ],
+            [
+              "Benar-benar Percuma",
+              "Tiada Iklan, tiada pembelian dalam aplikasi, pengalaman permainan tulen"
+            ]
+          ]
+        },
+        {
+          "heading": "Mod Permainan",
+          "paragraphs": [
+            "Peraturan Permainan: Papan permainan tetap 16×30 (480 petak), menang dengan menemui semua petak selamat di antara bilangan periuk api yang ditetapkan."
+          ],
+          "list": [
+            [
+              "Permulaan Pemula",
+              "Mulakan dengan 15 periuk api, tambah 6 periuk api setiap kali selesai tahap, maksimum 99 periuk api pada tahap ke-15"
+            ],
+            [
+              "Cabaran Biasa",
+              "Mulakan dengan 81 periuk api, tambah 6 periuk api setiap kali selesai 4 kali pertama, kemudian tambah 3 periuk api setiap tahap untuk 3 tahap, seterusnya tambah 2 periuk api setiap tahap untuk 3 tahap kemudian, selepas itu tambah 1 periuk api setiap tahap, tiada had atas"
+            ]
+          ]
+        },
+        {
+          "heading": "Maklumat Versi",
+          "paragraphs": [
+            "Versi Semasa：{{VERSION}}",
+            "Tindanan Teknologi：Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine ialah projek sumber terbuka, selamat datang untuk mengikuti dan menyumbang kod di GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Mulakan Permainan"
+    },
+    "rules": {
+      "pageTitle": "Penjelasan Terperinci Peraturan Sweepers | DMine Sweepers Terunggul",
+      "metaDescription": "Bagaimana nak main sweepers? Artikel ini terangkan peraturan asas sweepers, makna nombor, cara operasi dan syarat kemenangan, tutorial wajib untuk pemula!",
+      "metaKeywords": "Peraturan Sweepers,Cara Main Sweepers,Tutorial Sweepers,Pemula Sweepers,Peraturan Asas Sweepers,Peraturan Permainan Sweepers",
+      "headerTitle": "💣 Penjelasan Terperinci Peraturan Sweepers",
+      "headerSubtitle": "Belajar main sweepers dari kosong, panduan wajib pemula",
+      "sections": [
+        {
+          "heading": "Matlamat Permainan",
+          "paragraphs": [
+            "Matlamat sweepers sangat mudah: Buka semua petak selamat tanpa melanggar periuk api. Jika anda tekan periuk api, permainan tamat; jika anda buka semua petak bukan periuk api, anda menang!"
+          ]
+        },
+        {
+          "heading": "Operasi Asas",
+          "table": {
+            "headers": [
+              "Operasi",
+              "Tetikus",
+              "Skrin Sentuh",
+              "Keterangan"
+            ],
+            "rows": [
+              [
+                "Buka Petak",
+                "Klik Kiri",
+                "Tekan Sekali",
+                "Buka petak yang dipilih"
+              ],
+              [
+                "Tanda Bendera",
+                "Klik Kanan",
+                "Tekan Lama",
+                "Tanda lokasi yang anda sangka ada periuk api（⚑）"
+              ],
+              [
+                "Tanda Tanda Soalan",
+                "Klik Kanan Lagi",
+                "Tekan Lama Lagi",
+                "Tanda tanda soalan（?）apabila tidak pasti"
+              ],
+              [
+                "Buka Pantas (Chord)",
+                "Klik Kiri pada petak nombor yang telah dibuka",
+                "—",
+                "Apabila bilangan bendera di sekeliling nombor mencukupi, klik petak nombor tersebut untuk membuka semua petak tidak bertanda di sekeliling serentak"
+              ]
+            ]
+          },
+          "tipBox": "💡 Petua Kecil: Buka pantas (Chord) ialah cara main yang sangat cekap! Apabila bilangan bendera di sekeliling nombor sama dengan nombor tersebut, klik kiri petak nombor yang telah dibuka, ia akan membuka semua petak tidak bertanda di sekeliling."
+        },
+        {
+          "heading": "Makna Nombor",
+          "paragraphs": [
+            "Apabila anda buka sesuatu petak, akan muncul nombor (1~8) pada petak tersebut, menunjukkan bilangan periuk api dalam 8 petak di sekelilingnya.",
+            "Berikut contoh kecil 3×3, nombor 1 di tengah bermakna terdapat 1 periuk api dalam 8 petak di sekelilingnya："
+          ],
+          "list": [
+            "1 — Terdapat 1 periuk api dalam 8 petak sekeliling",
+            "2 — Terdapat 2 periuk api dalam 8 petak sekeliling",
+            "3 — Terdapat 3 periuk api dalam 8 petak sekeliling",
+            "……dan seterusnya, maksimum 8"
+          ],
+          "tipBox": "💡 Jika anda buka petak kosong (tiada nombor) bermakna tiada periuk api dalam 8 petak sekeliling, permainan akan buka kawasan sekeliling secara automatik — ini ialah mekanisme 'pengembangan berantai' dalam sweepers."
+        },
+        {
+          "heading": "Mod Permainan",
+          "paragraphs": [
+            "Saiz papan tetap：16 × 30（480 petak）"
+          ],
+          "table": {
+            "headers": [
+              "Mod",
+              "Bilangan Periuk Api Mula",
+              "Peraturan Pertambahan",
+              "Keterangan"
+            ],
+            "rows": [
+              [
+                "Permulaan Pemula",
+                "15 Biji",
+                "Tambah 6 biji setiap kali selesai tahap",
+                "Maksimum 99 periuk api pada tahap ke-15"
+              ],
+              [
+                "Cabaran Biasa",
+                "81 Biji",
+                "Lihat keterangan di bawah",
+                "Bilangan periuk api bertambah setiap kitaran, tiada had atas"
+              ]
+            ]
+          },
+          "extraParagraph": "Peraturan pertambahan Cabaran Biasa: Tambah 6 periuk api setiap kali selesai 4 kali pertama, kemudian tambah 3 periuk api setiap tahap untuk 3 tahap, seterusnya tambah 2 periuk api setiap tahap untuk 3 tahap kemudian, selepas itu tambah 1 periuk api setiap tahap, tiada had atas."
+        },
+        {
+          "heading": "Kemenangan & Kekalahan",
+          "list": [
+            [
+              "Menang",
+              "Buka semua petak bukan periuk api, atau tanda semua lokasi periuk api dengan betul"
+            ],
+            [
+              "Kalah",
+              "Tekan periuk api, permainan tamat serta-merta"
+            ]
+          ],
+          "tipBox": "💡 Klik pertama 100% selamat! DMine pastikan klik pertama tidak akan terkena periuk api, jadi anda boleh mula main dengan tenang."
+        },
+        {
+          "heading": "Main Semula & Perkongsian",
+          "paragraphs": [
+            "Rekod penyelesaian pemain dikongsi secara automatik ke awan, pemain lain boleh tonton main semula proses penyelesaian di halaman 'Rekod Permainan'. Main semula hanya untuk tontonan, tidak boleh menyertai atau mengubah suai."
+          ]
+        },
+        {
+          "heading": "Kedudukan Papan Pendahulu",
+          "paragraphs": [
+            "DMine menyokong papan pendahulu awan, kedudukan berdasarkan tahap penyelesaian pemain. Semakin tinggi tahap, semakin tinggi kedudukan, lawan kemahiran dengan pemain seluruh dunia."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Mulakan Permainan"
+    },
+    "tips": {
+      "pageTitle": "Petua Lanjutan Sweepers - Dari Pemula Ke Mahir | DMine Sweepers Terunggul",
+      "metaDescription": "Panduan mahir sweepers! Corak 1-2-1、Corak 1-2-2-1、Teknik Klik Berganda、Analisis Kebarangkalian… Kuasai petua ini, tingkatkan kelajuan dan kadar kemenangan dengan mudah!",
+      "metaKeywords": "Petua Sweepers,Petua Lanjutan Sweepers,Corak Sweepers,Strategi Sweepers,1-2-1 Sweepers,Kebarangkalian Sweepers,Mahir Sweepers,Peningkatan Kemahiran Sweepers",
+      "headerTitle": "🎯 Petua Lanjutan Sweepers",
+      "headerSubtitle": "Dari pemula ke mahir, jadilah pakar sweepers",
+      "headerSub2": "Kuasai corak dan strategi ini, gandakan kadar kemenangan dan kelajuan anda",
+      "sections": [
+        {
+          "heading": "Satu、Corak Asas",
+          "difficulty": "Pemula",
+          "items": [
+            {
+              "title": "Corak 1-2-1",
+              "paragraphs": [
+                "Ini ialah corak paling biasa dan penting dalam sweepers. Apabila anda lihat susunan nombor 1-2-1 dalam garis lurus, anda boleh pastikan:"
+              ],
+              "list": [
+                [
+                  "Satu periuk api di atas setiap nombor 1",
+                  "Tanda dengan bendera"
+                ],
+                [
+                  "Petak di atas nombor 2 pasti selamat",
+                  "Buka dengan yakin"
+                ]
+              ],
+              "tipBox": "💡 Ini ialah mod pasti — tiada perlu meneka, boleh disimpulkan dengan 100% kepastian."
+            },
+            {
+              "title": "Corak 1-2-2-1",
+              "paragraphs": [
+                "Apabila lihat susunan 1-2-2-1, ia juga corak klasik："
+              ],
+              "list": [
+                [
+                  "Satu periuk api di atas tengah dua nombor 2",
+                  ""
+                ],
+                [
+                  "Satu petak selamat di atas setiap nombor 1",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Corak Sempadan Papan",
+              "paragraphs": [
+                "Apabila nombor terletak di tepi papan, penyimpulan menjadi lebih mudah kerana kurang satu sisi untuk dikira."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Dua、Teknik Pertengahan",
+          "difficulty": "Peningkatan",
+          "items": [
+            {
+              "title": "Teknik Klik Berganda (Chord)",
+              "paragraphs": [
+                "Ini ialah operasi paling penting untuk tingkatkan kelajuan. Apabila bilangan bendera di sekeliling nombor sama dengan nombor tersebut, gunakan butang tengah tetikus atau klik kiri dan kanan serentak, ia akan buka semua petak tidak bertanda di sekeliling secara automatik.",
+                "Contoh: Jika nombor 3 telah ditanda 3 bendera di sekelilingnya, klik berganda nombor 3 ini, baki 5 petak lain akan dibuka secara automatik."
+              ],
+              "tipBox": "⚡ Rahsia Mahir: Hampir semua pemain mahir guna klik berganda — tanda bendera sambil klik berganda, kelajuan boleh meningkat berkali ganda."
+            },
+            {
+              "title": "Penyimpulan Penolakan",
+              "paragraphs": [
+                "Apabila sebahagian bendera telah ditanda di sekeliling nombor, 'tolak' bendera tersebut untuk dapat bilangan periuk api dalam baki petak. Contoh: Jika nombor 3 telah ditanda 1 bendera, maka terdapat lagi 2 periuk api dalam baki petak."
+              ]
+            },
+            {
+              "title": "Penyimpulan Gabungan Pelbagai Nombor",
+              "paragraphs": [
+                "Jangan lihat nombor secara sendirian, gabungkan nombor bersebelahan untuk membuat penyimpulan. Dua nombor bersebelahan akan berkongsi sebahagian petak, gunakan hubungan persilangan dan pelengkap untuk mendapatkan lebih banyak maklumat."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Tiga、Teknik Lanjutan",
+          "difficulty": "Mahir",
+          "items": [
+            {
+              "title": "Analisis Kebarangkalian",
+              "paragraphs": [
+                "Apabila menghadapi situasi yang tidak dapat dipastikan (masa 'meneka periuk api'), tentukan petak mana yang mempunyai risiko paling rendah untuk terkena periuk api:"
+              ],
+              "list": [
+                [
+                  "Pilih petak berhampiran kawasan yang telah dibuka dahulu",
+                  "Lebih banyak maklumat"
+                ],
+                [
+                  "Elakkan pilih petak di kawasan terpencil",
+                  "Ketidakpastian kebarangkalian tinggi"
+                ],
+                [
+                  "Dalam kes rumit, belajar kira nisbah baki bilangan periuk api dan bilangan petak",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ 'Meneka' dalam sweepers tidak dapat dielakkan sepenuhnya, tetapi melalui analisis kebarangkalian boleh tingkatkan kadar kemenangan melebihi 90%."
+            },
+            {
+              "title": "Pengecaman Corak",
+              "paragraphs": [
+                "Mata pemain mahir tidak mengira petak satu demi satu, tetapi mengecam 'corak' — sama seperti membaca teks, kenali susunan biasa secara sekaligus. Banyak latihan, anda boleh bertindak balas serta-merta melihat gabungan nombor untuk tahu di mana ada periuk api dan di mana selamat."
+              ]
+            },
+            {
+              "title": "Teknik Operasi Tetikus",
+              "list": [
+                [
+                  "Koordinasi Tangan Kiri dan Kanan Lancar",
+                  "Tangan kiri tanda bendera (klik kanan), tangan kanan buka petak (klik kiri), tugas jelas"
+                ],
+                [
+                  "Kurangkan Pergerakan Tetikus",
+                  "Guna klik berganda ganti klik tunggal, kurangkan bilangan klik dan jarak pergerakan tetikus"
+                ],
+                [
+                  "Ritma Operasi",
+                  "Cari ritma operasi sendiri, jangan terlalu laju atau terlalu perlahan"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Empat、Strategi Pertempuran Sebenar",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Strategi Permulaan",
+              "paragraphs": [
+                "DMine pastikan klik pertama adalah selamat. Selepas mula permainan, buka kawasan kosong yang luas dahulu untuk cipta lebih banyak petunjuk penyimpulan kemudian."
+              ]
+            },
+            {
+              "title": "Peraturan Keutamaan",
+              "paragraphs": [
+                "Urus papan mengikut turutan berikut:"
+              ],
+              "orderedList": [
+                "Urus semua corak pasti dahulu（1-2-1、1-2-2-1 dll）",
+                "Guna operasi buka pantas",
+                "Urus nombor di tepi papan satu demi satu",
+                "Akhir sekali urus kawasan yang perlu meneka"
+              ]
+            },
+            {
+              "title": "Strategi Meneka Periuk Api",
+              "paragraphs": [
+                "Apabila terpaksa meneka:"
+              ],
+              "list": [
+                [
+                  "Teka petak di tepi dahulu",
+                  "Biasanya petak tepi kurang kaitan maklumat, risiko lebih rendah"
+                ],
+                [
+                  "Kira baki bilangan periuk api",
+                  "Tahu berapa banyak periuk api belum ditanda, bantu membuat keputusan"
+                ],
+                [
+                  "Teka di akhir sekali",
+                  "Jika masa mencukupi, selesaikan kawasan lain dahulu untuk jadikan papan lebih jelas"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Lima、Latihan Peningkatan Kemahiran",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Latihan Tindak Balas Corak",
+                  "Lihat gabungan nombor, lakukan operasi tanpa berfikir, bentuk ingatan otot"
+                ],
+                [
+                  "Kurangkan Keragu-raguan",
+                  "Buat keputusan pasti dalam masa 0.5 saat"
+                ],
+                [
+                  "Analisis Pasca Kalah",
+                  "Fikir apa yang boleh diperbaiki selepas kalah"
+                ],
+                [
+                  "Guna Papan Pendahulu DMine",
+                  "Lihat rekod pemain mahir, tetapkan matlamat kecil dan cabar diri sendiri"
+                ],
+                [
+                  "Cuba Main Tanpa Tanda Bendera",
+                  "Cuba selesaikan permainan tanpa menanda bendera"
+                ]
+              ],
+              "tipBox": "🎯 Rujukan Matlamat: Pemula biasa dalam 10 tahap, pemain mahir dalam 20 tahap, pakar melebihi 30 tahap, pemain terunggul boleh capai lebih 30 tahap tanpa tanda bendera."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Mulakan Latihan"
+    }
+  }
+}

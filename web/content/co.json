@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "co",
+    "langAttr": "co",
+    "ogLocale": "co_FR",
+    "siteName": "DMine - U Migliu Cacciamine",
+    "canonicalPrefix": "co/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Iniziu",
+    "rules": "Regule",
+    "tips": "Cunsiglii",
+    "about": "À propositu",
+    "download": "Scaricà"
+  },
+  "footer": {
+    "copyright": "© 2026 Equipa DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "À propositu di DMine - Buscamine Premium | Ghjocu di buscamine multiplataforma",
+      "metaDescription": "DMine (Buscamine Premium) hè un ghjocu di buscamine multiplataforma chì supporta Windows, macOS, Linux, Android, iOS, HarmonyOS è Web. Gratis è cù codice apertu, 66 lingue, ghjoca in linea!",
+      "metaKeywords": "ghjocu di buscamine,DMine,buscamine premium,buscamine multiplataforma,buscamine gratis,buscamine cù codice apertu",
+      "headerTitle": "💣 DMine - Buscamine Premium",
+      "headerSubtitle": "Un ghjocu di buscamine multiplataforma, gode di u classicu in ogni locu è in ogni mumentu",
+      "sections": [
+        {
+          "heading": "Chì ghjè DMine?",
+          "paragraphs": [
+            "DMine (Buscamine Premium) hè un ghjocu di buscamine multiplataforma sviluppatu cù u framework Flutter. Mantene u ghjocu core di u buscamine classicu, aghjunghjendu un disignu mudernu è funzioni ricche per offre una nova sperienza à i ghjucatori.",
+            "Sia un ghjucatore espertu nantu à Windows o un ghjucatore casuale chì si diverte cù u telefuninu durante u viaghju, DMine risponde à tutte e vostre necessità."
+          ]
+        },
+        {
+          "heading": "Piattaforme supportate",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "I dati sò sincronizzati trà tutte e piattaforme; ghjoca in un locu, sincronizza in tutti."
+          ]
+        },
+        {
+          "heading": "Funzioni specifichi",
+          "list": [
+            [
+              "Supportu multiligua",
+              "Supporta 66 lingue, ghjucatori di tuttu u mondu ghjocanu senza ostaculi"
+            ],
+            [
+              "Condivisione di e partite",
+              "I registri di ghjocu sò cumuni automaticamente in nuvola, altri ghjucatori ponu vede a riproduzione"
+            ],
+            [
+              "Classifica in nuvola",
+              "Competite cù ghjucatori di tuttu u mondu per i livelli superati"
+            ],
+            [
+              "Modi di ghjocu multipli",
+              "Dui modi: iniziu per principianti è sfida nurmale"
+            ],
+            [
+              "Totalmente gratis",
+              "Senza publicità nè compra interna, sperienza di ghjocu pura"
+            ]
+          ]
+        },
+        {
+          "heading": "Modi di ghjocu",
+          "paragraphs": [
+            "Reguli di ghjocu: U tavulinu hè fissu 16×30 (480 caselle). Vincite se scuperte tutte e caselle sicure trà u numeru di mine specificatu."
+          ],
+          "list": [
+            [
+              "Iniziu per principianti",
+              "Cumincia cù 15 mine, ogni livellu superatu aghjusta 6 mine, massimu 99 mine à u livellu 15"
+            ],
+            [
+              "Sfida nurmale",
+              "Cumincia cù 81 mine; i primi 4 livelli +6 mine, i prossimi 3 +3 mine, altri 3 +2 mine, dopu +1 mina per livellu, senza limite superiore"
+            ]
+          ]
+        },
+        {
+          "heading": "Infurmazioni nantu à a versione",
+          "paragraphs": [
+            "Versione attuale: {{VERSION}}",
+            "Stack tecnicu: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine hè un prughjettu cù codice apertu, benvenutu à seguità è cuntribuisce cù codice nantu à GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Cumincià u ghjocu"
+    },
+    "rules": {
+      "pageTitle": "Reguli detallate di u buscamine - Indispensabile per principianti | DMine Buscamine Premium",
+      "metaDescription": "Cumu ghjocà à u buscamine? Stu articulu spiega in dettu e reguli basi, u significatu di i numeri, i cuntrolli è e cundizioni di vittoria, tutorial indispensabile per principianti!",
+      "metaKeywords": "reguli di buscamine,cumu ghjocà buscamine,tutorial di buscamine,principiante di buscamine,reguli basi di buscamine,reguli di u ghjocu di buscamine",
+      "headerTitle": "💣 Reguli detallate di u buscamine",
+      "headerSubtitle": "Amparate à ghjocà da zero, indispensabile per principianti",
+      "sections": [
+        {
+          "heading": "Obbiettivu di u ghjocu",
+          "paragraphs": [
+            "L'obbiettivu di u buscamine hè simplice: apre tutte e caselle sicure senza calpestà alcuna mina. Se apre una mina, u ghjocu finisci; se apre tutte e caselle senza mine, avete vintu!"
+          ]
+        },
+        {
+          "heading": "Cuntrolli basi",
+          "table": {
+            "headers": [
+              "Azione",
+              "Mouse",
+              "Tattile",
+              "Spiegazione"
+            ],
+            "rows": [
+              [
+                "Apri una casella",
+                "Clicca sinistra",
+                "Un toccu",
+                "Apri a casella selezionata"
+              ],
+              [
+                "Marcà cù bandiera",
+                "Clicca destra",
+                "Pressu longu",
+                "Marcà u locu induve pensate chì ci hè una mina (⚑)"
+              ],
+              [
+                "Marcà cù segnu d'interrogazione",
+                "Clicca destra di novu",
+                "Pressu longu di novu",
+                "Marcà cù ? se ùn site micca sicuru"
+              ],
+              [
+                "Scuperta rapida (Chord)",
+                "Clicca sinistra nantu à una casella di numeru aperta",
+                "—",
+                "Quandu u numeru di bandiere intornu à u numeru currisponde à ellu, cliccate u numeru per apre tutte e caselle micca marcate intornu"
+              ]
+            ]
+          },
+          "tipBox": "💡 Cunsigliu: A scuperta rapida (Chord) hè un modu di ghjocu assai efficace! Quandu u numeru di bandiere intornu à un numeru currisponde à ellu, cliccate sinistra nantu à a casella per apre tutte e caselle micca marcate."
+        },
+        {
+          "heading": "Significatu di i numeri",
+          "paragraphs": [
+            "Quandu apre una casella, appare un numeru (1~8) chì indica u numeru di mine in e 8 caselle vicine.",
+            "Eccu un esempiu parziale 3×3: u numeru 1 in u centru significa chì ci hè 1 mina in e 8 caselle vicine:"
+          ],
+          "list": [
+            "1 — 1 mina in 8 caselle vicine",
+            "2 — 2 mine in 8 caselle vicine",
+            "3 — 3 mine in 8 caselle vicine",
+            "…… è cusì consecutivamente, massimu 8"
+          ],
+          "tipBox": "💡 Una casella viota (senza numeru) significa chì ùn ci hè mine in e 8 caselle vicine; u ghjocu apre automaticamente a zona intornu — questu hè u meccanisimu di «dispiegamentu in catena» di u buscamine."
+        },
+        {
+          "heading": "Modi di ghjocu",
+          "paragraphs": [
+            "Tavulinu fissu: 16 × 30 (480 caselle)"
+          ],
+          "table": {
+            "headers": [
+              "Modu",
+              "Mine iniziali",
+              "Regula di incrementu",
+              "Spiegazione"
+            ],
+            "rows": [
+              [
+                "Iniziu per principianti",
+                "15 mine",
+                "+6 mine per livellu superatu",
+                "Massimu 99 mine à u livellu 15"
+              ],
+              [
+                "Sfida nurmale",
+                "81 mine",
+                "Vede quì sottu",
+                "U numeru di mine cresce ogni volta, senza limite superiore"
+              ]
+            ]
+          },
+          "extraParagraph": "Regula di incrementu per a sfida nurmale: primi 4 livelli +6 mine, prossimi 3 +3 mine, altri 3 +2 mine, dopu +1 mina per livellu, senza limite superiore."
+        },
+        {
+          "heading": "Vittoria è scunfitta",
+          "list": [
+            [
+              "Vittoria",
+              "Apri tutte e caselle senza mine o marcate currettamente tutte e mine"
+            ],
+            [
+              "Scunfitta",
+              "Cliccate nantu à una mina, u ghjocu finisci subitu"
+            ]
+          ],
+          "tipBox": "💡 U primu cliccu hè 100% sicuru! DMine garantisce chì u primu cliccu ùn serà micca nantu à una mina, cuminciate tranquillamente."
+        },
+        {
+          "heading": "Riproduzione è condivisione",
+          "paragraphs": [
+            "I registri di livelli superati sò cumuni automaticamente in nuvola. Altri ghjucatori ponu vede a riproduzione in a «Linea». A riproduzione hè solu per visualizà, ùn si pò participà nè mudificà."
+          ]
+        },
+        {
+          "heading": "Classifica",
+          "paragraphs": [
+            "DMine supporta una classifica in nuvola, classificata per numeru di livelli superati. Più livelli, più altu u rangu; competite cù ghjucatori di tuttu u mondu."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Cumincià u ghjocu"
+    },
+    "tips": {
+      "pageTitle": "Cunsigli avanzati di buscamine - Da principiante à espertu | DMine Buscamine Premium",
+      "metaDescription": "Guida per esperti di buscamine! Modellu 1-2-1, modellu 1-2-2-1, cliccu doppiu, analisi di probabilità... Dominate sti cunsigli per migliurà a vitezza è a percentuale di vittoria!",
+      "metaKeywords": "cunsigli di buscamine,cunsigli avanzati di buscamine,modelli di buscamine,strategia di buscamine,1-2-1 buscamine,probabilità di buscamine,esperto di buscamine,avanzatu in buscamine",
+      "headerTitle": "🎯 Cunsigli avanzati di buscamine",
+      "headerSubtitle": "Da principiante à espertu, diventate un maestru di u buscamine",
+      "headerSub2": "Dominate sti mudelli è strategie, raddoppiate a vitezza è a percentuale di vittoria",
+      "sections": [
+        {
+          "heading": "1. Modelli basi",
+          "difficulty": "Principiante",
+          "items": [
+            {
+              "title": "Modellu 1-2-1",
+              "paragraphs": [
+                "Questu hè u mudellu più cumuni è impurtante di u buscamine. Quandu vede una sequenza 1-2-1 in linea dritta, pudete esse sicuru:"
+              ],
+              "list": [
+                [
+                  "Ci hè una mina sopra ogni 1",
+                  "Marcà cù bandiera"
+                ],
+                [
+                  "A casella sopra u 2 hè sicura",
+                  "Pudete aprela tranquillamente"
+                ]
+              ],
+              "tipBox": "💡 Questu hè un mudellu sicuru — ùn ci vole indovinà, 100% deducibile."
+            },
+            {
+              "title": "Modellu 1-2-2-1",
+              "paragraphs": [
+                "Quandu vede 1-2-2-1, hè ancu un mudellu classicu:"
+              ],
+              "list": [
+                [
+                  "Ci hè una mina sopra u centru di i dui 2",
+                  ""
+                ],
+                [
+                  "A casella sopra ogni 1 hè sicura",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Modelli di bordu",
+              "paragraphs": [
+                "Quandu un numeru hè à u bordu di u tavulinu, u ragiunamentu diventa più simplice, perchè manca una faccia per calculà."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Cunsigli intermedi",
+          "difficulty": "Avanzatu",
+          "items": [
+            {
+              "title": "Tecnica di cliccu doppiu (Chord)",
+              "paragraphs": [
+                "Questu hè l'azzione chjave per aumentà a vitezza. Quandu u numeru di bandiere intornu à un numeru currisponde à ellu, cliccate u buttone centrale di u mouse o sinistra+destra à tempu; si aprenu tutte e caselle micca marcate intornu.",
+                "Esempiu: se un 3 hà digià 3 bandiere intornu, cliccate doppiu u 3 è e 5 caselle restanti si aprenu automaticamente."
+              ],
+              "tipBox": "⚡ Segretu di l'esperti: Quasi tutti i ghjucatori avanzati usanu u cliccu doppiu — marcate è cliccate doppiu, a vitezza cresce parechje volte."
+            },
+            {
+              "title": "Ragiunamentu per sottrazione",
+              "paragraphs": [
+                "Quandu un numeru hà digià alcune bandiere marcate, «sottraete» queste per ottene u numeru di mine restanti. Per esempiu: un 3 cù una bandiera hà 2 mine in più."
+              ]
+            },
+            {
+              "title": "Ragiunamentu cumbinatu di numeri",
+              "paragraphs": [
+                "Ùn fighjate micca i numeri isolati, cumbinà i numeri vicini. Dui numeri vicini sparteghjanu parte di e caselle; usate l'intersezione è u cumplementu per deduce più infurmazioni."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Cunsigli avanzati",
+          "difficulty": "Espertu",
+          "items": [
+            {
+              "title": "Analisi di probabilità",
+              "paragraphs": [
+                "Quandu ùn pudete micca esse sicuru (mumentu di «indovinà»), determinate quale casella hà a probabilità minima di cuntene una mina:"
+              ],
+              "list": [
+                [
+                  "Priorità e caselle vicine à zone aperte",
+                  "Più infurmazioni"
+                ],
+                [
+                  "Evitate e caselle in zone isolate",
+                  "Più incertezza"
+                ],
+                [
+                  "In casi cumplessi, amparate à calculà a proporzione di mine è caselle restanti",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ «Indovinà» in u buscamine ùn si pò evità cumpletamente, ma cù analisi di probabilità pudete cullà a percentuale di vittoria sopra u 90%."
+            },
+            {
+              "title": "Ricunniscenza di mudelli",
+              "paragraphs": [
+                "L'esperti ùn cuntanu micca casella per casella; ricunnoscenu «mudelli» cum'è leghje un testu. Cù più pratica, videndu certe cumminazioni sapete istantaneamente induve sò mine è induve hè sicuru."
+              ]
+            },
+            {
+              "title": "Cunsigli di cuntrollu cù mouse",
+              "list": [
+                [
+                  "Coordinazione fluida trà e mani",
+                  "Mana sinistra: bandiere (cliccu destra), mana destra: apre (cliccu sinistra)"
+                ],
+                [
+                  "Riduce u muvimentu di u mouse",
+                  "Usate cliccu doppiu invece di clicchi simplici"
+                ],
+                [
+                  "Ritmu",
+                  "Truvate u vostru ritmu, ùn siate veloce è lentu di colpu"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Strategie pratiche",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Strategia d'iniziu",
+              "paragraphs": [
+                "DMine garantisce chì u primu cliccu hè sicuru. Dopu avè cuminciatu, aprite prima zone grandi viote per creà più indizi per i ragiunamenti dopu."
+              ]
+            },
+            {
+              "title": "Regula di priorità",
+              "paragraphs": [
+                "Risolve u tavulinu in questu ordine:"
+              ],
+              "orderedList": [
+                "Prima tutti i mudelli sicuri (1-2-1, 1-2-2-1, ecc.)",
+                "Usate a scuperta rapida",
+                "Risolve i numeri di i bordi unu per unu",
+                "Finalmente e zone chì necessitanu indovinà"
+              ]
+            },
+            {
+              "title": "Strategia d'indovinà",
+              "paragraphs": [
+                "Quandu duvete indovinà:"
+              ],
+              "list": [
+                [
+                  "Indovinate prima e caselle di bordu",
+                  "Di solitu menu risicu"
+                ],
+                [
+                  "Contate e mine restanti",
+                  "Sapete quante mine restanu per aiutà à decide"
+                ],
+                [
+                  "Lasciate per ultimu",
+                  "Se avete tempu, risolve prima altre zone per chjarificà u tavulinu"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Addestramentu per migliurà",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Addestrate a reazione à i mudelli",
+                  "Videndu cumminazioni, agite senza pensà, formate memoria musculare"
+                ],
+                [
+                  "Riduce i dubbi",
+                  "Decisioni sicure in 0,5 seconde"
+                ],
+                [
+                  "Analisi dopu a scunfitta",
+                  "Pensate chì pudete avè fattu megliu"
+                ],
+                [
+                  "Usate a classifica DMine",
+                  "Fighjate i registri di l'esperti, mette obbiettivi chjuchi, sfidatevi"
+                ],
+                [
+                  "Pruvate senza bandiere",
+                  "Pruvate à finisce u ghjocu senza marcà mine cù bandiere"
+                ]
+              ],
+              "tipBox": "🎯 Riferimentu d'obbiettivi: ghjucatore nurmale — finu à 10 livelli, ghjucatore espertu — finu à 20, esperto — più di 30, ghjucatore elite — più di 30 livelli senza bandiere."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Cumincià à praticà"
+    }
+  }
+}

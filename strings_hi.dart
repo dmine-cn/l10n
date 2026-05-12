@@ -51,6 +51,7 @@ const Map<String, String> stringsHi = {
   'language': 'भाषा',
   // Home page
   'newbie': 'नौसिखिया',
+  'gameIntro': 'गेम परिचय',
   'newBattle': 'नया मोर्चा',
   'continueChallenge': 'चुनौती जारी रखें',
   'error': 'त्रुटि',

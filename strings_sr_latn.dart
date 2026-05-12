@@ -51,6 +51,7 @@ const Map<String, String> stringsSrLatn = {
   'language': 'Jezik',
   // Home page
   'newbie': 'Početnik',
+  'gameIntro': 'Uvod u igru',
   'newBattle': 'Novi front',
   'continueChallenge': 'Nastavi izazov',
   'error': 'Greška',

@@ -51,6 +51,7 @@ const Map<String, String> stringsHr = {
   'language': 'Jezik',
   // Home page
   'newbie': 'Početnička nastava',
+  'gameIntro': 'Uvod u igru',
   'newBattle': 'Nova fronta',
   'continueChallenge': 'Nastavi izazov',
   'error': 'Greška',

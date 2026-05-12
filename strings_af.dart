@@ -51,6 +51,7 @@ const Map<String, String> stringsAf = {
   'language': 'Taal',
   // Home page
   'newbie': 'Beginner',
+  'gameIntro': 'Spelbeskrywing',
   'newBattle': 'Nuwe Front',
   'continueChallenge': 'Gaan voort',
   'error': 'Fout',

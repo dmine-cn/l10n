@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "tr",
+    "langAttr": "tr",
+    "ogLocale": "tr_TR",
+    "siteName": "DMine - En İyi Mayın Tarayıcı",
+    "canonicalPrefix": "tr/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "rules": "Kurallar",
+    "tips": "İpuçları",
+    "about": "Hakkımızda",
+    "download": "İndir"
+  },
+  "footer": {
+    "copyright": "© 2026 DMine Ekibi"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "DMine Hakkında - En İyi Mayın Bulma Oyunu | Çapraz Platform Mayın Oyunu",
+      "metaDescription": "DMine (En İyi Mayın Bulma Oyunu), Windows, macOS, Linux, Android, iOS, HarmonyOS ve Web'i destekleyen çapraz platform bir mayın bulma oyunudur. Tamamen ücretsiz açık kaynaklıdır, 66 dil desteği ile çevrimiçi oynayabilirsiniz!",
+      "metaKeywords": "mayın bulma oyunu, DMine, en iyi mayın oyunu, çapraz platform mayın oyunu, ücretsiz mayın oyunu, açık kaynak mayın oyunu",
+      "headerTitle": "💣 DMine - En İyi Mayın Bulma Oyunu",
+      "headerSubtitle": "Her yerde oynayabileceğiniz klasik çapraz platform mayın bulma oyunu",
+      "sections": [
+        {
+          "heading": "DMine Nedir?",
+          "paragraphs": [
+            "DMine (En İyi Mayın Bulma Oyunu), Flutter çerçevesi ile geliştirilmiş çapraz platform bir mayın bulma oyunudur. Klasik mayın oyununun temel oynanışını korurken modern arayüz tasarımı ve zengin özellikler ile tamamen yeni bir oyun deneyimi sunar.",
+            "İster Windows'ta deneyimli bir oyuncu olun, ister yolculuk sırasında telefonda vakit geçirmek için oynayın, DMine tüm ihtiyaçlarınızı karşılar."
+          ]
+        },
+        {
+          "heading": "Desteklenen Platformlar",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Tüm platformlar arasında veri senkronizasyonu mevcuttur, bir yerde oynayın her yerde devam edin."
+          ]
+        },
+        {
+          "heading": "Özel Özellikler",
+          "list": [
+            [
+              "Çoklu Dil Desteği",
+              "66 dil desteklenir, dünya genelindeki oyuncularla sorunsuz oynayın"
+            ],
+            [
+              "Oyun Kaydı Paylaşımı",
+              "Oyun geçmişiniz buluta otomatik olarak paylaşılır, diğer oyuncular tekrarları izleyebilir"
+            ],
+            [
+              "Bulut Sıralaması",
+              "Dünya genelindeki oyuncularla geçilen seviyelerde yarışın"
+            ],
+            [
+              "Birden Fazla Oyun Modu",
+              "Yeni Başlayan ve Normal Meydan Okuma olmak üzere iki mod mevcuttur"
+            ],
+            [
+              "Tamamen Ücretsiz",
+              "Reklam yok, uygulama içi satın alma yok, saf oyun deneyimi"
+            ]
+          ]
+        },
+        {
+          "heading": "Oyun Modları",
+          "paragraphs": [
+            "Oyun Kuralları: Sabit 16×30 (480 karelik) oyun tahtası, belirlenen mayınlar arasında tüm güvenli kareleri bularak oyunu kazanın."
+          ],
+          "list": [
+            [
+              "Yeni Başlayan Modu",
+              "15 mayınla başlar, her geçilen seviyede 6 mayın eklenir, en yüksek 15. seviyede 99 mayın olur"
+            ],
+            [
+              "Normal Meydan Okuma",
+              "81 mayınla başlar, ilk 4 seviyede her biri 6 mayın ekler, sonraki her 3 seviyede 3 mayın, takip eden 3 seviyede 2 mayın ve sonrasında sınırsız olarak her seviyeye 1 mayın eklenir"
+            ]
+          ]
+        },
+        {
+          "heading": "Sürüm Bilgisi",
+          "paragraphs": [
+            "Mevcut Sürüm: {{VERSION}}",
+            "Teknoloji Yığını: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine açık kaynaklı bir projedir, GitHub'da takip edebilir ve kod katkısı yapabilirsiniz."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Oyunu Başlat"
+    },
+    "rules": {
+      "pageTitle": "Mayın Oyunu Kuralları Detaylı Anlatım - Yeni Başlayanlar İçin | DMine En İyi Mayın Oyunu",
+      "metaDescription": "Mayın oyunu nasıl oynanır? Bu rehber temel kuralları, sayıların anlamını, kontrol yöntemlerini ve kazanma şartlarını yeni başlayanlar için detaylı açıklar!",
+      "metaKeywords": "mayın oyunu kuralları, mayın oyunu nasıl oynanır, mayın oyunu rehberi, yeni başlayanlar için mayın oyunu, temel mayın oyunu kuralları",
+      "headerTitle": "💣 Mayın Oyunu Kuralları Detaylı",
+      "headerSubtitle": "Sıfırdan mayın oyunu öğrenin, yeni başlayanlar mutlaka okumalı",
+      "sections": [
+        {
+          "heading": "Oyunun Amacı",
+          "paragraphs": [
+            "Mayın oyununun amacı çok basit: Mayına basmadan tüm güvenli kareleri açın. Eğer mayına basarsanız oyun biter, tüm mayın olmayan kareleri açarsanız kazanırsınız!"
+          ]
+        },
+        {
+          "heading": "Temel Kontroller",
+          "table": {
+            "headers": [
+              "İşlem",
+              "Fare",
+              "Dokunmatik Ekran",
+              "Açıklama"
+            ],
+            "rows": [
+              [
+                "Kare Aç",
+                "Sol Tık",
+                "Tek Dokunuş",
+                "Seçili kareyi açar"
+              ],
+              [
+                "Bayrak İşaretle",
+                "Sağ Tık",
+                "Uzun Basma",
+                "Mayın olduğunu düşündüğünüz yeri işaretler (⚑)"
+              ],
+              [
+                "Soru İşareti İşaretle",
+                "Tekrar Sağ Tık",
+                "Tekrar Uzun Basma",
+                "Emin olmadığınızda ? işareti koyar"
+              ],
+              [
+                "Hızlı Mayın Açma (Chord)",
+                "Açılmış sayı karesine sol tık",
+                "—",
+                "Sayı etrafındaki bayrak sayısı tam olduğunda tıklayarak tüm işaretlenmemiş kareleri aynı anda açar"
+              ]
+            ]
+          },
+          "tipBox": "💡 Küçük İpucu: Hızlı Mayın Açma (Chord) çok verimli bir oynanıştır! Sayı etrafındaki bayrak sayısı sayı değerine eşit olduğunda sol tıkla çevresindeki tüm işaretlenmemiş kareler otomatik olarak açılır."
+        },
+        {
+          "heading": "Sayıların Anlamı",
+          "paragraphs": [
+            "Bir kareyi açtığınızda 1 ile 8 arası bir sayı görünür, bu sayı çevresindeki 8 karede kaç tane mayın olduğunu belirtir.",
+            "3×3 örnekte ortadaki 1 sayısı, çevresindeki 8 karede tam olarak 1 mayın olduğunu ifade eder."
+          ],
+          "list": [
+            "1 — Çevresindeki 8 karede 1 mayın var",
+            "2 — Çevresindeki 8 karede 2 mayın var",
+            "3 — Çevresindeki 8 karede 3 mayın var",
+            "ve bu şekilde devam eder, en yüksek değer 8'dir"
+          ],
+          "tipBox": "💡 Sayısı boş kareler, çevresindeki 8 karede hiç mayın olmadığı anlamına gelir. Oyun çevresindeki alanı otomatik olarak açar — bu mayın oyunundaki zincir açma mekanizmasıdır."
+        },
+        {
+          "heading": "Oyun Modları",
+          "paragraphs": [
+            "Sabit Tahta Boyutu: 16 × 30 (480 Kare)"
+          ],
+          "table": {
+            "headers": [
+              "Mod",
+              "Başlangıç Mayın Sayısı",
+              "Artış Kuralı",
+              "Açıklama"
+            ],
+            "rows": [
+              [
+                "Yeni Başlayan",
+                "15 Mayın",
+                "Her Seviye Geçişinde +6 Mayın",
+                "En Yüksek 15. Seviyede 99 Mayın"
+              ],
+              [
+                "Normal Meydan Okuma",
+                "81 Mayın",
+                "Aşağıdaki Açıklamaya Bakın",
+                "Seviye başına mayın sayısı sınırsız artar"
+              ]
+            ]
+          },
+          "extraParagraph": "Normal Meydan Okuma Artış Kuralı: İlk 4 seviyede her biri 6 mayın ekler, sonraki her 3 seviyede 3 mayın, takip eden 3 seviyede 2 mayın ve sonrasında her seviyeye 1 mayın eklenir, üst sınır yoktur."
+        },
+        {
+          "heading": "Kazanma ve Kaybetme",
+          "list": [
+            [
+              "Kazanma",
+              "Tüm mayın olmayan kareleri açmak veya tüm mayın yerlerini doğru işaretlemek"
+            ],
+            [
+              "Kaybetme",
+              "Mayına tıklamak, oyun anında sonlanır"
+            ]
+          ],
+          "tipBox": "💡 İlk tık %100 güvenlidir! DMine ilk tıkınızın asla mayına denk gelmeyeceğini garanti eder, gönül rahatlığıyla oyuna başlayın."
+        },
+        {
+          "heading": "Tekrar İzleme ve Paylaşım",
+          "paragraphs": [
+            "Oyuncuların seviye geçiş kayıtları buluta otomatik olarak kaydedilir, diğer oyuncular oyun tekrarlarını izleyebilir. Tekrarlar sadece izlenebilir, düzenlenemez veya oynanamaz."
+          ]
+        },
+        {
+          "heading": "Sıralama Tablosu",
+          "paragraphs": [
+            "DMine bulut tabanlı sıralama tablosu sunar, oyuncular geçtikleri seviye sayısına göre sıralanır. Daha fazla seviye geçmek daha üst sıralama demektir, dünya genelindeki oyuncularla yarışın."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Oyunu Başlat"
+    },
+    "tips": {
+      "pageTitle": "İleri Seviye Mayın Oyunu İpuçları - Başlangıçtan Ustaya | DMine En İyi Mayın Oyunu",
+      "metaDescription": "Mayın oyunu ustası olma rehberi! 1-2-1 desen, 1-2-2-1 desen, hızlı tık tekniği, olasılık analizi... Bu ipuçlarıyla hızınızı ve kazanma oranınızı kolayca artırın!",
+      "metaKeywords": "mayın oyunu ipuçları, ileri seviye mayın taktikleri, mayın oyunu desenleri, mayın oyunu stratejisi, 1-2-1 mayın deseni, mayın oyunu olasılık, mayın oyunu ustası",
+      "headerTitle": "🎯 İleri Seviye Mayın Oyunu İpuçları",
+      "headerSubtitle": "Başlangıçtan ustaya, mayın oyunu uzmanı olun",
+      "headerSub2": "Desenleri ve stratejileri öğrenerek kazanma oranınızı ve oyun hızınızı iki katına çıkarın",
+      "sections": [
+        {
+          "heading": "I. Temel Desenler",
+          "difficulty": "Başlangıç",
+          "items": [
+            {
+              "title": "1-2-1 Deseni",
+              "paragraphs": [
+                "Bu, mayın oyununda en sık görülen ve en önemli temel desendir. Düz bir çizgide 1-2-1 sıralamasını gördüğünüzde kesin olarak şunu söyleyebilirsiniz:"
+              ],
+              "list": [
+                [
+                  "İki 1 sayısının üstünde birer mayın bulunur",
+                  "Bayrakla işaretleyin"
+                ],
+                [
+                  "2 sayısının üstündeki kare kesinlikle güvenlidir",
+                  "Gönül rahatlığıyla açabilirsiniz"
+                ]
+              ],
+              "tipBox": "💡 Bu kesin bir desen, tahmin yapmaya gerek yok, %100 mantıksal olarak sonuca ulaşabilirsiniz."
+            },
+            {
+              "title": "1-2-2-1 Deseni",
+              "paragraphs": [
+                "1-2-2-1 sıralamasını gördüğünüzde klasik bir desen daha karşınıza çıkar:"
+              ],
+              "list": [
+                [
+                  "İki 2 sayısının orta üst kısmında bir mayın bulunur",
+                  ""
+                ],
+                [
+                  "İki 1 sayısının üstünde birer güvenli kare bulunur",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Kenar Desenleri",
+              "paragraphs": [
+                "Sayılar oyun tahtasının kenarında olduğunda mantık yürütmek daha kolaylaşır, çünkü hesaplanacak bir taraf eksik olur."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "II. Orta Seviye Taktikler",
+          "difficulty": "İleri",
+          "items": [
+            {
+              "title": "Çift Tık Tekniği (Chord)",
+              "paragraphs": [
+                "Hız artırmak için en önemli işlemdir. Sayı etrafındaki bayrak sayısı sayı değerine eşit olduğunda fare tekerleği veya sol-sağ tıka aynı anda basarak çevresindeki tüm işaretlenmemiş kareleri otomatik olarak açabilirsiniz.",
+                "Örnek: 3 sayısının etrafında 3 bayrak varsa 3'e çift tıkla kalan 5 kare kendiliğinden açılır."
+              ],
+              "tipBox": "⚡ Ustaların Sırrı: Neredeyse tüm ileri seviye oyuncular bu tekniği kullanır, bayrak işaretleyip aynı anda kare açar, oyun hızı kat kat artar."
+            },
+            {
+              "title": "Çıkarım Mantığı",
+              "paragraphs": [
+                "Sayı etrafında zaten bayrak işaretlemesi yaptığınızda, işaretli bayrakları sayı değerinden çıkararak geri kalan karelerdeki mayın sayısını bulabilirsiniz. Örneğin: 3 sayısının etrafında 1 bayrak varsa geri kalan karelerde 2 mayın bulunur."
+              ]
+            },
+            {
+              "title": "Çoklu Sayı Birlikte Değerlendirme",
+              "paragraphs": [
+                "Sayıları tek başına değerlendirmeyin, komşu sayıları birlikte mantık yürütün. İki komşu sayı ortak kareleri paylaşır, kesişim ve tamamlayıcı ilişkilerinden daha fazla bilgi edinebilirsiniz."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "III. İleri Seviye Teknikler",
+          "difficulty": "Usta",
+          "items": [
+            {
+              "title": "Olasılık Analizi",
+              "paragraphs": [
+                "Kesin karar verilemeyen durumlarda yani tahmin yapmanız gerektiğinde, mayına denk gelme olasılığı en düşük kareyi seçin:"
+              ],
+              "list": [
+                [
+                  "Önce açılmış alanlara yakın kareleri tercih edin",
+                  "Daha fazla bilgi kaynağı var"
+                ],
+                [
+                  "İzole karelerden kaçının",
+                  "Olasılık belirsizliği yüksektir"
+                ],
+                [
+                  "Karmaşık durumlarda kalan mayın ve kare sayısı oranını hesaplamayı öğrenin",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Mayın oyununda tahmini tamamen ortadan kaldırmak imkansızdır ama olasılık analizi ile kazanma oranınızı %90'ın üzerine çıkarabilirsiniz."
+            },
+            {
+              "title": "Desen Tanıma",
+              "paragraphs": [
+                "Usta oyuncular kareleri tek tek saymaz, tıpkı metin okur gibi tüm desenleri bir bütün olarak tanır. Çok pratik yaptığınızda sayı kombinasyonlarını görür görmez nerede mayın nerede güvenli kare olduğunu anında anlarsınız."
+              ]
+            },
+            {
+              "title": "Fare Kullanım Taktikleri",
+              "list": [
+                [
+                  "Sağ ve Sol El Uyumlu Kullanım",
+                  "Sol el bayrak işaretler (sağ tık), sağ el kare açar (sol tık), görev paylaşımı nettir"
+                ],
+                [
+                  "Fare Hareketini Azaltın",
+                  "Tek tık yerine çift tık kullanarak tık sayısını ve fare hareket mesafesini azaltın"
+                ],
+                [
+                  "Oyun Ritmi",
+                  "Kendi oyun ritminizi bulun, bir hızlı bir yavaş oynamayın"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "IV. Gerçek Oyun Stratejileri",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Başlangıç Stratejisi",
+              "paragraphs": [
+                "DMine ilk tıkınızın güvenli olduğunu garanti eder. Oyuna başlarken büyük boş alanları öncelikli açın, sonraki mantık yürütmeleriniz için ipucu oluşturun."
+              ]
+            },
+            {
+              "title": "Öncelik Kuralı",
+              "paragraphs": [
+                "Oyun tahtasını şu sırayla yönetin:"
+              ],
+              "orderedList": [
+                "Önce tüm kesin desenleri çözün (1-2-1, 1-2-2-1 vb.)",
+                "Hızlı açma tekniğini kullanın",
+                "Tahta kenarındaki sayıları sırayla değerlendirin",
+                "En son tahmin gerektiren alanları ele alın"
+              ]
+            },
+            {
+              "title": "Tahmin Stratejisi",
+              "paragraphs": [
+                "Tahmin yapmak zorunda kaldığınızda:"
+              ],
+              "list": [
+                [
+                  "Önce tahta kenarındaki kareleri tahmin edin",
+                  "Genellikle kenar karelerinin bilgi bağlantısı azdır, risk daha düşüktür"
+                ],
+                [
+                  "Kalan mayın sayısını hesaplayın",
+                  "İşaretlenmemiş mayın sayısını bilerek karar vermenizi kolaylaştırır"
+                ],
+                [
+                  "Tahmini sona bırakın",
+                  "Zaman varsa önce diğer alanları çözün, tahtayı daha net hale getirin"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "V. Gelişim ve Antrenman",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Desen Tepkisi Antrenmanı",
+                  "Sayı kombinasyonlarını gördüğünüzde düşünmeden hareket edin, kas hafızası oluşturun"
+                ],
+                [
+                  "Tereddütü Azaltın",
+                  "Kesin kararları 0,5 saniye içinde verin"
+                ],
+                [
+                  "Geri Dönüş Analizi",
+                  "Kaybettikten sonra daha iyi ne yapabileceğinizi düşünün"
+                ],
+                [
+                  "DMine Sıralamasını Kullanın",
+                  "Ustaların rekorlarını görün, kendinize hedef koyun ve yeteneklerinizi zorlayın"
+                ],
+                [
+                  "Bayraksız Oynamayı Deneyin",
+                  "Hiç bayrak işaretlemeden oyunu bitirmeyi deneyin"
+                ]
+              ],
+              "tipBox": "🎯 Hedef Referansı: Normal oyuncular 10 seviye içinde, deneyimli oyuncular 20 seviye içinde, ustalar 30 seviye üstü oynar, en iyi oyuncular bayraksız bile 30 seviyeyi geçebilir."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Antrenmana Başla"
+    }
+  }
+}

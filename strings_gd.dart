@@ -51,6 +51,7 @@ const Map<String, String> stringsGd = {
   'language': 'Cànan',
   // Home page
   'newbie': 'Neach-tòiseachaidh',
+  'gameIntro': 'Ro-ràdh geama',
   'newBattle': 'Aghaidh Ùr',
   'continueChallenge': 'Lean air adhart leis an dùbhlan',
   'error': 'Mearachd',

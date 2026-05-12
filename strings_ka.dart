@@ -52,6 +52,7 @@ const Map<String, String> stringsKa = {
   'language': 'ენა',
   // Home page
   'newbie': 'მოწყობილები',
+  'gameIntro': 'თამაშის აღწერა',
   'newBattle': 'ახალი ფრონტი',
   'continueChallenge': 'განტანტის გაგრძელება',
   'error': 'შეცდომა',

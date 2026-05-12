@@ -51,6 +51,7 @@ const Map<String, String> stringsEo = {
   'language': 'Lingvo',
   // Home page
   'newbie': 'Komencanto',
+  'gameIntro': 'Ludpriskribo',
   'newBattle': 'Nova Batalfrontujo',
   'continueChallenge': 'Daŭrigi defion',
   'error': 'Eraro',

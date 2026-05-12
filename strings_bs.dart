@@ -50,6 +50,7 @@ const Map<String, String> stringsBs = {
   'language': 'Jezik',
   // Home page
   'newbie': 'Početnička nastava',
+  'gameIntro': 'Opis igre',
   'newBattle': 'Nova fronta',
   'continueChallenge': 'Nastavi izazov',
   'error': 'Greška',

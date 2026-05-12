@@ -50,6 +50,7 @@ const Map<String, String> stringsTh = {
   'language': 'ภาษา',
   // Home page
   'newbie': 'มือใหม่',
+  'gameIntro': 'แนะนำเกม',
   'newBattle': 'แนวรบใหม่',
   'continueChallenge': 'ดำเนินการต่อ',
   'error': 'ข้อผิดพลาด',

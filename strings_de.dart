@@ -54,6 +54,7 @@ const Map<String, String> stringsDe = {
   'language': 'Sprache',
   // Home page
   'newbie': 'Neuling',
+  'gameIntro': 'Spielbeschreibung',
   'newBattle': 'Neue Front',
   'continueChallenge': 'Herausforderung fortsetzen',
   'error': 'Fehler',

@@ -52,6 +52,7 @@ const Map<String, String> stringsMk = {
   'language': 'Јазик',
   // Home page
   'newbie': 'Почетник',
+  'gameIntro': 'Опис на играта',
   'newBattle': 'Нова фронт',
   'continueChallenge': 'Продолжи со предизвикот',
   'error': 'Грешка',

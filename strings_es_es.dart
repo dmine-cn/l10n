@@ -50,6 +50,7 @@ const Map<String, String> stringsEsEs = {
   'language': 'Idioma',
   // Home page
   'newbie': 'Principiante',
+  'gameIntro': 'Introducción al juego',
   'newBattle': 'Nuevo frente',
   'continueChallenge': 'Continuar desafío',
   'error': 'Error',

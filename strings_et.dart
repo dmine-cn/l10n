@@ -51,6 +51,7 @@ const Map<String, String> stringsEt = {
   'language': 'Keel',
   // Home page
   'newbie': 'Algaja',
+  'gameIntro': 'Mängu tutvustus',
   'newBattle': 'Uus rida',
   'continueChallenge': 'Jätka väljakutset',
   'error': 'Viga',

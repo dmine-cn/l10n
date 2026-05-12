@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "ca",
+    "langAttr": "ca",
+    "ogLocale": "ca_ES",
+    "siteName": "DMine - Millor Buscamines",
+    "canonicalPrefix": "ca/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Inici",
+    "rules": "Regles",
+    "tips": "Consells",
+    "about": "Sobre nosaltres",
+    "download": "Descarregar"
+  },
+  "footer": {
+    "copyright": "© 2026 Equip DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Quant a DMine - Buscamines Premium | Joc de buscamines multiplataforma",
+      "metaDescription": "DMine (Buscamines Premium) és un joc de buscamines multiplataforma compatible amb Windows, macOS, Linux, Android, iOS, HarmonyOS i Web. Gratis i de codi obert, 66 idiomes, juga en línia!",
+      "metaKeywords": "joc de buscamines,DMine,buscamines premium,buscamines multiplataforma,buscamines gratuït,buscamines de codi obert",
+      "headerTitle": "💣 DMine - Buscamines Premium",
+      "headerSubtitle": "Un joc de buscamines multiplataforma, gaudeix del clàssic en qualsevol lloc i moment",
+      "sections": [
+        {
+          "heading": "Què és DMine?",
+          "paragraphs": [
+            "DMine (Buscamines Premium) és un joc de buscamines multiplataforma desenvolupat amb el framework Flutter. Conserva la jugada principal del buscamines clàssic, afegeix un disseny modern i funcions riques per oferir una experiència nova als jugadors.",
+            "Siguis un jugador experimentat a Windows o un jugador casual que s’entreten amb el mòbil durant el trajecte, DMine compleix totes les teves necessitats."
+          ]
+        },
+        {
+          "heading": "Plataformes compatibles",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Les dades es sincronitzen entre totes les plataformes; juga en un lloc, sincronitza en tots."
+          ]
+        },
+        {
+          "heading": "Característiques destacades",
+          "list": [
+            [
+              "Suport multidioma",
+              "Compatibilitat amb 66 idiomes, jugadors de tot el món sense barreres"
+            ],
+            [
+              "Compartició de partides",
+              "Els registres de joc es comparteixen automàticament al núvol, altres jugadors poden veure la reproducció"
+            ],
+            [
+              "Rànquing al núvol",
+              "Competiu amb jugadors de tot el món per nivells superats"
+            ],
+            [
+              "Modes de joc múltiples",
+              "Dos modes: inici per a principiants i repte normal"
+            ],
+            [
+              "Totalment gratuït",
+              "Sense anuncis ni compres interiors, experiència de joc pura"
+            ]
+          ]
+        },
+        {
+          "heading": "Modes de joc",
+          "paragraphs": [
+            "Regles del joc: El tauler és fix 16×30 (480 caselles). Guanya si descobres totes les caselles segures entre el nombre determinat de mines."
+          ],
+          "list": [
+            [
+              "Inici per a principiants",
+              "Comença amb 15 mines, cada nivell superat afegeix 6 mines, màxim 99 mines al nivell 15"
+            ],
+            [
+              "Repte normal",
+              "Comença amb 81 mines; els primers 4 nivells +6 mines, els següents 3 +3 mines, uns altres 3 +2 mines, després +1 mina per nivell, sense límit superior"
+            ]
+          ]
+        },
+        {
+          "heading": "Informació de versió",
+          "paragraphs": [
+            "Versió actual: {{VERSION}}",
+            "Pila tècnica: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine és un projecte de codi obert, benvingut a seguir i contribuir amb codi a GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Començar el joc"
+    },
+    "rules": {
+      "pageTitle": "Regles detallades del buscamines - Imprescindible per a principiants | DMine Buscamines Premium",
+      "metaDescription": "Com jugar al buscamines? Aquest article explica detalladament les regles bàsiques, el significat dels números, els controls i les condicions de victòria, tutorial imprescindible per a principiants!",
+      "metaKeywords": "regles de buscamines,com jugar al buscamines,tutorial de buscamines,principiant de buscamines,regles bàsiques de buscamines,regles del joc de buscamines",
+      "headerTitle": "💣 Regles detallades del buscamines",
+      "headerSubtitle": "Aprèn a jugar des de zero, imprescindible per a principiants",
+      "sections": [
+        {
+          "heading": "Objectiu del joc",
+          "paragraphs": [
+            "L’objectiu del buscamines és senzill: descobreix totes les caselles segures sense picar cap mina. Si obres una mina, el joc acaba; si obres totes les caselles sense mines, has guanyat!"
+          ]
+        },
+        {
+          "heading": "Controls bàsics",
+          "table": {
+            "headers": [
+              "Acció",
+              "Ratolí",
+              "Tàctil",
+              "Explicació"
+            ],
+            "rows": [
+              [
+                "Obri una casella",
+                "Clic esquerre",
+                "Un toc",
+                "Obri la casella seleccionada"
+              ],
+              [
+                "Marcar amb bandera",
+                "Clic dret",
+                "Pitjar llarg",
+                "Marca el lloc on creus que hi ha una mina (⚑)"
+              ],
+              [
+                "Marcar amb signe d’interrogació",
+                "Clic dret un altre cop",
+                "Pitjar llarg un altre cop",
+                "Marca amb ? si no estàs segur"
+              ],
+              [
+                "Descoberta ràpida (Chord)",
+                "Clic esquerre en una casella de número oberta",
+                "—",
+                "Quan el nombre de banderes al voltant del número coincideix amb ell, clic al número per obrir totes les caselles sense marcar al voltant"
+              ]
+            ]
+          },
+          "tipBox": "💡 Consell: La descoberta ràpida (Chord) és molt eficaç! Quan el nombre de banderes al voltant d’un número coincideix amb ell, clic esquerre a la casella per obrir totes les caselles sense marcar."
+        },
+        {
+          "heading": "Significat dels números",
+          "paragraphs": [
+            "Quan obres una casella, apareix un número (1~8) que indica el nombre de mines a les 8 caselles veïnes.",
+            "Aquest és un exemple parcial 3×3: el número 1 al centre significa que hi ha 1 mina a les 8 caselles veïnes:"
+          ],
+          "list": [
+            "1 — 1 mina a les 8 caselles veïnes",
+            "2 — 2 mines a les 8 caselles veïnes",
+            "3 — 3 mines a les 8 caselles veïnes",
+            "…… i així successivament, màxim 8"
+          ],
+          "tipBox": "💡 Una casella buida (sense número) significa que no hi ha mines a les 8 caselles veïnes; el joc obre automàticament la zona al voltant — aquest és el mecanisme de «desplegament en cadena» del buscamines."
+        },
+        {
+          "heading": "Modes de joc",
+          "paragraphs": [
+            "Tauler fix: 16 × 30 (480 caselles)"
+          ],
+          "table": {
+            "headers": [
+              "Mode",
+              "Mines inicials",
+              "Regla d’increment",
+              "Explicació"
+            ],
+            "rows": [
+              [
+                "Inici per a principiants",
+                "15 mines",
+                "+6 mines per nivell superat",
+                "Màxim 99 mines al nivell 15"
+              ],
+              [
+                "Repte normal",
+                "81 mines",
+                "Vegeu a sota",
+                "El nombre de mines augmenta cada volta, sense límit superior"
+              ]
+            ]
+          },
+          "extraParagraph": "Regla d’increment per al repte normal: primers 4 nivells +6 mines, següents 3 +3 mines, uns altres 3 +2 mines, després +1 mina per nivell, sense límit superior."
+        },
+        {
+          "heading": "Victòria i derrota",
+          "list": [
+            [
+              "Victòria",
+              "Obri totes les caselles sense mines o marca correctament totes les mines"
+            ],
+            [
+              "Derrota",
+              "Clica en una mina, el joc acaba immediatament"
+            ]
+          ],
+          "tipBox": "💡 El primer clic és 100% segur! DMine garanteix que el primer clic no serà sobre una mina, comença amb tranquil·litat."
+        },
+        {
+          "heading": "Reproducció i compartició",
+          "paragraphs": [
+            "Els registres de nivells superats es comparteixen automàticament al núvol. Altres jugadors poden veure la reproducció a la «Línia». La reproducció és només per a visualitzar, no es pot participar ni modificar."
+          ]
+        },
+        {
+          "heading": "Rànquing",
+          "paragraphs": [
+            "DMine compatibilitza amb un rànquing al núvol, classificat per nombre de nivells superats. Com més nivells, més alt el rang; competeix amb jugadors de tot el món."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Començar el joc"
+    },
+    "tips": {
+      "pageTitle": "Trucs avançats de buscamines - Des de principiant a expert | DMine Buscamines Premium",
+      "metaDescription": "Guia per a experts de buscamines! Patró 1-2-1, patró 1-2-2-1, clic doble, anàlisi de probabilitats… Domina aquests trucs per millorar la velocitat i la taxa de victòria!",
+      "metaKeywords": "trucs de buscamines,trucs avançats de buscamines,patrons de buscamines,estratègia de buscamines,1-2-1 buscamines,probabilitats de buscamines,expert de buscamines,avançat en buscamines",
+      "headerTitle": "🎯 Trucs avançats de buscamines",
+      "headerSubtitle": "Des de principiant a expert, converteix-te en un màster del buscamines",
+      "headerSub2": "Domina aquests patrons i estratègies, duplica la velocitat i la taxa de victòria",
+      "sections": [
+        {
+          "heading": "1. Patrons bàsics",
+          "difficulty": "Principiant",
+          "items": [
+            {
+              "title": "Patró 1-2-1",
+              "paragraphs": [
+                "Aquest és el patró més comú i important del buscamines. Quan veus una seqüència 1-2-1 en línia recta, pots estar segur:"
+              ],
+              "list": [
+                [
+                  "Hi ha una mina damunt de cada 1",
+                  "Marca amb bandera"
+                ],
+                [
+                  "La casella damunt del 2 és segura",
+                  "La pots obrir amb tranquil·litat"
+                ]
+              ],
+              "tipBox": "💡 Aquest és un patró segur — no cal endevinar, 100% deduccible."
+            },
+            {
+              "title": "Patró 1-2-2-1",
+              "paragraphs": [
+                "Quan veus 1-2-2-1, també és un patró clàssic:"
+              ],
+              "list": [
+                [
+                  "Hi ha una mina damunt del centre dels dos 2",
+                  ""
+                ],
+                [
+                  "La casella damunt de cada 1 és segura",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Patrons de vora",
+              "paragraphs": [
+                "Quan un número està a la vora del tauler, el raonament és més senzill, ja que manca una cara per calcular."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Trucs intermedis",
+          "difficulty": "Avançat",
+          "items": [
+            {
+              "title": "Tècnica de clic doble (Chord)",
+              "paragraphs": [
+                "Aquesta és l’acció clau per augmentar la velocitat. Quan el nombre de banderes al voltant d’un número coincideix amb ell, clic al botó central del ratolí o esquerre+dret alhora; s’obren totes les caselles sense marcar al voltant.",
+                "Exemple: si un 3 ja té 3 banderes al voltant, clic doble al 3 i les 5 caselles restants s’obren automàticament."
+              ],
+              "tipBox": "⚡ Secret dels experts: Gairebé tots els jugadors avançats utilitzen el clic doble — marca i clica doble, la velocitat s’augmenta múltiples vegades."
+            },
+            {
+              "title": "Raonament per restes",
+              "paragraphs": [
+                "Quan un número ja té algunes banderes marcades, «resta» aquestes per obtenir el nombre de mines restants. Per exemple: un 3 amb una bandera té 2 mines més."
+              ]
+            },
+            {
+              "title": "Raonament combinat de números",
+              "paragraphs": [
+                "No miris els números aïllats, combina els números veïns. Dos números veïns comparteixen part de les caselles; usa la intersecció i el complement per deduir més informació."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Trucs avançats",
+          "difficulty": "Expert",
+          "items": [
+            {
+              "title": "Anàlisi de probabilitats",
+              "paragraphs": [
+                "Quan no pots estar segur (moment de «endevinar»), determina quina casella té la menor probabilitat de contenir una mina:"
+              ],
+              "list": [
+                [
+                  "Prioritza les caselles properes a zones obertes",
+                  "Més informació"
+                ],
+                [
+                  "Evita les caselles en zones aïllades",
+                  "Més incertesa"
+                ],
+                [
+                  "En casos complexos, aprèn a calcular la proporció de mines i caselles restants",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ «Endevinar» al buscamines no es pot evitar del tot, però amb anàlisi de probabilitats pots pujar la taxa de victòria per sobre del 90%."
+            },
+            {
+              "title": "Reconeixement de patrons",
+              "paragraphs": [
+                "Els experts no compten casella per casella; reconeixen «patrons» com llegir un text. Amb més pràctica, al veure certes combinacions sabràs instantàniament on són mines i on és segur."
+              ]
+            },
+            {
+              "title": "Trucs de control amb ratolí",
+              "list": [
+                [
+                  "Coordinació fluida entre mans",
+                  "Mà esquerra: banderes (clic dret), mà dreta: obrir (clic esquerre)"
+                ],
+                [
+                  "Redueix el moviment del ratolí",
+                  "Usa clic doble en lloc de clics sencers"
+                ],
+                [
+                  "Ritme",
+                  "Troba el seu propi ritme, no ser ràpid i lent de sobte"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Estratègies pràctiques",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Estratègia d’inici",
+              "paragraphs": [
+                "DMine garanteix que el primer clic és segur. Després de començar, obriu primer zones grans buides per crear més pistes per a raonaments posteriors."
+              ]
+            },
+            {
+              "title": "Regla de prioritat",
+              "paragraphs": [
+                "Resol el tauler en aquest ordre:"
+              ],
+              "orderedList": [
+                "Primer tots els patrons segurs (1-2-1, 1-2-2-1, etc.)",
+                "Usa la descoberta ràpida",
+                "Resol els números de les vores un per un",
+                "Finalment les zones que requereixen endevinar"
+              ]
+            },
+            {
+              "title": "Estratègia d’endevinament",
+              "paragraphs": [
+                "Quan has d’endevinar:"
+              ],
+              "list": [
+                [
+                  "Endevina primer les caselles de vora",
+                  "Normalment menys risc"
+                ],
+                [
+                  "Compta les mines restants",
+                  "Sabeu quantes mines queden per ajudar a decidir"
+                ],
+                [
+                  "Deixa-ho per últim",
+                  "Si tens temps, resol primer altres zones per aclarir el tauler"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Entrenament per millorar",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Entrena la reacció a patrons",
+                  "En veure combinacions, actua sense pensar, forma memòria muscular"
+                ],
+                [
+                  "Redueix els dubtes",
+                  "Decisions segures en 0,5 segons"
+                ],
+                [
+                  "Anàlisi després de la derrota",
+                  "Pensa què podries haver fet millor"
+                ],
+                [
+                  "Usa el rànquing DMine",
+                  "Mira els registres dels experts, posa objectius petits, desafiant-te a tu mateix"
+                ],
+                [
+                  "Prova sense banderes",
+                  "Prova acabar el joc sense marcar mines amb banderes"
+                ]
+              ],
+              "tipBox": "🎯 Referència d’objectius: jugador normal — fins a 10 nivells, jugador experimentat — fins a 20, expert — més de 30, jugador èlit — més de 30 nivells sense banderes."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Començar a practicar"
+    }
+  }
+}

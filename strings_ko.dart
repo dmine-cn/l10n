@@ -49,6 +49,7 @@ const Map<String, String> stringsKo = {
   'language': '언어',
   // Home page
   'newbie': '초보자',
+  'gameIntro': '게임 소개',
   'newBattle': '새 전선',
   'continueChallenge': '도전 계속하기',
   'error': '오류',

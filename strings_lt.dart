@@ -52,6 +52,7 @@ const Map<String, String> stringsLt = {
   'language': 'Kalba',
   // Home page
   'newbie': 'Pradedantysis',
+  'gameIntro': 'Žaidimo aprašymas',
   'newBattle': 'Nauja Fronte',
   'continueChallenge': 'Tęsti Iššūkį',
   'error': 'Klaida',

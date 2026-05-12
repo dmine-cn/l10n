@@ -50,6 +50,7 @@ const Map<String, String> stringsFa = {
   'language': 'زبان',
   // Home page
   'newbie': 'مقدماتی',
+  'gameIntro': 'معرفی بازی',
   'newBattle': 'جبهه جدید',
   'continueChallenge': 'ادامه چالش',
   'error': 'خطا',

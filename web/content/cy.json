@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "cy",
+    "langAttr": "cy",
+    "ogLocale": "cy_GB",
+    "siteName": "DMine - Chwilotop Glöynnod",
+    "canonicalPrefix": "cy/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Hafan",
+    "rules": "Rheolau",
+    "tips": "Awgrymiadau",
+    "about": "Amdanom",
+    "download": "Lawrlwytho"
+  },
+  "footer": {
+    "copyright": "© 2026 Tîm DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Ynglŷn â DMine - Chwilotop Glöynnod | Gêm chwilio glöynnod draws-llawys",
+      "metaDescription": "Mae DMine (Chwilotop Glöynnod) yn gêm chwilio glöynnod draws-llawys sy'n cefnogi Windows, macOS, Linux, Android, iOS, HarmonyOS a'r Webi. Am ddim ac agor cod, 66 iaith, chwaraewch ar-lein!",
+      "metaKeywords": "gêm chwilio glöynnod,DMine,chwilotop glöynnod,chwilio glöynnod draws-llawys,chwilio glöynnod am ddim,chwilio glöynnod agor cod",
+      "headerTitle": "💣 DMine - Chwilotop Glöynnod",
+      "headerSubtitle": "Gêm chwilio glöynnod draws-llawys, chwaraewch y classic mewn unrhyw le ac unrhyw amser",
+      "sections": [
+        {
+          "heading": "Beth yw DMine?",
+          "paragraphs": [
+            "Mae DMine (Chwilotop Glöynnod) yn gêm chwilio glöynnod draws-llawys a ddatblygwyd gan ddefnyddio fframwaith Flutter. Mae'n cadw chwarae sylfaenol y chwilio glöynnod clasurol, gan ychwanegu dyluniau modern a nodweddion helaeth i roi profiad newydd i'r chwaraewyr.",
+            "Beth bynnag, a yw chi'n chwaraewyr gwaith yn Windows neu chwaraewyr hamdden yn defnyddio ffôn symudol ar y daith, mae DMine yn bodloni'ch anghenion."
+          ]
+        },
+        {
+          "heading": "Platfformau a gefnogir",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Mae'r data yn cysylltu rhwng pob platfform; chwaraewch yn un lle, cysoniad pob lle."
+          ]
+        },
+        {
+          "heading": "Nodweddion arbennig",
+          "list": [
+            [
+              "Cefnogi aml-iaith",
+              "Cefnogi 66 iaith, chwaraewyr y byd yn chwarae heb rwystroedd"
+            ],
+            [
+              "Rhannu cofnodion",
+              "Mae cofnodion y gêm yn cael eu rhannu'n awtomatig i'r cwmwl, gall chwaraewyr eraill eu gweld"
+            ],
+            [
+              "Rhestru yn y cwmwl",
+              "Cystadlu â chwaraewyr y byd ar gyfer y nifer o lefelau a gorffwyswyd"
+            ],
+            [
+              "Dewisiadau aml",
+              "Dau fodd: ar gyfer dechreuwyr a her goeddus"
+            ],
+            [
+              "Am ddim yn llwyr",
+              "Heb hysbysebion, prynodiadau mewnol, profiad gêm glân"
+            ]
+          ]
+        },
+        {
+          "heading": "Moddau chwarae",
+          "paragraphs": [
+            "Rheolau'r gêm: Mae'r bwrdd yn gydrannau 16×30 (480 celli). Rydych yn ennill os canfyddwch bob cell ddiogel o fewn y nifer penodol o gloynnod."
+          ],
+          "list": [
+            [
+              "Ar gyfer dechreuwyr",
+              "Dechreuwch â 15 o gloynnod, ychwanegu 6 gloynnod bob tro rydych yn gorffen, hyd at 99 gloynnod ar lefel 15"
+            ],
+            [
+              "Her goeddus",
+              "Dechreuwch â 81 o gloynnod; ychwanegu 6 gloynnod ar y 4 lefel cyntaf, ychwanegu 3 gloynnod bob 3 lefel, wedyn 2 gloynnod bob 3 lefel, wedyn 1 gloynnod bob lefel, hyd yn oed"
+            ]
+          ]
+        },
+        {
+          "heading": "Gwybodaeth am y fersiwn",
+          "paragraphs": [
+            "Fersiwn presennol: {{VERSION}}",
+            "Pentir technegol: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "Mae DMine yn broject agor cod, croeso i ddilyn a chynnig cod ar GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Dechrau'r gêm"
+    },
+    "rules": {
+      "pageTitle": "Rheolau Chwilio Glöynnod - Rhaid i Ddechreuwyr | DMine Chwilotop Glöynnod",
+      "metaDescription": "Sut i chwarae chwilio glöynnod? Mae'r erthygl hon yn disgrifio rheolau sylfaenol, ystyr rhifau, moddau gweithredu ac amodau ennill yn fanwl - tiwtorial rhaid i ddechreuwyr!",
+      "metaKeywords": "rheolau chwilio glöynnod,sut i chwarae chwilio glöynnod,tiwtorial chwilio glöynnod,dechreuwyr chwilio glöynnod,rheolau sylfaenol chwilio glöynnod,rheolau gêm chwilio glöynnod",
+      "headerTitle": "💣 Rheolau Chwilio Glöynnod",
+      "headerSubtitle": "Dysgu chwilio glöynnod o'r dechrau, rhaid i ddechreuwyr",
+      "sections": [
+        {
+          "heading": "Amcan y gêm",
+          "paragraphs": [
+            "Mae amcan chwilio glöynnod yn syml: Datgloi pob cell ddiogel heb gosod troed ar glöynn. Os dawch ar glöynn, mae'r gêm yn dod i ben; os datgloiwch bob cell heb glöynn, rydych wedi ennill!"
+          ]
+        },
+        {
+          "heading": "Gweithrediadau sylfaenol",
+          "table": {
+            "headers": [
+              "Gweithrediad",
+              "Llygoden",
+              "Cysylltiad",
+              "Esboniad"
+            ],
+            "rows": [
+              [
+                "Datgloi cell",
+                "Clicio'r cloch chwith",
+                "Clicio unwaith",
+                "Datgloi'r cell a ddewiswyd"
+              ],
+              [
+                "Marcio â baner",
+                "Clicio'r cloch dde",
+                "Dal i glicio",
+                "Marcio'r lle rydych chi'n credu y mae glöynn (⚑)"
+              ],
+              [
+                "Marcio â gwestiwn",
+                "Clicio'r cloch dde eto",
+                "Dal i glicio eto",
+                "Marcio â ? pan nad ydych chi'n siŵr"
+              ],
+              [
+                "Chwilio cyflym (Chord)",
+                "Clicio'r cloch chwith ar rif wedi'i ddatgloi",
+                "—",
+                "Pan fydd nifer y baneri o amgylch y rif yn cyfateb i'r rif, cliciwch y rif i ddatgloi'r holl gelloedd heb eu marcio o'i amgylch"
+              ]
+            ]
+          },
+          "tipBox": "💡 Awgrymiad: Mae chwilio cyflym (Chord) yn ffordd chwarae effeithlon iawn! Pan fydd nifer y baneri o amgylch rhif yn cyfateb i'r rhif, cliciwch y cloch chwith ar y cell rhif a ddatgloi i ddatgloi'r holl gelloedd heb eu marcio."
+        },
+        {
+          "heading": "Ystyr Rhifau",
+          "paragraphs": [
+            "Pan ddatgloiwch gell, bydd rhif (1~8) yn ymddangos ar y gell, sy'n dangos faint o gloynnod sydd yn y 8 gell o'i amgylch.",
+            "Dyma enghraifft rhanbarth 3×3: Mae'r rhif 1 yn y canol yn golygu bod 1 glöynn yn y 8 gell o'i amgylch:"
+          ],
+          "list": [
+            "1 — 1 glöynn yn y 8 gell o'i amgylch",
+            "2 — 2 gloynnod yn y 8 gell o'i amgylch",
+            "3 — 3 gloynnod yn y 8 gell o'i amgylch",
+            "…… ac yn blaenoriau, uchaf 8"
+          ],
+          "tipBox": "💡 Mae cell gwag (heb rif) yn golygu nad oes gloynn yn y 8 gell o'i amgylch; bydd y gêm yn ddatgloi'r ardal o'i amgylch yn awtomatig — dyma fecnhwaith 'datgloi cadwyn' mewn chwilio glöynnod."
+        },
+        {
+          "heading": "Moddau chwarae",
+          "paragraphs": [
+            "Bwrdd gydrannau: 16 × 30 (480 cell)"
+          ],
+          "table": {
+            "headers": [
+              "Modd",
+              "Nifer gloynnod cychwynnol",
+              "Rheol cynyddu",
+              "Esboniad"
+            ],
+            "rows": [
+              [
+                "Ar gyfer dechreuwyr",
+                "15 gloynnod",
+                "+6 gloynnod bob tro gorffen",
+                "Hyd at 99 gloynnod ar lefel 15"
+              ],
+              [
+                "Her goeddus",
+                "81 gloynnod",
+                "Gweler isod",
+                "Mae'r nifer o gloynnod yn cynyddu bob cylch, hyd yn oed"
+              ]
+            ]
+          },
+          "extraParagraph": "Rheol cynyddu her goeddus: Ychwanegu 6 gloynnod ar y 4 lefel cyntaf, ychwanegu 3 gloynnod bob 3 lefel, wedyn 2 gloynnod bob 3 lefel, wedyn 1 gloynnod bob lefel, hyd yn oed."
+        },
+        {
+          "heading": "Ennill a Cholli",
+          "list": [
+            [
+              "Ennill",
+              "Datgloi'r holl gelloedd heb gloynnod, neu farcio'r holl leoliadau gloynnod yn gywir"
+            ],
+            [
+              "Colli",
+              "Clicio ar glöynn, mae'r gêm yn dod i ben ar unwaith"
+            ]
+          ],
+          "tipBox": "💡 Mae'r clic cyntaf yn 100% ddiogel! Mae DMine yn gwarrant na fydd y clic cyntaf ar glöynn, gadewch i chi ddechrau'n heddychlon."
+        },
+        {
+          "heading": "Ail-chwarae a Rhannu",
+          "paragraphs": [
+            "Mae cofnodion chwaraewyr sy'n gorffen yn cael eu rhannu'n awtomatig i'r cwmwl. Gall chwaraewyr eraill weld y broses yn y 'llinell'. Dim ond i'w gweld y gellir ail-chwarae, dim rydwiad na addasu."
+          ]
+        },
+        {
+          "heading": "Rhestru",
+          "paragraphs": [
+            "Mae DMine yn cefnogi rhestru yn y cwmwl, yn cael ei redegio yn ôl nifer y lefelau a gorffwyswyd. Po fwyaf lefelau, uwch y rhestred; cystadlu â chwaraewyr y byd."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Dechrau'r gêm"
+    },
+    "tips": {
+      "pageTitle": "Arbeithiau Uwch Chwilio Glöynnod - O Ddechrau i Berffeth | DMine Chwilotop Glöynnod",
+      "metaDescription": "Canllaw i'r chwaraewyr medrus! Patrymau 1-2-1, 1-2-2-1, clec dwbl, dadansoddiad tebygolrwydd… Mae'n hawdd i'w medru i'ch cyflymder a'ch llawysgrif ennill i fyny!",
+      "metaKeywords": "arbeithiau chwilio glöynnod,arbeithiau uwch chwilio glöynnod,patrymau chwilio glöynnod,strategaeth chwilio glöynnod,1-2-1 chwilio glöynnod,tebygolrwydd chwilio glöynnod,chwaraewyr medrus chwilio glöynnod,uwchgyrchu chwilio glöynnod",
+      "headerTitle": "🎯 Arbeithiau Uwch Chwilio Glöynnod",
+      "headerSubtitle": "O ddechrau i berffeth, dod yn chwaraewyr medrus",
+      "headerSub2": "Mae'n gwneud eich llawysgrif a'ch cyflymder yn dwbl",
+      "sections": [
+        {
+          "heading": "1. Patrymau Sylfaenol",
+          "difficulty": "Dechreuol",
+          "items": [
+            {
+              "title": "Patrym 1-2-1",
+              "paragraphs": [
+                "Dyma'r patrym mwyaf cyffredin a phwysig ym chwilio glöynnod. Pan welwch dilyniant rhifau 1-2-1 ar llinell syth, gallwch fod yn siŵr:"
+              ],
+              "list": [
+                [
+                  "Mae glöynn uwch ar bob 1",
+                  "Marcio â baner"
+                ],
+                [
+                  "Mae'r cell uwch ar y 2 yn ddiogel",
+                  "Gallwch ei ddatgloi'n heddychlon"
+                ]
+              ],
+              "tipBox": "💡 Dyma batrym cadarn – nid oes angen dyfalu, gellir ei ddarganfygu 100%."
+            },
+            {
+              "title": "Patrym 1-2-2-1",
+              "paragraphs": [
+                "Pan welwch dilyniant 1-2-2-1, mae hefyd yn batrym clasurol:"
+              ],
+              "list": [
+                [
+                  "Mae glöynn uwch canol y ddau 2",
+                  ""
+                ],
+                [
+                  "Mae cell ddiogel uwch ar bob 1",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Patrymau Ymyl",
+              "paragraphs": [
+                "Pan fydd rhif ar ymyl y bwrdd, mae'r dadansoddiad yn dod yn symlach, gan nad oes un ochr i'w gyfrifo."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Arbeithiau Canolradd",
+          "difficulty": "Uwch",
+          "items": [
+            {
+              "title": "Clec Dwbl (Chord)",
+              "paragraphs": [
+                "Dyma'r weithred bwysig i'ch cyflymder i fyny. Pan fydd nifer y baneri o amgylch rhif yn cyfateb i'r rhif, cliciwch ganol y llygoden neu ddau glicio ar y cloch chwith a'r dde ar yr un pryd; bydd y gêm yn ddatgloi'r holl gelloedd heb eu marcio o'i amgylch yn awtomatig.",
+                "Enghraifft: Os oes 3 faner o amgylch rhif 3, clec dwbl ar y 3 a bydd y 5 gell o'u gylch yn cael eu datgloi."
+              ],
+              "tipBox": "⚡ Cyfrinach y medrus: Mae'r rhan fwyaf o chwaraewyr uwch yn defnyddio clec dwbl – farcio a chlicio dwbl ar yr un pryd, gall y cyflymder gynyddu'n grynhoi."
+            },
+            {
+              "title": "Dadansoddiad trwy dynnu",
+              "paragraphs": [
+                "Pan fydd rhai baneri wedi eu marcio o amgylch rhif, 'dynwch' y baneri hynny i gael nifer y gloynnod sy'n weddill yn y gelloedd. Er enghraifft: os oes un faner o amgylch rhif 3, mae 2 gloynnod yn weddill."
+              ]
+            },
+            {
+              "title": "Dadansoddiad Gydol Rhifau",
+              "paragraphs": [
+                "Peidiwch ag edrych ar rifiau unigol, defnyddiwch rifiau cyfochos i'w dadansoddi. Mae dau rif cyfochos yn rhannu rhan o'r gelloedd, a gallwch ddefnyddio'r gorffwys a'i gynnydd i gael mwy o wybodaeth."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Arbeithiau Uwch",
+          "difficulty": "Medrus",
+          "items": [
+            {
+              "title": "Dadansoddiad Tebygolrwydd",
+              "paragraphs": [
+                "Pan ddywedwch â sefyllfa ddi-sicr (h.y. 'dyfalu glöynnod'), penderfynwch pa gell sydd â'r tebygolrwydd isaf o glicio ar glöynnod:"
+              ],
+              "list": [
+                [
+                  "Dewis cellau agos at ardal wedi'i datgloi",
+                  "Mwy o wybodaeth"
+                ],
+                [
+                  "Osgoi cellau mewn ardaloedd gwahaniaethol",
+                  "Tebygolrwydd ansicr yn uchel"
+                ],
+                [
+                  "Mewn rhai sefyllfaoedd cymhleth, dysgwch gyfrifo'r gymhareb rhwng y gloynnod sy'n weddill a'r gelloedd",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Nid yw 'dyfalu' yn gellir ei osgoi'n llwyr ym chwilio glöynnod, ond gall dadansoddiad tebygolrwydd eich llawysgrif ennill i fyny dros 90%."
+            },
+            {
+              "title": "Adnabod Patrymau",
+              "paragraphs": [
+                "Nid yw llygaid y medrus yn cyfrif cellau un ar un, mae'n adnabod 'patrymau' – fel darllen testun. Mae llawer o ymarfer yn gwneud yn hawdd adnabod lle mae gloynnod a lle mae'n ddiogel."
+              ]
+            },
+            {
+              "title": "Arbeithiau Gweithredu Llygoden",
+              "list": [
+                [
+                  "Cydweithrediad llygad a llaw llawen",
+                  "Llaw chwith: marcio baner (cloch dde), llaw dde: datgloi (cloch chwith)"
+                ],
+                [
+                  "Lleihau symudiad y llygoden",
+                  "Defnyddiwch clec dwbl yn hytrach na clec unigol"
+                ],
+                [
+                  "Rytm",
+                  "Darganfyddwch eich rhyddid weithredu, peidiwch â mynd yn gyflym ac yn araf yn sydyn"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Strategaethau Ymarferol",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Strategaeth y Cychwyn",
+              "paragraphs": [
+                "Mae DMine yn gwarrant bod y clic cyntaf yn ddiogel. Ar ôl dechrau, datgloiwch ardal gwag helaeth i greu mwy o dystiolaeth ar gyfer y dadansoddiadau nesaf."
+              ]
+            },
+            {
+              "title": "Rheol Blaenoriaeth",
+              "paragraphs": [
+                "Trin y bwrdd yn y dilyniant canlynol:"
+              ],
+              "orderedList": [
+                "Trin bob patrymau cadarn (1-2-1, 1-2-2-1 ayyb.)",
+                "Defnyddiwch y dull datgloi cyflym",
+                "Trin rhifau ar ymyl un ar un",
+                "Yn olaf trin ardaloedd sydd angen dyfalu"
+              ]
+            },
+            {
+              "title": "Strategaeth Dyfalu Glöynnod",
+              "paragraphs": [
+                "Pan mae'n rhaid i chi ddyfalu:"
+              ],
+              "list": [
+                [
+                  "Dyfalu cellau ar ymyl yn gyntaf",
+                  "Yn aml, llai o risg"
+                ],
+                [
+                  "Cyfrifo'r gloynnod sy'n weddill",
+                  "Gwybodaeth am faint o gloynnod sy'n weddill i'ch helpu i benderfynu"
+                ],
+                [
+                  "Gadewch i'r olaf",
+                  "Os oes digon o amser, datrys ardaloedd eraill yn gyntaf i'w gwneud yn glir"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Hyfforddi I'w Well",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Ymarfer ar ymateb i batrymau",
+                  "Pan welwch gymhaliadau rhifau, gweithredwch heb adael i'w meddwl, creu cof cyhyrau"
+                ],
+                [
+                  "Lleihau gofyn",
+                  "Penderfyniadau cadarn yn 0.5 eiliad"
+                ],
+                [
+                  "Dadansoddiad ar ôl colli",
+                  "Meddyliwch beth allech chi'w wneud yn well"
+                ],
+                [
+                  "Defnyddiwch rhestru DMine",
+                  "Gweler cofnodion y medrus, gosod targed bach, herio'ch gallu"
+                ],
+                [
+                  "Rhoi cynnig ar hepgloio",
+                  "Rhoi cynnig i orffen y gêm heb farcio baneri"
+                ]
+              ],
+              "tipBox": "🎯 Cyfeiriad targed: Chwaraewyr arferol – o fewn 10 lefel, chwaraewyr llawen – o fewn 20 lefel, medrus – dros 30 lefel, chwaraewyr blaenaf – gallu hepgloio i gyrraedd dros 30 lefel."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Dechrau ymarfer"
+    }
+  }
+}

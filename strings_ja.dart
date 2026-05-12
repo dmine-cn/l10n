@@ -49,6 +49,7 @@ const Map<String, String> stringsJa = {
   'language': '言語',
   // Home page
   'newbie': '初心者',
+  'gameIntro': 'ゲーム紹介',
   'newBattle': '新規戦線',
   'continueChallenge': 'チャレンジを続ける',
   'error': 'エラー',

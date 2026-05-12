@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "hr",
+    "langAttr": "hr",
+    "ogLocale": "hr_HR",
+    "siteName": "DMine - Vrhunski Minač",
+    "canonicalPrefix": "hr/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Početna",
+    "rules": "Pravila",
+    "tips": "Savjeti",
+    "about": "O nama",
+    "download": "Preuzmi"
+  },
+  "footer": {
+    "copyright": "© 2026 Tim DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "O DMine - Vrhunski Minač | Višeplatformska igra Minač",
+      "metaDescription": "DMine (Vrhunski Minač) je višeplatformska igra minač podržana za Windows, macOS, Linux, Android, iOS, HarmonyOS i Web platforme. Besplatna i otvorenog koda, podrška za 66 jezika, igrajte online bilo kada!",
+      "metaKeywords": "igra minač, DMine, vrhunski minač, višeplatformski minač, besplatni minač, minač otvorenog koda",
+      "headerTitle": "💣 DMine - Vrhunski Minač",
+      "headerSubtitle": "Klasična višeplatformska igra minač, igrajte bilo kada i bilo gdje",
+      "sections": [
+        {
+          "heading": "Što je DMine?",
+          "paragraphs": [
+            "DMine (Vrhunski Minač) je višeplatformska igra minač razvijena pomoću Flutter okvira. Zadržava osnovni način igre klasičnog minača, uz moderni dizajn sučelja i bogate značajke koje pružaju potpuno novo iskustvo igre.",
+            "Bilo da ste strastveni igrač na Windowsu ili povremeni igrač na mobitelu tijekom putovanja, DMine zadovoljava sve vaše potrebe."
+          ]
+        },
+        {
+          "heading": "Podržane platforme",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Web",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Podaci se sinkroniziraju na svim platformama – započnite igru na jednom uređaju, nastavite na bilo kojem drugom."
+          ]
+        },
+        {
+          "heading": "Glavne značajke",
+          "list": [
+            [
+              "Višejezična podrška",
+              "Podrška za 66 jezika, igrajte bez prepreka s igračima iz cijelog svijeta"
+            ],
+            [
+              "Dijeli zapise igre",
+              "Zapisi igre automatski se spremaju u oblak, ostali igrači mogu reproducirati vašu igru"
+            ],
+            [
+              "Ljestvica u oblaku",
+              "Natječite se s igračima diljem svijeta u prolasku razina"
+            ],
+            [
+              "Više načina igre",
+              "Dva načina: početnički i normalni izazov"
+            ],
+            [
+              "Potpuno besplatno",
+              "Bez oglasa i kupnji unutar aplikacije, čisto iskustvo igre"
+            ]
+          ]
+        },
+        {
+          "heading": "Načini igre",
+          "paragraphs": [
+            "Pravila igre: Polje fiksne veličine 16×30 (480 polja). Pobijedi otkrivanjem svih sigurnih polja bez naleta na minu."
+          ],
+          "list": [
+            [
+              "Početnički način",
+              "Počinje s 15 mina, svaka prođena razina dodaje 6 mina, maksimalno 99 mina do 15. razine"
+            ],
+            [
+              "Normalni izazov",
+              "Počinje s 81 minom, prvih 4 razine dodaju po 6 mina, zatim svake 3 razine po 3 mine, potom svake 3 razine po 2 mine i na kraju po 1 mina po razini bez gornje granice"
+            ]
+          ]
+        },
+        {
+          "heading": "Informacije o verziji",
+          "paragraphs": [
+            "Trenutna verzija: {{VERSION}}",
+            "Tehnološki skup: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "DMine je projekt otvorenog koda. Pratite nas i doprinesite na GitHubu."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Igraj odmah"
+    },
+    "rules": {
+      "pageTitle": "Detaljna pravila Minača – Obavezno za početnike | DMine Vrhunski Minač",
+      "metaDescription": "Kako igrati minač? Ovaj vodič detaljno objašnjava osnovna pravila, značenje brojeva, način upravljanja i uvjete pobjede. Neophodan tutorijal za nove igrače!",
+      "metaKeywords": "pravila minača, kako igrati minač, tutorijal minača, minač za početnike, osnovna pravila minača",
+      "headerTitle": "💣 Detaljna pravila igre Minač",
+      "headerSubtitle": "Naučite igrati od nule, vodič za početnike",
+      "sections": [
+        {
+          "heading": "Cilj igre",
+          "paragraphs": [
+            "Cilj minača je jednostavan: otkrij sva sigurna polja bez naleta na minu. Ako klikneš na minu, igra odmah završava. Ako otkriješ sva polja bez mina, pobjeđuješ!"
+          ]
+        },
+        {
+          "heading": "Osnovno upravljanje",
+          "table": {
+            "headers": [
+              "Radnja",
+              "Miš",
+              "Dodirni zaslon",
+              "Opis"
+            ],
+            "rows": [
+              [
+                "Otkrij polje",
+                "Lijevi klik",
+                "Jednostavan dodir",
+                "Otvara odabrano polje"
+              ],
+              [
+                "Označite zastavicom",
+                "Desni klik",
+                "Dugi pritisak",
+                "Označite mjesto za koje mislite da sadrži minu (⚑)"
+              ],
+              [
+                "Označite upitnikom",
+                "Ponovni desni klik",
+                "Ponovni dugi pritisak",
+                "Označite upitnikom kada niste sigurni"
+              ],
+              [
+                "Brzo otvaranje (Chord)",
+                "Lijevi klik na otkriveni broj",
+                "—",
+                "Kada broj zastavica odgovara vrijednosti broja, sva susjedna neoznačena polja otvaraju se automatski"
+              ]
+            ]
+          },
+          "tipBox": "💡 Savjet: Brzo otvaranje (Chord) vrlo je učinkovito! Kada broj zastavica oko broja odgovara njegovoj vrijednosti, kliknite i otvorite sva susjedna polja odjednom."
+        },
+        {
+          "heading": "Značenje brojeva",
+          "paragraphs": [
+            "Kada otkriješ polje, prikazat će se broj od 1 do 8 koji označava koliko mina se nalazi u osam susjednih polja.",
+            "Primjer polja 3×3: broj 1 u sredini znači da se u osam okolnih polja nalazi 1 mina."
+          ],
+          "list": [
+            "1 — U osam susjednih polja nalazi se 1 mina",
+            "2 — U osam susjednih polja nalaze se 2 mine",
+            "3 — U osam susjednih polja nalaze se 3 mine",
+            "I tako dalje do maksimalnog broja 8"
+          ],
+          "tipBox": "💡 Ako otkriješ prazno polje bez broja, u okolnim poljima nema mina i igra automatski otvara cijelo područje – to je lančano širenje u igri minač."
+        },
+        {
+          "heading": "Načini igre",
+          "paragraphs": [
+            "Fiksna veličina polja: 16 × 30 (480 polja)"
+          ],
+          "table": {
+            "headers": [
+              "Način",
+              "Početni broj mina",
+              "Pravilo povećanja",
+              "Opis"
+            ],
+            "rows": [
+              [
+                "Početnički",
+                "15 mina",
+                "+6 mina po razini",
+                "Maksimalno 99 mina do 15. razine"
+              ],
+              [
+                "Normalni izazov",
+                "81 mina",
+                "Pogledaj dolje",
+                "Broj mina stalno raste bez gornje granice"
+              ]
+            ]
+          },
+          "extraParagraph": "Pravilo povećanja normalnog izazova: Prvih 4 razine dodaje se po 6 mina, zatim svake 3 razine po 3 mine, potom svake 3 razine po 2 mine i na kraju po 1 mina po razini bez ograničenja."
+        },
+        {
+          "heading": "Pobjeda i poraz",
+          "list": [
+            [
+              "Pobjeda",
+              "Otkrij sva polja bez mina ili točno označi sve mine"
+            ],
+            [
+              "Poraz",
+              "Klik na minu odmah završava igru"
+            ]
+          ],
+          "tipBox": "💡 Prvi klik je 100% siguran! DMine jamči da vaš prvi klik nikada neće biti na minu, započnite igru bez brige."
+        },
+        {
+          "heading": "Reprodukcija i dijeljenje",
+          "paragraphs": [
+            "Zapisi prolaska razina automatski se spremaju u oblak. Ostali igrači mogu pogledati cijelu reprodukciju igre. Reprodukcija se samo gleda, nije moguća izmjena niti sudjelovanje."
+          ]
+        },
+        {
+          "heading": "Ljestvica",
+          "paragraphs": [
+            "DMine ima ljestvicu u oblaku poredanu po broju prođenih razina. Što više razina prođete, vaša pozicija je bolja i možete se natjecati s igračima iz cijelog svijeta."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Igraj odmah"
+    },
+    "tips": {
+      "pageTitle": "Napredni savjeti za Minač – Od početnika do stručnjaka | DMine Vrhunski Minač",
+      "metaDescription": "Strateški savjeti stručnjaka za minač! Obrasci 1-2-1, 1-2-2-1, tehnika dvostrukog klika, analiza vjerojatnosti… Savladajte ove savjete i povećajte brzinu i stopu pobjede!",
+      "metaKeywords": "savjeti minač, napredni savjeti minač, obrasci minač, strategije minač, 1-2-1 minač, vjerojatnost minač, stručnjak za minač",
+      "headerTitle": "🎯 Napredni savjeti za Minač",
+      "headerSubtitle": "Od početnika do majstora, postanite stručnjak za minač",
+      "headerSub2": "Savladajte ove obrasce i strategije te udvostručite stopu pobjede i brzinu igre",
+      "sections": [
+        {
+          "heading": "1. Osnovni obrasci",
+          "difficulty": "Početnik",
+          "items": [
+            {
+              "title": "Obrazac 1-2-1",
+              "paragraphs": [
+                "Ovo je najčešći i najvažniji obrazac u minaču. Kada vidite niz 1-2-1 u ravnoj liniji, možete sa sigurnošću zaključiti:"
+              ],
+              "list": [
+                [
+                  "Iznad obaju brojeva 1 nalazi se po jedna mina",
+                  "Označite zastavicom"
+                ],
+                [
+                  "Polje iznad broja 2 potpuno je sigurno",
+                  "Slobodno ga otvorite"
+                ]
+              ],
+              "tipBox": "💡 Ovaj obrazac je 100% siguran – nema potrebe za nagađanjem, zaključak je logički siguran."
+            },
+            {
+              "title": "Obrazac 1-2-2-1",
+              "paragraphs": [
+                "Niz 1-2-2-1 također je klasični obrazac:"
+              ],
+              "list": [
+                [
+                  "Iznad između dva broja 2 nalazi se po jedna mina",
+                  ""
+                ],
+                [
+                  "Iznad obaju brojeva 1 nalazi se sigurno polje",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Obrazac na rubu polja",
+              "paragraphs": [
+                "Kada se broj nalazi na rubu polja, logičko zaključivanje postaje lakše jer se ne računa jedna strana."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Srednje tehnike",
+          "difficulty": "Srednji",
+          "items": [
+            {
+              "title": "Tehnika dvostrukog klika (Chord)",
+              "paragraphs": [
+                "Ovo je ključna tehnika za povećanje brzine. Kada broj zastavica oko nekog broja odgovara njegovoj vrijednosti, kotačić miša ili istodobni lijevi i desni klik automatski otvara sva susjedna neoznačena polja.",
+                "Primjer: Ako oko broja 3 postoje 3 zastavice, dvostruki klik otvara preostalih 5 polja automatski."
+              ],
+              "tipBox": "⚡ Tajna stručnjaka: Gotovo svi napredni igrači koriste dvostruki klik. Označujte zastavice i koristite brzo otvaranje kako biste višestruko ubrzali igru."
+            },
+            {
+              "title": "Logika oduzimanja",
+              "paragraphs": [
+                "Kada su oko broja već označene neke zastavice, oduzmite njihov broj kako biste saznali koliko mina ostaje u preostalim poljima. Primjerice, ako je oko broja 1 označena jedna zastavica, u preostalim poljima ostaju 2 mine."
+              ]
+            },
+            {
+              "title": "Zajedničko zaključivanje više brojeva",
+              "paragraphs": [
+                "Ne promatrajte brojeve izolirano, spojite susjedne brojeve za logičko zaključivanje. Dva susjedna broja dijele dio polja, iskoristite njihov odnos za više informacija."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Napredne tehnike",
+          "difficulty": "Stručnjak",
+          "items": [
+            {
+              "title": "Analiza vjerojatnosti",
+              "paragraphs": [
+                "Kada područje nije moguće riješiti logikom (potrebno nagađanje), odaberite polje s najmanjom vjerojatnošću da sadrži minu:"
+              ],
+              "list": [
+                [
+                  "Prvo odaberite polja blizu već otkrivenih područja",
+                  "Više dostupnih informacija"
+                ],
+                [
+                  "Izbjegavajte izolirana područja",
+                  "Veća neizvjesnost vjerojatnosti"
+                ],
+                [
+                  "U složenim situacijama izračunajte omjer preostalih mina i polja",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Nagađanje u minaču nije moguće u potpunosti izbjeći, ali analizom vjerojatnosti možete podići stopu pobjede iznad 90%."
+            },
+            {
+              "title": "Prepoznavanje obrazaca",
+              "paragraphs": [
+                "Stručni igrači ne broje polje po polje, već prepoznaju cijele blokove obrazaca kao čitanje teksta. Uz vježbu odmah ćete prepoznati kombinacije brojeva i znati gdje su mine, a gdje sigurna polja."
+              ]
+            },
+            {
+              "title": "Savjeti za upravljanje mišem",
+              "list": [
+                [
+                  "Koordinacija obje ruke",
+                  "Lijeva ruka: označavanje zastavicom (desni klik), desna ruka: otvaranje polja (lijevi klik), jasna podjela zadataka"
+                ],
+                [
+                  "Smanjite pomicanje miša",
+                  "Koristite dvostruki klik umjesto pojedinačnih klikova, manje pomicanja i manje klikova"
+                ],
+                [
+                  "Ritam igre",
+                  "Pronađite vlastiti ritam, ne igrajte prebrzo niti presporo"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Praktične strategije",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Strategija početka igre",
+              "paragraphs": [
+                "DMine jamči da je prvi klik siguran. Na početku igre prvo otvorite velika prazna područja kako biste dobili više tragova za daljnje logičko zaključivanje."
+              ]
+            },
+            {
+              "title": "Pravilo prioriteta",
+              "paragraphs": [
+                "Rješavajte polje sljedećim redoslijedom:"
+              ],
+              "orderedList": [
+                "Prvo riješite sve sigurne obrasce (1-2-1, 1-2-2-1 itd.)",
+                "Koristite tehniku brzog otvaranja",
+                "Redom riješite brojeve na rubu polja",
+                "Na kraju ostavite područja koja zahtijevaju nagađanje"
+              ]
+            },
+            {
+              "title": "Strategija nagađanja",
+              "paragraphs": [
+                "Kada morate nagađati:"
+              ],
+              "list": [
+                [
+                  "Prvo nagađajte polja na rubu",
+                  "Obično imaju manje povezanih informacija, manji rizik"
+                ],
+                [
+                  "Prebrojite preostale mine",
+                  "Znajte koliko mina još nije označeno za lakšu odluku"
+                ],
+                [
+                  "Ostavite nagađanje za kraj",
+                  "Ako imate vremena, prvo riješite ostala područja kako bi polje postalo jasnije"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Vježba i usavršavanje vještina",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Vježbajte reakciju na obrasce",
+                  "Reagirajte automatski na kombinacije brojeva za stvaranje mišićne memorije"
+                ],
+                [
+                  "Smanjite neodlučnost",
+                  "Sigurne odluke donesite unutar 0,5 sekunde"
+                ],
+                [
+                  "Analizirajte poraze",
+                  "Nakon poraza razmislite što biste mogli bolje napraviti"
+                ],
+                [
+                  "Koristite DMine ljestvicu",
+                  "Pogledajte rekorde stručnjaka, postavite mali cilj i izazovite sebe"
+                ],
+                [
+                  "Isprobajte igru bez zastavica",
+                  "Pokušajte završiti igru bez označavanja ijedne zastavice"
+                ]
+              ],
+              "tipBox": "🎯 Referenca razina: Prosječni igrač ispod 10 razina, iskusan ispod 20 razina, stručnjak iznad 30 razina, vrhunski igrač može proći više od 30 razina bez zastavica."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Vježbaj odmah"
+    }
+  }
+}

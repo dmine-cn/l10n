@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "locale": "gd",
+    "langAttr": "gd",
+    "ogLocale": "gd_GB",
+    "siteName": "DMine - Mèinnear àrd",
+    "canonicalPrefix": "gd/",
+    "pageSuffix": ""
+  },
+  "nav": {
+    "home": "Dachaigh",
+    "rules": "Riaghailtean",
+    "tips": "Molaidhean",
+    "about": "Mu ar deidhinn",
+    "download": "Luchdaich sìos"
+  },
+  "footer": {
+    "copyright": "© 2026 Sgioba DMine"
+  },
+  "pages": {
+    "about": {
+      "pageTitle": "Mu dheidhinn DMine - Mèinnear Àrd | Geama mèinnear ioma-àrd-ùrlar",
+      "metaDescription": "Tha DMine (Mèinnear Àrd) na gheama mèinnear ioma-àrd-ùrlar a tha a’ toirt taic do Windows, macOS, Linux, Android, iOS, HarmonyOS agus an Lìon. Saor an-asgaidh agus stòr fosgailte, taic do 66 cànan, cluich air-loidhne uair sam bith!",
+      "metaKeywords": "geama mèinnear, DMine, mèinnear àrd, mèinnear ioma-àrd-ùrlar, mèinnear saor, mèinnear stòr fosgailte",
+      "headerTitle": "💣 DMine - Mèinnear Àrd",
+      "headerSubtitle": "Geama mèinnear clasaigeach ioma-àrd-ùrlar – cluich uair sam bith, àite sam bith",
+      "sections": [
+        {
+          "heading": "Dè tha DMine?",
+          "paragraphs": [
+            "Tha DMine (Mèinnear Àrd) na gheama mèinnear ioma-àrd-ùrlar air a leasachadh le frèam-obair Flutter. Tha e a’ cumail prìomh dhòigh cluiche a’ mhèinnear chasaid, agus a’ cur dealbhadh eadar-aghaidh ùr-nodha agus feartan beairteach ris gus eòlas ùr a thoirt do chluicheadairean.",
+            "Ge bith a bheil thu nad chluicheadair dealasach air Windows no nad chluicheadair corra uair air fòn-làimhe fhad ’s a tha thu a’ siubhal, coileanadh DMine na feumalachdan agad gu lèir."
+          ]
+        },
+        {
+          "heading": "Àrd-ùrlaran le taic",
+          "platformTags": [
+            "🪟 Windows",
+            "🍎 macOS",
+            "🐧 Linux",
+            "🤖 Android",
+            "📱 iOS",
+            "🌐 Lìon",
+            "⚡ HarmonyOS"
+          ],
+          "paragraphs": [
+            "Tha dàta air a cho-chothromachadh thar gach àrd-ùrlar; cluich ann an aon àite agus lean air adhart air inneal sam bith."
+          ]
+        },
+        {
+          "heading": "Prìomh fheartan",
+          "list": [
+            [
+              "Taic ioma-chànan",
+              "Taic do 66 cànan, cluich gun chrìochan le clluicheadairean air feadh an t-saoghail"
+            ],
+            [
+              "Co-roinn eachdraidh cluiche",
+              "Tha clàran cluiche air an roinn gu fèin-obrachail san sgòth, faodaidh clluicheadairean eile coimhead air ath-chluich"
+            ],
+            [
+              "Rangachadh sgòth",
+              "Dèan farpais le clluicheadairean cruinne air àireamh nan ìrean crìochnaichte"
+            ],
+            [
+              "Modhan cluiche eadar-dhealaichte",
+              "Dà mhodh: Tòiseachaidh agus Dùbhlan àbhaisteach"
+            ],
+            [
+              "Gu tur saor an-asgaidh",
+              "Gun sanasan, gun ceannach in-app, eòlas cluiche glan"
+            ]
+          ]
+        },
+        {
+          "heading": "Modhan Cluiche",
+          "paragraphs": [
+            "Riaghailtean a’ gheama: Griod stèidhichte 16×30 (480 ceallan). Bhuannaich thu le bhith a’ fosgladh a h-uile ceallan sàbhailte am measg àireamh shònraichte de mhèinnean."
+          ],
+          "list": [
+            [
+              "Modh Tòiseachaidh",
+              "Tòisich le 15 mèinn, cuir 6 mèinn ris às dèidh gach ìre, suas ri 99 mèinn aig ìre 15"
+            ],
+            [
+              "Dùbhlan Àbhaisteach",
+              "Tòisich le 81 mèinn, cuir 6 mèinn ris airson a’ chiad 4 ìrean, an uairsin 3 mèinn gach 3 ìre, às dèidh sin 2 mèinn gach 3 ìre, agus mu dheireadh 1 mèinn gach ìre gun chrìoch àrd"
+            ]
+          ]
+        },
+        {
+          "heading": "Fiosrachadh Tionndaidh",
+          "paragraphs": [
+            "Tionndadh làithreach: {{VERSION}}",
+            "Stac teicneòlais: Flutter + Dart + NestJS + PostgreSQL + Redis",
+            "Tha DMine na phròiseact stòr fosgailte. Tha fàilte oirbh sinn a leantainn agus cur ris a’ chòd air GitHub."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Cluich a-nis"
+    },
+    "rules": {
+      "pageTitle": "Mìneachadh air Riaghailtean a’ Mhèinnear - Feumail do Thòiseachaidhean | DMine Mèinnear Àrd",
+      "metaDescription": "Ciamar a chluicheas tu am mèinnear? Tha an stiùireadh seo a’ mìneachadh riaghailtean bunaiteach, ciall àireamhan, dòigh obrachaidh agus suidheachadh buaidh. Stiùireadh riatanach do thòiseachaidhean!",
+      "metaKeywords": "riaghailtean mèinnear, ciamar a chluicheas tu am mèinnear, oideachadh mèinnear, mèinnear do thòiseachaidhean, riaghailtean bunaiteach a’ mhèinnear",
+      "headerTitle": "💣 Mìneachadh mionaideach air riaghailtean a’ mhèinnear",
+      "headerSubtitle": "Ionnsaich am mèinnear bhon toiseach – riatanach do thòiseachaidhean",
+      "sections": [
+        {
+          "heading": "Amas a’ Gheama",
+          "paragraphs": [
+            "Tha amas a’ mhèinnear sìmplidh: Fosgail a h-uile ceallan sàbhailte gun tighinn air mèinn. Ma bhuaileas tu mèinn, thig an geama gu crìch. Ma dh’fhosglas tu a h-uile ceallan gun mhèinn, bidh buaidh agad!"
+          ]
+        },
+        {
+          "heading": "Obrachaidhean Bunaiteach",
+          "table": {
+            "headers": [
+              "Gnìomh",
+              "Luch",
+              "Taisbeanadh suathaidh",
+              "Mìneachadh"
+            ],
+            "rows": [
+              [
+                "Fosgail ceallan",
+                "Cliog clì",
+                "Tap aon uair",
+                "Fosgail an ceallan taghte"
+              ],
+              [
+                "Comharraich le bratach",
+                "Cliog deas",
+                "Brùth fada",
+                "Comharraich àite far a bheil thu amharasach mu mhèinn (⚑)"
+              ],
+              [
+                "Comharraich le comharra ceist",
+                "Cliog deas a-rithist",
+                "Brùth fada a-rithist",
+                "Comharraich le ? nuair nach eil thu cinnteach"
+              ],
+              [
+                "Fosgladh luath (Chord)",
+                "Cliog clì air ceallan àireamh fosgailte",
+                "—",
+                "Nuair a tha àireamh nam brataichean timcheall àireamh co-ionann ris an àireamh, cliog gus a h-uile ceallan neo-chomharraichte faisg air làimh fhosgladh gu fèin-obrachail"
+              ]
+            ]
+          },
+          "tipBox": "💡 Moladh: Tha am Fosgladh Luath (Chord) air leth èifeachdach! Nuair a tha àireamh nam brataichean timcheall àireamh co-ionann ris an àireamh fhèin, cliog air gus a h-uile ceallan faisg air làimh fhosgladh gu fèin-obrachail."
+        },
+        {
+          "heading": "Ciall nan Àireamhan",
+          "paragraphs": [
+            "Nuair a dh’fhosglas tu ceallan, nochdaidh àireamh eadar 1 is 8 air. Tha e a’ sealltainn àireamh nam mèinnean anns na 8 ceallan faisg air làimh.",
+            "Eisimpleir air raon 3×3: Tha an àireamh 1 sa mheadhan a’ ciallachadh gu bheil aon mhèinn anns na 8 ceallan mun cuairt."
+          ],
+          "list": [
+            "1 — Aon mhèinn anns na 8 ceallan mun cuairt",
+            "2 — Dà mhèinn anns na 8 ceallan mun cuairt",
+            "3 — Trì mèinnean anns na 8 ceallan mun cuairt",
+            "Agus mar sin air adhart suas gu 8"
+          ],
+          "tipBox": "💡 Ma lorgas tu ceallan falamh gun àireamh, chan eil mèinn sam bith anns na 8 ceallan mun cuairt. Bidh an geama a’ fosgladh na sgìre gu fèin-obrachail – is e seo uidheamachd slabhraidh a’ mhèinnear."
+        },
+        {
+          "heading": "Modhan Cluiche",
+          "paragraphs": [
+            "Griod stèidhichte: 16 × 30 (480 ceallan)"
+          ],
+          "table": {
+            "headers": [
+              "Modh",
+              "Àireamh tòiseachaidh mèinnean",
+              "Riaghailt àrdachaidh",
+              "Mìneachadh"
+            ],
+            "rows": [
+              [
+                "Tòiseachaidh",
+                "15 mèinn",
+                "+6 mèinn às dèidh gach ìre",
+                "Suas ri 99 mèinn aig ìre 15"
+              ],
+              [
+                "Dùbhlan Àbhaisteach",
+                "81 mèinn",
+                "Faic gu h-ìosal",
+                "Àireamh nam mèinnean ag èirigh gun chrìoch àrd"
+              ]
+            ]
+          },
+          "extraParagraph": "Riaghailt an Dùbhlain Àbhaistich: Cuir 6 mèinn ris airson a’ chiad 4 ìrean, an uairsin 3 mèinn gach 3 ìre, às dèidh sin 2 mèinn gach 3 ìre, agus mu dheireadh 1 mèinn gach ìre gun chrìoch àrd."
+        },
+        {
+          "heading": "Buaidh is Call",
+          "list": [
+            [
+              "Buaidh",
+              "Fosgail a h-uile ceallan gun mhèinn no comharraich suidheachadh gach mèinn gu ceart"
+            ],
+            [
+              "Call",
+              "Cliog air mèinn – thig an geama gu crìch sa bhad"
+            ]
+          ],
+          "tipBox": "💡 Tha a’ chiad chlic 100% sàbhailte! Tha DMine a’ gealltainn nach e mèinn a bhios anns a’ chiad cheallan a dh’fhosglas tu, cluich gun dragh."
+        },
+        {
+          "heading": "Ath-chluich is Co-roinn",
+          "paragraphs": [
+            "Tha clàran ìre crìochnaichte air an roinn gu fèin-obrachail san sgòth. Faodaidh clluicheadairean eile coimhead air do chluiche. Chan urrainn ach coimhead air ath-chluich, cha ghabh atharrachadh no pàirt a ghabhail ann."
+          ]
+        },
+        {
+          "heading": "Rangachadh",
+          "paragraphs": [
+            "Tha rangachadh sgòth aig DMine stèidhichte air àireamh nan ìrean crìochnaichte. Mar as motha ìrean a chrìochnaicheas tu, is àirde do rang – dèan farpais le clluicheadairean air feadh an t-saoghail."
+          ]
+        }
+      ],
+      "ctaText": "🎮 Cluich a-nis"
+    },
+    "tips": {
+      "pageTitle": "Molaidhean Àrd-ìre a’ Mhèinnear - Bho Thòiseachadh gu Maighstireachd | DMine Mèinnear Àrd",
+      "metaDescription": "Ro-innleachdan àrd-ìre a’ mhèinnear! Pàtran 1-2-1, pàtran 1-2-2-1, innleachd dùchlic, mion-sgrùdadh coltachd... Maighistir na molaidhean seo gus do astar agus ìre buaidh a dhùblachadh!",
+      "metaKeywords": "molaidhean mèinnear, innleachdan àrd-ìre mèinnear, pàtrain mèinnear, ro-innleachd mèinnear, 1-2-1 mèinnear, coltachd mèinnear, maighstir mèinnear",
+      "headerTitle": "🎯 Molaidhean Àrd-ìre a’ Mhèinnear",
+      "headerSubtitle": "Bho thòiseachadh gu maighstireachd – bi nad mhaighstir air a’ mhèinnear",
+      "headerSub2": "Maighistir na pàtrain agus na ro-innleachdan seo gus do ìre buaidh agus astar cluiche a dhùblachadh",
+      "sections": [
+        {
+          "heading": "1. Pàtrain Bunaiteach",
+          "difficulty": "Tòiseachadh",
+          "items": [
+            {
+              "title": "Pàtran 1-2-1",
+              "paragraphs": [
+                "Is e seo am pàtran as cumanta agus as cudromaiche sa mhèinnear. Nuair a chì thu sreath àireamhan 1-2-1 ann an loidhne dhìreach, faodaidh tu a dhearbhadh gu cinnteach:"
+              ],
+              "list": [
+                [
+                  "Aon mhèinn os cionn gach 1",
+                  "Comharraich le bratach"
+                ],
+                [
+                  "Tha an ceallan os cionn an àireamh 2 sàbhailte gu cinnteach",
+                  "Faodar fhosgladh gun teagamh"
+                ]
+              ],
+              "tipBox": "💡 Tha am pàtran seo 100% cinnteach – chan fheumar tomhas a dhèanamh, gabhaidh a thoirt a-mach gu loidsigeach."
+            },
+            {
+              "title": "Pàtran 1-2-2-1",
+              "paragraphs": [
+                "Nuair a chì thu an sreath 1-2-2-1, is pàtran clasaigeach eile a th’ ann:"
+              ],
+              "list": [
+                [
+                  "Aon mhèinn os cionn meadhan an dà àireamh 2",
+                  ""
+                ],
+                [
+                  "Aon cheallan sàbhailte os cionn gach 1",
+                  ""
+                ]
+              ]
+            },
+            {
+              "title": "Pàtran Imeall",
+              "paragraphs": [
+                "Nuair a tha àireamh air oir na griod, tha e nas fhasa co-dhùnadh a dhèanamh, oir chan fheumar taobh a-muigh a àireamhachadh."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "2. Innleachdan Meadhan-ìre",
+          "difficulty": "Meadhan-ìre",
+          "items": [
+            {
+              "title": "Dùchlic (Chord)",
+              "paragraphs": [
+                "Is e seo an innleachd as cudromaiche gus astar cluiche àrdachadh. Nuair a tha àireamh nam brataichean timcheall àireamh co-ionann ris a luach, cleachd cuibhle na luiche no cliog clì is deas aig an aon àm gus a h-uile ceallan neo-chomharraichte faisg air làimh fhosgladh gu fèin-obrachail.",
+                "Eisimpleir: Ma tha 3 brataichean timcheall àireamh 3, dèan dùchlic air agus fosglaidh na 5 ceallan eile gu fèin-obrachail."
+              ],
+              "tipBox": "⚡ Dìomhair nam maighstirean: Cleachdaidh cha mhòr a h-uile clluicheadair eòlach an dùchlic. Comharraich brataichean agus cleachd fosgladh luath aig an aon àm gus d’ astar iomadachadh."
+            },
+            {
+              "title": "Co-dhùnadh toirt air falbh",
+              "paragraphs": [
+                "Nuair a tha cuid de bhrataichean air an cur mu thràth timcheall àireamh, thoir air falbh an àireamh aca gus àireamh nam mèinnean a tha air fhàgail anns na ceallan fhaighinn a-mach. Mar eisimpleir, ma tha 1 bhratach timcheall àireamh 3, tha 2 mhèinn eile anns na ceallan faisg air làimh."
+              ]
+            },
+            {
+              "title": "Co-dhùnadh ioma-àireamh",
+              "paragraphs": [
+                "Na leugh àireamhan leotha fhèin; ceangail àireamhan faisg air làimh ri chèile airson co-dhùnaidhean. Bidh dà àireamh faisg air làimh a’ roinn cuid de cheallan, cleachd an ceangal agus an co-chòrdadh gus barrachd fiosrachaidh fhaighinn."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "3. Innleachdan Àrd-ìre",
+          "difficulty": "Maighstireachd",
+          "items": [
+            {
+              "title": "Mion-sgrùdadh Coltachd",
+              "paragraphs": [
+                "Nuair nach gabh suidheachadh a rèiteachadh gu cinnteach (àm tomhais), dèan measadh dè an ceallan as lugha cunnart mèinn a bhith ann:"
+              ],
+              "list": [
+                [
+                  "Tagh ceallan faisg air raointean fosgailte an toiseach",
+                  "Barrachd fiosrachaidh"
+                ],
+                [
+                  "Seachain ceallan ann an raointean iomallach",
+                  "Mì-chinnt àrd"
+                ],
+                [
+                  "Ann an suidheachaidhean iom-fhillte, ionnsaich co-mheas nam mèinnean agus nan ceallan a tha air fhàgail obrachadh a-mach",
+                  ""
+                ]
+              ],
+              "warnBox": "⚠️ Chan urrainnear tomhas a sheachnadh gu tur sa mhèinnear, ach le mion-sgrùdadh coltachd faodar ìre buaidh a thogail os cionn 90%."
+            },
+            {
+              "title": "Aithneachadh Pàtrain",
+              "paragraphs": [
+                "Chan eil maighstirean a’ àireamh nan ceallan aon ri aon; bidh iad ag aithneachadh blocan pàtrain mar a leughas iad teacsa. Le cleachdadh, aithnichidh tu sa bhad càit a bheil mèinnean agus càit a bheil ceallan sàbhailte nuair a chì thu co-chruinneachadh àireamhan."
+              ]
+            },
+            {
+              "title": "Innleachdan obrachaidh luiche",
+              "list": [
+                [
+                  "Co-obrachadh dà làmh",
+                  "Làmh chlì: comharraich brataichean (cliog deas), làmh dheas: fosgail ceallan (cliog clì), roinn obair shoilleir"
+                ],
+                [
+                  "Lùghdaich gluasad luiche",
+                  "Cleachd dùchlic an àite cliogan singilte, lùghdaich àireamh nan cliog agus astar gluasad na luiche"
+                ],
+                [
+                  "Ruitheam cluiche",
+                  "Lorg do ruitheam obrachaidh fhèin, na bi ro luath no ro shlaodach"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "4. Ro-innleachdan Cleachdail",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "Ro-innleachd toiseach cluiche",
+              "paragraphs": [
+                "Tha DMine a’ gealltainn sàbhailteachd a’ chiad chlic. Aig toiseach a’ gheama, fosgail raointean falamh mòra an toiseach gus barrachd sanasan fhaighinn airson co-dhùnaidhean nas fhaide air adhart."
+              ]
+            },
+            {
+              "title": "Riaghailt Prìomhachais",
+              "paragraphs": [
+                "Dèilig ris a’ ghriod san òrdugh seo:"
+              ],
+              "orderedList": [
+                "Rèitich a h-uile pàtran cinnteach an toiseach (1-2-1, 1-2-2-1 msaa)",
+                "Cleachd an fosgladh luath",
+                "Dèilig ri àireamhan air na h-oirean aon ri aon",
+                "Crìochnaich le raointean far a bheil feum air tomhas"
+              ]
+            },
+            {
+              "title": "Ro-innleachd Tomhais Mèinn",
+              "paragraphs": [
+                "Nuair a dh’fheumas tu tomhas a dhèanamh:"
+              ],
+              "list": [
+                [
+                  "Tomhais ceallan air na h-oirean an toiseach",
+                  "Mar as trice chan eil mòran ceangal fiosrachaidh aca, nas lugha cunnart"
+                ],
+                [
+                  "Àireamh na mèinnean a tha air fhàgail",
+                  "Faigh fios cò mheud mèinn nach eil air an comharrachadh fhathast gus do roghainn a chuideachadh"
+                ],
+                [
+                  "Fàg tomhas gu deireadh",
+                  "Ma tha ùine agad, rèitich raointean eile an toiseach gus a’ ghriod a dhèanamh nas soilleire"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "5. Trèanadh Leasachadh Sgilean",
+          "difficulty": "",
+          "items": [
+            {
+              "title": "",
+              "list": [
+                [
+                  "Cleachd freagairt phàtrain",
+                  "Nuair a chì thu co-chruinneachadh àireamhan, obraich gun smaoineachadh gus cuimhne fèithe a chruthachadh"
+                ],
+                [
+                  "Lùghdaich dàil",
+                  "Dèan co-dhùnaidhean cinnteach taobh a-staigh 0.5 diogainn"
+                ],
+                [
+                  "Mion-sgrùdadh às dèidh call",
+                  "Smaoinich dè dh’fhaodadh a bhith air a dhèanamh nas fheàrr às dèidh call"
+                ],
+                [
+                  "Cleachd rangachadh DMine",
+                  "Coimhead clàran nam maighstirean, suidhich amas beag agus thoir dùbhlan dhut fhèin"
+                ],
+                [
+                  "Feuch cluich gun bhrataichean",
+                  "Feuch an geama a chrìochnachadh gun bratach sam bith a chur"
+                ]
+              ],
+              "tipBox": "🎯 Slat-tomhais ìre: Clluicheadair àbhaisteach fo 10 ìrean, eòlach fo 20 ìrean, maighstir thairis air 30 ìrean, prìomh chluicheadair comasach air còrr is 30 ìrean a chrìochnachadh gun bhrataichean."
+            }
+          ]
+        }
+      ],
+      "ctaText": "🎮 Cleachd a-nis"
+    }
+  }
+}
