@@ -191,11 +191,13 @@ class AppLocalizations {
     'uz': stringsUz,
   };
 
-  /// 根据 `_selectedLanguageCode` 判断实际应使用的 locale 代码
+  /// 获取实际应使用的语言代码
+  /// 如果用户手动选择了语言，返回用户选择的代码；
+  /// 否则回退到系统 locale 的语言代码。
   /// 这用于解决 Flutter 内置的 MaterialLocalizations 不支持某些语言的问题。
   /// 例如：用户选择 tt（鞑靼语），但 Flutter 不支持 tt，
   /// 所以 MaterialApp 实际用的是 Locale('en')，但我们的字符串应仍使用 'tt' 查找。
-  String get _effectiveLanguageCode {
+  String get effectiveLanguageCode {
     if (_selectedLanguageCode.isNotEmpty) {
       return _selectedLanguageCode;
     }
@@ -203,7 +205,7 @@ class AppLocalizations {
   }
 
   String _getString(String key) {
-    final langCode = _effectiveLanguageCode;
+    final langCode = effectiveLanguageCode;
     // 尝试顺序：完整代码 -> 语言代码 -> 英语 -> 键名
     return _localizedValues[langCode]?[key] ??
         _localizedValues[langCode.split('_').first]?[key] ??
