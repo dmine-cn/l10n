@@ -227,24 +227,6 @@ const Map<String, String> stringsAf = {
   'quitBattlefrontTitle': 'Verlaat Front',
   'quitBattlefrontContent':
       'Is jy seker jy wil front "{name}" verlaat? Jou plaaslike vordering sal verwyder word.',
-
-  // Download page
-  'downloadClient': 'Laai Kliënt af',
-  'browser': 'Blaaier',
-  'browserDesc': 'Speel direk in blaaiër, geen aflaai nodig',
-  'windowsDesc': 'Vir Windows 10 en hoër',
-  'macosDesc': 'Vir macOS 10.15 en hoër',
-  'android': 'Android',
-  'androidDesc': 'Vir Android 8.0 en hoër',
-  'iosDesc': 'Vir iOS 14.0 en hoër',
-  'linkAddress': 'Skakel Adres',
-  'downloadLink': 'Aflaaiskakel',
-  'qrCode': 'QR-kode',
-  'scanToDownload': 'Skandeer met foon om af te laai',
-  'copy': 'Kopieer',
-  'copiedToClipboard': 'Na knipbord gekopieer',
-  'openLink': 'Open skakel',
-  'cannotOpenLink': 'Kan nie skakel oopmaak nie',
   // Game introduction
   'gameIntroduction':
       '1. "Beginner" begin met 15 myns, kan tot 99 myns gaan.\n2. "Nuwe Front" begin met 81 myns, elke vlak verhoog myntelling, geen boonste limiet.\n3. In aanlynmodus word voltooide fronte outomaties na die wolk gedeel vir ander om te leer.',

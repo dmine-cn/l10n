@@ -230,24 +230,6 @@ const Map<String, String> stringsBr = {
   'quitBattlefrontTitle': 'Mont eus ar c\'kornog',
   'quitBattlefrontContent':
       'Ho peus sur da mont eus ar c\'kornog "{name}"? Ho treuzkas lec\'hel a vo dilemet.',
-
-  // 下载页面
-  'downloadClient': 'Pellgargañ ar kliant',
-  'browser': 'Merdeer',
-  'browserDesc': 'C\'hoari dre drezhoù er merdeer, hep pellgargañ',
-  'windowsDesc': 'Evit Windows 10 ha hueloc\'h',
-  'macosDesc': 'Evit macOS 10.15 ha hueloc\'h',
-  'android': 'Android',
-  'androidDesc': 'Evit Android 8.0 ha hueloc\'h',
-  'iosDesc': 'Evit iOS 14.0 ha hueloc\'h',
-  'linkAddress': 'Chomlec\'h al liamm',
-  'downloadLink': 'Liamm pellgargañ',
-  'qrCode': 'Kod QR',
-  'scanToDownload': 'Skanit gant ho telefenn evit pellgargañ',
-  'copy': 'Eilañ',
-  'copiedToClipboard': 'Eilet er buhard-kelou',
-  'openLink': 'Digeriñ al liamm',
-  'cannotOpenLink': 'N\'haller ket digeriñ al liamm',
   // 游戏介绍
   'gameIntroduction':
       '1. "Deiziad ziotaerien" a loc\'hañ gant 15 munil, ha c\'haller kaout da 99 munil;\n2. "Kornog nevez" a loc\'hañ gant 81 munil, ha muioc\'h a muniloù a zo ouzhpennet dre nivel, hep benn uhel.\n3. Pa zo kevrinet er Internet, ar c\'kornogoù "embannet" a zo rannet automatikek er c\'heloud evit deskiñ reter.',

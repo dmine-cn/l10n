@@ -231,24 +231,6 @@ const Map<String, String> stringsEu = {
   'quitBattlefrontTitle': 'Irten borroka frontieratik',
   'quitBattlefrontContent':
       'Ziur zaude "{name}" borroka frontieratik irten nahi duzula? Zure tokiko aurrerapena ezabatuko da.',
-
-  // 下载页面
-  'downloadClient': 'Deskargatu bezeroa',
-  'browser': 'Nabigatzailea',
-  'browserDesc': 'Jolastu zuzenean nabigatzailean, deskargatu gabe',
-  'windowsDesc': 'Windows 10 eta gorakoa',
-  'macosDesc': 'macOS 10.15 eta gorakoa',
-  'android': 'Android sistema',
-  'androidDesc': 'Android 8.0 eta gorakoa',
-  'iosDesc': 'iOS 14.0 eta gorakoa',
-  'linkAddress': 'Estekaren helbidea',
-  'downloadLink': 'Deskargatzeko esteka',
-  'qrCode': 'QR kodea',
-  'scanToDownload': 'Eskaneatu telefonoarekin deskargatzeko',
-  'copy': 'Kopiatu',
-  'copiedToClipboard': 'Arbelera kopiatuta',
-  'openLink': 'Ireki esteka',
-  'cannotOpenLink': 'Ezin da esteka ireki',
   // 游戏介绍
   'gameIntroduction':
       '1. "Hasiberriek" 15 minekin hasten da, gehienez 99 minera iristen da;\n2. "Borroka frontiera berria" 81 minekin hasten da, maila bakoitzean mina kopurua gehitzen da, gehienezik ez.\n3. Internet konexioa dagoenean, "gainditutako" borroka frontierak automatikoki partekatuko dira hodeian besteentzat ikusteko.',

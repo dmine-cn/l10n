@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Սկսել պրակտիկան"
+    },
+    "download": {
+      "pageTitle": "DMine Ներբեռնում - Լավագույն Ականահատ | Հարմարակայնային հաճախորդի ներբեռնում",
+      "metaDescription": "Անվճար ներբեռնեք DMine (Լավագույն Ականահատ) հաճախորդը! Ենթադրում է Windows, macOS, Linux սահմանային պլատֆորմեր, ինչպես նաև Android, iOS, HarmonyOS բջջային պլատֆորմեր. Տվյալների համաժամանակավորում պլատֆորմերի միջև, խաղացեք անսահմանափակ",
+      "metaKeywords": "ականահատ ներբեռնում, DMine ներբեռնում, լավագույն ականահատ ներբեռնում, ականահատի հաճախորդ, անվճար ականահատ ներբեռնում, հարմարակայնային ականահատ",
+      "headerTitle": "📥 DMine Ներբեռնում",
+      "headerSubtitle": "Հարմարակայնային աջակցություն. Ընտրեք ձեր պլատֆորմը և սկսեք խաղալ",
+      "desktopSectionTitle": "💻 Սահմանային պլատֆորմեր",
+      "mobileSectionTitle": "📱 Բջջային պլատֆորմեր",
+      "desktopPlatforms": [
+        {
+          "name": "Պարզունակ",
+          "icon": "🌐",
+          "description": "Առանց ներբեռնման, խաղացեք անմիջապես ցանցի միջոցով",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Բնական macOS հավելված, աջակցում է Intel և Apple Silicon պրոցեսորներ",
+          "isLink": false,
+          "label": "DMG Տեղադրեք պատուհաս"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows սահմանային տարբերակ, աջակցում է Windows 10/11",
+          "isLink": false,
+          "label": "EXE Տեղադրեք պատուհաս",
+          "zipLabel": "ZIP Տեղափոխելի տարբերակ"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux սահմանային տարբերակ, աջակցում է AppImage և tar.gz ձևերը",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz Տեղեկացված պատուհաս"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android բջջային տարբերակ, աջակցում է APK ներբեռնում և տեղադրում",
+          "label": "APK Տեղադրեք պատուհաս"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS տարբերակ, աջակցում է iPhone և iPad",
+          "label": "IPA Տեղադրեք պատուհաս"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Բնական HarmonyOS հավելված, աջակցում է HAP տեղադրում",
+          "label": "HAP Տեղադրեք պատուհաս"
+        }
+      ],
+      "qrCodeLabel": "📷 QR կոդը սկանավորեք ներբեռնման համար",
+      "qrCodeAlt": "QR կոդը սկանավորեք DMine ներբեռնման համար",
+      "scanToDownload": "Սկանավորեք բջջային տարբերակը ներբեռնման համար",
+      "linkAddress": "Հղման հասցե",
+      "copyLabel": "Պատճենել",
+      "openLabel": "Բացել",
+      "copiedLabel": "Պատճենվեց միջանցք!",
+      "ctaText": "🎮 խաղի սկիզբ"
     }
   }
 }

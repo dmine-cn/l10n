@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 S'entraîner"
+    },
+    "download": {
+      "pageTitle": "Télécharger DMine - Top Démineur | Téléchargement client multi-plateformes",
+      "metaDescription": "Téléchargez gratuitement le client DMine (Top Démineur) ! Prend en charge les plateformes de bureau Windows, macOS, Linux, ainsi que les plateformes mobiles Android, iOS et HarmonyOS. Synchronisation des données跨平台, jouez sans limites.",
+      "metaKeywords": "télécharger démineur, télécharger DMine, télécharger top démineur, client démineur, télécharger démineur gratuit, démineur multi-plateformes",
+      "headerTitle": "📥 Télécharger DMine",
+      "headerSubtitle": "Prise en charge multi-plateformes. Choisissez votre plateforme et commencez à jouer",
+      "desktopSectionTitle": "💻 Plateformes de bureau",
+      "mobileSectionTitle": "📱 Plateformes mobiles",
+      "desktopPlatforms": [
+        {
+          "name": "Navigateur",
+          "icon": "🌐",
+          "description": "Pas de téléchargement nécessaire, jouez en ligne directement",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Application native macOS, compatible avec les processeurs Intel et Apple Silicon",
+          "isLink": false,
+          "label": "Paquet d'installation DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Version bureau Windows, compatible avec Windows 10/11",
+          "isLink": false,
+          "label": "Paquet d'installation EXE",
+          "zipLabel": "Version portable ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Version bureau Linux, prend en charge les formats AppImage et tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Archive compressée tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Version mobile Android, prend en charge le téléchargement et l'installation APK",
+          "label": "Paquet d'installation APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Version iOS, compatible avec iPhone et iPad",
+          "label": "Paquet d'installation IPA"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Application native HarmonyOS, prend en charge l'installation HAP",
+          "label": "Paquet d'installation HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Scanner le QR code pour télécharger",
+      "qrCodeAlt": "Scanner le QR code pour télécharger DMine",
+      "scanToDownload": "Scanner pour télécharger la version mobile",
+      "linkAddress": "Adresse du lien",
+      "copyLabel": "Copier",
+      "openLabel": "Ouvrir",
+      "copiedLabel": "Copié dans le presse-papiers !",
+      "ctaText": "🎮 Commencer à jouer"
     }
   }
 }

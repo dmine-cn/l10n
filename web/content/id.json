@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Mulai Latihan"
+    },
+    "download": {
+      "pageTitle": "Unduh DMine - Penyapu Ranjau Terbaik | Unduh Klien Lintas Platform",
+      "metaDescription": "Unduh gratis klien DMine (Penyapu Ranjau Terbaik)! Mendukung platform desktop Windows, macOS, Linux, serta platform ponsel Android, iOS, dan HarmonyOS. Sinkronisasi data lintas platform, mainkan game tanpa batas.",
+      "metaKeywords": "unduh penyapu ranjau, unduh DMine, unduh penyapu ranjau terbaik, klien penyapu ranjau, unduh penyapu ranjau gratis, penyapu ranjau lintas platform",
+      "headerTitle": "📥 Unduh DMine",
+      "headerSubtitle": "Dukungan lintas platform. Pilih platformmu dan mulai bermain",
+      "desktopSectionTitle": "💻 Platform Desktop",
+      "mobileSectionTitle": "📱 Platform Ponsel",
+      "desktopPlatforms": [
+        {
+          "name": "Peramban",
+          "icon": "🌐",
+          "description": "Tanpa unduh, mainkan langsung secara online",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Aplikasi asli macOS, mendukung prosesor Intel dan Apple Silicon",
+          "isLink": false,
+          "label": "Paket Instal DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Versi desktop Windows, mendukung Windows 10/11",
+          "isLink": false,
+          "label": "Paket Instal EXE",
+          "zipLabel": "Versi Portabel ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Versi desktop Linux, mendukung format AppImage dan tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Paket Terkompresi tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Versi ponsel Android, mendukung unduh dan instal APK",
+          "label": "Paket Instal APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Versi iOS, mendukung iPhone dan iPad",
+          "label": "Paket Instal IPA"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Aplikasi asli HarmonyOS, mendukung instalasi HAP",
+          "label": "Paket Instal HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Pindai kode QR untuk mengunduh",
+      "qrCodeAlt": "Pindai kode QR untuk mengunduh DMine",
+      "scanToDownload": "Pindai untuk mengunduh versi ponsel",
+      "linkAddress": "Alamat Tautan",
+      "copyLabel": "Salin",
+      "openLabel": "Buka",
+      "copiedLabel": "Tersalin ke clipboard!",
+      "ctaText": "🎮 Mulai Bermain"
     }
   }
 }

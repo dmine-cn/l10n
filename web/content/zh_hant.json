@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 開始練習"
+    },
+    "download": {
+      "pageTitle": "下載 DMine - 頂級掃雷 | 跨平台用戶端下載",
+      "metaDescription": "免費下載 DMine（頂級掃雷）用戶端！支援 Windows、macOS、Linux 桌面平台，以及 Android、iOS、鴻蒙手機平台。跨平台資料同步，暢玩無界。",
+      "metaKeywords": "下載掃雷, DMine下載, 頂級掃雷下載, 掃雷用戶端, 免費掃雷下載, 跨平台掃雷",
+      "headerTitle": "📥 下載 DMine",
+      "headerSubtitle": "跨平台支援，選擇你的平台開始遊戲",
+      "desktopSectionTitle": "💻 桌面平台",
+      "mobileSectionTitle": "📱 手機平台",
+      "desktopPlatforms": [
+        {
+          "name": "瀏覽器",
+          "icon": "🌐",
+          "description": "無需下載，線上即玩",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "macOS 原生應用，支援 Intel 與 Apple Silicon",
+          "isLink": false,
+          "label": "DMG 安裝包"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows 桌面版，支援 Windows 10/11",
+          "isLink": false,
+          "label": "EXE 安裝包",
+          "zipLabel": "ZIP 可攜版"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux 桌面版，支援 AppImage 與 tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz 壓縮包"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android 手機版，支援 APK 下載安裝",
+          "label": "APK 安裝包"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS 版本，支援 iPhone 與 iPad",
+          "label": "IPA 安裝包"
+        },
+        {
+          "name": "鴻蒙",
+          "icon": "⚡",
+          "description": "鴻蒙原生應用，支援 HAP 安裝",
+          "label": "HAP 安裝包"
+        }
+      ],
+      "qrCodeLabel": "📷 掃碼下載",
+      "qrCodeAlt": "掃碼下載 DMine",
+      "scanToDownload": "掃碼下載手機版",
+      "linkAddress": "連結位址",
+      "copyLabel": "複製",
+      "openLabel": "開啟",
+      "copiedLabel": "已複製到剪貼簿！",
+      "ctaText": "🎮 開始遊戲"
     }
   }
 }

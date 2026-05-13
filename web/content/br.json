@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Loc'hañ ar trainadur"
+    },
+    "download": {
+      "pageTitle": "Pellgargañ DMine - Ar Minerezh Uhelañ | Pellgargañ kliant cross- platform",
+      "metaDescription": "Pellgargañ FREE ar kliant DMine (Ar Minerezh Uhelañ) ! Trugarezet eo raktredoù desktop Windows, macOS, Linux, ha keit ha keit raktredoù kehen Android, iOS, Hongmeng OS. Kespadur roadennoù etre raktredoù, c'hoari hep terramoù.",
+      "metaKeywords": "pellgargañ minerezh, pellgargañ DMine, pellgargañ ar minerezh uhelañ, kliant evit ar minerezh, pellgargañ free ar minerezh, minerezh cross-platform",
+      "headerTitle": "📥 Pellgargañ DMine",
+      "headerSubtitle": "Trugarezet cross-platform, dibab ho raktredo evit kregiñ ar c'hoari",
+      "desktopSectionTitle": "💻 Raktredoù Desktop",
+      "mobileSectionTitle": "📱 Raktredoù Kehen",
+      "desktopPlatforms": [
+        {
+          "name": "Merdeer",
+          "icon": "🌐",
+          "description": "N'eo ket ezhomm pellgargañ, c'hoari enlinenn",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Arloadiñ native macOS, trugarezet Intel ha Apple Silicon",
+          "isLink": false,
+          "label": "Pakad instaladur DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Arloadiñ desktop Windows, trugarezet Windows 10/11",
+          "isLink": false,
+          "label": "Pakad instaladur EXE",
+          "zipLabel": "Arloadiñ diazog ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Arloadiñ desktop Linux, trugarezet AppImage ha tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Pakad kembrezat tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Arloadiñ kehen Android, pellgargañ ha instaladur APK a zo trugarezet",
+          "label": "Pakad instaladur APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Arloadiñ iOS, trugarezet iPhone ha iPad",
+          "label": "Pakad instaladur IPA"
+        },
+        {
+          "name": "Hongmeng OS",
+          "icon": "⚡",
+          "description": "Arloadiñ native Hongmeng OS, instaladur HAP a zo trugarezet",
+          "label": "Pakad instaladur HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Skaneiñ ar kod QR evit pellgargañ",
+      "qrCodeAlt": "Skaneiñ ar kod QR evit pellgargañ DMine",
+      "scanToDownload": "Skaneiñ evit pellgargañ ar versin kehen",
+      "linkAddress": "Chom-lec'h al liamm",
+      "copyLabel": "Eilañ",
+      "openLabel": "Digeriñ",
+      "copiedLabel": "Eilet eo d'an treuz-bont !",
+      "ctaText": "🎮 Kregiñ ar c'hoari"
     }
   }
 }

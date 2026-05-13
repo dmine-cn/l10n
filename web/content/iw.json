@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 התחל להתאמן"
+    },
+    "download": {
+      "pageTitle": "הורד DMine - שולה מוקשים עליון | הורדת לקוח רב פלטפורמות",
+      "metaDescription": "הורד את לקוח DMine (שולה מוקשים עליון) בחינם! תומך בפלטפורמות שולחן עבודה Windows, macOS, Linux, ופלטפורמות סמארטפונים Android, iOS, HarmonyOS. סנכרון נתונים בין פלטפורמות, שחק ללא גבולות.",
+      "metaKeywords": "הורד שולה מוקשים, הורדת DMine, הורדת שולה מוקשים עליון, לקוח שולה מוקשים, הורדת שולה מוקשים בחינם, שולה מוקשים רב פלטפורמות",
+      "headerTitle": "📥 הורד DMine",
+      "headerSubtitle": "תמיכה רב פלטפורמות. בחר את הפלטפורמה שלך והתחל לשחק",
+      "desktopSectionTitle": "💻 פלטפורמות שולחן עבודה",
+      "mobileSectionTitle": "📱 פלטפורמות סמארטפונים",
+      "desktopPlatforms": [
+        {
+          "name": "דפדפן",
+          "icon": "🌐",
+          "description": "אין צורך בהורדה, שחק אונליין באופן מיידי",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "ייליק מקורי עבור macOS, תומך מעבדי Intel ו-Apple Silicon",
+          "isLink": false,
+          "label": "חבילת התקנה DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "גרסת שולחן עבודה Windows, תומך Windows 10/11",
+          "isLink": false,
+          "label": "חבילת התקנה EXE",
+          "zipLabel": "גרסה ניידת ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "גרסת שולחן עבודה Linux, תומך פורמטים AppImage ו-tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "חבילת דחיסה tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "גרסת סמארטפון Android, תומך הורדה והתקנת APK",
+          "label": "חבילת התקנה APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "גרסת iOS, תומך אייפון ואייפד",
+          "label": "חבילת התקנה IPA"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "ייליק מקורי עבור HarmonyOS, תומך התקנת HAP",
+          "label": "חבילת התקנה HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 סרוק קוד QR כדי להוריד",
+      "qrCodeAlt": "סרוק קוד QR כדי להוריד DMine",
+      "scanToDownload": "סרוק כדי להוריד את הגרסת הסמארטפון",
+      "linkAddress": "כתובת קישור",
+      "copyLabel": "העתק",
+      "openLabel": "פתח",
+      "copiedLabel": "הועתק ללוח הלוכד!",
+      "ctaText": "🎮 התחל לשחק"
     }
   }
 }

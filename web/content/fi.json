@@ -432,6 +432,75 @@
         }
       ],
       "ctaText": "🎮 Aloita harjoittelu"
+    },
+    "download": {
+      "pageTitle": "Lataa DMine - Huippumiinanraivaaja | Monialustainen asiakasohjelma",
+      "metaDescription": "Lataa DMine:n (Huippumiinanraivaaja) asiakasohjelma ilmaiseksi! Tukee Windows, macOS ja Linux työpöytäalustoja sekä Android, iOS ja HarmonyOS mobiilialustoja. Datan synkronointi alustojen välillä, rajoittamaton pelikokemus.",
+      "metaKeywords": "lataa miinanraivaaja, DMine lataa, huippumiinanraivaaja lataa, miinanraivaaja asiakasohjelma, ilmainen miinanraivaaja lataa, monialustainen miinanraivaaja",
+      "headerTitle": "📥 Lataa DMine",
+      "headerSubtitle": "Monialustainen tuki. Valitse alustasi ja aloita peli",
+      "desktopSectionTitle": "💻 Työpöytäalustat",
+      "mobileSectionTitle": "📱 Mobiilialustat",
+      "desktopPlatforms": [
+        {
+          "name": "Selain",
+          "icon": "🌐",
+          "description": "Ei tarvitse ladata, pelata verkossa heti",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "macOS:n alkuperäinen sovellus, tukee Intel ja Apple Silicon -prosessoreita",
+          "isLink": false,
+          "label": "DMG asennuspaketti"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows työpöytäversio, tukee Windows 10/11",
+          "isLink": false,
+          "label": "EXE asennuspaketti",
+          "zipLabel": "ZIP kannettava versio"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux työpöytäversio, tukee AppImage ja tar.gz -muotoja",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz pakattu tiedosto"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android mobiiliversio, tukee APK:n lataamista ja asentamista",
+          "label": "APK asennuspaketti"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS versio, tukee iPhonea ja iPadia",
+          "label": "IPA asennuspaketti"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "HarmonyOS:n alkuperäinen sovellus, tukee HAP asentamista",
+          "label": "HAP asennuspaketti"
+        }
+      ],
+      "qrCodeLabel": "📷 Skannaa QR-koodi ladataksesi",
+      "qrCodeAlt": "Skannaa QR-koodi ladataksesi DMine",
+      "scanToDownload": "Skannaa ladataksesi mobiiliversion",
+      "linkAddress": "Linkin osoite",
+      "copyLabel": "Kopioi",
+      "openLabel": "Avaa",
+      "copiedLabel": "Kopioitu leikepöydälle!",
+      "ctaText": "🎮 Aloita peli"
     }
   }
 }

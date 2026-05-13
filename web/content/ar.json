@@ -1,4 +1,5 @@
-{  "meta": {
+{
+  "meta": {
     "locale": "ar",
     "langAttr": "ar",
     "ogLocale": "ar_SA",
@@ -428,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 ابدأ التدريب"
+    },
+    "download": {
+      "pageTitle": "تنزيل DMine - كاسحة الألغام | تنزيل عميل متعدد المنصات",
+      "metaDescription": "قم بتنزيل عميل DMine (كاسحة الألغام) مجانًا! يدعم منصات سطح المكتب Windows و macOS و Linux، بالإضافة إلى منصات الهواتف Android و iOS و هارموني أوس. مزامنة البيانات عبر المنصات، استمتع باللعب بلا حدود.",
+      "metaKeywords": "تنزيل كاسحة ألغام, تنزيل DMine, تنزيل كاسحة الألغام, عميل كاسحة ألغام, تنزيل كاسحة ألغام مجاني, كاسحة ألغام متعددة المنصات",
+      "headerTitle": "📥 تنزيل DMine",
+      "headerSubtitle": "دعم متعدد المنصات، اختر منصتك لبدء اللعب",
+      "desktopSectionTitle": "💻 منصات سطح المكتب",
+      "mobileSectionTitle": "📱 منصات الهواتف",
+      "desktopPlatforms": [
+        {
+          "name": "المتصفح",
+          "icon": "🌐",
+          "description": "لا حاجة للتنزيل، العب عبر الإنترنت",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "تطبيق أصلي لـ macOS، يدعم Intel و Apple Silicon",
+          "isLink": false,
+          "label": "حزمة تثبيت DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "إصدار سطح المكتب لـ Windows، يدعم Windows 10/11",
+          "isLink": false,
+          "label": "حزمة تثبيت EXE",
+          "zipLabel": "إصدار محمول ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "إصدار سطح المكتب لـ Linux، يدعم AppImage و tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "حزمة مضغوطة tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "إصدار الهاتف Android، يدعم تنزيل وتثبيت APK",
+          "label": "حزمة تثبيت APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "إصدار iOS، يدعم iPhone و iPad",
+          "label": "حزمة تثبيت IPA"
+        },
+        {
+          "name": "هارموني أوس",
+          "icon": "⚡",
+          "description": "تطبيق أصلي لهارموني أوس، يدعم تثبيت HAP",
+          "label": "حزمة تثبيت HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 امسح الكود للتنزيل",
+      "qrCodeAlt": "امسح الكود لتنزيل DMine",
+      "scanToDownload": "امسح الكود لتنزيل إصدار الهاتف",
+      "linkAddress": "عنوان الرابط",
+      "copyLabel": "نسخ",
+      "openLabel": "فتح",
+      "copiedLabel": "تم النسخ إلى الحافظة!",
+      "ctaText": "🎮 ابدأ اللعب"
     }
   }
 }

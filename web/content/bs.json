@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Započni vježbu"
+    },
+    "download": {
+      "pageTitle": "Preuzmi DMine - Vrhunski Minač | Preuzimanje krosplatformskog klijenta",
+      "metaDescription": "Besplatno preuzmite klijent DMine (Vrhunski Minač)! Podržava desktop platforme Windows, macOS, Linux, kao i mobilne platforme Android, iOS, Hongmeng OS. Sinronizacija podataka između platformi, igrajte bez ograničenja.",
+      "metaKeywords": "preuzmi minanje, preuzmi DMine, preuzmi vrhunski minanje, klijent za minanje, besplatno preuzmi minanje, krosplatformsko minanje",
+      "headerTitle": "📥 Preuzmi DMine",
+      "headerSubtitle": "Podrška za sve platforme, odaberite vašu platformu i započnite igru",
+      "desktopSectionTitle": "💻 Desktop platforme",
+      "mobileSectionTitle": "📱 Mobilne platforme",
+      "desktopPlatforms": [
+        {
+          "name": "Preglednik",
+          "icon": "🌐",
+          "description": "Nije potrebno preuzimanje, igrajte online",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Nativna aplikacija za macOS, podržava Intel i Apple Silicon",
+          "isLink": false,
+          "label": "DMG instalacijski paket"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Desktop verzija za Windows, podržava Windows 10/11",
+          "isLink": false,
+          "label": "EXE instalacijski paket",
+          "zipLabel": "ZIP prijenosna verzija"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Desktop verzija za Linux, podržava AppImage i tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz komprimirani paket"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Mobilna verzija za Android, podržava preuzimanje i instalaciju APK-a",
+          "label": "APK instalacijski paket"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Verzija za iOS, podržava iPhone i iPad",
+          "label": "IPA instalacijski paket"
+        },
+        {
+          "name": "Hongmeng OS",
+          "icon": "⚡",
+          "description": "Nativna aplikacija za Hongmeng OS, podržava instalaciju HAP-a",
+          "label": "HAP instalacijski paket"
+        }
+      ],
+      "qrCodeLabel": "📷 Skenirajte QR kod za preuzimanje",
+      "qrCodeAlt": "Skenirajte QR kod da preuzmete DMine",
+      "scanToDownload": "Skenirajte da preuzmete mobilnu verziju",
+      "linkAddress": "Adresa linka",
+      "copyLabel": "Kopiraj",
+      "openLabel": "Otvori",
+      "copiedLabel": "Kopirano u međuspremnik!",
+      "ctaText": "🎮 Započnite igru"
     }
   }
 }

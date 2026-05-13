@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="{{LANG_ATTR}}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{PAGES.download.pageTitle}}</title>
+  <meta name="description" content="{{PAGES.download.metaDescription}}">
+  <meta name="keywords" content="{{PAGES.download.metaKeywords}}">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.dmine.cn/{{PREFIX}}download.html">
+  <link rel="sitemap" type="application/xml" href="/sitemap.xml">
+  <link rel="icon" type="image/png" href="/favicon.png">
+  <link rel="stylesheet" href="/css/download.css">
+
+  <!-- hreflang -->
+  {{HREFLANG_DOWNLOAD}}
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.dmine.cn/{{PREFIX}}download.html">
+  <meta property="og:title" content="{{PAGES.download.pageTitle}}">
+  <meta property="og:description" content="{{PAGES.download.metaDescription}}">
+  <meta property="og:image" content="https://www.dmine.cn/icons/Icon-512.png">
+  <meta property="og:locale" content="{{OG_LOCALE}}">
+  <meta property="og:site_name" content="{{META.siteName}}">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="navbar-inner">
+      <a href="/index.html?lang={{LANG_CODE}}" class="navbar-logo"><img src="/icons/Icon-32.png" alt="DMine"></a>
+      <a href="/index.html?lang={{LANG_CODE}}">{{NAV.home}}</a>
+      <a href="rules.html">{{NAV.rules}}</a>
+      <a href="tips.html">{{NAV.tips}}</a>
+      <a href="about.html">{{NAV.about}}</a>
+      <a href="download.html" class="active">{{NAV.download}}</a>
+      <div class="lang-switch">
+        <select onchange="location.href=this.value">
+          {{LANG_DROPDOWN}}
+        </select>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container">
+    <header>
+      <h1>{{PAGES.download.headerTitle}}</h1>
+      <p>{{PAGES.download.headerSubtitle}}</p>
+    </header>
+
+    <!-- 桌面平台 -->
+    <h2 class="section-title">{{PAGES.download.desktopSectionTitle}}</h2>
+    <div class="platform-grid">
+
+      <!-- 浏览器 -->
+      <div class="platform-card">
+        <div class="platform-card-header">
+          <div class="platform-icon">{{PAGES.download.desktopPlatforms.0.icon}}</div>
+          <div class="platform-info">
+            <div class="platform-name">{{PAGES.download.desktopPlatforms.0.name}}</div>
+            <div class="platform-desc">{{PAGES.download.desktopPlatforms.0.description}}</div>
+          </div>
+        </div>
+        <div class="download-links">
+          <div class="download-link-row">
+            <span class="download-link-text"><a href="https://www.dmine.cn" target="_blank" rel="noopener">https://www.dmine.cn</a></span>
+            <button class="btn btn-copy" onclick="copyToClipboard('https://www.dmine.cn', this)">{{PAGES.download.copyLabel}}</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- macOS -->
+      <div class="platform-card">
+        <div class="platform-card-header">
+          <div class="platform-icon">{{PAGES.download.desktopPlatforms.1.icon}}</div>
+          <div class="platform-info">
+            <div class="platform-name">{{PAGES.download.desktopPlatforms.1.name}}</div>
+            <div class="platform-desc">{{PAGES.download.desktopPlatforms.1.description}}</div>
+          </div>
+        </div>
+        <div class="download-links">
+          <div class="download-link-row">
+            <span class="download-link-text"><a href="https://www.dmine.cn/download/macos/dmine.dmg" target="_blank" rel="noopener">{{PAGES.download.desktopPlatforms.1.label}}</a></span>
+            <button class="btn btn-copy" onclick="copyToClipboard('https://www.dmine.cn/download/macos/dmine.dmg', this)">{{PAGES.download.copyLabel}}</button>
+            <a class="btn btn-open" href="https://www.dmine.cn/download/macos/dmine.dmg" target="_blank" rel="noopener">{{PAGES.download.openLabel}}</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Windows -->
+      <div class="platform-card">
+        <div class="platform-card-header">
+          <div class="platform-icon">{{PAGES.download.desktopPlatforms.2.icon}}</div>
+          <div class="platform-info">
+            <div class="platform-name">{{PAGES.download.desktopPlatforms.2.name}}</div>
+            <div class="platform-desc">{{PAGES.download.desktopPlatforms.2.description}}</div>
+          </div>
+        </div>
+        <div class="download-links">
+          <div class="download-link-row">
+            <span class="download-link-text"><a href="https://www.dmine.cn/download/windows/dmine-setup.exe" target="_blank" rel="noopener">{{PAGES.download.desktopPlatforms.2.label}}</a></span>
+            <button class="btn btn-copy" onclick="copyToClipboard('https://www.dmine.cn/download/windows/dmine-setup.exe', this)">{{PAGES.download.copyLabel}}</button>
+            <a class="btn btn-open" href="https://www.dmine.cn/download/windows/dmine-setup.exe" target="_blank" rel="noopener">{{PAGES.download.openLabel}}</a>
+          </div>
+          <div class="download-link-row">
+            <span class="download-link-text"><a href="https://www.dmine.cn/download/windows/dmine.zip" target="_blank" rel="noopener">{{PAGES.download.desktopPlatforms.2.zipLabel}}</a></span>
+            <button class="btn btn-copy" onclick="copyToClipboard('https://www.dmine.cn/download/windows/dmine.zip', this)">{{PAGES.download.copyLabel}}</button>
+            <a class="btn btn-open" href="https://www.dmine.cn/download/windows/dmine.zip" target="_blank" rel="noopener">{{PAGES.download.openLabel}}</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Linux -->
+      <div class="platform-card">
+        <div class="platform-card-header">
+          <div class="platform-icon">{{PAGES.download.desktopPlatforms.3.icon}}</div>
+          <div class="platform-info">
+            <div class="platform-name">{{PAGES.download.desktopPlatforms.3.name}}</div>
+            <div class="platform-desc">{{PAGES.download.desktopPlatforms.3.description}}</div>
+          </div>
+        </div>
+        <div class="download-links">
+          <div class="download-link-row">
+            <span class="download-link-text"><a href="https://www.dmine.cn/download/linux/dmine.AppImage" target="_blank" rel="noopener">{{PAGES.download.desktopPlatforms.3.label}}</a></span>
+            <button class="btn btn-copy" onclick="copyToClipboard('https://www.dmine.cn/download/linux/dmine.AppImage', this)">{{PAGES.download.copyLabel}}</button>
+            <a class="btn btn-open" href="https://www.dmine.cn/download/linux/dmine.AppImage" target="_blank" rel="noopener">{{PAGES.download.openLabel}}</a>
+          </div>
+          <div class="download-link-row">
+            <span class="download-link-text"><a href="https://www.dmine.cn/download/linux/dmine.tar.gz" target="_blank" rel="noopener">{{PAGES.download.desktopPlatforms.3.zipLabel}}</a></span>
+            <button class="btn btn-copy" onclick="copyToClipboard('https://www.dmine.cn/download/linux/dmine.tar.gz', this)">{{PAGES.download.copyLabel}}</button>
+            <a class="btn btn-open" href="https://www.dmine.cn/download/linux/dmine.tar.gz" target="_blank" rel="noopener">{{PAGES.download.openLabel}}</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- 手机平台 -->
+    <h2 class="section-title">{{PAGES.download.mobileSectionTitle}}</h2>
+    <div class="platform-grid">
+
+      <!-- Android -->
+      <div class="platform-card">
+        <div class="platform-card-header">
+          <div class="platform-icon">{{PAGES.download.mobilePlatforms.0.icon}}</div>
+          <div class="platform-info">
+            <div class="platform-name">{{PAGES.download.mobilePlatforms.0.name}}</div>
+            <div class="platform-desc">{{PAGES.download.mobilePlatforms.0.description}}</div>
+          </div>
+        </div>
+        <div class="download-links">
+          <div class="download-link-row">
+            <span class="download-link-text"><a href="https://www.dmine.cn/download/android/dmine.apk" target="_blank" rel="noopener">{{PAGES.download.mobilePlatforms.0.label}}</a></span>
+            <button class="btn btn-copy" onclick="copyToClipboard('https://www.dmine.cn/download/android/dmine.apk', this)">{{PAGES.download.copyLabel}}</button>
+            <a class="btn btn-open" href="https://www.dmine.cn/download/android/dmine.apk" target="_blank" rel="noopener">{{PAGES.download.openLabel}}</a>
+          </div>
+        </div>
+        <div class="qr-section">
+          <div class="qr-section-label">{{PAGES.download.qrCodeLabel}}</div>
+          <div class="qr-code-box">
+            <img src="/images/download.png" alt="{{PAGES.download.qrCodeAlt}}">
+            <div class="qr-code-text">{{PAGES.download.scanToDownload}}</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- iOS -->
+      <div class="platform-card">
+        <div class="platform-card-header">
+          <div class="platform-icon">{{PAGES.download.mobilePlatforms.1.icon}}</div>
+          <div class="platform-info">
+            <div class="platform-name">{{PAGES.download.mobilePlatforms.1.name}}</div>
+            <div class="platform-desc">{{PAGES.download.mobilePlatforms.1.description}}</div>
+          </div>
+        </div>
+        <div class="download-links">
+          <div class="download-link-row">
+            <span class="download-link-text"><a href="https://www.dmine.cn/download/ios/dmine.ipa" target="_blank" rel="noopener">{{PAGES.download.mobilePlatforms.1.label}}</a></span>
+            <button class="btn btn-copy" onclick="copyToClipboard('https://www.dmine.cn/download/ios/dmine.ipa', this)">{{PAGES.download.copyLabel}}</button>
+            <a class="btn btn-open" href="https://www.dmine.cn/download/ios/dmine.ipa" target="_blank" rel="noopener">{{PAGES.download.openLabel}}</a>
+          </div>
+        </div>
+        <div class="qr-section">
+          <div class="qr-section-label">{{PAGES.download.qrCodeLabel}}</div>
+          <div class="qr-code-box">
+            <img src="/images/download.png" alt="{{PAGES.download.qrCodeAlt}}">
+            <div class="qr-code-text">{{PAGES.download.scanToDownload}}</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 鸿蒙 -->
+      <div class="platform-card">
+        <div class="platform-card-header">
+          <div class="platform-icon">{{PAGES.download.mobilePlatforms.2.icon}}</div>
+          <div class="platform-info">
+            <div class="platform-name">{{PAGES.download.mobilePlatforms.2.name}}</div>
+            <div class="platform-desc">{{PAGES.download.mobilePlatforms.2.description}}</div>
+          </div>
+        </div>
+        <div class="download-links">
+          <div class="download-link-row">
+            <span class="download-link-text"><a href="https://www.dmine.cn/download/ohos/dmine.hap" target="_blank" rel="noopener">{{PAGES.download.mobilePlatforms.2.label}}</a></span>
+            <button class="btn btn-copy" onclick="copyToClipboard('https://www.dmine.cn/download/ohos/dmine.hap', this)">{{PAGES.download.copyLabel}}</button>
+            <a class="btn btn-open" href="https://www.dmine.cn/download/ohos/dmine.hap" target="_blank" rel="noopener">{{PAGES.download.openLabel}}</a>
+          </div>
+        </div>
+        <div class="qr-section">
+          <div class="qr-section-label">{{PAGES.download.qrCodeLabel}}</div>
+          <div class="qr-code-box">
+            <img src="/images/download.png" alt="{{PAGES.download.qrCodeAlt}}">
+            <div class="qr-code-text">{{PAGES.download.scanToDownload}}</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Toast 提示 -->
+    <div id="toast" class="toast">{{PAGES.download.copiedLabel}}</div>
+
+    <script>
+      function copyToClipboard(text, btn) {
+        if (navigator.clipboard) {
+          navigator.clipboard.writeText(text).then(function() {
+            showToast(btn);
+          });
+        } else {
+          var ta = document.createElement("textarea");
+          ta.value = text;
+          document.body.appendChild(ta);
+          ta.select();
+          document.execCommand("copy");
+          document.body.removeChild(ta);
+          showToast(btn);
+        }
+      }
+      function showToast(btn) {
+        var toast = document.getElementById("toast");
+        toast.classList.add("show");
+        setTimeout(function() { toast.classList.remove("show"); }, 2000);
+      }
+    </script>
+
+    <div class="cta">
+      <a href="/index.html?lang={{LANG_CODE}}">{{PAGES.download.ctaText}}</a>
+    </div>
+
+    <footer>
+      <p>{{FOOTER.copyright}}</p>
+    </footer>
+  </div>
+</body>
+</html>

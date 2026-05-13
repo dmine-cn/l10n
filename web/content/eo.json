@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Komencu praktikadon"
+    },
+    "download": {
+      "pageTitle": "Elŝuti DMine - Plej Bona Minaĉasisto | Malsama Platforma Kliento Elŝuto",
+      "metaDescription": "Senpaga elŝutu la klienton DMine (Plej Bona Minaĉasisto)! Subtenas labortablajn platformojn Windows, macOS, Linux, kaj poŝtelefonajn platformojn Android, iOS, HarmonyOS. Malsama platforma datuma sinkronigo, ludu sen limiteco.",
+      "metaKeywords": "elŝuti minaĉasiston, DMine elŝuto, plej bona minaĉasisto elŝuto, minaĉasista kliento, senpaga minaĉasisto elŝuto, malsama platforma minaĉasisto",
+      "headerTitle": "📥 Elŝuti DMine",
+      "headerSubtitle": "Subteno por ĉiuj platformoj. Elektu vian platformon kaj komencu ludi",
+      "desktopSectionTitle": "💻 Labortablaj Platformoj",
+      "mobileSectionTitle": "📱 Poŝtelefonaj Platformoj",
+      "desktopPlatforms": [
+        {
+          "name": "Retumilo",
+          "icon": "🌐",
+          "description": "Neniu elŝuto bezonata, ludi tuj interrete",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Denaska macOS-apliko, subtenas Intel kaj Apple Silicon",
+          "isLink": false,
+          "label": "DMG-Instala Pakaĵo"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows-labortabla versio, subtenas Windows 10/11",
+          "isLink": false,
+          "label": "EXE-Instala Pakaĵo",
+          "zipLabel": "ZIP-Portebla Versio"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux-labortabla versio, subtenas AppImage kaj tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz-Arĥivo"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android-poŝtelefona versio, subtenas APK-elŝuton kaj instalon",
+          "label": "APK-Instala Pakaĵo"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS-versio, subtenas iPhone kaj iPad",
+          "label": "IPA-Instala Pakaĵo"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Denaska HarmonyOS-apliko, subtenas HAP-instalon",
+          "label": "HAP-Instala Pakaĵo"
+        }
+      ],
+      "qrCodeLabel": "📷 Skani QR-kodon por elŝuti",
+      "qrCodeAlt": "Skani QR-kodon por elŝuti DMine",
+      "scanToDownload": "Skani por elŝuti la poŝtelefonan version",
+      "linkAddress": "Ligila Adreso",
+      "copyLabel": "Kopii",
+      "openLabel": "Malfermi",
+      "copiedLabel": "Kopiita al tondujo!",
+      "ctaText": "🎮 Komencu Ludon"
     }
   }
 }

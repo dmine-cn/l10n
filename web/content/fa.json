@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 شروع تمرین"
+    },
+    "download": {
+      "pageTitle": "دانلود DMine - مین‌یاب برتر | دانلود کلاینت چند پلتفرمی",
+      "metaDescription": "کلاینت DMine (مین‌یاب برتر) را به صورت رایگان دانلود کنید! از پلتفرم‌های دسکتاپ ویندوز، macOS، لینوکس و همچنین پلتفرم‌های موبایل اندروید، iOS و هارمانی‌اواس پشتیبانی می‌کند. همگام‌سازی داده‌ها بین پلتفرم‌ها، بازی بدون محدودیت.",
+      "metaKeywords": "دانلود مین‌یاب, دانلود DMine, دانلود مین‌یاب برتر, کلاینت مین‌یاب, دانلود رایگان مین‌یاب, مین‌یاب چند پلتفرمی",
+      "headerTitle": "📥 دانلود DMine",
+      "headerSubtitle": "پشتیبانی از چند پلتفرم. پلتفرم خود را انتخاب و بازی را شروع کنید",
+      "desktopSectionTitle": "💻 پلتفرم‌های دسکتاپ",
+      "mobileSectionTitle": "📱 پلتفرم‌های موبایل",
+      "desktopPlatforms": [
+        {
+          "name": "مرورگر",
+          "icon": "🌐",
+          "description": "بدون نیاز به دانلود، آنلاین بازی کنید",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "برنامه بومی macOS، از پردازنده‌های Intel و Apple Silicon پشتیبانی می‌کند",
+          "isLink": false,
+          "label": "بسته نصب DMG"
+        },
+        {
+          "name": "ویندوز",
+          "icon": "🪟",
+          "description": "نسخه دسکتاپ ویندوز، از ویندوز 10/11 پشتیبانی می‌کند",
+          "isLink": false,
+          "label": "بسته نصب EXE",
+          "zipLabel": "نسخه قابل حمل ZIP"
+        },
+        {
+          "name": "لینوکس",
+          "icon": "🐧",
+          "description": "نسخه دسکتاپ لینوکس، از فرمت‌های AppImage و tar.gz پشتیبانی می‌کند",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "بسته فشرده tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "اندروید",
+          "icon": "🤖",
+          "description": "نسخه موبایل اندروید، از دانلود و نصب APK پشتیبانی می‌کند",
+          "label": "بسته نصب APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "نسخه iOS، از آیفون و آیپد پشتیبانی می‌کند",
+          "label": "بسته نصب IPA"
+        },
+        {
+          "name": "هارمانی‌اواس",
+          "icon": "⚡",
+          "description": "برنامه بومی هارمانی‌اواس، از نصب HAP پشتیبانی می‌کند",
+          "label": "بسته نصب HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 اسکن کد QR برای دانلود",
+      "qrCodeAlt": "اسکن کد QR برای دانلود DMine",
+      "scanToDownload": "اسکن برای دانلود نسخه موبایل",
+      "linkAddress": "آدرس لینک",
+      "copyLabel": "کپی",
+      "openLabel": "باز کردن",
+      "copiedLabel": "به کلیپ‌بورد کپی شد!",
+      "ctaText": "🎮 شروع بازی"
     }
   }
 }

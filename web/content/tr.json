@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Antrenmana Başla"
+    },
+    "download": {
+      "pageTitle": "DMine İndir - En İyi Mayın Tarayıcı | Çok Platformlu İstemci İndir",
+      "metaDescription": "DMine (En İyi Mayın Tarayıcı) istemcisini ücretsiz indirin! Windows, macOS, Linux masaüstü platformlarını ve Android, iOS, HarmonyOS mobil platformlarını destekler. Platformlar arası veri senkronizasyonu ile sınırsız oyun keyfi.",
+      "metaKeywords": "mayın tarayıcı indir, DMine indir, en iyi mayın tarayıcı indir, mayın tarayıcı istemcisi, ücretsiz mayın tarayıcı indir, çok platformlu mayın tarayıcı",
+      "headerTitle": "📥 DMine İndir",
+      "headerSubtitle": "Çok platformlu destek, platformunuzu seçin ve oyuna başlayın",
+      "desktopSectionTitle": "💻 Masaüstü Platformları",
+      "mobileSectionTitle": "📱 Mobil Platformlar",
+      "desktopPlatforms": [
+        {
+          "name": "Tarayıcı",
+          "icon": "🌐",
+          "description": "İndirme gerekmiyor, çevrimiçi oynayın",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "macOS yerel uygulaması, Intel ve Apple Silicon'u destekler",
+          "isLink": false,
+          "label": "DMG Kurulum Dosyası"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows masaüstü sürümü, Windows 10/11'i destekler",
+          "isLink": false,
+          "label": "EXE Kurulum Dosyası",
+          "zipLabel": "ZIP Taşınabilir Sürüm"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux masaüstü sürümü, AppImage ve tar.gz'i destekler",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz Sıkıştırılmış Dosya"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android mobil sürümü, APK indirme ve kurulumu destekler",
+          "label": "APK Kurulum Dosyası"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS sürümü, iPhone ve iPad'i destekler",
+          "label": "IPA Kurulum Dosyası"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "HarmonyOS yerel uygulaması, HAP kurulumunu destekler",
+          "label": "HAP Kurulum Dosyası"
+        }
+      ],
+      "qrCodeLabel": "📷 İndirmek için QR Kodu Tara",
+      "qrCodeAlt": "DMine indirmek için QR Kodu Tara",
+      "scanToDownload": "Mobil sürümü indirmek için tara",
+      "linkAddress": "Link Adresi",
+      "copyLabel": "Kopyala",
+      "openLabel": "Aç",
+      "copiedLabel": "Panoya kopyalandı!",
+      "ctaText": "🎮 Oyuna Başla"
     }
   }
 }

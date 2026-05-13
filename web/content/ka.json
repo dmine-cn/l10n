@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 დაიწყეთ ვარჯიში"
+    },
+    "download": {
+      "pageTitle": "DMine-ის გადმოწერა - საუკეთესო მაღარომძებნი | მულტიპლატფორმული კლიენტის გადმოწერა",
+      "metaDescription": "უფასოდ გადმოწერეთ DMine (საუკეთესო მაღარომძებნი) კლიენტი! მხარს უჭერს Windows, macOS, Linux სამუშაო მაგიდის პლატფორმებს, ასევე Android, iOS, ჰარმონიის მობილური პლატფორმებს. მონაცების სინქრონიზაცია ყველა პლატფორმაზე, თავისუფალი თამაში.",
+      "metaKeywords": "მაღარომძებნის გადმოწერა, DMine-ის გადმოწერა, საუკეთესო მაღარომძებნის გადმოწერა, მაღარომძებნის კლიენტი, უფასო მაღარომძებნის გადმოწერა, მულტიპლატფორმული მაღარომძებნი",
+      "headerTitle": "📥 DMine-ის გადმოწერა",
+      "headerSubtitle": "მულტიპლატფორმული მხარდაჭერა. აირჩიეთ თქვენი პლატფორმა და დაიწყეთ თამაში",
+      "desktopSectionTitle": "💻 სამუშაო მაგიდის პლატფორმები",
+      "mobileSectionTitle": "📱 მობილური პლატფორმები",
+      "desktopPlatforms": [
+        {
+          "name": "ბრაუზერი",
+          "icon": "🌐",
+          "description": "გადმოწერის საჭიროება არ არის, ონლაინზე დაუყოვნებლივ თამაშეთ",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "მაშინდელი აპლიკაცია macOS-სთვის, მხარს უჭერს Intel და Apple Silicon პროცესორებს",
+          "isLink": false,
+          "label": "DMG ინსტალაციის პაკეტი"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows სამუშაო მაგიდის ვერსია, მხარს უჭერს Windows 10/11",
+          "isLink": false,
+          "label": "EXE ინსტალაციის პაკეტი",
+          "zipLabel": "ZIP პორტატული ვერსია"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux სამუშაო მაგიდის ვერსია, მხარს უჭერს AppImage და tar.gz ფორმატებს",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz შეკუმშული ფაილი"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android მობილური ვერსია, APK ფაილის გადმოწერა და ინსტალაცია",
+          "label": "APK ინსტალაციის პაკეტი"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS ვერსია, მხარს უჭერს iPhone და iPad",
+          "label": "IPA ინსტალაციის პაკეტი"
+        },
+        {
+          "name": "ჰარმონია",
+          "icon": "⚡",
+          "description": "ჰარმონიის მაშინდელი აპლიკაცია, HAP ინსტალაციის მხარდაჭერა",
+          "label": "HAP ინსტალაციის პაკეტი"
+        }
+      ],
+      "qrCodeLabel": "📷 QR კოდის სკანირება გადმოწერისთვის",
+      "qrCodeAlt": "QR კოდის სკანირება DMine-ის გადმოწერისთვის",
+      "scanToDownload": "სკანირება მობილური ვერსიის გადმოწერისთვის",
+      "linkAddress": "ბმულის მისამართი",
+      "copyLabel": "კოპირება",
+      "openLabel": "გახსნა",
+      "copiedLabel": "კოპირებულია კლიპბორდში!",
+      "ctaText": "🎮 თამაშის დაწყება"
     }
   }
 }

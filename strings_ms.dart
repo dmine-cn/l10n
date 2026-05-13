@@ -225,24 +225,6 @@ const Map<String, String> stringsMs = {
   'quitBattlefrontTitle': 'Keluar Front',
   'quitBattlefrontContent':
       'Anda pasti ingin keluar front "{name}"? Kemajuan tempatan akan dipadam.',
-
-  // 下载页面
-  'downloadClient': 'Muat turun klien',
-  'browser': 'Pelayar',
-  'browserDesc': 'Main terus dalam pelayar, tiada muat turun',
-  'windowsDesc': 'Untuk Windows 10 dan ke atas',
-  'macosDesc': 'Untuk macOS 10.15 dan ke atas',
-  'android': 'Android',
-  'androidDesc': 'Untuk Android 8.0 dan ke atas',
-  'iosDesc': 'Untuk iOS 14.0 dan ke atas',
-  'linkAddress': 'Alamat pautan',
-  'downloadLink': 'Pautan muat turun',
-  'qrCode': 'Kod QR',
-  'scanToDownload': 'Imbas dengan telefon untuk muat turun',
-  'copy': 'Salin',
-  'copiedToClipboard': 'Disalin ke papan klip',
-  'openLink': 'Buka pautan',
-  'cannotOpenLink': 'Tidak boleh buka pautan',
   // 游戏介绍
   'gameIntroduction':
       '1. "Pemula" bermula dengan 15 periuk api, sehingga 99 periuk api.\n2. "Front Baru" bermula dengan 81 periuk api, setiap peringkat tambah bilangan tanpa had.\n3. Dengan internet, front "selesai" disimpan automatik di awan untuk pemain lain.',

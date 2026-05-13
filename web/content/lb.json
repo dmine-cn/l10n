@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Elo üben"
+    },
+    "download": {
+      "pageTitle": "DMine eroflueden - Top Minnerot | Multiplattform Client eroflueden",
+      "metaDescription": "Den DMine (Top Minnerot) Client gratis eroflueden! Ënnerstëtzt Windows, macOS, Linux Desktopplattforme, souwéi Android, iOS, HarmonyOS Mobilplattforme. Multiplattform Datensynchroniséierung, ouni Grenzen spillen.",
+      "metaKeywords": "Minnerot eroflueden, DMine eroflueden, Top Minnerot eroflueden, Minnerot Client, gratis Minnerot eroflueden, Multiplattform Minnerot",
+      "headerTitle": "📥 DMine eroflueden",
+      "headerSubtitle": "Multiplattform ënnerstëtzt, wielt Är Plattform a fangt un ze spillen",
+      "desktopSectionTitle": "💻 Desktopplattforme",
+      "mobileSectionTitle": "📱 Mobilplattforme",
+      "desktopPlatforms": [
+        {
+          "name": "Browser",
+          "icon": "🌐",
+          "description": "Kee Erofloeding noutwendeg, direkt online spillen",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Native macOS App, ënnerstëtzt Intel an Apple Silicon",
+          "isLink": false,
+          "label": "DMG Installatiounspaket"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows Desktop Versioun, ënnerstëtzt Windows 10/11",
+          "isLink": false,
+          "label": "EXE Installatiounspaket",
+          "zipLabel": "ZIP Portable Versioun"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux Desktop Versioun, ënnerstëtzt AppImage a tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz Archiv"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android Mobil Versioun, APK Erofloeding an Installatioun ënnerstëtzt",
+          "label": "APK Installatiounspaket"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS Versioun, ënnerstëtzt iPhone an iPad",
+          "label": "IPA Installatiounspaket"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Native HarmonyOS App, HAP Installatioun ënnerstëtzt",
+          "label": "HAP Installatiounspaket"
+        }
+      ],
+      "qrCodeLabel": "📷 QR-Code scannen fir eroflueden",
+      "qrCodeAlt": "QR-Code scannen fir DMine eroflueden",
+      "scanToDownload": "Scannen fir Mobilversioun eroflueden",
+      "linkAddress": "Link Adress",
+      "copyLabel": "Kopéieren",
+      "openLabel": "Opmaachen",
+      "copiedLabel": "An d'Zwëschenbiller kopéiert!",
+      "ctaText": "🎮 Ufänken ze spillen"
     }
   }
 }

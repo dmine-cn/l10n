@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Filloni Praktikën"
+    },
+    "download": {
+      "pageTitle": "Shkarkoni DMine - Gjuetari i Minave | Shkarkim klienti shumëplatformsh",
+      "metaDescription": "Shkarkoni klientin DMine (Gjuetari i Minave) falas! Mbështet platformat desktop Windows, macOS, Linux, si dhe platformat celularë Android, iOS, HarmonyOS. Sinqronizim të dhënash në platforma, luaj pa kufizime.",
+      "metaKeywords": "shkarko gjuetari minash, shkarko DMine, shkarko gjuetari i mirë minash, klient gjuetari minash, shkarkim falas gjuetari minash, gjuetari minash shumëplatformsh",
+      "headerTitle": "📥 Shkarkoni DMine",
+      "headerSubtitle": "Mbështetje shumëplatformshe, zgjidh platformën tënde dhe fillo të luash",
+      "desktopSectionTitle": "💻 Platforma Desktop",
+      "mobileSectionTitle": "📱 Platforma Celulare",
+      "desktopPlatforms": [
+        {
+          "name": "Shfletues",
+          "icon": "🌐",
+          "description": "Pa shkarkim, luaj online",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Aplikacion native për macOS, mbështet procesorët Intel dhe Apple Silicon",
+          "isLink": false,
+          "label": "Paketë instalimi DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Version desktop për Windows, mbështet Windows 10/11",
+          "isLink": false,
+          "label": "Paketë instalimi EXE",
+          "zipLabel": "Version portable ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Version desktop për Linux, mbështet AppImage dhe tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Arkiv i kompresuar tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Version celular për Android, mbështet shkarkim dhe instalim APK",
+          "label": "Paketë instalimi APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Version për iOS, mbështet iPhone dhe iPad",
+          "label": "Paketë instalimi IPA"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Aplikacion native për HarmonyOS, mbështet instalim HAP",
+          "label": "Paketë instalimi HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Skanoni kodin QR për shkarkim",
+      "qrCodeAlt": "Skanoni kodin QR për të shkarkuar DMine",
+      "scanToDownload": "Skanoni për shkarkim version celular",
+      "linkAddress": "Adresa e lidhjes",
+      "copyLabel": "Kopjo",
+      "openLabel": "Hap",
+      "copiedLabel": "U kopjua në clipboard!",
+      "ctaText": "🎮 Fillo lojën"
     }
   }
 }

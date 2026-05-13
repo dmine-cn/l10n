@@ -223,23 +223,6 @@ const Map<String, String> stringsUk = {
   'quitBattlefrontTitle': 'Залишити фронт',
   'quitBattlefrontContent':
       'Ви впевнені, що хочете залишити фронт \'{name}\'? Ваш локальний прогрес буде видалено.',
-  // Download page
-  'downloadClient': 'Завантажити клієнт',
-  'browser': 'Браузер',
-  'browserDesc': 'Грайте безпосередньо в браузері, без завантаження',
-  'windowsDesc': 'Для Windows 10 та новіших',
-  'macosDesc': 'Для macOS 10.15 та новіших',
-  'android': 'Android',
-  'androidDesc': 'Для Android 8.0 та новіших',
-  'iosDesc': 'Для iOS 14.0 та новіших',
-  'linkAddress': 'Адреса посилання',
-  'downloadLink': 'Посилання для завантаження',
-  'qrCode': 'QR-код',
-  'scanToDownload': 'Скануйте телефоном для завантаження',
-  'copy': 'Копіювати',
-  'copiedToClipboard': 'Скопійовано в буфер',
-  'openLink': 'Відкрити посилання',
-  'cannotOpenLink': 'Не вдається відкрити посилання',
   // Game introduction
   'gameIntroduction':
       '1. «Новачок» починається з 15 мін, максимум до 99 мін;\n2. «Новий фронт» починається з 81 мін, кількість зростає кожен рівень, без верхньої межі.\n3. Онлайн завершені фронти автоматично діляться у хмарі для інших гравців.',

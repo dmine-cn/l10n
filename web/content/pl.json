@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Zacznij trening"
+    },
+    "download": {
+      "pageTitle": "Pobierz DMine - Najlepszy Saper | Wieloplatformowy klient do pobrania",
+      "metaDescription": "Pobierz za darmo klienta DMine (Najlepszy Saper)! Obsługuje platformy komputerowe Windows, macOS, Linux oraz mobilne Android, iOS, HarmonyOS. Synchronizacja danych między platformami, graj bez ograniczeń.",
+      "metaKeywords": "pobierz saper, pobierz DMine, pobierz najlepszy saper, klient saper, darmowe pobieranie saper, wieloplatformowy saper",
+      "headerTitle": "📥 Pobierz DMine",
+      "headerSubtitle": "Obsługa wielu platform, wybierz swoją i zacznij grać",
+      "desktopSectionTitle": "💻 Platformy komputerowe",
+      "mobileSectionTitle": "📱 Platformy mobilne",
+      "desktopPlatforms": [
+        {
+          "name": "Przeglądarka",
+          "icon": "🌐",
+          "description": "Nie wymaga pobierania, graj online",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Natywna aplikacja macOS, obsługuje Intel i Apple Silicon",
+          "isLink": false,
+          "label": "Pakiet instalacyjny DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Wersja komputerowa Windows, obsługuje Windows 10/11",
+          "isLink": false,
+          "label": "Pakiet instalacyjny EXE",
+          "zipLabel": "Przenośna wersja ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Wersja komputerowa Linux, obsługuje AppImage i tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Archiwum skompresowane tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Wersja mobilna Android, obsługuje pobieranie i instalację APK",
+          "label": "Pakiet instalacyjny APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Wersja iOS, obsługuje iPhone i iPad",
+          "label": "Pakiet instalacyjny IPA"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Natywna aplikacja HarmonyOS, obsługuje instalację HAP",
+          "label": "Pakiet instalacyjny HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Zeskanuj kod QR, aby pobrać",
+      "qrCodeAlt": "Zeskanuj kod QR, aby pobrać DMine",
+      "scanToDownload": "Zeskanuj, aby pobrać wersję mobilną",
+      "linkAddress": "Adres linku",
+      "copyLabel": "Kopiuj",
+      "openLabel": "Otwórz",
+      "copiedLabel": "Skopiowano do schowka!",
+      "ctaText": "🎮 Zacznij grać"
     }
   }
 }

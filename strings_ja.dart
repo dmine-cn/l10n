@@ -220,24 +220,6 @@ const Map<String, String> stringsJa = {
   'quitBattlefrontTooltip': 'リモート戦線を退出',
   'quitBattlefrontTitle': '戦線を退出',
   'quitBattlefrontContent': '戦線「{name}」を退出してもよろしいですか？ローカルの進行データは削除されます。',
-
-  // 下载页面
-  'downloadClient': 'クライアントをダウンロード',
-  'browser': 'ブラウザ',
-  'browserDesc': 'ダウンロード不要、ブラウザで直接プレイ',
-  'windowsDesc': 'Windows 10 以降対応',
-  'macosDesc': 'macOS 10.15 以降対応',
-  'android': 'Android',
-  'androidDesc': 'Android 8.0 以降対応',
-  'iosDesc': 'iOS 14.0 以降対応',
-  'linkAddress': 'リンクアドレス',
-  'downloadLink': 'ダウンロードリンク',
-  'qrCode': 'QRコード',
-  'scanToDownload': 'スマホでスキャンしてダウンロード',
-  'copy': 'コピー',
-  'copiedToClipboard': 'クリップボードにコピーしました',
-  'openLink': 'リンクを開く',
-  'cannotOpenLink': 'リンクを開けませんでした',
   // 游戏介绍
   'gameIntroduction':
       '1. 「初心者」は15個の地雷からスタートし、最大99個まで挑戦できます。\n2. 「新規戦線」は81個の地雷からスタートし、ステージごとに上限なく地雷が増加します。\n3. インターネット接続時、「クリア済み」の戦線は自動的にクラウドに共有され、他のプレイヤーが参考にできます。',

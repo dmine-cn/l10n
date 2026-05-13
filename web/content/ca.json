@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Començar a practicar"
+    },
+    "download": {
+      "pageTitle": "Baixa DMine - Millor Buscamines | Baixa del client multiplataforma",
+      "metaDescription": "Baixa gratuïtament el client DMine (Millor Buscamines)! Compatible amb plataformes d'escriptori Windows, macOS, Linux, així com amb plataformes mòbils Android, iOS i Hongmeng. Sincronització de dades entre plataformes, joca sense límits.",
+      "metaKeywords": "baixar buscamines, baixar DMine, baixar millor buscamines, client de buscamines, baixar buscamines gratuïtament, buscamines multiplataforma",
+      "headerTitle": "📥 Baixa DMine",
+      "headerSubtitle": "Compatibilitat multiplataforma, tria la teva plataforma i comença a jugar",
+      "desktopSectionTitle": "💻 Plataformes d'Escriptori",
+      "mobileSectionTitle": "📱 Plataformes Mòbils",
+      "desktopPlatforms": [
+        {
+          "name": "Navegador",
+          "icon": "🌐",
+          "description": "No cal baixar, juga en línia",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Aplicació nativa per a macOS, compatible amb Intel i Apple Silicon",
+          "isLink": false,
+          "label": "Paquet d'instal·lació DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Versió d'escriptori per a Windows, compatible amb Windows 10/11",
+          "isLink": false,
+          "label": "Paquet d'instal·lació EXE",
+          "zipLabel": "Versió portàtil ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Versió d'escriptori per a Linux, compatible amb AppImage i tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Paquet comprimit tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Versió mòbil per a Android, permet la baixada i instal·lació d'APK",
+          "label": "Paquet d'instal·lació APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Versió per a iOS, compatible amb iPhone i iPad",
+          "label": "Paquet d'instal·lació IPA"
+        },
+        {
+          "name": "Hongmeng",
+          "icon": "⚡",
+          "description": "Aplicació nativa per a Hongmeng, permet la instal·lació HAP",
+          "label": "Paquet d'instal·lació HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Escaneja el codi QR per baixar",
+      "qrCodeAlt": "Escaneja el codi QR per baixar DMine",
+      "scanToDownload": "Escaneja per baixar la versió mòbil",
+      "linkAddress": "Adreça de l'enllaç",
+      "copyLabel": "Copia",
+      "openLabel": "Obre",
+      "copiedLabel": "Copiat al porta-retalls!",
+      "ctaText": "🎮 Comença a jugar"
     }
   }
 }

@@ -227,24 +227,6 @@ const Map<String, String> stringsId = {
   'quitBattlefrontTitle': 'Keluar dari front',
   'quitBattlefrontContent':
       'Apakah Anda yakin ingin keluar dari front "{name}"? Progres lokal Anda akan dihapus.',
-
-  // 下载页面
-  'downloadClient': 'Unduh klien',
-  'browser': 'Peramban',
-  'browserDesc': 'Main langsung di peramban, tanpa unduh',
-  'windowsDesc': 'Untuk Windows 10 ke atas',
-  'macosDesc': 'Untuk macOS 10.15 ke atas',
-  'android': 'Android',
-  'androidDesc': 'Untuk Android 8.0 ke atas',
-  'iosDesc': 'Untuk iOS 14.0 ke atas',
-  'linkAddress': 'Alamat tautan',
-  'downloadLink': 'Tautan unduh',
-  'qrCode': 'Kode QR',
-  'scanToDownload': 'Pindai dengan ponsel untuk unduh',
-  'copy': 'Salin',
-  'copiedToClipboard': 'Disalin ke papan klip',
-  'openLink': 'Buka tautan',
-  'cannotOpenLink': 'Tautan tidak dapat dibuka',
   // 游戏介绍
   'gameIntroduction':
       '1. "Pemula" dimulai dengan 15 ranjau dan bisa mencapai hingga 99 ranjau.\n2. "Front baru" dimulai dengan 81 ranjau, setiap level menambah ranjau tanpa batas atas.\n3. Dengan koneksi internet, front "selesai" dibagikan otomatis ke cloud untuk dipelajari orang lain.',

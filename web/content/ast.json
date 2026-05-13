@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Entama a practicar"
+    },
+    "download": {
+      "pageTitle": "Baxar DMine - Meya de Mines Cimeru | Baxar cliente multiplataforma",
+      "metaDescription": "¡Baxa GRATIS el cliente DMine (Meya de Mines Cimeru)! Soporta plataformes d'escritoriu Windows, macOS, Linux, y plataformes móbiles Android, iOS, HarmonyOS. Sincronización de datos multiplataforma, xuega ensa llimites.",
+      "metaKeywords": "baxar meya de mines, baxar DMine, baxar Meya de Mines Cimeru, cliente de meya de mines, baxar meya de mines gratis, meya de mines multiplataforma",
+      "headerTitle": "📥 Baxar DMine",
+      "headerSubtitle": "Soporte multiplataforma, esbilla la tuya plataforma p'empezar a xugar",
+      "desktopSectionTitle": "💻 Plataformes d'Escritoriu",
+      "mobileSectionTitle": "📱 Plataformes Móbiles",
+      "desktopPlatforms": [
+        {
+          "name": "Restolador",
+          "icon": "🌐",
+          "description": "Ensin baxar, xuga en llinia",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Aplicación nativa pa macOS, soporta Intel y Apple Silicon",
+          "isLink": false,
+          "label": "Paquete d'instalación DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Versión d'escritoriu Windows, soporta Windows 10/11",
+          "isLink": false,
+          "label": "Paquete d'instalación EXE",
+          "zipLabel": "Versión portable ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Versión d'escritoriu Linux, soporta AppImage y tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Paquete comprimíu tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Versión p'Android, soporta baxar ya instalar APK",
+          "label": "Paquete d'instalación APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Versión iOS, soporta iPhone ya iPad",
+          "label": "Paquete d'instalación IPA"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Aplicación nativa HarmonyOS, soporta instalación HAP",
+          "label": "Paquete d'instalación HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Escanea'l códigu p'baxar",
+      "qrCodeAlt": "Escanea'l códigu p'baxar DMine",
+      "scanToDownload": "Escanea p'baxar la versión móbil",
+      "linkAddress": "Direición del enllaz",
+      "copyLabel": "Copiar",
+      "openLabel": "Abrir",
+      "copiedLabel": "¡Copióse nel cartafueyu!",
+      "ctaText": "🎮 Empezar a xugar"
     }
   }
 }

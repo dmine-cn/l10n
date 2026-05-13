@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Gyakorolj most"
+    },
+    "download": {
+      "pageTitle": "DMine Letöltése - Legjobb Aknakereső | Többplatformos Ügyfél Letöltése",
+      "metaDescription": "Ingyenes letöltés a DMine (Legjobb Aknakereső) ügyfélalkalmazásból! Támogatja a Windows, macOS, Linux asztali platformokat, valamint az Android, iOS és HarmonyOS mobilplatformokat. Adatszinkronizáció platformok között, korlátlan játékélmény.",
+      "metaKeywords": "aknakereső letöltése, DMine letöltése, legjobb aknakereső letöltése, aknakereső ügyfél, ingyenes aknakereső letöltése, többplatformos aknakereső",
+      "headerTitle": "📥 DMine Letöltése",
+      "headerSubtitle": "Többplatformos támogatás. Válaszd ki a platformodat és kezd el játszani",
+      "desktopSectionTitle": "💻 Asztali Platformok",
+      "mobileSectionTitle": "📱 Mobil Platformok",
+      "desktopPlatforms": [
+        {
+          "name": "Böngésző",
+          "icon": "🌐",
+          "description": "Nem szükséges letöltés, játsz online közvetlenül",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Natív macOS alkalmazás, támogatja az Intel és Apple Silicon processzorokat",
+          "isLink": false,
+          "label": "DMG Telepítőcsomag"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows asztali verzió, támogatja a Windows 10/11-et",
+          "isLink": false,
+          "label": "EXE Telepítőcsomag",
+          "zipLabel": "ZIP Hordozható Verzió"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux asztali verzió, támogatja az AppImage és tar.gz formátumokat",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz Tömörített Csomag"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android mobil verzió, támogatja az APK letöltést és telepítést",
+          "label": "APK Telepítőcsomag"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS verzió, támogatja az iPhone-t és iPad-et",
+          "label": "IPA Telepítőcsomag"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Natív HarmonyOS alkalmazás, támogatja a HAP telepítést",
+          "label": "HAP Telepítőcsomag"
+        }
+      ],
+      "qrCodeLabel": "📷 QR kód beolvasása a letöltéshez",
+      "qrCodeAlt": "QR kód beolvasása a DMine letöltéséhez",
+      "scanToDownload": "Olvasd be a mobil verzió letöltéséhez",
+      "linkAddress": "Hivatkozás Címe",
+      "copyLabel": "Másolás",
+      "openLabel": "Megnyitás",
+      "copiedLabel": "Vágólapra másolva!",
+      "ctaText": "🎮 Játék Indítása"
     }
   }
 }

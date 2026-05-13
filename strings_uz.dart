@@ -230,23 +230,6 @@ const Map<String, String> stringsUz = {
   'quitBattlefrontTitle': 'Jang chizig\'idan chiqish',
   'quitBattlefrontContent':
       'Siz \'{name}\' jang chizig\'idan chiqishni istaysizmi? Sizning mahalliy yutuqlaringiz o\'chiriladi.',
-  // Download page
-  'downloadClient': 'Klientni yuklab olish',
-  'browser': 'Brauzer',
-  'browserDesc': 'Yuklab olishsiz brauzerda to\'g\'ridan-to\'g\'ri o\'ynang',
-  'windowsDesc': 'Windows 10 va undan yuqori uchun',
-  'macosDesc': 'macOS 10.15 va undan yuqori uchun',
-  'android': 'Android',
-  'androidDesc': 'Android 8.0 va undan yuqori uchun',
-  'iosDesc': 'iOS 14.0 va undan yuqori uchun',
-  'linkAddress': 'Havola manzili',
-  'downloadLink': 'Yuklab olish havolasi',
-  'qrCode': 'QR-kod',
-  'scanToDownload': 'Yuklab olish uchun telefon bilan skanering',
-  'copy': 'Nusxa olish',
-  'copiedToClipboard': 'Xotirga nusxa olindi',
-  'openLink': 'Havolani ochish',
-  'cannotOpenLink': 'Havolani ochib bo\'lmadi',
   // Game introduction
   'gameIntroduction':
       '1. "Yangi boshlovchi" 15 min bilan boshlanadi, maksimal 95 mingacha;\n2. "Yangi jang chizig\'i" 81 min bilan boshlanadi, har darajada ortadi, yuqori cheklanmagan.\n3. Onlayn rejimida tugallangan jang chizig\'lari avtomatik tarzda bulutga taqdim etiladi.',

@@ -223,23 +223,6 @@ const Map<String, String> stringsTh = {
   'quitBattlefrontTitle': 'ออกจากแนวรบ',
   'quitBattlefrontContent':
       'คุณแน่ใจหรือไม่ว่าต้องการออกจากแนวรบ \'{name}\' ? ความคืบหน้าในเครื่องจะถูกลบ',
-  // Download page
-  'downloadClient': 'ดาวน์โหลดโปรแกรม',
-  'browser': 'เบราว์เซอร์',
-  'browserDesc': 'เล่นโดยตรงในเบราว์เซอร์ ไม่ต้องดาวน์โหลด',
-  'windowsDesc': 'สำหรับ Windows 10 ขึ้นไป',
-  'macosDesc': 'สำหรับ macOS 10.15 ขึ้นไป',
-  'android': 'Android',
-  'androidDesc': 'สำหรับ Android 8.0 ขึ้นไป',
-  'iosDesc': 'สำหรับ iOS 14.0 ขึ้นไป',
-  'linkAddress': 'ที่อยู่ลิงก์',
-  'downloadLink': 'ลิงก์ดาวน์โหลด',
-  'qrCode': 'คิวอาร์โค้ด',
-  'scanToDownload': 'สแกนด้วยโทรศัพท์เพื่อดาวน์โหลด',
-  'copy': 'คัดลอก',
-  'copiedToClipboard': 'คัดลอกไปยังคลิปบอร์ดแล้ว',
-  'openLink': 'เปิดลิงก์',
-  'cannotOpenLink': 'ไม่สามารถเปิดลิงก์ได้',
   // Game introduction
   'gameIntroduction':
       '1. "มือใหม่" เริ่มต้นด้วย 15 ระเบิด สูงสุดถึง 99 ระเบิด;\n2. "แนวรบใหม่" เริ่มต้นด้วย 81 ระเบิด เพิ่มจำนวนในแต่ละด่าน ไม่มีขีดจำกัดสูงสุด.\n3. เมื่อออนไลน์ แนวรบที่ผ่านแล้วจะถูกแชร์อัตโนมัติไปยังคลาวด์ เพื่อให้ผู้อื่นเรียนรู้',

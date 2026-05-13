@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Byrja æfingu"
+    },
+    "download": {
+      "pageTitle": "Niðurhala DMine - Topp Jarðsprengjuleit | Fjölplattformsbiðlara Niðurhal",
+      "metaDescription": "Niðurhala frjáls DMine (Topp Jarðsprengjuleit) biðlara! Styrkur Windows, macOS, Linux skjárssvæði, sem og Android, iOS, HarmonyOS snjallsíðusvæði. Gagnasamstilling á milli platafforma, leikðu án takmarka.",
+      "metaKeywords": "niðurhal jarðsprengjuleitar, DMine niðurhal, topp jarðsprengjuleit niðurhal, jarðsprengjuleitar biðlari, frjáls jarðsprengjuleit niðurhal, fjölplattforms jarðsprengjuleit",
+      "headerTitle": "📥 Niðurhala DMine",
+      "headerSubtitle": "Fjölplattformsstuðningur. Veldu plattformið þitt og byrjaðu að leika",
+      "desktopSectionTitle": "💻 Skjárssvæði",
+      "mobileSectionTitle": "📱 Snjallsíðusvæði",
+      "desktopPlatforms": [
+        {
+          "name": "Vafri",
+          "icon": "🌐",
+          "description": "Án niðurhals, leikðu beint á netinu",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Frumforrit fyrir macOS, styður Intel og Apple Silicon örgjafa",
+          "isLink": false,
+          "label": "DMG uppsetningarpakki"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows skjárútgáfa, styður Windows 10/11",
+          "isLink": false,
+          "label": "EXE uppsetningarpakki",
+          "zipLabel": "ZIP faranleg útgáfa"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux skjárútgáfa, styður AppImage og tar.gz snið",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz þjappaður pakki"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android snjallsíðuútgáfa, styður APK niðurhal og uppsetningu",
+          "label": "APK uppsetningarpakki"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS útgáfa, styður iPhone og iPad",
+          "label": "IPA uppsetningarpakki"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Frumforrit fyrir HarmonyOS, styður HAP uppsetningu",
+          "label": "HAP uppsetningarpakki"
+        }
+      ],
+      "qrCodeLabel": "📷 Skannaðu QR-kóðann til að niðurhala",
+      "qrCodeAlt": "Skannaðu QR-kóðann til að niðurhala DMine",
+      "scanToDownload": "Skannaðu til að niðurhala snjallsíðuútgáfunni",
+      "linkAddress": "Hlekkurfangi",
+      "copyLabel": "Afrita",
+      "openLabel": "Opna",
+      "copiedLabel": "Afritað í klippispjaldið!",
+      "ctaText": "🎮 Byrjaðu að leika"
     }
   }
 }

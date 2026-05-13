@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Begin oefen"
+    },
+    "download": {
+      "pageTitle": "Laai DMine - Top Mynveër | Oorplatform-kliënt aflaai",
+      "metaDescription": "Laai DMine (Top Mynveër) kliënt gratis af! Ondersteun Windows, macOS, Linux skootrekenaarplatforms, asook Android, iOS en HarmonyOS selfoonplatforms. Oorplatform-data-sinkronisasie, speel ononderbroke.",
+      "metaKeywords": "aflaai mynveër, DMine aflaai, Top Mynveër aflaai, mynveër kliënt, gratis mynveër aflaai, oorplatform mynveër",
+      "headerTitle": "📥 Laai DMine Af",
+      "headerSubtitle": "Oorplatform-ondersteuning, kies jou platform om speel",
+      "desktopSectionTitle": "💻 Skootrekenaar Platforms",
+      "mobileSectionTitle": "📱 Selfoon Platforms",
+      "desktopPlatforms": [
+        {
+          "name": "Blaaier",
+          "icon": "🌐",
+          "description": "Geen aflaai nodig, speel aanlyn",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "macOS inheemse toepassing, ondersteun Intel en Apple Silicon",
+          "isLink": false,
+          "label": "DMG Installasiepakket"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows skootrekenaarweergawe, ondersteun Windows 10/11",
+          "isLink": false,
+          "label": "EXE Installasiepakket",
+          "zipLabel": "ZIP Draagbare Weergawe"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux skootrekenaarweergawe, ondersteun AppImage en tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz Saaklêer"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android selfoonweergawe, ondersteun APK aflaai en installasie",
+          "label": "APK Installasiepakket"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS-weergawe, ondersteun iPhone en iPad",
+          "label": "IPA Installasiepakket"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "HarmonyOS inheemse toepassing, ondersteun HAP installasie",
+          "label": "HAP Installasiepakket"
+        }
+      ],
+      "qrCodeLabel": "📷 Skandeer om af te laai",
+      "qrCodeAlt": "Skandeer om DMine af te laai",
+      "scanToDownload": "Skandeer om selfoonweergawe af te laai",
+      "linkAddress": "Skakeladres",
+      "copyLabel": "Kopieer",
+      "openLabel": "Maak oop",
+      "copiedLabel": "Gekopieer na knipbord!",
+      "ctaText": "🎮 Begin Speel"
     }
   }
 }

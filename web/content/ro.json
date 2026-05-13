@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Începe antrenamentul"
+    },
+    "download": {
+      "pageTitle": "Descărcați DMine - Cel mai bun Deminor | Descărcare client multiplatformă",
+      "metaDescription": "Descărcați gratuit clientul DMine (Cel mai bun Deminor)! Suportă platformele desktop Windows, macOS, Linux, precum și platformele mobile Android, iOS, HarmonyOS. Sincronizare dată între platforme, joacă fără limite.",
+      "metaKeywords": "descărcați demineor, descărcați DMine, descărcați cel mai bun demineor, client demineor, descărcare gratuită demineor, demineor multiplatformă",
+      "headerTitle": "📥 Descărcați DMine",
+      "headerSubtitle": "Suport multiplatformă, alegeți platforma și începeți jocul",
+      "desktopSectionTitle": "💻 Platforme Desktop",
+      "mobileSectionTitle": "📱 Platforme Mobile",
+      "desktopPlatforms": [
+        {
+          "name": "Browser",
+          "icon": "🌐",
+          "description": "Fără descărcare, joacă direct online",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Aplicație nativă macOS, suportă procesoare Intel și Apple Silicon",
+          "isLink": false,
+          "label": "Pachet de instalare DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Versiune desktop Windows, suportă Windows 10/11",
+          "isLink": false,
+          "label": "Pachet de instalare EXE",
+          "zipLabel": "Versiune portabilă ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Versiune desktop Linux, suportă AppImage și tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Arhivă comprimată tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Versiune mobilă Android, suportă descărcarea și instalarea APK",
+          "label": "Pachet de instalare APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Versiune iOS, suportă iPhone și iPad",
+          "label": "Pachet de instalare IPA"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Aplicație nativă HarmonyOS, suportă instalarea HAP",
+          "label": "Pachet de instalare HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Scanați codul QR pentru descărcare",
+      "qrCodeAlt": "Scanați codul QR pentru a descărca DMine",
+      "scanToDownload": "Scanați pentru a descărca versiunea mobilă",
+      "linkAddress": "Adresa link-ului",
+      "copyLabel": "Copiază",
+      "openLabel": "Deschide",
+      "copiedLabel": "Copiat în clipboard!",
+      "ctaText": "🎮 Începeți jocul"
     }
   }
 }

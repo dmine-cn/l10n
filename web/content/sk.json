@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Začať trénovať"
+    },
+    "download": {
+      "pageTitle": "Stiahnuť DMine - Špičkový Hľadač Mín | Stiahnutie multiplatformového klienta",
+      "metaDescription": "Získajte zadarmo klienta DMine (Špičkový Hľadač Mín)! Podporuje desktopové platformy Windows, macOS, Linux a mobilné platformy Android, iOS, HarmonyOS. Synchronizácia dát medzi platformami, hrajte bez obmedzení.",
+      "metaKeywords": "stiahnuť hľadač mín, stiahnuť DMine, stiahnuť špičkový hľadač mín, klient hľadača mín, zadarmo stiahnuť hľadač mín, multiplatformový hľadač mín",
+      "headerTitle": "📥 Stiahnuť DMine",
+      "headerSubtitle": "Multiplatformová podpora, vyberte svoju platformu a začnite hrať",
+      "desktopSectionTitle": "💻 Desktopové platformy",
+      "mobileSectionTitle": "📱 Mobilné platformy",
+      "desktopPlatforms": [
+        {
+          "name": "Prehliadač",
+          "icon": "🌐",
+          "description": "Bez stiahnutia, hrajte online",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Natívna aplikácia pre macOS, podporuje procesory Intel a Apple Silicon",
+          "isLink": false,
+          "label": "Inštalačný balík DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Desktopová verzia pre Windows, podporuje Windows 10/11",
+          "isLink": false,
+          "label": "Inštalačný balík EXE",
+          "zipLabel": "Prenosná verzia ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Desktopová verzia pre Linux, podporuje AppImage a tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Komprimovaný archív tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Mobilná verzia pre Android, podporuje stiahnutie a inštaláciu APK",
+          "label": "Inštalačný balík APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Verzia pre iOS, podporuje iPhone a iPad",
+          "label": "Inštalačný balík IPA"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Natívna aplikácia pre HarmonyOS, podporuje inštaláciu HAP",
+          "label": "Inštalačný balík HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Naskenujte QR kód na stiahnutie",
+      "qrCodeAlt": "Naskenujte QR kód na stiahnutie DMine",
+      "scanToDownload": "Naskenujte na stiahnutie mobilnej verzie",
+      "linkAddress": "Adresa odkazu",
+      "copyLabel": "Kopírovať",
+      "openLabel": "Otvoriť",
+      "copiedLabel": "Skopírované do schránky!",
+      "ctaText": "🎮 Začať hru"
     }
   }
 }

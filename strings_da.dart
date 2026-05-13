@@ -227,24 +227,6 @@ const Map<String, String> stringsDa = {
   'quitBattlefrontTitle': 'Forlad front',
   'quitBattlefrontContent':
       'Er du sikker på, at du vil forlade fronten "{name}"? Din lokale fremskridt bliver slettet.',
-
-  // 下载页面
-  'downloadClient': 'Hent klient',
-  'browser': 'Browser',
-  'browserDesc': 'Spil direkte i browseren uden at hente',
-  'windowsDesc': 'Til Windows 10 og nyere',
-  'macosDesc': 'Til macOS 10.15 og nyere',
-  'android': 'Android',
-  'androidDesc': 'Til Android 8.0 og nyere',
-  'iosDesc': 'Til iOS 14.0 og nyere',
-  'linkAddress': 'Link adresse',
-  'downloadLink': 'Downloadlink',
-  'qrCode': 'QR-kode',
-  'scanToDownload': 'Scan med telefon for at hente',
-  'copy': 'Kopiér',
-  'copiedToClipboard': 'Kopieret til udklipsholder',
-  'openLink': 'Åbn link',
-  'cannotOpenLink': 'Kan ikke åbne link',
   // 游戏介绍
   'gameIntroduction':
       '1. "Nybegynder" starter med 15 miner og kan gå op til 99 miner;\n2. "Ny front" starter med 81 miner, hvert niveau tilføjer flere miner uden øvre grænse.\n3. Når du er online, bliver "klarede" fronte automatisk delt i skyen til læring for andre.',

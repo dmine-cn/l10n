@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Mashq boshlash"
+    },
+    "download": {
+      "pageTitle": "DMine-ni yuklab oling - Eng Yaxshi Mina Qidiruvchi | Ko'p platformali klientni yuklab oling",
+      "metaDescription": "DMine (Eng Yaxshi Mina Qidiruvchi) klientini bepul yuklab oling! Windows, macOS, Linux ish stoli platformalari, Android, iOS, HarmonyOS mobil platformalarini qo'llab-quvvatlaydi. Platformalar o'rtasida ma'lumotlar sinxronizatsiyasi, cheksiz o'yin.",
+      "metaKeywords": "mina qidiruvchi yuklab olish, DMine yuklab olish, eng yaxshi mina qidiruvchi yuklab olish, mina qidiruvchi klient, bepul mina qidiruvchi yuklab olish, ko'p platformali mina qidiruvchi",
+      "headerTitle": "📥 DMine-ni yuklab oling",
+      "headerSubtitle": "Ko'p platformalarni qo'llab-quvvatlaydi, platformangizni tanlang va o'yinni boshlang",
+      "desktopSectionTitle": "💻 Ish stoli platformalari",
+      "mobileSectionTitle": "📱 Mobil platformalar",
+      "desktopPlatforms": [
+        {
+          "name": "Brauzer",
+          "icon": "🌐",
+          "description": "Yuklab olish shart emas, onlayn o'ynang",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "macOS uchun native dastur, Intel va Apple Silicon-ni qo'llab-quvvatlaydi",
+          "isLink": false,
+          "label": "DMG o'rnatish fayli"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows ish stoli versiyasi, Windows 10/11-ni qo'llab-quvvatlaydi",
+          "isLink": false,
+          "label": "EXE o'rnatish fayli",
+          "zipLabel": "ZIP portativ versiyasi"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux ish stoli versiyasi, AppImage va tar.gz-ni qo'llab-quvvatlaydi",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz siqilgan fayli"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android mobil versiyasi, APK o'rnatishni qo'llab-quvvatlaydi",
+          "label": "APK o'rnatish fayli"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS versiyasi, iPhone va iPad-ni qo'llab-quvvatlaydi",
+          "label": "IPA o'rnatish fayli"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "HarmonyOS uchun native dastur, HAP o'rnatishni qo'llab-quvvatlaydi",
+          "label": "HAP o'rnatish fayli"
+        }
+      ],
+      "qrCodeLabel": "📷 Yuklab olish uchun QR-kodni skanering",
+      "qrCodeAlt": "DMine yuklab olish uchun QR-kodni skanering",
+      "scanToDownload": "Mobil versiyani yuklab olish uchun skanering",
+      "linkAddress": "Havola manzili",
+      "copyLabel": "Nusxa olish",
+      "openLabel": "Ochish",
+      "copiedLabel": "Buferga nusxa olindi!",
+      "ctaText": "🎮 O'yinni boshlang"
     }
   }
 }

@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Započni vežbanje"
+    },
+    "download": {
+      "pageTitle": "Preuzmi DMine - Vrhunski Minolovac | Preuzimanje višeplatformskog klijenta",
+      "metaDescription": "Besplatno preuzmite klijent DMine (Vrhunski Minolovac)! Podržava desktop platforme Windows, macOS, Linux, kao i mobilne platforme Android, iOS, HarmonyOS. Sinhronizacija podataka između platformi, igrajte bez ograničenja.",
+      "metaKeywords": "preuzmi minolovac, preuzmi DMine, preuzmi vrhunski minolovac, klijent za minolovac, besplatno preuzimanje minolovca, višeplatformski minolovac",
+      "headerTitle": "📥 Preuzmi DMine",
+      "headerSubtitle": "Podrška za sve platforme, izaberite vašu platformu i započnite igru",
+      "desktopSectionTitle": "💻 Desktop platforme",
+      "mobileSectionTitle": "📱 Mobilne platforme",
+      "desktopPlatforms": [
+        {
+          "name": "Pretraživač",
+          "icon": "🌐",
+          "description": "Bez preuzimanja, igrajte online",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Nativna aplikacija za macOS, podržava Intel i Apple Silicon procesore",
+          "isLink": false,
+          "label": "DMG instalacioni paket"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Desktop verzija za Windows, podržava Windows 10/11",
+          "isLink": false,
+          "label": "EXE instalacioni paket",
+          "zipLabel": "ZIP prijenosna verzija"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Desktop verzija za Linux, podržava AppImage i tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz kompresovani arhiv"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Mobilna verzija za Android, podržava preuzimanje i instalaciju APK",
+          "label": "APK instalacioni paket"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Verzija za iOS, podržava iPhone i iPad",
+          "label": "IPA instalacioni paket"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Nativna aplikacija za HarmonyOS, podržava instalaciju HAP",
+          "label": "HAP instalacioni paket"
+        }
+      ],
+      "qrCodeLabel": "📷 Skenirajte QR kod za preuzimanje",
+      "qrCodeAlt": "Skenirajte QR kod za preuzimanje DMine",
+      "scanToDownload": "Skenirajte za preuzimanje mobilne verzije",
+      "linkAddress": "Adresa linka",
+      "copyLabel": "Kopiraj",
+      "openLabel": "Otvori",
+      "copiedLabel": "Kopirano u klipbord!",
+      "ctaText": "🎮 Započnite igru"
     }
   }
 }

@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 अभी अभ्यास करें"
+    },
+    "download": {
+      "pageTitle": "DMine डाउनलोड करें - शीर्ष माइनस्वीपर | मल्टीप्लेटफॉर्म क्लाइंट डाउनलोड",
+      "metaDescription": "DMine (शीर्ष माइनस्वीपर) क्लाइंट को मुफ्त में डाउनलोड करें! Windows, macOS, Linux डेस्कटॉप प्लेटफार्मों के साथ-साथ Android, iOS, हार्मनीओएस मोबाइल प्लेटफार्मों का समर्थन करता है। प्लेटफार्मों के बीच डेटा सिंक्रनाइज़ेशन, असीमित खेल।",
+      "metaKeywords": "माइनस्वीपर डाउनलोड, DMine डाउनलोड, शीर्ष माइनस्वीपर डाउनलोड, माइनस्वीपर क्लाइंट, मुफ्त माइनस्वीपर डाउनलोड, मल्टीप्लेटफॉर्म माइनस्वीपर",
+      "headerTitle": "📥 DMine डाउनलोड करें",
+      "headerSubtitle": "मल्टीप्लेटफॉर्म समर्थन। अपना प्लेटफार्म चुनें और खेल शुरू करें",
+      "desktopSectionTitle": "💻 डेस्कटॉप प्लेटफार्म",
+      "mobileSectionTitle": "📱 मोबाइल प्लेटफार्म",
+      "desktopPlatforms": [
+        {
+          "name": "ब्राउज़र",
+          "icon": "🌐",
+          "description": "बिना डाउनलोड किए, सीधे ऑनलाइन खेलें",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "macOS देशी एप्लिकेशन, Intel और Apple Silicon प्रोसेसर का समर्थन करता है",
+          "isLink": false,
+          "label": "DMG इंस्टॉलर पैकेज"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows डेस्कटॉप संस्करण, Windows 10/11 का समर्थन करता है",
+          "isLink": false,
+          "label": "EXE इंस्टॉलर पैकेज",
+          "zipLabel": "ZIP पोर्टेबल संस्करण"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux डेस्कटॉप संस्करण, AppImage और tar.gz प्रारूपों का समर्थन करता है",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz कंप्रेस्ड पैकेज"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android मोबाइल संस्करण, APK डाउनलोड और इंस्टॉलेशन का समर्थन करता है",
+          "label": "APK इंस्टॉलर पैकेज"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS संस्करण, iPhone और iPad का समर्थन करता है",
+          "label": "IPA इंस्टॉलर पैकेज"
+        },
+        {
+          "name": "हार्मनीओएस",
+          "icon": "⚡",
+          "description": "हार्मनीओएस देशी एप्लिकेशन, HAP इंस्टॉलेशन का समर्थन करता है",
+          "label": "HAP इंस्टॉलर पैकेज"
+        }
+      ],
+      "qrCodeLabel": "📷 डाउनलोड करने के लिए क्यूआर कोड स्कैन करें",
+      "qrCodeAlt": "DMine डाउनलोड करने के लिए क्यूआर कोड स्कैन करें",
+      "scanToDownload": "मोबाइल संस्करण डाउनलोड करने के लिए स्कैन करें",
+      "linkAddress": "लिंक पता",
+      "copyLabel": "कॉपी करें",
+      "openLabel": "खोलें",
+      "copiedLabel": "क्लिपबोर्ड पर कॉपी हो गया है!",
+      "ctaText": "🎮 खेल शुरू करें"
     }
   }
 }

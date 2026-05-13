@@ -227,24 +227,6 @@ const Map<String, String> stringsEo = {
   'quitBattlefrontTitle': 'Forlasi batalfrontujon',
   'quitBattlefrontContent':
       'Ĉu vi certas, ke vi volas forlasi la batalfrontujon "{name}"? Via loka progreso estos forigita.',
-
-  // 下载页面
-  'downloadClient': 'Elŝuti klienton',
-  'browser': 'Retumilo',
-  'browserDesc': 'Ludu rekte en la retumilo, sen elŝutado',
-  'windowsDesc': 'Por Windows 10 kaj pli novaj',
-  'macosDesc': 'Por macOS 10.15 kaj pli novaj',
-  'android': 'Android',
-  'androidDesc': 'Por Android 8.0 kaj pli novaj',
-  'iosDesc': 'Por iOS 14.0 kaj pli novaj',
-  'linkAddress': 'Ligadreso',
-  'downloadLink': 'Elŝuta ligilo',
-  'qrCode': 'QR-kodo',
-  'scanToDownload': 'Skanu per telefono por elŝuti',
-  'copy': 'Kopii',
-  'copiedToClipboard': 'Kopiita al poŝo',
-  'openLink': 'Malfermi ligilon',
-  'cannotOpenLink': 'Ne povas malfermi ligilon',
   // 游戏介绍
   'gameIntroduction':
       '1. "Komencanto" komenciĝas kun 15 minoj, povas atingi ĝis 99 minoj;\n2. "Nova batalfrontujo" komenciĝas kun 81 minoj, ĉiu nivelo aldonas minojn sen supra limo.\n3. Kun interreto, "finitaj" batalfrontujoj aŭtomate disiĝas en la nubon por aliaj lernado.',

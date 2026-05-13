@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Сурч эхлэх"
+    },
+    "download": {
+      "pageTitle": "DMine татах - Шилдэг Мина Цэвэрлэгч | Олон платформын клиент татах",
+      "metaDescription": "DMine (Шилдэг Мина Цэвэрлэгч) клиентийг үнэгүй татаарай! Windows, macOS, Linux десктоп платформ болон Android, iOS, Хармони ОС гар утсаа платформ дэмждэг. Олон платформын өгөгдлийн синхрон, хязгааргүй тогло.",
+      "metaKeywords": "Мина Цэвэрлэгч татах, DMine татах, Шилдэг Мина Цэвэрлэгч татах, Мина Цэвэрлэгч клиент, үнэгүй Мина Цэвэрлэгч татах, Олон платформын Мина Цэвэрлэгч",
+      "headerTitle": "📥 DMine татах",
+      "headerSubtitle": "Олон платформ дэмждэг, таны платформ сонгож тоглоом эхлүүлнэ үү",
+      "desktopSectionTitle": "💻 Десктоп платформ",
+      "mobileSectionTitle": "📱 Гар утсаа платформ",
+      "desktopPlatforms": [
+        {
+          "name": "Хөтөч",
+          "icon": "🌐",
+          "description": "Татах шаардлагагүй, онлайн тогло",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "macOS натив програм, Intel болон Apple Silicon дэмждэг",
+          "isLink": false,
+          "label": "DMG суулгацын пакет"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows десктоп хувилбар, Windows 10/11 дэмждэг",
+          "isLink": false,
+          "label": "EXE суулгацын пакет",
+          "zipLabel": "ZIP зөөврийн хувилбар"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux десктоп хувилбар, AppImage болон tar.gz дэмждэг",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz архив"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android гар утсаа хувилбар, APK татаж суулгах боломжтой",
+          "label": "APK суулгацын пакет"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS хувилбар, iPhone болон iPad дэмждэг",
+          "label": "IPA суулгацын пакет"
+        },
+        {
+          "name": "Хармони ОС",
+          "icon": "⚡",
+          "description": "Хармони ОС натив програм, HAP суулгах боломжтой",
+          "label": "HAP суулгацын пакет"
+        }
+      ],
+      "qrCodeLabel": "📷 QR кодыг сканнерлаж татах",
+      "qrCodeAlt": "DMine татахын QR кодыг сканнерлах",
+      "scanToDownload": "Гар утсаа хувилбарыг сканнерлаж татах",
+      "linkAddress": "Холбоосны хаяг",
+      "copyLabel": "Хуулах",
+      "openLabel": "Нээх",
+      "copiedLabel": "Савлах хавтасанд хуулагдлаа!",
+      "ctaText": "🎮 Тоглоом эхлүүлэх"
     }
   }
 }

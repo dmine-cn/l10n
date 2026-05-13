@@ -223,23 +223,6 @@ const Map<String, String> stringsSl = {
   'quitBattlefrontTitle': 'Zapusti Fronto',
   'quitBattlefrontContent':
       'Ali ste prepričani, da želite zapustiti fronto \'{name}\'? Vaš lokalni napredek bo izbrisan.',
-  // Download page
-  'downloadClient': 'Prenesi Odjemalec',
-  'browser': 'Brskalnik',
-  'browserDesc': 'Igraj neposredno v brskalniku, brez prenosa',
-  'windowsDesc': 'Za Windows 10 in novejše',
-  'macosDesc': 'Za macOS 10.15 in novejše',
-  'android': 'Android',
-  'androidDesc': 'Za Android 8.0 in novejše',
-  'iosDesc': 'Za iOS 14.0 in novejše',
-  'linkAddress': 'Naslov Povezave',
-  'downloadLink': 'Povezava za Prenos',
-  'qrCode': 'QR Koda',
-  'scanToDownload': 'Oskenirajte s telefonom za prenos',
-  'copy': 'Kopiraj',
-  'copiedToClipboard': 'Kopirano v odložišče',
-  'openLink': 'Odpri Povezavo',
-  'cannotOpenLink': 'Ni mogoče odpreti povezave',
   // Game introduction
   'gameIntroduction':
       '1. „Začetnik“ se začne z 15 minami, največ do 99 min;\n2. „Nova Fronta“ se začne z 81 minami, število se povečuje vsako stopnjo, brez zgornje meje.\n3. V povezavi so zaključene fronte samodejno deljene v oblaku za druge igralce.',

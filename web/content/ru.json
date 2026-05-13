@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Начать тренировку"
+    },
+    "download": {
+      "pageTitle": "Скачать DMine - Топ Сапёр | Мультиплатформенный клиент",
+      "metaDescription": "Бесплатно скачайте клиент DMine (Топ Сапёр)! Поддерживаются настольные платформы Windows, macOS, Linux, а также мобильные платформы Android, iOS, HarmonyOS. Синхронизация данных между платформами, игра без ограничений.",
+      "metaKeywords": "скачать сапёра, скачать DMine, скачать топ сапёра, клиент сапёра, бесплатный сапёр, мультиплатформенный сапёр",
+      "headerTitle": "📥 Скачать DMine",
+      "headerSubtitle": "Мультиплатформенная поддержка, выберите вашу платформу и начните игру",
+      "desktopSectionTitle": "💻 Настольные платформы",
+      "mobileSectionTitle": "📱 Мобильные платформы",
+      "desktopPlatforms": [
+        {
+          "name": "Браузер",
+          "icon": "🌐",
+          "description": "Без скачивания, играйте онлайн",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Нативное приложение для macOS, поддерживает Intel и Apple Silicon",
+          "isLink": false,
+          "label": "Установщик DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Настольная версия для Windows, поддерживает Windows 10/11",
+          "isLink": false,
+          "label": "Установщик EXE",
+          "zipLabel": "Портативная версия ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Настольная версия для Linux, поддерживает AppImage и tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Архив tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Мобильная версия для Android, поддерживает скачивание и установку APK",
+          "label": "Установщик APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Версия для iOS, поддерживает iPhone и iPad",
+          "label": "Установщик IPA"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Нативное приложение для HarmonyOS, поддерживает установку HAP",
+          "label": "Установщик HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Сканируйте QR-код для скачивания",
+      "qrCodeAlt": "Сканируйте QR-код, чтобы скачать DMine",
+      "scanToDownload": "Сканируйте для скачивания мобильной версии",
+      "linkAddress": "Адрес ссылки",
+      "copyLabel": "Копировать",
+      "openLabel": "Открыть",
+      "copiedLabel": "Скопировано в буфер обмена!",
+      "ctaText": "🎮 Начать игру"
     }
   }
 }

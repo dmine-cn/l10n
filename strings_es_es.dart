@@ -219,23 +219,6 @@ const Map<String, String> stringsEsEs = {
   'quitBattlefrontTitle': 'Abandonar frente',
   'quitBattlefrontContent':
       '¿Seguro que quieres abandonar el frente \'{name}\'? Tu progreso local se eliminará.',
-  // Download page
-  'downloadClient': 'Descargar cliente',
-  'browser': 'Navegador',
-  'browserDesc': 'Juega en el navegador, sin descargas',
-  'windowsDesc': 'Para Windows 10 o superior',
-  'macosDesc': 'Para macOS 10.15 o superior',
-  'android': 'Android',
-  'androidDesc': 'Para Android 8.0 o superior',
-  'iosDesc': 'Para iOS 14.0 o superior',
-  'linkAddress': 'Enlace',
-  'downloadLink': 'Link de descarga',
-  'qrCode': 'Código QR',
-  'scanToDownload': 'Escanea con tu celular para descargar',
-  'copy': 'Copiar',
-  'copiedToClipboard': 'Copiado al portapapeles',
-  'openLink': 'Abrir enlace',
-  'cannotOpenLink': 'No se puede abrir el enlace',
   // Game introduction
   'gameIntroduction':
       '1. «Principiante» empieza con 15 minas, hasta 99;\n2. «Nuevo frente» empieza con 81 minas, aumenta cada nivel sin límite.\n3. Con conexión, los frentes completados se comparten en la nube.',

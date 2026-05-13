@@ -235,24 +235,6 @@ const Map<String, String> stringsDe = {
   'quitBattlefrontTitle': 'Front verlassen',
   'quitBattlefrontContent':
       'Bist du sicher, dass du die Front "{name}" verlassen möchtest? Dein lokaler Fortschritt wird gelöscht.',
-
-  // 下载页面
-  'downloadClient': 'Client herunterladen',
-  'browser': 'Browser',
-  'browserDesc': 'Spiele direkt im Browser, ohne Herunterladen',
-  'windowsDesc': 'Für Windows 10 und höher',
-  'macosDesc': 'Für macOS 10.15 und höher',
-  'android': 'Android',
-  'androidDesc': 'Für Android 8.0 und höher',
-  'iosDesc': 'Für iOS 14.0 und höher',
-  'linkAddress': 'Link-Adresse',
-  'downloadLink': 'Download-Link',
-  'qrCode': 'QR-Code',
-  'scanToDownload': 'Mit dem Telefon scannen, um herunterzuladen',
-  'copy': 'Kopieren',
-  'copiedToClipboard': 'In die Zwischenablage kopiert',
-  'openLink': 'Link öffnen',
-  'cannotOpenLink': 'Link kann nicht geöffnet werden',
   // 游戏介绍
   'gameIntroduction':
       '1. „Neuling“ beginnt mit 15 Minen und kann bis zu 99 Minen erreichen;\n2. „Neue Front“ beginnt mit 81 Minen, jedes Level fügt Minen hinzu, ohne Obergrenze.\n3. Bei Internetverbindung werden „abgeschlossene“ Fronten automatisch in der Cloud geteilt, damit andere lernen können.',

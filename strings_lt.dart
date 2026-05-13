@@ -228,24 +228,6 @@ const Map<String, String> stringsLt = {
   'quitBattlefrontTitle': 'Išeiti iš fronto',
   'quitBattlefrontContent':
       'Ar tikrai norite išeiti iš fronto "{name}"? Jūsų vietinis progresas bus ištrintas.',
-
-  // 下载页面
-  'downloadClient': 'Atsisiųsti Klientą',
-  'browser': 'Naršytuvas',
-  'browserDesc': 'Žaiskite tiesiogiai naršytyje, nereikia atsisiųsti',
-  'windowsDesc': 'Windows 10 ir naujesnės versijos',
-  'macosDesc': 'macOS 10.15 ir naujesnės versijos',
-  'android': 'Android',
-  'androidDesc': 'Android 8.0 ir naujesnės versijos',
-  'iosDesc': 'iOS 14.0 ir naujesnės versijos',
-  'linkAddress': 'Nuorodos Adresas',
-  'downloadLink': 'Atsisiuntimo Nuoroda',
-  'qrCode': 'QR Kodas',
-  'scanToDownload': 'Nuskenuokite telefonu, kad atsisiųstumėte',
-  'copy': 'Kopijuoti',
-  'copiedToClipboard': 'Nukopijuota į iškarpinę',
-  'openLink': 'Atidaryti Nuorodą',
-  'cannotOpenLink': 'Negalima atidaryti nuorodos',
   // 游戏介绍
   'gameIntroduction':
       '1. „Pradedantysis“ prasideda nuo 15 minų ir gali pasiekti iki 99 minų.\n2. „Nauja Fronte“ prasideda nuo 81 minų, kiekvienas lygis minų skaičių padidina be viršaus ribojimo.\n3. Su interneto ryšiu „įveikti“ frontai automatiškai išsaugomi debesyje, kad kiti galėtų juos naudoti.',

@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Start øving"
+    },
+    "download": {
+      "pageTitle": "Last ned DMine - Topp Mineryddar | Plattformuavhengig klientnedlasting",
+      "metaDescription": "Last ned den gratis DMine (Topp Mineryddar)-klienten! Støtter skrivebordsplattformane Windows, macOS, Linux, og mobilplattformane Android, iOS, HarmonyOS. Plattformuavhengig datasynkronisering, spel utan grenser.",
+      "metaKeywords": "last ned mineryddar, last ned DMine, last ned topp mineryddar, mineryddar-klient, gratis mineryddar-nedlasting, plattformuavhengig mineryddar",
+      "headerTitle": "📥 Last ned DMine",
+      "headerSubtitle": "Støtte for alle plattformer, vel plattformen din og begynn å spele",
+      "desktopSectionTitle": "💻 Skrivebordsplattformer",
+      "mobileSectionTitle": "📱 Mobilplattformer",
+      "desktopPlatforms": [
+        {
+          "name": "Nettlesar",
+          "icon": "🌐",
+          "description": "Ingen nedlasting nødvendig, spel direkte på nett",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Original macOS-app, støttar både Intel og Apple Silicon",
+          "isLink": false,
+          "label": "DMG-installasjonspakke"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows-skrivebordsversjon, støttar Windows 10/11",
+          "isLink": false,
+          "label": "EXE-installasjonspakke",
+          "zipLabel": "ZIP bærbar versjon"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux-skrivebordsversjon, støttar AppImage og tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz komprimert arkiv"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android-mobilversjon, støttar APK-nedlasting og -installasjon",
+          "label": "APK-installasjonspakke"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS-versjon, støttar både iPhone og iPad",
+          "label": "IPA-installasjonspakke"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Original HarmonyOS-app, støttar HAP-installasjon",
+          "label": "HAP-installasjonspakke"
+        }
+      ],
+      "qrCodeLabel": "📷 Skann QR-kode for å laste ned",
+      "qrCodeAlt": "Skann QR-kode for å laste ned DMine",
+      "scanToDownload": "Skann for å laste ned mobilversjonen",
+      "linkAddress": "Lenkeadresse",
+      "copyLabel": "Kopier",
+      "openLabel": "Opne",
+      "copiedLabel": "Kopiert til utklippstavla!",
+      "ctaText": "🎮 Begynn å spele"
     }
   }
 }

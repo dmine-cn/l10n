@@ -231,24 +231,6 @@ const Map<String, String> stringsFr = {
   'quitBattlefrontTitle': 'Quitter le front',
   'quitBattlefrontContent':
       'Êtes-vous sûr de vouloir quitter le front "{name}" ? Votre progression locale sera supprimée.',
-
-  // 下载页面
-  'downloadClient': 'Télécharger le client',
-  'browser': 'Navigateur',
-  'browserDesc': 'Jouer directement dans le navigateur, sans téléchargement',
-  'windowsDesc': 'Pour Windows 10 et versions ultérieures',
-  'macosDesc': 'Pour macOS 10.15 et versions ultérieures',
-  'android': 'Android',
-  'androidDesc': 'Pour Android 8.0 et versions ultérieures',
-  'iosDesc': 'Pour iOS 14.0 et versions ultérieures',
-  'linkAddress': 'Adresse du lien',
-  'downloadLink': 'Lien de téléchargement',
-  'qrCode': 'Code QR',
-  'scanToDownload': 'Scanner avec le téléphone pour télécharger',
-  'copy': 'Copier',
-  'copiedToClipboard': 'Copié dans le presse-papiers',
-  'openLink': 'Ouvrir le lien',
-  'cannotOpenLink': 'Impossible d\'ouvrir le lien',
   // 游戏介绍
   'gameIntroduction':
       '1. "Débutant" commence avec 15 mines, peut aller jusqu\'à 99 mines ;\n2. "Nouveau front" commence avec 81 mines, chaque niveau ajoute des mines sans limite supérieure.\n3. Avec connexion Internet, les fronts "terminés" sont partagés automatiquement dans le cloud pour les autres.',

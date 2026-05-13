@@ -229,24 +229,6 @@ const Map<String, String> stringsEt = {
   'quitBattlefrontTitle': 'Lahku reast',
   'quitBattlefrontContent':
       'Kas olete kindel, et soovite lahkuda reast "{name}"? Teie kohalik edasiminek kustutatakse.',
-
-  // 下载页面
-  'downloadClient': 'Laadi klient alla',
-  'browser': 'Brauser',
-  'browserDesc': 'Mängi otse brauseris, ilma allalaadimata',
-  'windowsDesc': 'Windows 10 ja uuematele',
-  'macosDesc': 'macOS 10.15 ja uuematele',
-  'android': 'Android',
-  'androidDesc': 'Android 8.0 ja uuematele',
-  'iosDesc': 'iOS 14.0 ja uuematele',
-  'linkAddress': 'Linki aadress',
-  'downloadLink': 'Allalaadimise link',
-  'qrCode': 'QR-kood',
-  'scanToDownload': 'Skännige telefoniga allalaadimiseks',
-  'copy': 'Kopeeri',
-  'copiedToClipboard': 'Kopeeritud lõikelauale',
-  'openLink': 'Ava link',
-  'cannotOpenLink': 'Ei saa linki avada',
   // 游戏介绍
   'gameIntroduction':
       '1. "Algaja" algab 15 miiniga, võib ulatuda kuni 99 miinini;\n2. "Uus rida" algab 81 miiniga, iga tase lisab miine, ülemise piirita.\n3. Internetiühenduse korral jagatakse "läbitud" ridud automaatselt pilves teiste õppimiseks.',

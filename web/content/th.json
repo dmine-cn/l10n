@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 เริ่มฝึกซ้อม"
+    },
+    "download": {
+      "pageTitle": "ดาวน์โหลด DMine - ท็อปเกมขุดระเบิด | ดาวน์โหลดไคลเอนต์ข้ามแพลตฟอร์ม",
+      "metaDescription": "ดาวน์โหลดไคลเอนต์ DMine (ท็อปเกมขุดระเบิด) ฟรี! รองรับแพลตฟอร์มเดสก์ท็อป Windows, macOS, Linux และแพลตฟอร์มมือถือ Android, iOS, HarmonyOS ซิงโครไนซ์ข้อมูลข้ามแพลตฟอร์ม เล่นเกมได้อย่างไม่มีขีดจำกัด",
+      "metaKeywords": "ดาวน์โหลดเกมขุดระเบิด, ดาวน์โหลด DMine, ดาวน์โหลดท็อปเกมขุดระเบิด, ไคลเอนต์เกมขุดระเบิด, ดาวน์โหลดเกมขุดระเบิดฟรี, เกมขุดระเบิดข้ามแพลตฟอร์ม",
+      "headerTitle": "📥 ดาวน์โหลด DMine",
+      "headerSubtitle": "รองรับทุกแพลตฟอร์ม เลือกแพลตฟอร์มของคุณแล้วเริ่มเล่นเกม",
+      "desktopSectionTitle": "💻 แพลตฟอร์มเดสก์ท็อป",
+      "mobileSectionTitle": "📱 แพลตฟอร์มมือถือ",
+      "desktopPlatforms": [
+        {
+          "name": "เบราว์เซอร์",
+          "icon": "🌐",
+          "description": "ไม่ต้องดาวน์โหลด เล่นออนไลน์ได้เลย",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "แอปเนทีฟ macOS รองรับ Intel และ Apple Silicon",
+          "isLink": false,
+          "label": "ไฟล์ติดตั้ง DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "เวอร์ชันเดสก์ท็อป Windows รองรับ Windows 10/11",
+          "isLink": false,
+          "label": "ไฟล์ติดตั้ง EXE",
+          "zipLabel": "เวอร์ชันพกพา ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "เวอร์ชันเดสก์ท็อป Linux รองรับ AppImage และ tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "ไฟล์บีบอัด tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "เวอร์ชันมือถือ Android รองรับดาวน์โหลดและติดตั้ง APK",
+          "label": "ไฟล์ติดตั้ง APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "เวอร์ชัน iOS รองรับ iPhone และ iPad",
+          "label": "ไฟล์ติดตั้ง IPA"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "แอปเนทีฟ HarmonyOS รองรับการติดตั้ง HAP",
+          "label": "ไฟล์ติดตั้ง HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 สแกน QR Code เพื่อดาวน์โหลด",
+      "qrCodeAlt": "สแกน QR Code เพื่อดาวน์โหลด DMine",
+      "scanToDownload": "สแกนเพื่อดาวน์โหลดเวอร์ชันมือถือ",
+      "linkAddress": "ที่อยู่ลิงก์",
+      "copyLabel": "คัดลอก",
+      "openLabel": "เปิด",
+      "copiedLabel": "คัดลอกไปยังคลิปบอร์ดแล้ว!",
+      "ctaText": "🎮 เริ่มเล่นเกม"
     }
   }
 }

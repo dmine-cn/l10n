@@ -223,24 +223,6 @@ const Map<String, String> stringsAr = {
   'quitBattlefrontTitle': 'مغادرة الجبهة',
   'quitBattlefrontContent':
       'هل أنت متأكد أنك تريد مغادرة الجبهة "{name}"؟ سيتم حذف تقدمك المحلي.',
-
-  // Download page
-  'downloadClient': 'تنزيل العميل',
-  'browser': 'المتصفح',
-  'browserDesc': 'اللعب مباشرة في المتصفح، لا حاجة للتنزيل',
-  'windowsDesc': 'لـ Windows 10 والإصدارات الأحدث',
-  'macosDesc': 'لـ macOS 10.15 والإصدارات الأحدث',
-  'android': 'Android',
-  'androidDesc': 'لـ Android 8.0 والإصدارات الأحدث',
-  'iosDesc': 'لـ iOS 14.0 والإصدارات الأحدث',
-  'linkAddress': 'عنوان الرابط',
-  'downloadLink': 'رابط التنزيل',
-  'qrCode': 'رمز QR',
-  'scanToDownload': 'امسح بالهاتف للتنزيل',
-  'copy': 'نسخ',
-  'copiedToClipboard': 'تم النسخ إلى الحافظة',
-  'openLink': 'فتح الرابط',
-  'cannotOpenLink': 'لا يمكن فتح الرابط',
   // Game introduction
   'gameIntroduction':
       '1. يبدأ "المبتدئ" بـ 15 لغماً، ويمكن أن يصل إلى 99 لغماً.\n2. يبدأ "الجبهة الجديدة" بـ 81 لغماً، ويزداد عدد الألغام في كل مستوى، دون حد أعلى.\n3. في وضع الاتصال، يتم مشاركة الجبهات المكتملة تلقائيًا إلى السحابة للآخرين للتعلم منها.',

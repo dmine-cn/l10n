@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Започнете да тренирате"
+    },
+    "download": {
+      "pageTitle": "Свали DMine - Топ Миночистач | Кросплатформено сваляне на клиент",
+      "metaDescription": "Свали БЕЗПЛАТНО клиента DMine (Топ Миночистач)! Поддържа настолни платформи Windows, macOS, Linux, както и мобилни платформи Android, iOS, Хармония ОС. Синхронизация на данни между платформи, игра без граници.",
+      "metaKeywords": "свали миночистач, свали DMine, свали Топ Миночистач, клиент за миночистач, безплатно свали миночистач, кросплатформен миночистач",
+      "headerTitle": "📥 Свали DMine",
+      "headerSubtitle": "Поддръжка на всички платформи, изберете вашата и започнете да играете",
+      "desktopSectionTitle": "💻 Настолни платформи",
+      "mobileSectionTitle": "📱 Мобилни платформи",
+      "desktopPlatforms": [
+        {
+          "name": "Браузър",
+          "icon": "🌐",
+          "description": "Без сваляне, играйте онлайн",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Нативно приложение за macOS, поддържа Intel и Apple Silicon",
+          "isLink": false,
+          "label": "DMG инсталационен пакет"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Настолна версия за Windows, поддържа Windows 10/11",
+          "isLink": false,
+          "label": "EXE инсталационен пакет",
+          "zipLabel": "Преносима ZIP версия"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Настолна версия за Linux, поддържа AppImage и tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz компресиран пакет"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Мобилна версия за Android, поддържа сваляне и инсталиране на APK",
+          "label": "APK инсталационен пакет"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Версия за iOS, поддържа iPhone и iPad",
+          "label": "IPA инсталационен пакет"
+        },
+        {
+          "name": "Хармония ОС",
+          "icon": "⚡",
+          "description": "Нативно приложение за Хармония ОС, поддържа инсталиране на HAP",
+          "label": "HAP инсталационен пакет"
+        }
+      ],
+      "qrCodeLabel": "📷 Сканирайте QR кода за сваляне",
+      "qrCodeAlt": "Сканирайте QR кода, за да свалите DMine",
+      "scanToDownload": "Сканирайте за да свалите мобилната версия",
+      "linkAddress": "Адрес на линка",
+      "copyLabel": "Копирай",
+      "openLabel": "Отвори",
+      "copiedLabel": "Копирано в клипборда!",
+      "ctaText": "🎮 Започнете играта"
     }
   }
 }

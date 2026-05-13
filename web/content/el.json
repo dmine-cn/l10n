@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Εκκίνηση εξάσκησης"
+    },
+    "download": {
+      "pageTitle": "Λήψη DMine - Κορυφαίος Ναρκαλιευτής | Λήψη Πλατφόρμας-διαβατούς Πελάτη",
+      "metaDescription": "Λήψτε δωρεάν τον πελάτη DMine (Κορυφαίος Ναρκαλιευτής)! Υποστηρίζει τις επιφάνειες εργασίας Windows, macOS, Linux, καθώς και τις κινητές πλατφόρμες Android, iOS και HarmonyOS. Συγχρονισμός δεδομένων μεταξύ πλατφορμών, παιχνίδι χωρίς όρια.",
+      "metaKeywords": "λήψη ναρκαλιευτή, λήψη DMine, λήψη κορυφαίου ναρκαλιευτή, πελάτης ναρκαλιευτή, δωρεάν λήψη ναρκαλιευτή, ναρκαλιευτής πολλαπλών πλατφορμών",
+      "headerTitle": "📥 Λήψη DMine",
+      "headerSubtitle": "Υποστήριξη πολλαπλών πλατφορμών, επιλέξτε την πλατφόρμα σας και ξεκινήστε το παιχνίδι",
+      "desktopSectionTitle": "💻 Επιφάνεια Εργασίας",
+      "mobileSectionTitle": "📱 Κινητή Πλατφόρμα",
+      "desktopPlatforms": [
+        {
+          "name": "Περιηγητής",
+          "icon": "🌐",
+          "description": "Χωρίς λήψη, παίξτε απευθείας στο διαδίκτυο",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Εγγενής εφαρμογή macOS, υποστηρίζει Intel και Apple Silicon",
+          "isLink": false,
+          "label": "Πακέτο Εγκατάστασης DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Έκδοση για επιφάνεια εργασίας Windows, υποστηρίζει Windows 10/11",
+          "isLink": false,
+          "label": "Πακέτο Εγκατάστασης EXE",
+          "zipLabel": "Φορητή Έκδοση ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Έκδοση για επιφάνεια εργασίας Linux, υποστηρίζει AppImage και tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Συμπιεσμένο Πακέτο tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Έκδοση για κινητά Android, υποστηρίζει λήψη και εγκατάσταση APK",
+          "label": "Πακέτο Εγκατάστασης APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Έκδοση για iOS, υποστηρίζει iPhone και iPad",
+          "label": "Πακέτο Εγκατάστασης IPA"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Εγγενής εφαρμογή HarmonyOS, υποστηρίζει εγκατάσταση HAP",
+          "label": "Πακέτο Εγκατάστασης HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Σάρωση κώδικα QR για λήψη",
+      "qrCodeAlt": "Σάρωση κώδικα QR για λήψη του DMine",
+      "scanToDownload": "Σάρωση για λήψη της κινητής έκδοσης",
+      "linkAddress": "Διεύθυνση Συνδέσμου",
+      "copyLabel": "Αντιγραφή",
+      "openLabel": "Άνοιγμα",
+      "copiedLabel": "Αντιγράφηκε στο πρόχειρο!",
+      "ctaText": "🎮 Ξεκινήστε το Παιχνίδι"
     }
   }
 }

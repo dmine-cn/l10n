@@ -225,23 +225,6 @@ const Map<String, String> stringsSr = {
   'quitBattlefrontTitle': 'Напусти фронт',
   'quitBattlefrontContent':
       'Да ли сте сигурни да желите да напустите фронт \'{name}\'? Ваш локални напредак ће бити обрисан.',
-  // Download page
-  'downloadClient': 'Преузми клијент',
-  'browser': 'Претраживач',
-  'browserDesc': 'Играјте директно у претраживачу, без преузимања',
-  'windowsDesc': 'За Windows 10 и новије верзије',
-  'macosDesc': 'За macOS 10.15 и новије верзије',
-  'android': 'Android',
-  'androidDesc': 'За Android 8.0 и новије верзије',
-  'iosDesc': 'За iOS 14.0 и новије верзије',
-  'linkAddress': 'Адреса везе',
-  'downloadLink': 'Веза за преузимање',
-  'qrCode': 'QR код',
-  'scanToDownload': 'Скенирајте телефоном за преузимање',
-  'copy': 'Копирај',
-  'copiedToClipboard': 'Копирано у клипборд',
-  'openLink': 'Отвори везу',
-  'cannotOpenLink': 'Не може да се отвори веза',
   // Game introduction
   'gameIntroduction':
       '1. „Почетник“ почиње са 15 мина, максимум до 99 мина;\n2. „Нови фронт“ почиње са 81 мина, број се повећава сваки ниво, без горње границе.\n3. У мрежи, завршени фронтови се аутоматски деле у облаку за друге играче.',

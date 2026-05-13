@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Dechrau ymarfer"
+    },
+    "download": {
+      "pageTitle": "Llwytho DMine - Chwilotop Glöynnod | Llwytho Glient Cymlawr Platfformau",
+      "metaDescription": "Llwythwch y glient DMine (Chwilotop Glöynnod) am ddim! Mae'n cefnogi platfformau penbwrdd Windows, macOS, Linux, a thiwdorau Android, iOS, a Hongmeng. Cydweddu data ar draws platfformau, chwaraewch heb gyfyngiadau.",
+      "metaKeywords": "llwytho chwilotop glöynnod, llwytho DMine, llwytho chwilotop glöynnod gorau, glient chwilotop glöynnod, llwytho chwilotop glöynnod am ddim, chwilotop glöynnod cymlawr platfformau",
+      "headerTitle": "📥 Llwytho DMine",
+      "headerSubtitle": "Cefnogi platfformau amlwg, dewiswch eich platfform a dechreuwch chwarae",
+      "desktopSectionTitle": "💻 Platfformau Penbwrdd",
+      "mobileSectionTitle": "📱 Platfformau Symudol",
+      "desktopPlatforms": [
+        {
+          "name": "Poryll",
+          "icon": "🌐",
+          "description": "Nid oes angen llwytho, chwaraewch ar-lein",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "App genedigol ar gyfer macOS, yn cefnogi Intel a Apple Silicon",
+          "isLink": false,
+          "label": "Paciau gosod DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Fersiwn penbwrdd ar gyfer Windows, yn cefnogi Windows 10/11",
+          "isLink": false,
+          "label": "Paciau gosod EXE",
+          "zipLabel": "Fersiyn portabl ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Fersiwn penbwrdd ar gyfer Linux, yn cefnogi AppImage a tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Paciau cywasgedd tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Fersiwn symudol ar gyfer Android, yn cefnogi llwytho a gosod APK",
+          "label": "Paciau gosod APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Fersiwn ar gyfer iOS, yn cefnogi iPhone ac iPad",
+          "label": "Paciau gosod IPA"
+        },
+        {
+          "name": "Hongmeng",
+          "icon": "⚡",
+          "description": "App genedigol ar gyfer Hongmeng, yn cefnogi gosod HAP",
+          "label": "Paciau gosod HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Sganwch y cod QR i'w lwytho",
+      "qrCodeAlt": "Sganwch y cod QR i lwytho DMine",
+      "scanToDownload": "Sganwch i lwytho'r fersiwn symudol",
+      "linkAddress": "Cyfeiriad y dolen",
+      "copyLabel": "Copïo",
+      "openLabel": "Agor",
+      "copiedLabel": "Wedi'i gopïo i'r clipfwrdd!",
+      "ctaText": "🎮 Dechreuwch chwarae"
     }
   }
 }

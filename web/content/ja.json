@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 練習開始"
+    },
+    "download": {
+      "pageTitle": "DMine ダウンロード - トップマインスイーパー | マルチプラットフォーム クライアント ダウンロード",
+      "metaDescription": "DMine（トップマインスイーパー）クライアントを無料ダウンロード！デスクトッププラットフォーム（Windows、macOS、Linux）、モバイルプラットフォーム（Android、iOS、HarmonyOS）に対応。マルチプラットフォームでデータ同期、シームレスにプレイ可能。",
+      "metaKeywords": "マインスイーパー ダウンロード, DMine ダウンロード, トップマインスイーパー ダウンロード, マインスイーパー クライアント, 無料 マインスイーパー ダウンロード, マルチプラットフォーム マインスイーパー",
+      "headerTitle": "📥 DMine ダウンロード",
+      "headerSubtitle": "マルチプラットフォーム対応。ご利用のプラットフォームを選んでゲーム開始",
+      "desktopSectionTitle": "💻 デスクトッププラットフォーム",
+      "mobileSectionTitle": "📱 モバイルプラットフォーム",
+      "desktopPlatforms": [
+        {
+          "name": "ブラウザ",
+          "icon": "🌐",
+          "description": "ダウンロード不要、オンラインで即プレイ",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "macOSネイティブアプリ、IntelおよびApple Silicon対応",
+          "isLink": false,
+          "label": "DMGインストーラー"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windowsデスクトップ版、Windows 10/11対応",
+          "isLink": false,
+          "label": "EXEインストーラー",
+          "zipLabel": "ZIPポータブル版"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linuxデスクトップ版、AppImageおよびtar.gz対応",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz圧縮ファイル"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Androidスマホ版、APKダウンロードインストール対応",
+          "label": "APKインストーラー"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS版、iPhoneおよびiPad対応",
+          "label": "IPAインストーラー"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "HarmonyOSネイティブアプリ、HAPインストール対応",
+          "label": "HAPインストーラー"
+        }
+      ],
+      "qrCodeLabel": "📷 QRコードをスキャンしてダウンロード",
+      "qrCodeAlt": "QRコードをスキャンしてDMineをダウンロード",
+      "scanToDownload": "スキャンしてモバイル版をダウンロード",
+      "linkAddress": "リンクアドレス",
+      "copyLabel": "コピー",
+      "openLabel": "開く",
+      "copiedLabel": "クリップボードにコピーしました！",
+      "ctaText": "🎮 ゲーム開始"
     }
   }
 }

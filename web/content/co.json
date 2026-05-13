@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Cumincià à praticà"
+    },
+    "download": {
+      "pageTitle": "Scarica DMine - U Migliu Cacciamine | Scaricamentu di u cliente multiplataforma",
+      "metaDescription": "Scarica gratuitamente u cliente DMine (U Migliu Cacciamine)! Supporta e piattaforme di scrivania Windows, macOS, Linux, è e piattaforme mobili Android, iOS, Hongmeng. Sincronizazione di dati trà piattaforme, ghjoca senza limiti.",
+      "metaKeywords": "scarica cacciamine, scarica DMine, scarica u migliu cacciamine, cliente di cacciamine, scarica cacciamine gratuitamente, cacciamine multiplataforma",
+      "headerTitle": "📥 Scarica DMine",
+      "headerSubtitle": "Supportu multiplataforma, sceglite a vostra piattaforma è cuminciate à ghjocà",
+      "desktopSectionTitle": "💻 Piattaforme di Scrivania",
+      "mobileSectionTitle": "📱 Piattaforme Mobili",
+      "desktopPlatforms": [
+        {
+          "name": "Navigatore",
+          "icon": "🌐",
+          "description": "Nun ci vole scaricamentu, ghjoca in linea",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "App nativa per macOS, supporta Intel è Apple Silicon",
+          "isLink": false,
+          "label": "Paccu d'installazione DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Versione di scrivania per Windows, supporta Windows 10/11",
+          "isLink": false,
+          "label": "Paccu d'installazione EXE",
+          "zipLabel": "Versione portatile ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Versione di scrivania per Linux, supporta AppImage è tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Paccu cumpressu tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Versione mobile per Android, supporta scaricamentu è installazione APK",
+          "label": "Paccu d'installazione APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Versione per iOS, supporta iPhone è iPad",
+          "label": "Paccu d'installazione IPA"
+        },
+        {
+          "name": "Hongmeng",
+          "icon": "⚡",
+          "description": "App nativa per Hongmeng, supporta installazione HAP",
+          "label": "Paccu d'installazione HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Scanna u codice QR per scaricà",
+      "qrCodeAlt": "Scanna u codice QR per scaricà DMine",
+      "scanToDownload": "Scanna per scaricà a versione mobile",
+      "linkAddress": "Indirizzu di u ligame",
+      "copyLabel": "Copia",
+      "openLabel": "Aprì",
+      "copiedLabel": "Copiatu in u clipboard!",
+      "ctaText": "🎮 Cumincià à ghjocà"
     }
   }
 }

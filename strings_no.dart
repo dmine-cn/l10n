@@ -226,24 +226,6 @@ const Map<String, String> stringsNo = {
   'quitBattlefrontTitle': 'Forlat front',
   'quitBattlefrontContent':
       'Er du sikker på at du vil forlate fronten «{name}»? Fremdrift blir slettet.',
-
-  // 下载页面
-  'downloadClient': 'Last ned klient',
-  'browser': 'Nettleser',
-  'browserDesc': 'Spill direkte i nettleseren, ingen nedlasting',
-  'windowsDesc': 'For Windows 10 og nyere',
-  'macosDesc': 'For macOS 10.15 og nyere',
-  'android': 'Android',
-  'androidDesc': 'For Android 8.0 og nyere',
-  'iosDesc': 'For iOS 14.0 og nyere',
-  'linkAddress': 'Lenkeadresse',
-  'downloadLink': 'Nedlastingslenke',
-  'qrCode': 'QR-kode',
-  'scanToDownload': 'Scan med telefon for å laste ned',
-  'copy': 'Kopier',
-  'copiedToClipboard': 'Kopiert til utklippstavle',
-  'openLink': 'Åpne lenke',
-  'cannotOpenLink': 'Kan ikke åpne lenken',
   // 游戏介绍
   'gameIntroduction':
       '1. «Nybeginner» starter med 15 miner og kan gå opp til 99 miner.\n2. «Ny front» starter med 81 miner, hvert nivå øker antallet uten øvre grense.\n3. Med internett blir fullførte fronter automatisk lagret i skyen.',

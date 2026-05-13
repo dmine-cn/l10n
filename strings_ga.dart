@@ -235,24 +235,6 @@ const Map<String, String> stringsGa = {
   'quitBattlefrontTitle': 'Scaoil taoise',
   'quitBattlefrontContent':
       'An bhfuil tú cinnte gur mian leat an taoise "{name}" a scaoileadh? Scriosfar do dhul chun cinn áitiúil.',
-
-  // 下载页面
-  'downloadClient': 'Íoslódáil an cliant',
-  'browser': 'Brabhsálaí',
-  'browserDesc': 'Imirt go díreach sa bhrabhsálaí, gan íoslódáil',
-  'windowsDesc': 'Le haghaidh Windows 10 agus níos déanaí',
-  'macosDesc': 'Le haghaidh macOS 10.15 agus níos déanaí',
-  'android': 'Android',
-  'androidDesc': 'Le haghaidh Android 8.0 agus níos déanaí',
-  'iosDesc': 'Le haghaidh iOS 14.0 agus níos déanaí',
-  'linkAddress': 'Seoladh na n-aiseol',
-  'downloadLink': 'Nasc íoslódála',
-  'qrCode': 'Cód QR',
-  'scanToDownload': 'Scan le do ghuthán chun íoslódáil',
-  'copy': 'Cóipeáil',
-  'copiedToClipboard': 'Cóipeáilte go dtí an gearrthaisce',
-  'openLink': 'Oscail an nasc',
-  'cannotOpenLink': 'Ní féidir an nasc a oscailt',
   // 游戏介绍
   'gameIntroduction':
       '1. Tosaíonn an "Níos úire" le 15 mianra agus is féidir leis suas le 99 mianra a bhaint amach.\n2. Tosaíonn an "Taoise nua" le 81 mianra, cuireann gach leibhéal mianraí leis gan teorainn uachtarach.\n3. Le nasc idirlín, roinntear taoisigh "críochnaithe" go huathoibríoch sa scamall do dhaoine eile.',

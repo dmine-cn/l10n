@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Start Practicing"
+    },
+    "download": {
+      "pageTitle": "Download DMine - Top Minesweeper | Cross-Platform Client Download",
+      "metaDescription": "Download the DMine (Top Minesweeper) client for free! Supports desktop platforms Windows, macOS, Linux, and mobile platforms Android, iOS, HarmonyOS. Cross-platform data sync, boundless gaming.",
+      "metaKeywords": "download minesweeper, DMine download, top minesweeper download, minesweeper client, free minesweeper download, cross-platform minesweeper",
+      "headerTitle": "📥 Download DMine",
+      "headerSubtitle": "Cross-platform support. Choose your platform and start playing",
+      "desktopSectionTitle": "💻 Desktop Platforms",
+      "mobileSectionTitle": "📱 Mobile Platforms",
+      "desktopPlatforms": [
+        {
+          "name": "Browser",
+          "icon": "🌐",
+          "description": "No download needed, play online instantly",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Native macOS app, supports Intel and Apple Silicon",
+          "isLink": false,
+          "label": "DMG Installer"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows desktop version, supports Windows 10/11",
+          "isLink": false,
+          "label": "EXE Installer",
+          "zipLabel": "ZIP Portable Edition"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux desktop version, supports AppImage and tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz Archive"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android mobile version, supports APK download and installation",
+          "label": "APK Installer"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS version, supports iPhone and iPad",
+          "label": "IPA Installer"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Native HarmonyOS app, supports HAP installation",
+          "label": "HAP Installer"
+        }
+      ],
+      "qrCodeLabel": "📷 Scan QR Code to Download",
+      "qrCodeAlt": "Scan QR Code to Download DMine",
+      "scanToDownload": "Scan to download mobile version",
+      "linkAddress": "Link Address",
+      "copyLabel": "Copy",
+      "openLabel": "Open",
+      "copiedLabel": "Copied to clipboard!",
+      "ctaText": "🎮 Start Game"
     }
   }
 }

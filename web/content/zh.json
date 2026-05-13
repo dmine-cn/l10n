@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 开始练习"
+    },
+    "download": {
+      "pageTitle": "下载 DMine - 顶级扫雷 | 跨平台客户端下载",
+      "metaDescription": "免费下载 DMine（顶级扫雷）客户端！支持 Windows、macOS、Linux 桌面平台，以及 Android、iOS、鸿蒙手机平台。跨平台数据同步，畅玩无界。",
+      "metaKeywords": "下载扫雷,DMine下载,顶级扫雷下载,扫雷客户端,免费扫雷下载,跨平台扫雷",
+      "headerTitle": "📥 下载 DMine",
+      "headerSubtitle": "跨平台支持，选择你的平台开始游戏",
+      "desktopSectionTitle": "💻 桌面平台",
+      "mobileSectionTitle": "📱 手机平台",
+      "desktopPlatforms": [
+        {
+          "name": "浏览器",
+          "icon": "🌐",
+          "description": "无需下载，在线即玩",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "macOS 原生应用，支持 Intel 和 Apple Silicon",
+          "isLink": false,
+          "label": "DMG 安装包"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows 桌面版，支持 Windows 10/11",
+          "isLink": false,
+          "label": "EXE 安装包",
+          "zipLabel": "ZIP 便携版"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux 桌面版，支持 AppImage 和 tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz 压缩包"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android 手机版，支持 APK 下载安装",
+          "label": "APK 安装包"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS 版本，支持 iPhone 和 iPad",
+          "label": "IPA 安装包"
+        },
+        {
+          "name": "鸿蒙",
+          "icon": "⚡",
+          "description": "鸿蒙原生应用，支持 HAP 安装",
+          "label": "HAP 安装包"
+        }
+      ],
+      "qrCodeLabel": "📷 扫码下载",
+      "qrCodeAlt": "扫码下载 DMine",
+      "scanToDownload": "扫码下载手机版",
+      "linkAddress": "链接地址",
+      "copyLabel": "复制",
+      "openLabel": "打开",
+      "copiedLabel": "已复制到剪贴板！",
+      "ctaText": "🎮 开始游戏"
     }
   }
 }

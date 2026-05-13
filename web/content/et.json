@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Alusta treeningut"
+    },
+    "download": {
+      "pageTitle": "Laadi DMine alla - Tippmiinijahtija | Üleraamatvormi kliendi allalaadimine",
+      "metaDescription": "Laadi DMine (Tippmiinijahtija) klient tasuta alla! Toetab töölauaplatforme Windows, macOS, Linux ning mobiiliplatvorme Android, iOS ja HarmonyOS. Üleraamatvormi andmete sünkroonimine, mängi piirideta.",
+      "metaKeywords": "laadi miinijahtija alla, DMine allalaadimine, laadi tippmiinijahtija alla, miinijahtija klient, tasuta miinijahtija allalaadimine, üleraamatvormi miinijahtija",
+      "headerTitle": "📥 Laadi DMine alla",
+      "headerSubtitle": "Üleraamatvormi tugi. Vali oma platvorm ja alusta mängimist",
+      "desktopSectionTitle": "💻 Töölauaplatformid",
+      "mobileSectionTitle": "📱 Mobiiliplatvormid",
+      "desktopPlatforms": [
+        {
+          "name": "Veebibrauser",
+          "icon": "🌐",
+          "description": "Ei vaja allalaadimist, mängi otse veebis",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "macOS kohalik rakendus, toetab Intel ja Apple Silicon protsessoreid",
+          "isLink": false,
+          "label": "DMG paigaldusfail"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows töölauaversioon, toetab Windows 10/11",
+          "isLink": false,
+          "label": "EXE paigaldusfail",
+          "zipLabel": "ZIP portatiivne versioon"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux töölauaversioon, toetab AppImage ja tar.gz vorminguid",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz pakitud fail"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android mobiiliversioon, toetab APK allalaadimist ja paigaldamist",
+          "label": "APK paigaldusfail"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS versioon, toetab iPhone'i ja iPad'i",
+          "label": "IPA paigaldusfail"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "HarmonyOS kohalik rakendus, toetab HAP paigaldamist",
+          "label": "HAP paigaldusfail"
+        }
+      ],
+      "qrCodeLabel": "📷 Skännige QR-koodi allalaadimiseks",
+      "qrCodeAlt": "Skännige QR-koodi DMine allalaadimiseks",
+      "scanToDownload": "Skännige mobiiliversiooni allalaadimiseks",
+      "linkAddress": "Linki aadress",
+      "copyLabel": "Kopeeri",
+      "openLabel": "Ava",
+      "copiedLabel": "Kopeeritud lõikelauale!",
+      "ctaText": "🎮 Alusta mängu"
     }
   }
 }

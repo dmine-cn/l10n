@@ -225,23 +225,6 @@ const Map<String, String> stringsSv = {
   'quitBattlefrontTitle': 'Lämna framfront',
   'quitBattlefrontContent':
       'Är du säker på att du vill lämna framfronten \'{name}\'? Din lokala förlopp kommer att raderas.',
-  // Download page
-  'downloadClient': 'Ladda ner klient',
-  'browser': 'Webbläsare',
-  'browserDesc': 'Spela direkt i webbläsaren, inget behov av nerladdning',
-  'windowsDesc': 'För Windows 10 och senare',
-  'macosDesc': 'För macOS 10.15 och senare',
-  'android': 'Android',
-  'androidDesc': 'För Android 8.0 och senare',
-  'iosDesc': 'För iOS 14.0 och senare',
-  'linkAddress': 'Länk',
-  'downloadLink': 'Nedladdningslänk',
-  'qrCode': 'QR-kod',
-  'scanToDownload': 'Skanna med mobilen för att ladda ner',
-  'copy': 'Kopiera',
-  'copiedToClipboard': 'Kopierat till urklipp',
-  'openLink': 'Öppna länk',
-  'cannotOpenLink': 'Kan inte öppna länken',
   // Game introduction
   'gameIntroduction':
       '1. "Nybörjare" börjar med 15 minor, upp till 99;\n2. "Ny Framfront" börjar med 81 minor, ökar med varje nivå, utan övre gräns.\n3. Online delas klarade framfrontar automatiskt i molnet för andra att lära sig av.',

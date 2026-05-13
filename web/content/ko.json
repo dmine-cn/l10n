@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 연습 시작하기"
+    },
+    "download": {
+      "pageTitle": "DMine 다운로드 - 최고의 지뢰찾기 | 멀티플랫폼 클라이언트 다운로드",
+      "metaDescription": "DMine (최고의 지뢰찾기) 클라이언트를 무료로 다운로드하세요! Windows, macOS, Linux 데스크톱 플랫폼과 Android, iOS, 홍몽(鸿蒙) 모바일 플랫폼을 지원합니다. 멀티플랫폼 데이터 동기화로 경계 없이 플레이하세요.",
+      "metaKeywords": "지뢰찾기 다운로드, DMine 다운로드, 최고의 지뢰찾기 다운로드, 지뢰찾기 클라이언트, 무료 지뢰찾기 다운로드, 멀티플랫폼 지뢰찾기",
+      "headerTitle": "📥 DMine 다운로드",
+      "headerSubtitle": "멀티플랫폼 지원, 사용 중인 플랫폼을 선택하고 게임을 시작하세요",
+      "desktopSectionTitle": "💻 데스크톱 플랫폼",
+      "mobileSectionTitle": "📱 모바일 플랫폼",
+      "desktopPlatforms": [
+        {
+          "name": "브라우저",
+          "icon": "🌐",
+          "description": "다운로드 필요 없음, 온라인으로 바로 플레이",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "macOS 네이티브 앱, Intel 및 Apple Silicon 지원",
+          "isLink": false,
+          "label": "DMG 설치 패키지"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows 데스크톱 버전, Windows 10/11 지원",
+          "isLink": false,
+          "label": "EXE 설치 패키지",
+          "zipLabel": "ZIP 휴대용 버전"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux 데스크톱 버전, AppImage 및 tar.gz 지원",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz 압축 파일"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android 모바일 버전, APK 다운로드 및 설치 지원",
+          "label": "APK 설치 패키지"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS 버전, iPhone 및 iPad 지원",
+          "label": "IPA 설치 패키지"
+        },
+        {
+          "name": "홍몽(鸿蒙)",
+          "icon": "⚡",
+          "description": "홍몽(鸿蒙) 네이티브 앱, HAP 설치 지원",
+          "label": "HAP 설치 패키지"
+        }
+      ],
+      "qrCodeLabel": "📷 QR 코드 스캔하여 다운로드",
+      "qrCodeAlt": "QR 코드 스캔하여 DMine 다운로드",
+      "scanToDownload": "스캔하여 모바일 버전 다운로드",
+      "linkAddress": "링크 주소",
+      "copyLabel": "복사",
+      "openLabel": "열기",
+      "copiedLabel": "클립보드에 복사되었습니다!",
+      "ctaText": "🎮 게임 시작"
     }
   }
 }

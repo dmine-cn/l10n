@@ -222,23 +222,6 @@ const Map<String, String> stringsTt = {
   'quitBattlefrontTitle': 'Фронттан чыгу',
   'quitBattlefrontContent':
       'Сез \'{name}\' фронттан чыгуны сезмез? Сезнең уртача прогрессеңиз бетереләчәк.',
-  // Download page
-  'downloadClient': 'Клиентны йөкләргә',
-  'browser': 'Күзәтелмә',
-  'browserDesc': 'Йөкләүсиз, күзәтелмәдә һәзен уенагыз',
-  'windowsDesc': 'Windows 10 һәм аннан югары өчен',
-  'macosDesc': 'macOS 10.15 һәм аннан югары өчен',
-  'android': 'Android',
-  'androidDesc': 'Android 8.0 һәм аннан югары өчен',
-  'iosDesc': 'iOS 14.0 һәм аннан югары өчен',
-  'linkAddress': 'Сылтама адресы',
-  'downloadLink': 'Йөкләү сылтамасы',
-  'qrCode': 'QR-коды',
-  'scanToDownload': 'Йөкләү өчен телефон белән сканерләгез',
-  'copy': 'Көйләргә',
-  'copiedToClipboard': 'Буферга көйләнгән',
-  'openLink': 'Сылтаманы ачу',
-  'cannotOpenLink': 'Сылтаманы ачу мөмкин түгел',
   // Game introduction
   'gameIntroduction':
       '1. "Яңа уенчы" 15 минә башлый, 99 минәгә кадәр;\n2. "Яңа фронт" 81 минә башлый, һәр дәрәҗәдә арта, югары чиге юк.\n3. Интернетта тәмамланган фронтлар автоматик булып облакта берләшә.',

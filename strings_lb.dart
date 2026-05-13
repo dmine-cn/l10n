@@ -230,24 +230,6 @@ const Map<String, String> stringsLb = {
   'quitBattlefrontTitle': 'Front verloossen',
   'quitBattlefrontContent':
       'Sollt Dir wierklech d’Front "{name}" verloossen? Äre lokal Fortschrët gëtt geläscht.',
-
-  // 下载页面
-  'downloadClient': 'Client eroflueden',
-  'browser': 'Browser',
-  'browserDesc': 'Spillt direkt am Browser, ouni erofzelueden',
-  'windowsDesc': 'Windows 10 a méi nei',
-  'macosDesc': 'macOS 10.15 a méi nei',
-  'android': 'Android',
-  'androidDesc': 'Android 8.0 a méi nei',
-  'iosDesc': 'iOS 14.0 a méi nei',
-  'linkAddress': 'Link Adress',
-  'downloadLink': 'Erofluedslink',
-  'qrCode': 'QR Code',
-  'scanToDownload': 'Scannt mat Handy fir erofzelueden',
-  'copy': 'Kopéieren',
-  'copiedToClipboard': 'An d’Zwëschenlager kopéiert',
-  'openLink': ' Link opmaachen',
-  'cannotOpenLink': 'Link konnt net opgemaach ginn',
   // 游戏介绍
   'gameIntroduction':
       '1. „Ufänger“ fänkt mat 15 Minen un a kann bis 99 Minen ergoen.\n2. „Nei Front“ fänkt mat 81 Minen un, all Level erhéicht d’Minenzuel ouni Uewergrenz.\n3. Mat Internetverbindung ginn „ofgeschloss“ Fronten automatesch an der Cloud gespäichert, fir datt anerer se kënne benotzen.',

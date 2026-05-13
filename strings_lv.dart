@@ -227,24 +227,6 @@ const Map<String, String> stringsLv = {
   'quitBattlefrontTitle': 'Pamest līniju',
   'quitBattlefrontContent':
       'Vai tiešām vēlaties pamest līniju "{name}"? Jūsu vietējais progress tiks dzēsts.',
-
-  // 下载页面
-  'downloadClient': 'Lejupielādēt klientu',
-  'browser': 'Pārlūks',
-  'browserDesc': 'Spēlēt tieši pārlūkā, bez lejupielādes',
-  'windowsDesc': 'Windows 10 un jaunākam',
-  'macosDesc': 'macOS 10.15 un jaunākam',
-  'android': 'Android',
-  'androidDesc': 'Android 8.0 un jaunākam',
-  'iosDesc': 'iOS 14.0 un jaunākam',
-  'linkAddress': 'Saites adrese',
-  'downloadLink': 'Lejupielādes saite',
-  'qrCode': 'QR kods',
-  'scanToDownload': 'Skenējiet ar telefonu, lai lejupielādētu',
-  'copy': 'Kopēt',
-  'copiedToClipboard': 'Nokopēts starpliktuvē',
-  'openLink': 'Atvērt saiti',
-  'cannotOpenLink': 'Nevar atvērt saiti',
   // 游戏介绍
   'gameIntroduction':
       '1. „Iesācējs” sākas ar 15 mīnām un var sasniegt līdz 99 mīnām.\n2. „Jauna līnija” sākas ar 81 mīnu, katrs līmenis palielina mīnu skaitu bez augšēja ierobežojuma.\n3. Ar interneta pieslēgumu „pabeigtās” līnijas automātiski tiek kopīgotas mākonī, lai citi varētu to izmantot.',

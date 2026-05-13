@@ -228,24 +228,6 @@ const Map<String, String> stringsCo = {
   'quitBattlefrontTitle': 'Abbandonà a battaglia',
   'quitBattlefrontContent':
       'Site sicuru di vulete abbandunà a battaglia "{name}"? U vostru prugressu lucale serà cancellatu.',
-
-  // 下载页面
-  'downloadClient': 'Scaricà u cliente',
-  'browser': 'Navigatore',
-  'browserDesc': 'Ghjucate direttamente in u navigatore, senza scaricà',
-  'windowsDesc': 'Per Windows 10 è superiore',
-  'macosDesc': 'Per macOS 10.15 è superiore',
-  'android': 'Android',
-  'androidDesc': 'Per Android 8.0 è superiore',
-  'iosDesc': 'Per iOS 14.0 è superiore',
-  'linkAddress': 'Indirizzu di u ligame',
-  'downloadLink': 'Ligame di scaricamentu',
-  'qrCode': 'Codice QR',
-  'scanToDownload': 'Scannate cù u telefunu per scaricà',
-  'copy': 'Copià',
-  'copiedToClipboard': 'Copiatu in u appunti',
-  'openLink': 'Aprì u ligame',
-  'cannotOpenLink': 'Impussibile aprì u ligame',
   // 游戏介绍
   'gameIntroduction':
       '1. "Iniziu" principia cù 15 mine, pò ghjunghje finu à 99 mine;\n2. "Nova battaglia" principia cù 81 mine, ogni livellu aghjusta mine, senza limitu superiore.\n3. Cù cunnessione internet, e battaglie "passate" sò spartute automàticamente in nuvola per chì altri pò amparà.',

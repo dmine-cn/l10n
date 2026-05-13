@@ -220,24 +220,6 @@ const Map<String, String> stringsKo = {
   'quitBattlefrontTooltip': '원격 전선에서 나갑니다',
   'quitBattlefrontTitle': '전선 나가기',
   'quitBattlefrontContent': '전선 "{name}"에서 나가시겠습니까? 로컬 진행 상황이 삭제됩니다.',
-
-  // 下载页面
-  'downloadClient': '클라이언트 다운로드',
-  'browser': '브라우저',
-  'browserDesc': '다운로드 없이 브라우저에서 바로 플레이',
-  'windowsDesc': 'Windows 10 이상 지원',
-  'macosDesc': 'macOS 10.15 이상 지원',
-  'android': '안드로이드',
-  'androidDesc': 'Android 8.0 이상 지원',
-  'iosDesc': 'iOS 14.0 이상 지원',
-  'linkAddress': '링크 주소',
-  'downloadLink': '다운로드 링크',
-  'qrCode': 'QR 코드',
-  'scanToDownload': '휴대폰으로 스캔하여 다운로드',
-  'copy': '복사',
-  'copiedToClipboard': '클립보드에 복사되었습니다',
-  'openLink': '링크 열기',
-  'cannotOpenLink': '링크를 열 수 없습니다',
   // 游戏介绍
   'gameIntroduction':
       '1. "초보자"는 15개의 지뢰로 시작하여 최대 99개까지 도전할 수 있습니다.\n2. "새 전선"은 81개 지뢰로 시작하며, 레벨마다 지뢰가 무제한으로 증가합니다.\n3. 인터넷 연결 시 "클리어한" 전선은 자동으로 클라우드에 공유되어 다른 사람이 참고할 수 있습니다.',

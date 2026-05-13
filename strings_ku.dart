@@ -223,24 +223,6 @@ const Map<String, String> stringsKu = {
   'quitBattlefrontTitle': 'Herêma jê bibe',
   'quitBattlefrontContent':
       'Tu bi rastî dixwazî herêma "{name}" jê bibî? Pêşketina we herêmî jê dibe.',
-
-  // 下载页面
-  'downloadClient': 'Mîster da bikin',
-  'browser': 'Berserêro',
-  'browserDesc': 'Lîstîkê herçawa li berserêroyê bikin, bê da bikin',
-  'windowsDesc': 'Ji bo Windows 10 û nûntir',
-  'macosDesc': 'Ji bo macOS 10.15 û nûntir',
-  'android': 'Android',
-  'androidDesc': 'Ji bo Android 8.0 û nûntir',
-  'iosDesc': 'Ji bo iOS 14.0 û nûntir',
-  'linkAddress': 'Navê Girê',
-  'downloadLink': 'Girê Da Bikin',
-  'qrCode': 'Kodê QR',
-  'scanToDownload': 'Bi telefona scan bikin da da bikin',
-  'copy': 'Kopyê bikin',
-  'copiedToClipboard': 'Kopyê kirî li klipborda',
-  'openLink': 'Girê vekî',
-  'cannotOpenLink': 'Girê nayê vekirin',
   // 游戏介绍
   'gameIntroduction':
       '1. "Nûte" bi 15 zevî destnêşî dike û dikarin heta 99 zevî bikin.\n2. "Herêma Nû" bi 81 zevî destnêşî dike, her statî zevî zêde dike bê sînorkirina jorîn.\n3. Bi girêya internetê, herêmên "qedî" bi awtomatîk li bulûtê parêz dibin da başk biajin.',

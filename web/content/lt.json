@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Pradėti mokytis"
+    },
+    "download": {
+      "pageTitle": "Atsisiųskite DMine - Geriausias Minų Ieškotojas | Daugiaplatformės kliento atsisiuntimas",
+      "metaDescription": "Nemokamai atsisiųskite DMine (Geriausias Minų Ieškotojas) klientą! Palaiko Windows, macOS, Linux darbalaukių platformas, taip pat Android, iOS, HarmonyOS mobilųsių platformas. Daugiaplatformė duomenų sinchronizacija, žaiskite be ribų.",
+      "metaKeywords": "Minų ieškotojas atsisiųsti, DMine atsisiųsti, Geriausias Minų Ieškotojas atsisiųsti, Minų ieškotojo klientas, Nemokamas Minų ieškotojas atsisiųsti, Daugiaplatformis Minų ieškotojas",
+      "headerTitle": "📥 Atsisiųskite DMine",
+      "headerSubtitle": "Palaikomos visos platformos, pasirinkite savo platformą ir pradėkite žaisti",
+      "desktopSectionTitle": "💻 Darbalaukių platformos",
+      "mobileSectionTitle": "📱 Mobilioji platforma",
+      "desktopPlatforms": [
+        {
+          "name": "Naršyklė",
+          "icon": "🌐",
+          "description": "Nereikia atsisiųsti, žaiskite tiesiogiai internete",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Vėlinė macOS programa, palaiko Intel ir Apple Silicon",
+          "isLink": false,
+          "label": "DMG diegimo paketas"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows darbalaukio versija, palaiko Windows 10/11",
+          "isLink": false,
+          "label": "EXE diegimo paketas",
+          "zipLabel": "ZIP nešiojamoji versija"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux darbalaukio versija, palaiko AppImage ir tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz archyvas"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android mobilioji versija, palaiko APK atsisiuntimą ir diegimą",
+          "label": "APK diegimo paketas"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS versija, palaiko iPhone ir iPad",
+          "label": "IPA diegimo paketas"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Vėlinė HarmonyOS programa, palaiko HAP diegimą",
+          "label": "HAP diegimo paketas"
+        }
+      ],
+      "qrCodeLabel": "📷 Nuskaitykite QR kodą atsisiuntimui",
+      "qrCodeAlt": "Nuskaitykite QR kodą DMine atsisiuntimui",
+      "scanToDownload": "Nuskaitykite mobiliosios versijos atsisiuntimui",
+      "linkAddress": "Nuorodos adresas",
+      "copyLabel": "Kopijuoti",
+      "openLabel": "Atidaryti",
+      "copiedLabel": "Nukopijuota į iškarpinę!",
+      "ctaText": "🎮 Pradėkite žaisti"
     }
   }
 }

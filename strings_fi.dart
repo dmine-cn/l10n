@@ -224,24 +224,6 @@ const Map<String, String> stringsFi = {
   'quitBattlefrontTitle': 'Poistu rintamasta',
   'quitBattlefrontContent':
       'Haluatko varmasti poistua rintamasta "{name}"? Paikallinen edistymisesi poistetaan.',
-
-  // 下载页面
-  'downloadClient': 'Lataa asiakasohjelma',
-  'browser': 'Selain',
-  'browserDesc': 'Pelaa suoraan selaimessa ilman latausta',
-  'windowsDesc': 'Soveltuu Windows 10:een ja uudempiin',
-  'macosDesc': 'Soveltuu macOS 10.15:een ja uudempiin',
-  'android': 'Android',
-  'androidDesc': 'Soveltuu Android 8.0:een ja uudempiin',
-  'iosDesc': 'Soveltuu iOS 14.0:een ja uudempiin',
-  'linkAddress': 'Linkin osoite',
-  'downloadLink': 'Latauslinkki',
-  'qrCode': 'QR-koodi',
-  'scanToDownload': 'Skannaa puhelimella ladataksesi',
-  'copy': 'Kopioi',
-  'copiedToClipboard': 'Kopioitu leikepöydälle',
-  'openLink': 'Avaa linkki',
-  'cannotOpenLink': 'Linkkiä ei voida avata',
   // 游戏介绍
   'gameIntroduction':
       '1. "Uusien opetus" alkaa 15 miinasta, voi nousta jopa 99 miinaan;\n2. "Uusi rintama" alkaa 81 miinasta, joka taso lisää miinoja ilman ylärajaa.\n3. Internet-yhteydessä "läpäistyet" rintamat jaetaan automaattisesti pilvessä muiden oppimiseksi.',

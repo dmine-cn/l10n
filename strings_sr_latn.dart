@@ -225,23 +225,6 @@ const Map<String, String> stringsSrLatn = {
   'quitBattlefrontTitle': 'Napusti front',
   'quitBattlefrontContent':
       'Da li ste sigurni da želite da napustite front \'{name}\'? Vaš lokalni napredak biće obrisan.',
-  // Download page
-  'downloadClient': 'Preuzmi klijenta',
-  'browser': 'Pretraživač',
-  'browserDesc': 'Igrajte direktno u pretraživaču, bez preuzimanja',
-  'windowsDesc': 'Za Windows 10 i novije verzije',
-  'macosDesc': 'Za macOS 10.15 i novije verzije',
-  'android': 'Android',
-  'androidDesc': 'Za Android 8.0 i novije verzije',
-  'iosDesc': 'Za iOS 14.0 i novije verzije',
-  'linkAddress': 'Adresa veze',
-  'downloadLink': 'Veza za preuzimanje',
-  'qrCode': 'QR kod',
-  'scanToDownload': 'Skenirajte telefonom za preuzimanje',
-  'copy': 'Kopiraj',
-  'copiedToClipboard': 'Kopirano u klipbord',
-  'openLink': 'Otvori vezu',
-  'cannotOpenLink': 'Ne može da se otvori veza',
   // Game introduction
   'gameIntroduction':
       '1. „Početnik“ počinje sa 15 mina, maksimalno do 99 mina;\n2. „Novi front“ počinje sa 81 mina, broj se povećava svaki nivo, bez gornje granice.\n3. U mreži, završeni frontovi se automatski dele u oblaku za druge igrače.',

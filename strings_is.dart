@@ -229,24 +229,6 @@ const Map<String, String> stringsIs = {
   'quitBattlefrontTitle': 'Hætta í herframliði',
   'quitBattlefrontContent':
       'Ertu viss um að þú viljir hætta í herframliðinu "{name}"? Staðvær framvanga verður eytt.',
-
-  // 下载页面
-  'downloadClient': 'Niðurhala biðlara',
-  'browser': 'Vafri',
-  'browserDesc': 'Spila beint í vafra, án niðurhalningar',
-  'windowsDesc': 'Fyrir Windows 10 og nýrri',
-  'macosDesc': 'Fyrir macOS 10.15 og nýrri',
-  'android': 'Android',
-  'androidDesc': 'Fyrir Android 8.0 og nýrri',
-  'iosDesc': 'Fyrir iOS 14.0 og nýrri',
-  'linkAddress': 'Tengill slóð',
-  'downloadLink': 'Niðurhalstengill',
-  'qrCode': 'QR kóði',
-  'scanToDownload': 'Skannaðu með símanum til að niðurhala',
-  'copy': 'Afrita',
-  'copiedToClipboard': 'Afritað á klippispjald',
-  'openLink': 'Opna tengil',
-  'cannotOpenLink': 'Tenglinum var ekki hægt að opna',
   // 游戏介绍
   'gameIntroduction':
       '1. „Nýbyrji“ byrjar með 15 sprengjum og getur náð allt að 99 sprengjum.\n2. „Nýtt herframlið“ byrjar með 81 sprengjum, hvert stigi bætir við sprengjum án efri mörk.\n3. Með nettenging deila „kláruðu“ herframlið sjálfvirkt í skýinu fyrir aðra að læra af.',

@@ -228,24 +228,6 @@ const Map<String, String> stringsGl = {
   'quitBattlefrontTitle': 'Abandonar batalla',
   'quitBattlefrontContent':
       'Seguro que queres abandonar a batalla "{name}"? O teu progreso local eliminarse.',
-
-  // 下载页面
-  'downloadClient': 'Descargar cliente',
-  'browser': 'Navegador',
-  'browserDesc': 'Xoga directamente no navegador, sen descargar',
-  'windowsDesc': 'Para Windows 10 e superior',
-  'macosDesc': 'Para macOS 10.15 e superior',
-  'android': 'Android',
-  'androidDesc': 'Para Android 8.0 e superior',
-  'iosDesc': 'Para iOS 14.0 e superior',
-  'linkAddress': 'Enderezo da ligazón',
-  'downloadLink': 'Ligazón de descarga',
-  'qrCode': 'Código QR',
-  'scanToDownload': 'Escanea co teléfono para descargar',
-  'copy': 'Copiar',
-  'copiedToClipboard': 'Copiado no portapapeis',
-  'openLink': 'Abrir ligazón',
-  'cannotOpenLink': 'Non se pode abrir a ligazón',
   // 游戏介绍
   'gameIntroduction':
       '1. "Iniciación" comeza con 15 minas, pode chegar ata 99 minas;\n2. "Nova batalla" comeza con 81 minas, cada nivel engade minas, sen límite superior.\n3. Conexión a internet, as batallas "superadas" compártense automaticamente na nube para que outros poidan aprender.',

@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Cleachtadh Anois"
+    },
+    "download": {
+      "pageTitle": "Íoslódáil DMine - Barr Mianach | Íoslódáil Cliant Il-ardáin",
+      "metaDescription": "Íoslódáil cliant DMine (Barr Mianach) saor in aisce! Tacaíonn sé le hardáin deisce Windows, macOS, Linux, chomh maith le hardáin soghluaiste Android, iOS agus HarmonyOS. Comhshnáthadh sonraí idir ardáin, imir gan teorainn.",
+      "metaKeywords": "íoslódáil mianach, íoslódáil DMine, íoslódáil barr mianach, cliant mianach, íoslódáil mianach saor in aisce, mianach il-ardáin",
+      "headerTitle": "📥 Íoslódáil DMine",
+      "headerSubtitle": "Tacaíocht il-ardáin. Roghnaigh d'ardán agus tosaigh ag imirt",
+      "desktopSectionTitle": "💻 Hardáin Deisce",
+      "mobileSectionTitle": "📱 Hardáin Soghluaiste",
+      "desktopPlatforms": [
+        {
+          "name": "Brabhsálaí",
+          "icon": "🌐",
+          "description": "Ní gá íoslódáil, imirt ar líne láithreach",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Feidhmchlár dúchasach macOS, tacaíonn sé le próiseálaithe Intel agus Apple Silicon",
+          "isLink": false,
+          "label": "Pacáistí suiteála DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Leagan deisce Windows, tacaíonn sé le Windows 10/11",
+          "isLink": false,
+          "label": "Pacáistí suiteála EXE",
+          "zipLabel": "Leagan so-ghluaiste ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Leagan deisce Linux, tacaíonn sé le formáidí AppImage agus tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Comhbhrúite tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Leagan soghluaiste Android, tacaíonn sé le híoslódáil agus suiteáil APK",
+          "label": "Pacáistí suiteála APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Leagan iOS, tacaíonn sé le iPhone agus iPad",
+          "label": "Pacáistí suiteála IPA"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Feidhmchlár dúchasach HarmonyOS, tacaíonn sé le suiteáil HAP",
+          "label": "Pacáistí suiteála HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Scanadh cód QR le híoslódáil",
+      "qrCodeAlt": "Scanadh cód QR le híoslódáil DMine",
+      "scanToDownload": "Scanadh le híoslódáil an leagan soghluaiste",
+      "linkAddress": "Seoladh an nasc",
+      "copyLabel": "Cóipeáil",
+      "openLabel": "Oscail",
+      "copiedLabel": "Cóipeáil go dtí an ghiotár clipboard!",
+      "ctaText": "🎮 Tosaigh ag imirt"
     }
   }
 }

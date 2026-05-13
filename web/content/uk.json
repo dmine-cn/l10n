@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Почати тренування"
+    },
+    "download": {
+      "pageTitle": "Завантажити DMine - Найкращий сапер | Кросплатформний клієнт",
+      "metaDescription": "Безкоштовно завантажте клієнт DMine (Найкращий сапер)! Підтримує платформи Windows, macOS, Linux для ПК, а також Android, iOS, HarmonyOS для мобільних. Синхронізація даних між платформами, необмежена гра.",
+      "metaKeywords": "завантажити сапера, DMine завантажити, найкращий сапер завантажити, сапер клієнт, безкоштовно завантажити сапера, кросплатформний сапер",
+      "headerTitle": "📥 Завантажити DMine",
+      "headerSubtitle": "Підтримка всіх платформ, оберіть свою та почніть гру",
+      "desktopSectionTitle": "💻 ПК платформи",
+      "mobileSectionTitle": "📱 Мобільні платформи",
+      "desktopPlatforms": [
+        {
+          "name": "Браузер",
+          "icon": "🌐",
+          "description": "Не потрібно завантажувати, грайте онлайн",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Нативний додаток для macOS, підтримує Intel та Apple Silicon",
+          "isLink": false,
+          "label": "DMG інсталятор"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Версія для ПК Windows, підтримує Windows 10/11",
+          "isLink": false,
+          "label": "EXE інсталятор",
+          "zipLabel": "Портативна ZIP версія"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Версія для ПК Linux, підтримує AppImage та tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz архів"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Мобільна версія для Android, підтримує APK інсталяцію",
+          "label": "APK інсталятор"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Версія для iOS, підтримує iPhone та iPad",
+          "label": "IPA інсталятор"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Нативний додаток HarmonyOS, підтримує HAP інсталяцію",
+          "label": "HAP інсталятор"
+        }
+      ],
+      "qrCodeLabel": "📷 Скануйте QR-код для завантаження",
+      "qrCodeAlt": "Скануйте QR-код для завантаження DMine",
+      "scanToDownload": "Скануйте для завантаження мобільної версії",
+      "linkAddress": "Адреса посилання",
+      "copyLabel": "Скопіювати",
+      "openLabel": "Відкрити",
+      "copiedLabel": "Скопійовано в буфер обміну!",
+      "ctaText": "🎮 Почати гру"
     }
   }
 }

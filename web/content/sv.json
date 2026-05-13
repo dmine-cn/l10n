@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Börja öva"
+    },
+    "download": {
+      "pageTitle": "Ladda ner DMine - Topp Minröjare | Korsplattformsklient",
+      "metaDescription": "Ladda ner klienten DMine (Topp Minröjare) gratis! Stöder skrivbordsplattformarna Windows, macOS, Linux samt mobilplattformarna Android, iOS och HarmonyOS. Datorsynkronisering mellan plattformar, spela gränslöst.",
+      "metaKeywords": "ladda ner minröjare, ladda ner DMine, ladda ner toppminröjare, klient för minröjare, gratis minröjare, korsplattform minröjare",
+      "headerTitle": "📥 Ladda ner DMine",
+      "headerSubtitle": "Stöd för alla plattformar, välj din plattform och börja spela",
+      "desktopSectionTitle": "💻 Skrivbordsplattformar",
+      "mobileSectionTitle": "📱 Mobilplattformar",
+      "desktopPlatforms": [
+        {
+          "name": "Webbläsare",
+          "icon": "🌐",
+          "description": "Ingen nedladdning nödvändig, spela online",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Nativ app för macOS, stödjer Intel och Apple Silicon",
+          "isLink": false,
+          "label": "DMG-installationsfil"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Skrivbordsversion för Windows, stödjer Windows 10/11",
+          "isLink": false,
+          "label": "EXE-installationsfil",
+          "zipLabel": "ZIP-portabel version"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Skrivbordsversion för Linux, stödjer AppImage och tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz-arkiv"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Mobilversion för Android, stödjer APK-nedladdning och installation",
+          "label": "APK-installationsfil"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Version för iOS, stödjer iPhone och iPad",
+          "label": "IPA-installationsfil"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Nativ app för HarmonyOS, stödjer HAP-installation",
+          "label": "HAP-installationsfil"
+        }
+      ],
+      "qrCodeLabel": "📷 Skanna QR-koden för att ladda ner",
+      "qrCodeAlt": "Skanna QR-koden för att ladda ner DMine",
+      "scanToDownload": "Skanna för att ladda ner mobilversionen",
+      "linkAddress": "Länkadress",
+      "copyLabel": "Kopiera",
+      "openLabel": "Öppna",
+      "copiedLabel": "Kopierat till urklipp!",
+      "ctaText": "🎮 Börja spela"
     }
   }
 }

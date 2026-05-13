@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Übung starten"
+    },
+    "download": {
+      "pageTitle": "DMine herunterladen – Top Minensucher | Plattformübergreifender Client-Download",
+      "metaDescription": "Laden Sie den DMine-Client (Top Minensucher) kostenlos herunter! Unterstützt die Desktop-Plattformen Windows, macOS, Linux sowie die Mobilplattformen Android, iOS und HarmonyOS. Plattformübergreifende Datensynchronisierung, grenzenloses Spielvergnügen.",
+      "metaKeywords": "Minensucher download, DMine download, Top Minensucher download, Minensucher-Client, kostenloser Minensucher-Download, plattformübergreifender Minensucher",
+      "headerTitle": "📥 DMine herunterladen",
+      "headerSubtitle": "Plattformübergreifende Unterstützung. Wählen Sie Ihre Plattform und beginnen Sie zu spielen.",
+      "desktopSectionTitle": "💻 Desktop-Plattformen",
+      "mobileSectionTitle": "📱 Mobilplattformen",
+      "desktopPlatforms": [
+        {
+          "name": "Browser",
+          "icon": "🌐",
+          "description": "Kein Download nötig, spiel online",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Native macOS-App, unterstützt Intel und Apple Silicon",
+          "isLink": false,
+          "label": "DMG-Installationspaket"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows-Desktop-Version, unterstützt Windows 10/11",
+          "isLink": false,
+          "label": "EXE-Installationspaket",
+          "zipLabel": "ZIP-Tragbare Version"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux-Desktop-Version, unterstützt AppImage und tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz-Archiv"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android-Version, unterstützt APK-Download und Installation",
+          "label": "APK-Installationspaket"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS-Version, unterstützt iPhone und iPad",
+          "label": "IPA-Installationspaket"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Native HarmonyOS-App, unterstützt HAP-Installation",
+          "label": "HAP-Installationspaket"
+        }
+      ],
+      "qrCodeLabel": "📷 QR-Code scannen zum Herunterladen",
+      "qrCodeAlt": "QR-Code scannen, um DMine herunterzuladen",
+      "scanToDownload": "Scannen, um die Mobilversion herunterzuladen",
+      "linkAddress": "Link-Adresse",
+      "copyLabel": "Kopieren",
+      "openLabel": "Öffnen",
+      "copiedLabel": "In die Zwischenablage kopiert!",
+      "ctaText": "🎮 Spiel starten"
     }
   }
 }

@@ -232,24 +232,6 @@ const Map<String, String> stringsSq = {
   'quitBattlefrontTitle': 'Largohu nga Fronti',
   'quitBattlefrontContent':
       'Jeni i sigurt që doni të largoheni nga fronti "{name}"? Progresi juaj lokal do të fshihet.',
-
-  // Download page
-  'downloadClient': 'Shkarko Klientin',
-  'browser': 'Shfletues',
-  'browserDesc': 'Luaj direkt në shfletues, nuk ka nevojë për shkarkim',
-  'windowsDesc': 'Për Windows 10 dhe më lart',
-  'macosDesc': 'Për macOS 10.15 dhe më lart',
-  'android': 'Android',
-  'androidDesc': 'Për Android 8.0 dhe më lart',
-  'iosDesc': 'Për iOS 14.0 dhe më lart',
-  'linkAddress': 'Adresa e Lidhjes',
-  'downloadLink': 'Lidhja e Shkarkimit',
-  'qrCode': 'Kodi QR',
-  'scanToDownload': 'Skano me telefon për të shkarkuar',
-  'copy': 'Kopjo',
-  'copiedToClipboard': 'U kopjua në clipboard',
-  'openLink': 'Hap lidhjen',
-  'cannotOpenLink': 'Nuk mund të hapet lidhja',
   // Game introduction
   'gameIntroduction':
       '1. "Fillestar" fillon me 15 mina, mund të shkojë deri në 99 mina.\n2. "Front i Ri" fillon me 81 mina, çdo nivel rrit numrin e minave, pa kufi të sipërm.\n3. Në modalitetin online, frontet e përfunduara ndahen automatikisht në re për të tjerët për të mësuar.',

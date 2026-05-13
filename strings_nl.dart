@@ -227,24 +227,6 @@ const Map<String, String> stringsNl = {
   'quitBattlefrontTitle': 'Front verlaten',
   'quitBattlefrontContent':
       'Weet je zeker dat je het front "{name}" wilt verlaten? Je lokale voortgang wordt verwijderd.',
-
-  // 下载页面
-  'downloadClient': 'Client downloaden',
-  'browser': 'Browser',
-  'browserDesc': 'Speel direct in de browser, zonder download',
-  'windowsDesc': 'Voor Windows 10 en hoger',
-  'macosDesc': 'Voor macOS 10.15 en hoger',
-  'android': 'Android',
-  'androidDesc': 'Voor Android 8.0 en hoger',
-  'iosDesc': 'Voor iOS 14.0 en hoger',
-  'linkAddress': 'Linkadres',
-  'downloadLink': 'Downloadlink',
-  'qrCode': 'QR-code',
-  'scanToDownload': 'Scan met telefoon om te downloaden',
-  'copy': 'Kopiëren',
-  'copiedToClipboard': 'Gekopieerd naar klembord',
-  'openLink': 'Link openen',
-  'cannotOpenLink': 'Kan link niet openen',
   // 游戏介绍
   'gameIntroduction':
       '1. "Nieuweling" begint met 15 mijnen, maximaal 99 mijnen;\n2. "Nieuwe front" begint met 81 mijnen, elk niveau voegt mijnen toe zonder bovengrens.\n3. Met internet worden "voltooide" fronten automatisch gedeeld in de cloud voor anderen.',

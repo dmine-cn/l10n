@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Start træningen"
+    },
+    "download": {
+      "pageTitle": "Download DMine - Top Minerydder | Multiplatform-klient download",
+      "metaDescription": "Download klienten DMine (Top Minerydder) helt gratis! Understøtter desktop-platformerne Windows, macOS, Linux samt mobilplatformene Android, iOS og Hongmeng. Tværplatforms datasynkronisering, spil uden begrænsninger.",
+      "metaKeywords": "download minerydder, download DMine, download top minerydder, minerydder klient, gratis minerydder download, multiplatform minerydder",
+      "headerTitle": "📥 Download DMine",
+      "headerSubtitle": "Understøttelse af flere platforme, vælg din platform og begynd at spille",
+      "desktopSectionTitle": "💻 Desktop-platforme",
+      "mobileSectionTitle": "📱 Mobil-platforme",
+      "desktopPlatforms": [
+        {
+          "name": "Browser",
+          "icon": "🌐",
+          "description": "Ingen download nødvendig, spil online",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Original app til macOS, understøtter Intel og Apple Silicon",
+          "isLink": false,
+          "label": "DMG installationspakke"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Desktop-version til Windows, understøtter Windows 10/11",
+          "isLink": false,
+          "label": "EXE installationspakke",
+          "zipLabel": "ZIP bærbar version"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Desktop-version til Linux, understøtter AppImage og tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz komprimeret pakke"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Mobil-version til Android, understøtter APK-download og installation",
+          "label": "APK installationspakke"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Version til iOS, understøtter iPhone og iPad",
+          "label": "IPA installationspakke"
+        },
+        {
+          "name": "Hongmeng",
+          "icon": "⚡",
+          "description": "Original app til Hongmeng, understøtter HAP-installation",
+          "label": "HAP installationspakke"
+        }
+      ],
+      "qrCodeLabel": "📷 Scan QR-koden for at downloade",
+      "qrCodeAlt": "Scan QR-koden for at downloade DMine",
+      "scanToDownload": "Scan for at downloade mobilversionen",
+      "linkAddress": "Link-adresse",
+      "copyLabel": "Kopier",
+      "openLabel": "Åbn",
+      "copiedLabel": "Kopieret til udklipsholderen!",
+      "ctaText": "🎮 Begynd at spille"
     }
   }
 }

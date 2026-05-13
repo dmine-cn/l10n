@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Oefen Nu"
+    },
+    "download": {
+      "pageTitle": "DMine downloaden - Top Mijnenveger | Platformonafhankelijke client download",
+      "metaDescription": "Download de gratis DMine (Top Mijnenveger) client! Ondersteunt desktopplatforms Windows, macOS, Linux, en mobiele platforms Android, iOS, HarmonyOS. Platformonafhankelijke datasynchronisatie, grenzeloos spelen.",
+      "metaKeywords": "mijnenveger downloaden, DMine downloaden, top mijnenveger downloaden, mijnenveger client, gratis mijnenveger downloaden, platformonafhankelijke mijnenveger",
+      "headerTitle": "📥 DMine downloaden",
+      "headerSubtitle": "Ondersteuning voor alle platforms, kies uw platform en begin met spelen",
+      "desktopSectionTitle": "💻 Desktopplatforms",
+      "mobileSectionTitle": "📱 Mobiele platforms",
+      "desktopPlatforms": [
+        {
+          "name": "Browser",
+          "icon": "🌐",
+          "description": "Geen download nodig, direct online spelen",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Native macOS-applicatie, ondersteunt Intel en Apple Silicon",
+          "isLink": false,
+          "label": "DMG-installatiepakket"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows desktopversie, ondersteunt Windows 10/11",
+          "isLink": false,
+          "label": "EXE-installatiepakket",
+          "zipLabel": "ZIP draagbare versie"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux desktopversie, ondersteunt AppImage en tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz gecomprimeerd archief"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android mobiele versie, ondersteunt APK-download en installatie",
+          "label": "APK-installatiepakket"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS-versie, ondersteunt iPhone en iPad",
+          "label": "IPA-installatiepakket"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Native HarmonyOS-applicatie, ondersteunt HAP-installatie",
+          "label": "HAP-installatiepakket"
+        }
+      ],
+      "qrCodeLabel": "📷 Scan QR-code om te downloaden",
+      "qrCodeAlt": "Scan QR-code om DMine te downloaden",
+      "scanToDownload": "Scan voor mobiele versie",
+      "linkAddress": "Linkadres",
+      "copyLabel": "Kopiëren",
+      "openLabel": "Openen",
+      "copiedLabel": "Gekopieerd naar klembord!",
+      "ctaText": "🎮 Begin met spelen"
     }
   }
 }

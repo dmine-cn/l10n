@@ -232,24 +232,6 @@ const Map<String, String> stringsHu = {
   'quitBattlefrontTitle': 'Front elhagyása',
   'quitBattlefrontContent':
       'Biztosan elhagyod a(z) "{name}" frontot? A helyi előrehaladásod törlésre kerül.',
-
-  // 下载页面
-  'downloadClient': 'Kliens letöltése',
-  'browser': 'Böngésző',
-  'browserDesc': 'Játék közvetlenül a böngészőben, letöltés nélkül',
-  'windowsDesc': 'Windows 10 és újabb verziókhoz',
-  'macosDesc': 'macOS 10.15 és újabb verziókhoz',
-  'android': 'Android',
-  'androidDesc': 'Android 8.0 és újabb verziókhoz',
-  'iosDesc': 'iOS 14.0 és újabb verziókhoz',
-  'linkAddress': 'Hivatkozás címe',
-  'downloadLink': 'Letöltési hivatkozás',
-  'qrCode': 'QR kód',
-  'scanToDownload': 'Olvasd be a telefontól a letöltéshez',
-  'copy': 'Másolás',
-  'copiedToClipboard': 'Vágólapra másolva',
-  'openLink': 'Hivatkozás megnyitása',
-  'cannotOpenLink': 'A hivatkozás nem nyitható meg',
   // 游戏介绍
   'gameIntroduction':
       '1. A „Kezdő” 15 aknával kezdődik, és akár 99 aknáig nyúlhat.\n2. Az „Új front” 81 aknával kezdődik, minden szint további aknákat ad, felső korlát nélkül.\n3. Internetkapcsolat esetén a „teljesített” frontok automatikusan megosztódnak a felhőben mások számára.',

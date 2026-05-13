@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Practicar agora"
+    },
+    "download": {
+      "pageTitle": "Descarga DMine - Mellor Buscaminas | Descarga de cliente multiplataforma",
+      "metaDescription": "Descarga gratuita o cliente DMine (Mellor Buscaminas)! Admite plataformas de escritorio Windows, macOS, Linux, así como plataformas móbiles Android, iOS e HarmonyOS. Sincronización de datos entre plataformas, xoga sen límites.",
+      "metaKeywords": "descarga buscaminas, descarga DMine, descarga mellor buscaminas, cliente buscaminas, descarga gratuita de buscaminas, buscaminas multiplataforma",
+      "headerTitle": "📥 Descarga DMine",
+      "headerSubtitle": "Soporte multiplataforma. Escolle a túa plataforma e comeza a xogar",
+      "desktopSectionTitle": "💻 Plataformas de Escritorio",
+      "mobileSectionTitle": "📱 Plataformas Móbiles",
+      "desktopPlatforms": [
+        {
+          "name": "Navegador",
+          "icon": "🌐",
+          "description": "Sen descarga, xoga en liña inmediatamente",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Aplicación nativa de macOS, admite procesadores Intel e Apple Silicon",
+          "isLink": false,
+          "label": "Paquete de instalación DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Versión de escritorio Windows, admite Windows 10/11",
+          "isLink": false,
+          "label": "Paquete de instalación EXE",
+          "zipLabel": "Versión portátil ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Versión de escritorio Linux, admite formatos AppImage e tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Paquete comprimido tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Versión móbil Android, admite descarga e instalación de APK",
+          "label": "Paquete de instalación APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Versión iOS, admite iPhone e iPad",
+          "label": "Paquete de instalación IPA"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Aplicación nativa de HarmonyOS, admite instalación de HAP",
+          "label": "Paquete de instalación HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Escanea o código QR para descargar",
+      "qrCodeAlt": "Escanea o código QR para descargar DMine",
+      "scanToDownload": "Escanea para descargar a versión móbil",
+      "linkAddress": "Enderezo da ligazón",
+      "copyLabel": "Copiar",
+      "openLabel": "Abrir",
+      "copiedLabel": "Copiado no portapapeis!",
+      "ctaText": "🎮 Comeza a xogar"
     }
   }
 }

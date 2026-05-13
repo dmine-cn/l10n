@@ -224,23 +224,6 @@ const Map<String, String> stringsTr = {
   'quitBattlefrontTitle': 'Cepheden Ayrıl',
   'quitBattlefrontContent':
       '\'{name}\' cephesinden ayrılmak istediğinize emin misiniz? Yerel ilerlemeniz silinecektir.',
-  // Download page
-  'downloadClient': 'İstemciyi İndir',
-  'browser': 'Tarayıcı',
-  'browserDesc': 'İndirmeden tarayıcıda doğrudan oynayın',
-  'windowsDesc': 'Windows 10 ve üstü için',
-  'macosDesc': 'macOS 10.15 ve üstü için',
-  'android': 'Android',
-  'androidDesc': 'Android 8.0 ve üstü için',
-  'iosDesc': 'iOS 14.0 ve üstü için',
-  'linkAddress': 'Link Adresi',
-  'downloadLink': 'İndirme Linki',
-  'qrCode': 'QR Kod',
-  'scanToDownload': 'İndirmek için telefonla tarayın',
-  'copy': 'Kopyala',
-  'copiedToClipboard': 'Panoya kopyalandı',
-  'openLink': 'Linki Aç',
-  'cannotOpenLink': 'Link açılamıyor',
   // Game introduction
   'gameIntroduction':
       '1. "Yeni Başlayan" 15 mayınla başlar, maksimum 99 mayına kadar;\n2. "Yeni Cephe" 81 mayınla başlar, her bölümde artar, üst sınırı yoktur.\n3. Çevrimiçi olduğunuzda tamamlanan cepheler otomatik olarak bulutta paylaşılır.',

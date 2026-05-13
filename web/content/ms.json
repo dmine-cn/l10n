@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Mulakan Latihan"
+    },
+    "download": {
+      "pageTitle": "Muat Turun DMine - Pencari Periuk Api Teratas | Muat Turun Pelanggan Lintas Platform",
+      "metaDescription": "Muat turun percuma pelanggan DMine (Pencari Periuk Api Teratas)! Menyokong platform desktop Windows, macOS, Linux, serta platform mudah alih Android, iOS, HarmonyOS. Penyegerakan data merentas platform, main tanpa sempadan.",
+      "metaKeywords": "muat turun periuk api, muat turun DMine, muat turun pencari periuk api teratas, pelanggan periuk api, muat turun periuk api percuma, periuk api merentas platform",
+      "headerTitle": "📥 Muat Turun DMine",
+      "headerSubtitle": "Sokongan merentas platform, pilih platform anda dan mula bermain",
+      "desktopSectionTitle": "💻 Platform Desktop",
+      "mobileSectionTitle": "📱 Platform Mudah Alih",
+      "desktopPlatforms": [
+        {
+          "name": "Pelayar",
+          "icon": "🌐",
+          "description": "Tiada muat turun diperlukan, main dalam talian",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Aplikasi asli macOS, menyokong Intel dan Apple Silicon",
+          "isLink": false,
+          "label": "Pakej Pemasangan DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Versi desktop Windows, menyokong Windows 10/11",
+          "isLink": false,
+          "label": "Pakej Pemasangan EXE",
+          "zipLabel": "Versi Mudah Alih ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Versi desktop Linux, menyokong AppImage dan tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Pakej Dimampatkan tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Versi telefon Android, menyokong muat turun dan pemasangan APK",
+          "label": "Pakej Pemasangan APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Versi iOS, menyokong iPhone dan iPad",
+          "label": "Pakej Pemasangan IPA"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Aplikasi asli HarmonyOS, menyokong pemasangan HAP",
+          "label": "Pakej Pemasangan HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Imbas QR untuk muat turun",
+      "qrCodeAlt": "Imbas QR untuk muat turun DMine",
+      "scanToDownload": "Imbas untuk muat turun versi mudah alih",
+      "linkAddress": "Alamat Pautan",
+      "copyLabel": "Salin",
+      "openLabel": "Buka",
+      "copiedLabel": "Disalin ke papan klip!",
+      "ctaText": "🎮 Mula Bermain"
     }
   }
 }

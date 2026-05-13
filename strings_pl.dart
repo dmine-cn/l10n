@@ -221,23 +221,6 @@ const Map<String, String> stringsPl = {
   'quitBattlefrontTitle': 'Opuść linię frontu',
   'quitBattlefrontContent':
       'Czy na pewno chcesz opuścić linię frontu \'{name}\'? Twój lokalny postęp zostanie usunięty.',
-  // Strona pobierania
-  'downloadClient': 'Pobierz klienta',
-  'browser': 'Przeglądarka',
-  'browserDesc': 'Graj bezpośrednio w przeglądarce, bez pobierania',
-  'windowsDesc': 'Dla systemu Windows 10 i nowszego',
-  'macosDesc': 'Dla systemu macOS 10.15 i nowszego',
-  'android': 'Android',
-  'androidDesc': 'Dla systemu Android 8.0 i nowszego',
-  'iosDesc': 'Dla systemu iOS 14.0 i nowszego',
-  'linkAddress': 'Adres linku',
-  'downloadLink': 'Link do pobrania',
-  'qrCode': 'Kod QR',
-  'scanToDownload': 'Zeskanuj kod, aby pobrać na telefon',
-  'copy': 'Kopiuj',
-  'copiedToClipboard': 'Skopiowano do schowka',
-  'openLink': 'Otwórz link',
-  'cannotOpenLink': 'Nie można otworzyć linku',
   // Opis gry
   'gameIntroduction':
       '1. „Początkujący” zaczyna od 15 min, maksymalnie do 99 min;\n2. „Nowa linia frontu” zaczyna od 81 min, co poziom liczba min rośnie, bez górnego limitu.\n3. W trybie online ukończone linie frontu są automatycznie udostępniane w chmurze do nauki dla innych.',

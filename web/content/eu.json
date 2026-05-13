@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Praktikatu Hasi"
+    },
+    "download": {
+      "pageTitle": "Deskargatu DMine - Meategi Bilatzaile | Plataforma anitzeko bezeroaren deskarga",
+      "metaDescription": "Deskargatu bezeroa DMine (Meategi Bilatzaile) dojo! Onartzen du Windows, macOS, Linux mahaigaineko plataformak, eta Android, iOS, HarmonyOS mugikorreko plataformak. Datuen sinkronizazioa plataforma anitzetan, jolastu muga gabe.",
+      "metaKeywords": "meategi bilatzaile deskargatu, DMine deskargatu, meategi bilatzaile onena deskargatu, meategi bilatzaile bezeroa, meategi bilatzaile dojo deskargatu, plataforma anitzeko meategi bilatzaile",
+      "headerTitle": "📥 Deskargatu DMine",
+      "headerSubtitle": "Onartuz plataforma anitz. Aukeratu zure plataforma eta hasi jolasten",
+      "desktopSectionTitle": "💻 Mahaigaineko Plataformak",
+      "mobileSectionTitle": "📱 Mugikorreko Plataformak",
+      "desktopPlatforms": [
+        {
+          "name": "Nabigatzailea",
+          "icon": "🌐",
+          "description": "Ez duzu deskargatu behar, jolastu linean berehala",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "macOS aplikazio natiboa, Intel eta Apple Silicon onartzen ditu",
+          "isLink": false,
+          "label": "DME instalazio paketea"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows mahaigaineko bertsioa, Windows 10/11 onartzen du",
+          "isLink": false,
+          "label": "EXE instalazio paketea",
+          "zipLabel": "ZIP bertsio portatila"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux mahaigaineko bertsioa, AppImage eta tar.gz onartzen ditu",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz konprimatutako fitxategia"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android mugikorreko bertsioa, APK instalazioa onartzen du",
+          "label": "APK instalazio paketea"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS bertsioa, iPhone eta iPad onartzen ditu",
+          "label": "IPA instalazio paketea"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "HarmonyOS aplikazio natiboa, HAP instalazioa onartzen du",
+          "label": "HAP instalazio paketea"
+        }
+      ],
+      "qrCodeLabel": "📷 Eskaneatu QR kodea deskargatzeko",
+      "qrCodeAlt": "Eskaneatu QR kodea DMine deskargatzeko",
+      "scanToDownload": "Eskaneatu mugikorreko bertsioa deskargatzeko",
+      "linkAddress": "Estekaren helbidea",
+      "copyLabel": "Kopiatu",
+      "openLabel": "Ireki",
+      "copiedLabel": "Arbelera kopiatuta!",
+      "ctaText": "🎮 Hasi jolasten"
     }
   }
 }

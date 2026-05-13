@@ -220,23 +220,6 @@ const Map<String, String> stringsSk = {
   'quitBattlefrontTitle': 'Opustiť front',
   'quitBattlefrontContent':
       'Naozaj chcete opustiť front \'{name}\'? Váš lokálny pokrok bude vymazaný.',
-  // Download page
-  'downloadClient': 'Stiahnuť klienta',
-  'browser': 'Prehliadač',
-  'browserDesc': 'Hrajte priamo v prehliadači, bez sťahovania',
-  'windowsDesc': 'Pre Windows 10 a novšie',
-  'macosDesc': 'Pre macOS 10.15 a novšie',
-  'android': 'Android',
-  'androidDesc': 'Pre Android 8.0 a novšie',
-  'iosDesc': 'Pre iOS 14.0 a novšie',
-  'linkAddress': 'Adresa odkazu',
-  'downloadLink': 'Odkaz na stiahnutie',
-  'qrCode': 'QR kód',
-  'scanToDownload': 'Naskenujte telefónom na stiahnutie',
-  'copy': 'Kopírovať',
-  'copiedToClipboard': 'Skopírované do schránky',
-  'openLink': 'Otvoriť odkaz',
-  'cannotOpenLink': 'Nedá sa otvoriť odkaz',
   // Game introduction
   'gameIntroduction':
       '1. „Začiatočník“ začína s 15 mínami, maximálne do 99 mín;\n2. „Nová fronta“ začína s 81 mínami, počet sa zvyšuje každú úroveň, bez horného limitu.\n3. Pri pripojení k sieti sú dokončené fronty automaticky zdieľané v cloude pre ostatných hráčov.',

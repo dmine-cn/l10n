@@ -400,6 +400,75 @@
         }
       ],
       "ctaText": "🎮 Көнекү Башла"
+    },
+    "download": {
+      "pageTitle": "DMine йөкләү - Топ Мина Эзләүче | Күп платформа клиент йөкләү",
+      "metaDescription": "DMine (Топ Мина Эзләүче) клиентын бераз йөкләү! Windows, macOS, Linux стол платформаларын, һәм Android, iOS, HarmonyOS телефон платформаларын ярдәм итә. Күп платформа мәгълүмат синхронизациясе, чәксез уйнату.",
+      "metaKeywords": "мина эзләү йөкләү, DMine йөкләү, топ мина эзләүче йөкләү, мина эзләү клиенты, бераз мина эзләү йөкләү, күп платформа мина эзләү",
+      "headerTitle": "📥 DMine йөкләү",
+      "headerSubtitle": "Күп платформа ярдәм, платформаңны сайлап уйнатуны башла",
+      "desktopSectionTitle": "💻 Стол платформалары",
+      "mobileSectionTitle": "📱 Телефон платформалары",
+      "desktopPlatforms": [
+        {
+          "name": "Браузер",
+          "icon": "🌐",
+          "description": "Йөкләү кирәк түгел, онлайн уйна",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "macOS төп программа, Intel һәм Apple Silicon ярдәм итә",
+          "isLink": false,
+          "label": "DMG урнаштыру файлы"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows стол нөшере, Windows 10/11 ярдәм итә",
+          "isLink": false,
+          "label": "EXE урнаштыру файлы",
+          "zipLabel": "ZIP йөкләүче нөшер"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux стол нөшере, AppImage һәм tar.gz ярдәм итә",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz йукалтырылған файл"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android телефон нөшере, APK йөкләү һәм урнаштыру ярдәм итә",
+          "label": "APK урнаштыру файлы"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS нөшере, iPhone һәм iPad ярдәм итә",
+          "label": "IPA урнаштыру файлы"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "HarmonyOS төп программа, HAP урнаштыру ярдәм итә",
+          "label": "HAP урнаштыру файлы"
+        }
+      ],
+      "qrCodeLabel": "📷 Йөкләү өчен QR-кодны эшләп кара",
+      "qrCodeAlt": "DMine йөкләү өчен QR-кодны эшләп кара",
+      "scanToDownload": "Телефон нөшерен йөкләү өчен эшләп кара",
+      "linkAddress": "Сылтама адресы",
+      "copyLabel": "Күчермәлә",
+      "openLabel": "Ачу",
+      "copiedLabel": "Буферга күчермәләнде!",
+      "ctaText": "🎮 Уйнатуны башла"
     }
   }
 }

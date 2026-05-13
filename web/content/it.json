@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Inizia ad esercitarti"
+    },
+    "download": {
+      "pageTitle": "Scarica DMine - Il miglior Campo Minato | Download client multipiattaforma",
+      "metaDescription": "Scarica gratuitamente il client DMine (Il miglior Campo Minato)! Supporta le piattaforme desktop Windows, macOS, Linux e le piattaforme mobili Android, iOS e HarmonyOS. Sincronizzazione dati multipiattaforma, gioca senza limiti.",
+      "metaKeywords": "scarica campo minato, scarica DMine, scarica il miglior campo minato, client campo minato, scarica campo minato gratis, campo minato multipiattaforma",
+      "headerTitle": "📥 Scarica DMine",
+      "headerSubtitle": "Supporto multipiattaforma. Scegli la tua piattaforma e inizia a giocare",
+      "desktopSectionTitle": "💻 Piattaforme Desktop",
+      "mobileSectionTitle": "📱 Piattaforme Mobile",
+      "desktopPlatforms": [
+        {
+          "name": "Browser",
+          "icon": "🌐",
+          "description": "Nessun download necessario, gioca direttamente online",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "App nativa per macOS, supporta processori Intel e Apple Silicon",
+          "isLink": false,
+          "label": "Pacchetto di installazione DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Versione desktop Windows, supporta Windows 10/11",
+          "isLink": false,
+          "label": "Pacchetto di installazione EXE",
+          "zipLabel": "Versione portatile ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Versione desktop Linux, supporta formati AppImage e tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Pacchetto compresso tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Versione per smartphone Android, supporta download e installazione APK",
+          "label": "Pacchetto di installazione APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Versione iOS, supporta iPhone e iPad",
+          "label": "Pacchetto di installazione IPA"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "App nativa per HarmonyOS, supporta installazione HAP",
+          "label": "Pacchetto di installazione HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Scansiona il codice QR per scaricare",
+      "qrCodeAlt": "Scansiona il codice QR per scaricare DMine",
+      "scanToDownload": "Scansiona per scaricare la versione mobile",
+      "linkAddress": "Indirizzo link",
+      "copyLabel": "Copia",
+      "openLabel": "Apri",
+      "copiedLabel": "Copiato negli appunti!",
+      "ctaText": "🎮 Inizia a giocare"
     }
   }
 }

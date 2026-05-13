@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Destpêka Pratîkê"
+    },
+    "download": {
+      "pageTitle": "DMine Bikirtin - Top Mînêkêş | Bikirtina Klîentê Hevsaz Platforman",
+      "metaDescription": "Klîentê DMine (Top Mînêkêş) bi bedawa bikirtin! Piştgirî ya platformên masa Windows, macOS, Linux, û platformên mobîlê Android, iOS, HarmonyOS. Hemû platforman synchronîzekirin daneyê, bi serîlêdan biaxistînin.",
+      "metaKeywords": "Mînêkêş bikirtin, DMine bikirtin, Top Mînêkêş bikirtin, Klîentê mînêkêş, Mînêkêş bi bedawa bikirtin, Mînêkêş hevsaz platforman",
+      "headerTitle": "📥 DMine Bikirtin",
+      "headerSubtitle": "Hevsaz platforman piştgirî, platforma xwe hilbijêrin û biaxistînin",
+      "desktopSectionTitle": "💻 Platformên Masa",
+      "mobileSectionTitle": "📱 Platformên Mobîl",
+      "desktopPlatforms": [
+        {
+          "name": "Browser",
+          "icon": "🌐",
+          "description": "Bikirtin ne hewce ye, serîlêdan bi onlayn biaxistînin",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Appa macOS, piştgirî ya Intel û Apple Silicon",
+          "isLink": false,
+          "label": "Paketa DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Versiyona masa Windows, piştgirî ya Windows 10/11",
+          "isLink": false,
+          "label": "Paketa EXE",
+          "zipLabel": "Versiyona ZIP Portable"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Versiyona masa Linux, piştgirî ya AppImage û tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Paketa tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Versiyona mobîlê Android, bikirtin û sazkirina APK",
+          "label": "Paketa APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Versiyona iOS, piştgirî ya iPhone û iPad",
+          "label": "Paketa IPA"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Appa HarmonyOS, sazkirina HAP piştgirî",
+          "label": "Paketa HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 QR kodê scan bikirin da bikirtin",
+      "qrCodeAlt": "QR kodê scan bikirin da DMine bikirtin",
+      "scanToDownload": "Scan bikirin da versiyona mobîlê bikirtin",
+      "linkAddress": "Navnîşa Girêja",
+      "copyLabel": "Kopyalayin",
+      "openLabel": "Vekirin",
+      "copiedLabel": "Kopyalabû! Clipboard hat",
+      "ctaText": "🎮 Biaxistînin"
     }
   }
 }

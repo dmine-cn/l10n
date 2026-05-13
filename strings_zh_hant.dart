@@ -219,24 +219,6 @@ const Map<String, String> stringsZhHant = {
   'quitBattlefrontTooltip': '退出遠程戰線',
   'quitBattlefrontTitle': '退出戰線',
   'quitBattlefrontContent': '確定要退出戰線 "{name}" 嗎？您的本地進度將被刪除。',
-
-  // 下載頁面
-  'downloadClient': '下載客戶端',
-  'browser': '瀏覽器',
-  'browserDesc': '直接在瀏覽器中遊玩，無需下載',
-  'windowsDesc': '適用於Windows 10及以上系統',
-  'macosDesc': '適用於macOS 10.15及以上系統',
-  'android': '安卓系統',
-  'androidDesc': '適用於Android 8.0及以上系統',
-  'iosDesc': '適用於iOS 14.0及以上系統',
-  'linkAddress': '連結地址',
-  'downloadLink': '下載連結',
-  'qrCode': '二維碼',
-  'scanToDownload': '使用手機掃碼下載',
-  'copy': '複製',
-  'copiedToClipboard': '已複製到剪貼板',
-  'openLink': '打開連結',
-  'cannotOpenLink': '無法打開連結',
   // 遊戲介紹
   'gameIntroduction':
       '1. "新手入門"將從15雷開始,最高可以到99雷;\n2. "新戰線"從81雷開始,每關次會增加一定數量的地雷,上不封頂.\n3. 聯網情況下"已通關"的戰線會自動分享到雲端,供其他人學習.',

@@ -234,24 +234,6 @@ const Map<String, String> stringsAst = {
   'quitBattlefrontTitle': 'Abandonar frente de batalla',
   'quitBattlefrontContent':
       '¿Seguru que quier abandonar la frente de batalla "{name}"? El to progresu local se eliminará.',
-
-  // 下载页面
-  'downloadClient': 'Descargar cliente',
-  'browser': 'Navegador',
-  'browserDesc': 'Xogar direutamente nel navegador, sen necesidá de descarga',
-  'windowsDesc': 'Compatible con Windows 10 y versiones superiores',
-  'macosDesc': 'Compatible con macOS 10.15 y versiones superiores',
-  'android': 'Sistema Android',
-  'androidDesc': 'Compatible con Android 8.0 y versiones superiores',
-  'iosDesc': 'Compatible con iOS 14.0 y versiones superiores',
-  'linkAddress': 'Direición del enllace',
-  'downloadLink': 'Enllace de descarga',
-  'qrCode': 'Código QR',
-  'scanToDownload': 'Escanea el código con el teléfonu móvil pa descargar',
-  'copy': 'Copiar',
-  'copiedToClipboard': 'Copiada nel portapapeis',
-  'openLink': 'Abrir enllace',
-  'cannotOpenLink': 'Nun se puede abrir el enllace',
   // 游戏介绍
   'gameIntroduction':
       '1. La "Iniciación pa principiantes" empezará con 15 minas, y puede llegar hasta 99 minas;\n2. La "Nova frente de batalla" empezará con 81 minas, y cada nivel aumentará un certu númberu de minas, sen límite superior.\n3. En casu de conexión a internet, les frentes de batalla "completadas" se compartirán automáticamente na nube pa que otros puedan aprender.',

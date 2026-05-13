@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Cleachd a-nis"
+    },
+    "download": {
+      "pageTitle": "Luchdaich a-nuas DMine - Mèinnear àrd | Luchdaich a-nuas Neach-dèiligidh ioma-ardain",
+      "metaDescription": "Luchdaich a-nuas an neach-dèiligidh DMine (Mèinnear àrd) an-asgaidh! Bidh e a' frithealadh air àrdainean deasg Windows, macOS, Linux, a bharail air àrdainean fòin Android, iOS agus HarmonyOS. Co-shionnrachadh dàta eadar àrdainean, cluich gun chrìoch.",
+      "metaKeywords": "luchdaich a-nuas minea, luchdaich a-nuas DMine, luchdaich a-nuas mèinnear àrd, neach-dèiligidh minea, luchdaich a-nuas minea an-asgaidh, minea ioma-ardain",
+      "headerTitle": "📥 Luchdaich a-nuas DMine",
+      "headerSubtitle": "Taic ioma-ardain. Tagh d' àrd-ùrlar agus tòisich a' cluich",
+      "desktopSectionTitle": "💻 Àrdainean Deasg",
+      "mobileSectionTitle": "📱 Àrdainean Fòin",
+      "desktopPlatforms": [
+        {
+          "name": "Brobhsair",
+          "icon": "🌐",
+          "description": "Gun luchdadh a-nuas, cluich air-loidhne sa bhad",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Aplacaid dùthchasach macOS, a' frithealadh air pròiseasairean Intel agus Apple Silicon",
+          "isLink": false,
+          "label": "Pasgan stàlaidh DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Deasg Windows, a' frithealadh air Windows 10/11",
+          "isLink": false,
+          "label": "Pasgan stàlaidh EXE",
+          "zipLabel": "Deasg gluasadach ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Deasg Linux, a' frithealadh air formàidean AppImage agus tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Pasgan teannachaidh tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Fòin Android, a' frithealadh air luchdadh a-nuas agus stàladh APK",
+          "label": "Pasgan stàlaidh APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Leasachadh iOS, a' frithealadh air iPhone agus iPad",
+          "label": "Pasgan stàlaidh IPA"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "Aplacaid dùthchasach HarmonyOS, a' frithealadh air stàladh HAP",
+          "label": "Pasgan stàlaidh HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Sganaich còd QR gus luchdadh a-nuas",
+      "qrCodeAlt": "Sganaich còd QR gus luchdadh a-nuas DMine",
+      "scanToDownload": "Sganaich gus luchdadh a-nuas an leasaich fòin",
+      "linkAddress": "Seòladh a' cheangail",
+      "copyLabel": "Dèan leth-bhreac",
+      "openLabel": "Fosgail",
+      "copiedLabel": "Air a chopaigeadh don chlàr-bùird!",
+      "ctaText": "🎮 Tòisich a' cluich"
     }
   }
 }

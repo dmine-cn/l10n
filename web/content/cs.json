@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Začít trénovat"
+    },
+    "download": {
+      "pageTitle": "Stáhnout DMine - Špičkový Hledač Min | Ke stažení multiplatformní klient",
+      "metaDescription": "Získejte zdarma klienta DMine (Špičkový Hledač Min)! Podporuje desktopové platformy Windows, macOS, Linux a mobilní platformy Android, iOS a Hongmeng. Synchronizace dat mezi platformami, hrajte bez omezení.",
+      "metaKeywords": "stáhnout hledač min, stáhnout DMine, stáhnout špičkový hledač min, klient hledače min, stáhnout hledač min zdarma, multiplatformní hledač min",
+      "headerTitle": "📥 Stáhnout DMine",
+      "headerSubtitle": "Podpora více platforem, vyberte si svou platformu a začněte hrát",
+      "desktopSectionTitle": "💻 Desktopové platformy",
+      "mobileSectionTitle": "📱 Mobilní platformy",
+      "desktopPlatforms": [
+        {
+          "name": "Prohlížeč",
+          "icon": "🌐",
+          "description": "Není třeba stahovat, hrajte online",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "Nativní aplikace pro macOS, podporuje Intel i Apple Silicon",
+          "isLink": false,
+          "label": "Instalační balíček DMG"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Desktopová verze pro Windows, podporuje Windows 10/11",
+          "isLink": false,
+          "label": "Instalační balíček EXE",
+          "zipLabel": "Přenosná verze ZIP"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Desktopová verze pro Linux, podporuje AppImage a tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "Komprimovaný balíček tar.gz"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Mobilní verze pro Android, podporuje stažení a instalaci APK",
+          "label": "Instalační balíček APK"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "Verze pro iOS, podporuje iPhone a iPad",
+          "label": "Instalační balíček IPA"
+        },
+        {
+          "name": "Hongmeng",
+          "icon": "⚡",
+          "description": "Nativní aplikace pro Hongmeng, podporuje instalaci HAP",
+          "label": "Instalační balíček HAP"
+        }
+      ],
+      "qrCodeLabel": "📷 Naskenujte QR kód ke stažení",
+      "qrCodeAlt": "Naskenujte QR kód pro stažení DMine",
+      "scanToDownload": "Naskenujte pro stažení mobilní verze",
+      "linkAddress": "Adresa odkazu",
+      "copyLabel": "Kopírovat",
+      "openLabel": "Otevřít",
+      "copiedLabel": "Zkopírováno do schránky!",
+      "ctaText": "🎮 Začít hrát"
     }
   }
 }

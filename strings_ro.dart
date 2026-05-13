@@ -221,23 +221,6 @@ const Map<String, String> stringsRo = {
   'quitBattlefrontTitle': 'Parăsește frontul',
   'quitBattlefrontContent':
       'Ești sigur că vrei să parăsești frontul \'{name}\'? Progresul tău local va fi șters.',
-  // Pagina de descărcare
-  'downloadClient': 'Descarcă clientul',
-  'browser': 'Browser',
-  'browserDesc': 'Joacă direct în browser, fără descărcare',
-  'windowsDesc': 'Pentru Windows 10 sau mai nou',
-  'macosDesc': 'Pentru macOS 10.15 sau mai nou',
-  'android': 'Android',
-  'androidDesc': 'Pentru Android 8.0 sau mai nou',
-  'iosDesc': 'Pentru iOS 14.0 sau mai nou',
-  'linkAddress': 'Adresa link-ului',
-  'downloadLink': 'Link de descărcare',
-  'qrCode': 'Cod QR',
-  'scanToDownload': 'Scanează pentru a descărca pe telefon',
-  'copy': 'Copiază',
-  'copiedToClipboard': 'Copiat în clipboard',
-  'openLink': 'Deschide link-ul',
-  'cannotOpenLink': 'Nu se poate deschide link-ul',
   // Introducerea jocului
   'gameIntroduction':
       '1. „Începător” începe cu 15 mine, până la 99 mine;\n2. „Front nou” începe cu 81 mine, crește la fiecare nivel, fără limită superioară.\n3. În modul online, fronturile finalizate sunt partajate automat în cloud pentru alți jucători.',

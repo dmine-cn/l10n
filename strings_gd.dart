@@ -231,23 +231,6 @@ const Map<String, String> stringsGd = {
   'quitBattlefrontTitle': 'Leig seachad an aghaidh',
   'quitBattlefrontContent':
       'A bheil thu cinnteach gu bheil thu airson leigeil seachad an aghaidh \'{name}\'? Thèid do adhartas ionadail a sguabadh às.',
-  // Download page
-  'downloadClient': 'Luchdaich sìos an neach-dèiligidh',
-  'browser': 'Brabhsair',
-  'browserDesc': 'Cluich gu dìreach sa bhrabhsair, gun luchdachadh sìos',
-  'windowsDesc': 'Airson Windows 10 agus nas ùire',
-  'macosDesc': 'Airson macOS 10.15 agus nas ùire',
-  'android': 'Android',
-  'androidDesc': 'Airson Android 8.0 agus nas ùire',
-  'iosDesc': 'Airson iOS 14.0 agus nas ùire',
-  'linkAddress': 'Seòladh ceangail',
-  'downloadLink': 'Ceangal luchdaidh sìos',
-  'qrCode': 'Còd QR',
-  'scanToDownload': 'Sganail leis a\' fòn gus luchdachadh sìos',
-  'copy': 'Dèan leth-bhreac',
-  'copiedToClipboard': 'Chaidh a chopaigeadh don chlàr-bùird',
-  'openLink': 'Fosgail an ceangal',
-  'cannotOpenLink': 'Chan urrainnear an ceangal fhosgladh',
   // Game introduction
   'gameIntroduction':
       '1. Tha "Neach-tòiseachaidh" a\' tòiseachadh le 15 mèinnean, suas gu 99 mèinnean;\n2. Tha "Aghaidh Ùr" a\' tòiseachadh le 81 mèinnean, a\' meudachadh gach ìre, gun chrìoch àrd.\n3. Air loidhne, thèid aghaidhean crìochnaichte a roinn anns a\' sgòthan gu fèin-ghluasadach airson cluicheadairean eile.',

@@ -225,24 +225,6 @@ const Map<String, String> stringsCy = {
   'quitBattlefrontTitle': 'Gadael y rymfil',
   'quitBattlefrontContent':
       'Ydych chi\'n siŵr eisiau gadael y rymfil \'{name}\'? Bydd eich cynnydd lleol yn cael ei ddileu.',
-  // Download page
-  'downloadClient': 'Llwytho\'r cleient i lawr',
-  'browser': 'Porydd',
-  'browserDesc':
-      'Chwaraewch yn uniongyrchol yn y porwydddd, dim angen llwytho i lawr',
-  'windowsDesc': 'Ar gyfer Windows 10 a hwyrach',
-  'macosDesc': 'Ar gyfer macOS 10.15 a hwyrach',
-  'android': 'Android',
-  'androidDesc': 'Ar gyfer Android 8.0 a hwyrach',
-  'iosDesc': 'Ar gyfer iOS 14.0 a hwyrach',
-  'linkAddress': 'Cyfeiriad y dolen',
-  'downloadLink': 'Dolen llwytho i lawr',
-  'qrCode': 'Cod QR',
-  'scanToDownload': 'Sganiwch â\'r ffôn i lwytho i lawr',
-  'copy': 'Copïo',
-  'copiedToClipboard': 'Wedi ei gopïo i\'r clipbwrdd',
-  'openLink': 'Agor y dolen',
-  'cannotOpenLink': 'Ni ellir agor y dolen',
   // Game introduction
   'gameIntroduction':
       '1. Mae "Dechreuwr" yn dechreu gyda 15 o fwynau, hyd at 99 o fwynau;\n2. Mae "Rymfil Newydd" yn dechreu gyda 81 o fwynau, mae\'r nifer yn cynyddu pob lefel, dim terfyn uwch.\n3. Ar-lein, mae rymfiliau a glenwyd yn cael eu rhannu yn y cwmni ar eu cefn i eraill i ddysgu.',

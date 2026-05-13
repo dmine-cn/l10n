@@ -225,27 +225,6 @@ const Map<String, String> stringsEn = {
   'quitBattlefrontTitle': 'Quit Battlefront',
   'quitBattlefrontContent':
       'Are you sure you want to quit battlefront "{name}"? Your local progress will be deleted.',
-
-  // Download page
-  'downloadClient': 'Download Client',
-  'browser': 'Browser',
-  'browserDesc': 'Play directly in browser, no download needed',
-  'windowsDesc': 'For Windows 10 and above',
-  'linuxDesc': 'For Linux operating system',
-  'macosDesc': 'For macOS 10.15 and above',
-  'android': 'Android',
-  'androidDesc': 'For Android 8.0 and above',
-  'iosDesc': 'For iOS 14.0 and above',
-  'ohos': 'OHOS',
-  'ohosDesc': 'For HarmonyOS operating system',
-  'linkAddress': 'Link Address',
-  'downloadLink': 'Download Link',
-  'qrCode': 'QR Code',
-  'scanToDownload': 'Scan with phone to download',
-  'copy': 'Copy',
-  'copiedToClipboard': 'Copied to clipboard',
-  'openLink': 'Open link',
-  'cannotOpenLink': 'Cannot open link',
   // Auto-update
   'updateAvailableTitle': 'Update Available',
   'forceUpdateTitle': 'Update Required',

@@ -429,6 +429,75 @@
         }
       ],
       "ctaText": "🎮 Sākt trenēties"
+    },
+    "download": {
+      "pageTitle": "Lejupielādējiet DMine - Labākais Mīnētājs | Daudzlaužu klienta lejupielāde",
+      "metaDescription": "Bezmaksas lejupielādējiet DMine (Labākais Mīnētājs) klientu! Atbalsta Windows, macOS, Linux darbvirsmas platformas, kā arī Android, iOS, HarmonyOS mobilās platformas. Daudzlaužu datu sinhronizācija, spēlējiet bez robežām.",
+      "metaKeywords": "Mīnētājs lejupielādēt, DMine lejupielādēt, Labākais Mīnētājs lejupielādēt, Mīnētāja klients, bezmaksas Mīnētājs lejupielādēt, Daudzlaužu Mīnētājs",
+      "headerTitle": "📥 Lejupielādējiet DMine",
+      "headerSubtitle": "Atbalstītas visas platformas, izvēlieties savu platformu un sāciet spēlēt",
+      "desktopSectionTitle": "💻 Darbvirsmas platformas",
+      "mobileSectionTitle": "📱 Mobilās platformas",
+      "desktopPlatforms": [
+        {
+          "name": "Pārlūks",
+          "icon": "🌐",
+          "description": "Nav nepieciešama lejupielāde, spēlējiet tiešsaistē",
+          "isLink": true,
+          "label": "https://www.dmine.cn"
+        },
+        {
+          "name": "macOS",
+          "icon": "🍎",
+          "description": "MacOS vietējā lietotne, atbalsta Intel un Apple Silicon",
+          "isLink": false,
+          "label": "DMG instalācijas pakotne"
+        },
+        {
+          "name": "Windows",
+          "icon": "🪟",
+          "description": "Windows darbvirsmas versija, atbalsta Windows 10/11",
+          "isLink": false,
+          "label": "EXE instalācijas pakotne",
+          "zipLabel": "ZIP pārvadāmā versija"
+        },
+        {
+          "name": "Linux",
+          "icon": "🐧",
+          "description": "Linux darbvirsmas versija, atbalsta AppImage un tar.gz",
+          "isLink": false,
+          "label": "AppImage",
+          "zipLabel": "tar.gz arhīvs"
+        }
+      ],
+      "mobilePlatforms": [
+        {
+          "name": "Android",
+          "icon": "🤖",
+          "description": "Android mobilā versija, atbalsta APK lejupielādi un instalāciju",
+          "label": "APK instalācijas pakotne"
+        },
+        {
+          "name": "iOS",
+          "icon": "📱",
+          "description": "iOS versija, atbalsta iPhone un iPad",
+          "label": "IPA instalācijas pakotne"
+        },
+        {
+          "name": "HarmonyOS",
+          "icon": "⚡",
+          "description": "HarmonyOS vietējā lietotne, atbalsta HAP instalāciju",
+          "label": "HAP instalācijas pakotne"
+        }
+      ],
+      "qrCodeLabel": "📷 Skenējiet QR kodu lejupielādei",
+      "qrCodeAlt": "Skenējiet QR kodu DMine lejupielādei",
+      "scanToDownload": "Skenējiet mobilās versijas lejupielādei",
+      "linkAddress": "Saites adrese",
+      "copyLabel": "Kopēt",
+      "openLabel": "Atvērt",
+      "copiedLabel": "Nokopēts uz starpliktuvi!",
+      "ctaText": "🎮 Sāciet spēlēt"
     }
   }
 }
