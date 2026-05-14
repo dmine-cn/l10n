@@ -1,0 +1,15 @@
+  <nav class="navbar">
+    <div class="navbar-inner">
+      <a href="/index.html?lang={{LANG_CODE}}" class="navbar-logo"><img src="/icons/Icon-32.png" alt="DMine"></a>
+      <a href="/index.html?lang={{LANG_CODE}}"{{NAV_HOME_CLASS}}>{{NAV.home}}</a>
+      <a href="rules.html"{{NAV_RULES_CLASS}}>{{NAV.rules}}</a>
+      <a href="tips.html"{{NAV_TIPS_CLASS}}>{{NAV.tips}}</a>
+      <a href="about.html"{{NAV_ABOUT_CLASS}}>{{NAV.about}}</a>
+      <a href="download.html"{{NAV_DOWNLOAD_CLASS}}>{{NAV.download}}</a>
+      <div class="lang-switch">
+        <select onchange="location.href=this.value">
+          {{LANG_DROPDOWN}}
+        </select>
+      </div>
+    </div>
+  </nav>

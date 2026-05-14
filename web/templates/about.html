@@ -10,10 +10,11 @@
   <link rel="canonical" href="https://www.dmine.cn/{{PREFIX}}about.html">
   <link rel="sitemap" type="application/xml" href="/sitemap.xml">
   <link rel="icon" type="image/png" href="/favicon.png">
+  <link rel="stylesheet" href="/css/common.css">
   <link rel="stylesheet" href="/css/about.css">
 
   <!-- hreflang -->
-  {{HREFLANG_ABOUT}}
+  {{HREFLANG}}
 
   <!-- Open Graph -->
   <meta property="og:type" content="website">
@@ -25,21 +26,7 @@
   <meta property="og:site_name" content="{{META.siteName}}">
 </head>
 <body>
-  <nav class="navbar">
-    <div class="navbar-inner">
-      <a href="/index.html?lang={{LANG_CODE}}" class="navbar-logo"><img src="/icons/Icon-32.png" alt="DMine"></a>
-      <a href="/index.html?lang={{LANG_CODE}}">{{NAV.home}}</a>
-      <a href="rules.html">{{NAV.rules}}</a>
-      <a href="tips.html">{{NAV.tips}}</a>
-      <a href="about.html" class="active">{{NAV.about}}</a>
-      <a href="download.html">{{NAV.download}}</a>
-      <div class="lang-switch">
-        <select onchange="location.href=this.value">
-          {{LANG_DROPDOWN}}
-        </select>
-      </div>
-    </div>
-  </nav>
+{{INCLUDE_NAV}}
 
   <div class="container">
     <header>
@@ -47,15 +34,13 @@
       <p>{{PAGES.about.headerSubtitle}}</p>
     </header>
 
-    {{ABOUT_SECTIONS}}
+    {{SECTIONS}}
 
     <div class="cta">
       <a href="/index.html?lang={{LANG_CODE}}">{{PAGES.about.ctaText}}</a>
     </div>
 
-    <footer>
-      <p>{{FOOTER.copyright}}</p>
-    </footer>
+{{INCLUDE_FOOTER}}
   </div>
 </body>
 </html>
