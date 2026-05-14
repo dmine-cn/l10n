@@ -10,6 +10,10 @@ const Map<String, String> stringsDe = {
   'showActionCounter': 'Aktionszähler anzeigen',
   'showActionCounterDesc':
       'Zeige die Anzahl der Aktionen in der Spieloberfläche',
+  'showUnrevealedCounter': 'Zähler für verdeckte Felder anzeigen',
+  'showUnrevealedCounterDesc': 'Anzahl der verdeckten Felder im Spielinterface anzeigen',
+  'showMineCounter': 'Minenzähler anzeigen',
+  'showMineCounterDesc': 'Verbleibende Minenanzahl im Spielinterface anzeigen',
   'autoAdjustBoardWidth': 'Breite des Spielfeldes automatisch anpassen',
   'autoAdjustBoardWidthDesc':
       'Passe die Breite des Spielfeldes automatisch an die Bildschirmgröße an',
@@ -103,6 +107,7 @@ const Map<String, String> stringsDe = {
   // Counter strings
   'currentLevel': 'Aktuelles Level',
   'remainingMines': 'Verbleibende Minen',
+  'unrevealedCells': 'Verdeckte Felder',
   'gameTime': 'Spielzeit (Sekunden)',
   'operationCount': 'Anzahl der Vorgänge',
   'previousLevel': 'Vorheriges Level',

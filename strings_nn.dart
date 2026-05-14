@@ -10,6 +10,10 @@ const Map<String, String> stringsNn = {
   'showActionCounter': 'Vis handlingsteller',
   'showActionCounterDesc': 'Vis talet på handlingar gjort i spelet',
   'autoAdjustBoardWidth': 'Juster brettbreidde automatisk',
+  'showUnrevealedCounter': 'Vis teljar for uoppdaga felt',
+  'showUnrevealedCounterDesc': 'Vis talet på uoppdaga felt i spelgrensesnittet',
+  'showMineCounter': 'Vis mineteljar',
+  'showMineCounterDesc': 'Vis talet på attverande miner i spelgrensesnittet',
   'autoAdjustBoardWidthDesc':
       'Tilpass brettbreidde automatisk etter skjermstorleik',
   'resetToDefaults': 'Tilbakestill til standard',
@@ -100,6 +104,7 @@ const Map<String, String> stringsNn = {
   // Counter strings
   'currentLevel': 'Noverande nivå',
   'remainingMines': 'Gjenverande miner',
+  'unrevealedCells': 'Uoppdaga felt',
   'gameTime': 'Speltid (sekund)',
   'operationCount': 'Tal på handlingar',
   'previousLevel': 'Førre nivå',

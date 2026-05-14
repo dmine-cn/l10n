@@ -10,6 +10,10 @@ const Map<String, String> stringsGl = {
   'showActionCounter': 'Amosar contador de accións',
   'showActionCounterDesc': 'Amosar o número de accións na interface do xogo',
   'autoAdjustBoardWidth': 'Axustar automaticamente a largura do taboleiro',
+  'showUnrevealedCounter': 'Amosar o contador de celas sen revelar',
+  'showUnrevealedCounterDesc': 'Amosar o número de celas sen revelar na interface do xogo',
+  'showMineCounter': 'Amosar o contador de minas',
+  'showMineCounterDesc': 'Amosar as minas restantes na interface do xogo',
   'autoAdjustBoardWidthDesc':
       'Axustar automaticamente a largura do taboleiro segundo o tamaño da pantalla',
   'resetToDefaults': 'Restablecer valores predeterminados',
@@ -101,6 +105,7 @@ const Map<String, String> stringsGl = {
   // Counter strings
   'currentLevel': 'Nivel actual',
   'remainingMines': 'Minas restantes',
+  'unrevealedCells': 'Celas sen revelar',
   'gameTime': 'Tempo de xogo (segundos)',
   'operationCount': 'Número de operacións',
   'previousLevel': 'Nivel anterior',

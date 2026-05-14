@@ -10,6 +10,10 @@ const Map<String, String> stringsSk = {
   'showActionCounter': 'Zobraziť počítadlo akcií',
   'showActionCounterDesc': 'Zobrazí počet akcií na hernej obrazovke',
   'autoAdjustBoardWidth': 'Automaticky prispôsobiť šírku dosky',
+  'showUnrevealedCounter': 'Zobraziť počítadlo neodhalených políčok',
+  'showUnrevealedCounterDesc': 'Zobraziť počet neodhalených políčok v hernom rozhraní',
+  'showMineCounter': 'Zobraziť počítadlo mín',
+  'showMineCounterDesc': 'Zobraziť zostávajúci počet mín v hernom rozhraní',
   'autoAdjustBoardWidthDesc':
       'Automaticky prispôsobí šírku dosky podľa veľkosti obrazovky',
   'resetToDefaults': 'Obnoviť predvolené nastavenia',
@@ -100,6 +104,7 @@ const Map<String, String> stringsSk = {
   // Counter strings
   'currentLevel': 'Aktuálna úroveň',
   'remainingMines': 'Zostávajúce míny',
+  'unrevealedCells': 'Neodhalené políčka',
   'gameTime': 'Čas hry (sekúnd)',
   'operationCount': 'Počet operácií',
   'previousLevel': 'Predchádzajúca úroveň',

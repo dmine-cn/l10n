@@ -9,6 +9,10 @@ const Map<String, String> stringsBe = {
   'showActionCounter': 'Паказваць лічыльник дзеянняў',
   'showActionCounterDesc': 'Паказваць колькасць дзеянняў на экране гульні',
   'autoAdjustBoardWidth': 'Аўтаматычна выраўноўваць шырыню дошкі',
+  'showUnrevealedCounter': 'Паказаць лічыльнік нераскрытых клетак',
+  'showUnrevealedCounterDesc': 'Паказаць колькасць нераскрытых клетак на гульнявым экране',
+  'showMineCounter': 'Паказаць лічыльнік мін',
+  'showMineCounterDesc': 'Паказаць колькасць астатніх мін на гульнявым экране',
   'autoAdjustBoardWidthDesc':
       'Аўтаматычна выраўноўваць шырыню дошкі па размеце экрана',
   'resetToDefaults': 'Скінуць на стандартныя налады',
@@ -99,6 +103,7 @@ const Map<String, String> stringsBe = {
   // Counter strings
   'currentLevel': 'Цяперашні ўзровень',
   'remainingMines': 'Мін засталося',
+  'unrevealedCells': 'Нераскрытыя клеткі',
   'gameTime': 'Час гульні (секунд)',
   'operationCount': 'Колькасць дзеянняў',
   'previousLevel': 'Папярэдні ўзровень',

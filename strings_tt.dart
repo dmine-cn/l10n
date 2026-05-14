@@ -10,6 +10,10 @@ const Map<String, String> stringsTt = {
   'showActionCounter': 'Хәрәкәт санын күрсәтү',
   'showActionCounterDesc': 'Уйын экранында хәрәкәтләр санын күрсәтергә',
   'autoAdjustBoardWidth': 'Таваның киңлеген автоматик түзәтү',
+  'showUnrevealedCounter': 'Ачылмаган күзәтмә санакны күрсәт',
+  'showUnrevealedCounterDesc': 'Уен интерфейсендә ачылмаган күзәтмә санын күрсәт',
+  'showMineCounter': 'Мина санакны күрсәт',
+  'showMineCounterDesc': 'Уен интерфейсендә калган мина санын күрсәт',
   'autoAdjustBoardWidthDesc':
       'Экран көлеме буйынса таваның киңлеген автоматик түзәтү',
   'resetToDefaults': 'Киләчлек көйләмләргә кайту',
@@ -100,6 +104,7 @@ const Map<String, String> stringsTt = {
   // Counter strings
   'currentLevel': 'Хәзерге дәрәҗә',
   'remainingMines': 'Калган миналар',
+  'unrevealedCells': 'Ачылмаган күзәтмәләр',
   'gameTime': 'Уйын вакыты (сәгендә)',
   'operationCount': 'Эшләр саны',
   'previousLevel': 'Алдагы дәрәҗә',

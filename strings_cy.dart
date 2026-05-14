@@ -10,6 +10,10 @@ const Map<String, String> stringsCy = {
   'showActionCounter': 'Dangos cyfrif y gweithredoedd',
   'showActionCounterDesc': 'Dangos nifer y gweithredoedd ar sgrin y gêm',
   'autoAdjustBoardWidth': 'Addasu lled y bwrdd yn awtomatig',
+  'showUnrevealedCounter': 'Dangos cyfrifydd celloedd heb eu datgelu',
+  'showUnrevealedCounterDesc': 'Dangos nifer y celloedd heb eu datgelu ar ryngwyneb y gêm',
+  'showMineCounter': 'Dangos cyfrifydd mwyngloddiau',
+  'showMineCounterDesc': 'Dangos nifer y mwyngloddiau sy\'n weddill ar ryngwyneb y gêm',
   'autoAdjustBoardWidthDesc':
       'Addasu lled y bwrdd yn awtomatagol yn ôl maint y sgrin',
   'resetToDefaults': 'Ailosod i\'r gosodiadau diofyn',
@@ -100,6 +104,7 @@ const Map<String, String> stringsCy = {
   // Counter strings
   'currentLevel': 'Y lefel cyfredol',
   'remainingMines': 'Mwynau sy\'n weddill',
+  'unrevealedCells': 'Celloedd heb eu datgelu',
   'gameTime': 'Amser y gêm (eiliadau)',
   'operationCount': 'Nifer y gweithredoedd',
   'previousLevel': 'Y lefel blaenorol',

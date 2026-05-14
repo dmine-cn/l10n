@@ -10,6 +10,10 @@ const Map<String, String> stringsMs = {
   'showActionCounter': 'Papar bilangan tindakan',
   'showActionCounterDesc': 'Memaparkan bilangan tindakan yang dibuat',
   'autoAdjustBoardWidth': 'Lebar papan automatik',
+  'showUnrevealedCounter': 'Tunjukkan pengira sel belum didedahkan',
+  'showUnrevealedCounterDesc': 'Tunjukkan bilangan sel belum didedahkan pada antara muka permainan',
+  'showMineCounter': 'Tunjukkan pengira lombong',
+  'showMineCounterDesc': 'Tunjukkan baki lombong pada antara muka permainan',
   'autoAdjustBoardWidthDesc':
       'Laraskan lebar papan permainan mengikut saiz skrin secara automatik',
   'resetToDefaults': 'Set semula tetapan',
@@ -100,6 +104,7 @@ const Map<String, String> stringsMs = {
   // Counter strings
   'currentLevel': 'Peringkat semasa',
   'remainingMines': 'Periuk api tinggal',
+  'unrevealedCells': 'Sel belum didedahkan',
   'gameTime': 'Masa permainan (saat)',
   'operationCount': 'Tindakan',
   'previousLevel': 'Peringkat sebelumnya',

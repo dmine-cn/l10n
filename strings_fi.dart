@@ -10,6 +10,10 @@ const Map<String, String> stringsFi = {
   'showActionCounter': 'Näytä toimenpiteiden laskuri',
   'showActionCounterDesc': 'Näytä toimenpiteiden määrä pelin käyttöliittymässä',
   'autoAdjustBoardWidth': 'Säädä lautaleveyttä automaattisesti',
+  'showUnrevealedCounter': 'Näytä paljastamattomien ruutujen laskuri',
+  'showUnrevealedCounterDesc': 'Näytä paljastamattomien ruutujen määrä peliliittymässä',
+  'showMineCounter': 'Näytä miinalaskuri',
+  'showMineCounterDesc': 'Näytä jäljellä olevien miinojen määrä peliliittymässä',
   'autoAdjustBoardWidthDesc':
       'Säädä lautaleveyttä automaattisesti näytron koon mukaan',
   'resetToDefaults': 'Palauta oletusasetukset',
@@ -100,6 +104,7 @@ const Map<String, String> stringsFi = {
   // Counter strings
   'currentLevel': 'Nykyinen taso',
   'remainingMines': 'Jäljellä olevat miinat',
+  'unrevealedCells': 'Paljastamattomat ruudut',
   'gameTime': 'Peliaika (sekuntia)',
   'operationCount': 'Toimenpiteiden määrä',
   'previousLevel': 'Edellinen taso',

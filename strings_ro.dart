@@ -10,6 +10,10 @@ const Map<String, String> stringsRo = {
   'showActionCounter': 'Afișează contorul de acțiuni',
   'showActionCounterDesc': 'Afișează numărul de acțiuni pe ecranul de joc',
   'autoAdjustBoardWidth': 'Ajustează automat lățimea tablei',
+  'showUnrevealedCounter': 'Afișează contorul de celule nedescoperite',
+  'showUnrevealedCounterDesc': 'Afișează numărul celulelor nedescoperite pe interfața jocului',
+  'showMineCounter': 'Afișează contorul de mine',
+  'showMineCounterDesc': 'Afișează minele rămase pe interfața jocului',
   'autoAdjustBoardWidthDesc':
       'Ajustează automat lățimea tablei în funcție de dimensiunea ecranului',
   'resetToDefaults': 'Restabilește setările implicite',
@@ -100,6 +104,7 @@ const Map<String, String> stringsRo = {
   // Counter strings
   'currentLevel': 'Nivelul actual',
   'remainingMines': 'Mine rămase',
+  'unrevealedCells': 'Celule nedescoperite',
   'gameTime': 'Timp de joc (secunde)',
   'operationCount': 'Număr de operații',
   'previousLevel': 'Nivelul anterior',

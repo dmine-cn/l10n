@@ -10,6 +10,10 @@ const Map<String, String> stringsEsEs = {
   'showActionCounter': 'Mostrar contador de acciones',
   'showActionCounterDesc': 'Muestra el número de acciones realizadas',
   'autoAdjustBoardWidth': 'Ajustar ancho del tablero automáticamente',
+  'showUnrevealedCounter': 'Mostrar contador de casillas ocultas',
+  'showUnrevealedCounterDesc': 'Muestra la cantidad de casillas ocultas en la interfaz de juego',
+  'showMineCounter': 'Mostrar contador de minas',
+  'showMineCounterDesc': 'Muestra las minas que quedan en la interfaz de juego',
   'autoAdjustBoardWidthDesc':
       'Ajusta el ancho del tablero según el tamaño de pantalla',
   'resetToDefaults': 'Restaurar ajustes predeterminados',
@@ -99,6 +103,7 @@ const Map<String, String> stringsEsEs = {
   // Counter strings
   'currentLevel': 'Nivel actual',
   'remainingMines': 'Minas restantes',
+  'unrevealedCells': 'Casillas ocultas',
   'gameTime': 'Tiempo (segundos)',
   'operationCount': 'Operaciones',
   'previousLevel': 'Nivel anterior',

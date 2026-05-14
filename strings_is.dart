@@ -10,6 +10,10 @@ const Map<String, String> stringsIs = {
   'showActionCounter': 'Sýna aðgerðatalara',
   'showActionCounterDesc': 'Sýna fjölda aðgerða á leikskjánanum',
   'autoAdjustBoardWidth': 'Sjálfvirkt aðlagja breidd leikborðs',
+  'showUnrevealedCounter': 'Sýna teljara óupplýstra reita',
+  'showUnrevealedCounterDesc': 'Sýna fjölda óupplýstra reita á leikjaviðmóti',
+  'showMineCounter': 'Sýna námuteljara',
+  'showMineCounterDesc': 'Sýna fjölda eftirstöðva náma á leikjaviðmóti',
   'autoAdjustBoardWidthDesc':
       'Aðlagja breidd leikborðs sjálfvirkt að skjárastærð',
   'resetToDefaults': 'Endurheimta sjálfgefin stilling',
@@ -100,6 +104,7 @@ const Map<String, String> stringsIs = {
   // Counter strings
   'currentLevel': 'Núverandi stigi',
   'remainingMines': 'Eftirstöðar sprengjur',
+  'unrevealedCells': 'Óupplýst reitir',
   'gameTime': 'Leiktími (sekúndur)',
   'operationCount': 'Fjöldi aðgerða',
   'previousLevel': 'Fyrra stigi',

@@ -10,6 +10,10 @@ const Map<String, String> stringsPl = {
   'showActionCounter': 'Pokaż licznik akcji',
   'showActionCounterDesc': 'Wyświetla liczbę wykonanych akcji na ekranie gry',
   'autoAdjustBoardWidth': 'Automatycznie dopasuj szerokość planszy',
+  'showUnrevealedCounter': 'Pokaż licznik nieodsłoniętych pól',
+  'showUnrevealedCounterDesc': 'Wyświetl liczbę nieodsłoniętych pól na interfejsie gry',
+  'showMineCounter': 'Pokaż licznik min',
+  'showMineCounterDesc': 'Wyświetl pozostałą liczbę min na interfejsie gry',
   'autoAdjustBoardWidthDesc':
       'Automatycznie dostosuj szerokość planszy do rozmiaru ekranu',
   'resetToDefaults': 'Przywróć domyślne ustawienia',
@@ -100,6 +104,7 @@ const Map<String, String> stringsPl = {
   // Counter strings
   'currentLevel': 'Aktualny poziom',
   'remainingMines': 'Pozostałe miny',
+  'unrevealedCells': 'Nieodsłonięte pola',
   'gameTime': 'Czas gry (sekundy)',
   'operationCount': 'Liczba operacji',
   'previousLevel': 'Poprzedni poziom',

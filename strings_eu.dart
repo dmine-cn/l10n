@@ -9,6 +9,10 @@ const Map<String, String> stringsEu = {
   'showActionCounter': 'Erakutsi ekintza kopurua',
   'showActionCounterDesc': 'Erakutsi ekintza kopurua jokoaren interfazean',
   'autoAdjustBoardWidth': 'Automatikoki egokitu taularen zabalera',
+  'showUnrevealedCounter': 'Erakutsi ireki gabeko gelaxken kontagailua',
+  'showUnrevealedCounterDesc': 'Erakutsi joko interfazean ireki gabeko gelaxka kopurua',
+  'showMineCounter': 'Erakutsi meategi kontagailua',
+  'showMineCounterDesc': 'Erakutsi joko interfazean geratzen diren meategiak',
   'autoAdjustBoardWidthDesc':
       'Automatikoki egokitu taularen zabalera pantailaren tamainaren arabera',
   'resetToDefaults': 'Berrezarri lehenetsitako balioak',
@@ -99,6 +103,7 @@ const Map<String, String> stringsEu = {
   // Counter strings
   'currentLevel': 'Oraingo maila',
   'remainingMines': 'Gelditako minak',
+  'unrevealedCells': 'Ireki gabeko gelaxkak',
   'gameTime': 'Joko denbora (segundo)',
   'operationCount': 'Ekintza kopurua',
   'previousLevel': 'Aurreko maila',

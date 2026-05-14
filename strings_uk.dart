@@ -10,6 +10,10 @@ const Map<String, String> stringsUk = {
   'showActionCounter': 'Показати лічильник дій',
   'showActionCounterDesc': 'Показувати кількість дій на екрані гри',
   'autoAdjustBoardWidth': 'Автоматично налаштувати ширину поля',
+  'showUnrevealedCounter': 'Показати лічильник невідкритих клітин',
+  'showUnrevealedCounterDesc': 'Відобразити кількість невідкритих клітин в ігровому інтерфейсі',
+  'showMineCounter': 'Показати лічильник мін',
+  'showMineCounterDesc': 'Відобразити кількість залишених мін в ігровому інтерфейсі',
   'autoAdjustBoardWidthDesc':
       'Автоматично підлаштовувати ширину поля під розмір екрана',
   'resetToDefaults': 'Скинути до стандартних налаштувань',
@@ -100,6 +104,7 @@ const Map<String, String> stringsUk = {
   // Counter strings
   'currentLevel': 'Поточний рівень',
   'remainingMines': 'Залишилось мін',
+  'unrevealedCells': 'Невідкриті клітини',
   'gameTime': 'Час гри (секунд)',
   'operationCount': 'Кількість операцій',
   'previousLevel': 'Попередній рівень',

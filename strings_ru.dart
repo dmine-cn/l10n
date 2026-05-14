@@ -10,6 +10,10 @@ const Map<String, String> stringsRu = {
   'showActionCounter': 'Показать счётчик действий',
   'showActionCounterDesc': 'Показать количество действий на экране игры',
   'autoAdjustBoardWidth': 'Автоматически подстроить ширину поля',
+  'showUnrevealedCounter': 'Показать счётчик неоткрытых ячеек',
+  'showUnrevealedCounterDesc': 'Отобразить количество неоткрытых ячеек в игровом интерфейсе',
+  'showMineCounter': 'Показать счётчик мин',
+  'showMineCounterDesc': 'Отобразить количество оставшихся мин в игровом интерфейсе',
   'autoAdjustBoardWidthDesc':
       'Автоматически подстроить ширину поля под размер экрана',
   'resetToDefaults': 'Сбросить настройки по умолчанию',
@@ -100,6 +104,7 @@ const Map<String, String> stringsRu = {
   // Counter strings
   'currentLevel': 'Текущий уровень',
   'remainingMines': 'Осталось мин',
+  'unrevealedCells': 'Неоткрытые ячейки',
   'gameTime': 'Время игры (секунд)',
   'operationCount': 'Количество операций',
   'previousLevel': 'Предыдущий уровень',

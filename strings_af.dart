@@ -9,6 +9,11 @@ const Map<String, String> stringsAf = {
   'showTimerDesc': 'Vertoon speltydhouer op spelkoppelvlak',
   'showActionCounter': 'Wys Aksieteller',
   'showActionCounterDesc': 'Vertoon aksietellingstatistieke op spelkoppelvlak',
+  "showUnrevealedCounter": "Wys onontdekte sel-teller",
+  "showUnrevealedCounterDesc":
+      "Wys die aantal onontdekte selle op die speelvlak",
+  "showMineCounter": "Wys myn-teller",
+  "showMineCounterDesc": "Wys die oorblywende aantal myne op die speelvlak",
   'autoAdjustBoardWidth': 'Outomaties Pas Bordwydte Aan',
   'autoAdjustBoardWidthDesc':
       'Pas bordwydte outomaties aan volgens skermgrootte',
@@ -99,7 +104,8 @@ const Map<String, String> stringsAf = {
   'pausedShort': 'Gepouseer',
   // Counter strings
   'currentLevel': 'Huidige Vlak',
-  'remainingMines': 'Oorblywende Myns',
+  "remainingMines": "Oorblywende myne",
+  "unrevealedCells": "Onontdekte selle",
   'gameTime': 'Speltyd (sekondes)',
   'operationCount': 'Aksies',
   'previousLevel': 'Vorige Vlak',

@@ -10,6 +10,10 @@ const Map<String, String> stringsTh = {
   'showActionCounter': 'แสดงตัวนับจำนวนการกระทำ',
   'showActionCounterDesc': 'แสดงจำนวนครั้งการกระทำบนหน้าจอเกม',
   'autoAdjustBoardWidth': 'ปรับความกว้างของกระดานอัตโนมัติ',
+  'showUnrevealedCounter': 'แสดงตัวนับช่องที่ยังไม่เปิด',
+  'showUnrevealedCounterDesc': 'แสดงจำนวนช่องที่ยังไม่เปิดบนหน้าจอเกม',
+  'showMineCounter': 'แสดงตัวนับระเบิด',
+  'showMineCounterDesc': 'แสดงจำนวนระเบิดที่เหลือบนหน้าจอเกม',
   'autoAdjustBoardWidthDesc': 'ปรับความกว้างของกระดานตามขนาดหน้าจอโดยอัตโนมัติ',
   'resetToDefaults': 'รีเซ็ตเป็นค่าเริ่มต้น',
   'resetToDefaultsDesc': 'คืนค่าการตั้งค่าทั้งหมดเป็นค่าเริ่มต้น',
@@ -99,6 +103,7 @@ const Map<String, String> stringsTh = {
   // Counter strings
   'currentLevel': 'ด่านปัจจุบัน',
   'remainingMines': 'ระเบิดที่เหลือ',
+  'unrevealedCells': 'จำนวนช่องที่ยังไม่เปิด',
   'gameTime': 'เวลาเล่นเกม (วินาที)',
   'operationCount': 'จำนวนการดำเนินการ',
   'previousLevel': 'ด่านก่อนหน้า',

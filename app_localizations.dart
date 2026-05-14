@@ -326,6 +326,12 @@ class AppLocalizations {
   String get operationCount => _getString('operationCount');
   String get previousLevel => _getString('previousLevel');
   String get nextLevelShort => _getString('nextLevelShort');
+  String get unrevealedCells => _getString('unrevealedCells');
+  String get showUnrevealedCounter => _getString('showUnrevealedCounter');
+  String get showUnrevealedCounterDesc =>
+      _getString('showUnrevealedCounterDesc');
+  String get showMineCounter => _getString('showMineCounter');
+  String get showMineCounterDesc => _getString('showMineCounterDesc');
 
   // MARK: 战线状态和操作
   String get completed => _getString('completed');

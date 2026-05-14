@@ -10,6 +10,10 @@ const Map<String, String> stringsLt = {
   'showActionCounter': 'Rodyti veiksmų skaičių',
   'showActionCounterDesc': 'Rodyti atliktų veiksmų skaičių žaidime',
   'autoAdjustBoardWidth': 'Automatiškai pritaikyti lentos plotį',
+  'showUnrevealedCounter': 'Rodyti neatverstų langelių skaitiklį',
+  'showUnrevealedCounterDesc': 'Rodyti neatverstų langelių skaičių žaidimo sąsajoje',
+  'showMineCounter': 'Rodyti minų skaitiklį',
+  'showMineCounterDesc': 'Rodyti likusių minų skaičių žaidimo sąsajoje',
   'autoAdjustBoardWidthDesc':
       'Automatiškai pritaikyti lentos plotį ekrano dydžiui',
   'resetToDefaults': 'Atstatyti numatytas reikšmes',
@@ -101,6 +105,7 @@ const Map<String, String> stringsLt = {
   // Counter strings
   'currentLevel': 'Dabartinis Lygis',
   'remainingMines': 'Liko Minų',
+  'unrevealedCells': 'Neatversti langeliai',
   'gameTime': 'Žaidimo Laikas (sekundėmis)',
   'operationCount': 'Operacijų Skaičius',
   'previousLevel': 'Ankstesnis Lygis',

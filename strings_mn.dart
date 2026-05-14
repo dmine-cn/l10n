@@ -10,6 +10,10 @@ const Map<String, String> stringsMn = {
   'showActionCounter': 'Үйлдлийн тоог харуулах',
   'showActionCounterDesc': 'Тоглоом дээрх үйлдлийн тоог харуулах',
   'autoAdjustBoardWidth': 'Самбарын өргөнийг автоматаар тохируулах',
+  'showUnrevealedCounter': 'Нээлтгүй нүдний тоолуурыг харуулах',
+  'showUnrevealedCounterDesc': 'Тоглоомын интерфейс дээр нээлтгүй нүдний тоог харуулах',
+  'showMineCounter': 'Минний тоолуурыг харуулах',
+  'showMineCounterDesc': 'Тоглоомын интерфейс дээр үлдсэн минний тоог харуулах',
   'autoAdjustBoardWidthDesc':
       'Самбарын өргөнийг дэлгэцийн хэмжээнд автоматаар тохируулах',
   'resetToDefaults': 'Анхдагч тохиргоо руу буцаах',
@@ -100,6 +104,7 @@ const Map<String, String> stringsMn = {
   // Counter strings
   'currentLevel': 'Одоогийн Түвшин',
   'remainingMines': 'Үлдсэн Уурхай',
+  'unrevealedCells': 'Нээлтгүй нүднүүд',
   'gameTime': 'Тоглоомын Цаг (секунд)',
   'operationCount': 'Үйлдлийн Тоо',
   'previousLevel': 'Өмнөх Түвшин',

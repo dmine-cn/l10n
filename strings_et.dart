@@ -10,6 +10,10 @@ const Map<String, String> stringsEt = {
   'showActionCounter': 'Kuva tegevuste loendur',
   'showActionCounterDesc': 'Kuva tegevuste arv mängu liideses',
   'autoAdjustBoardWidth': 'Automaatselt kohandada laua laiust',
+  'showUnrevealedCounter': 'Näita avamata ruutude loendurit',
+  'showUnrevealedCounterDesc': 'Näita mänguliides avamata ruutude arvu',
+  'showMineCounter': 'Näita miinide loendurit',
+  'showMineCounterDesc': 'Näita mänguliides järelejäänud miinide arvu',
   'autoAdjustBoardWidthDesc':
       'Automaatselt kohandada laua laiust ekraani suuruse järgi',
   'resetToDefaults': 'Taastada vaikeväärtused',
@@ -100,6 +104,7 @@ const Map<String, String> stringsEt = {
   // Counter strings
   'currentLevel': 'Praegune tase',
   'remainingMines': 'Jäänud miinid',
+  'unrevealedCells': 'Avamata ruudud',
   'gameTime': 'Mänguaeg (sekundit)',
   'operationCount': 'Tegevuste arv',
   'previousLevel': 'Eelmine tase',

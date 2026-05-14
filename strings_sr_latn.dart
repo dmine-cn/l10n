@@ -10,6 +10,10 @@ const Map<String, String> stringsSrLatn = {
   'showActionCounter': 'Prikaži brojač akcija',
   'showActionCounterDesc': 'Prikazuje broj akcija na ekranu igre',
   'autoAdjustBoardWidth': 'Automatsko prilagođavanje širine table',
+  'showUnrevealedCounter': 'Prikaži brojač neotkrivenih polja',
+  'showUnrevealedCounterDesc': 'Prikaži broj neotkrivenih polja na interfejsu igre',
+  'showMineCounter': 'Prikaži brojač mina',
+  'showMineCounterDesc': 'Prikaži preostale mine na interfejsu igre',
   'autoAdjustBoardWidthDesc':
       'Automatski prilagođava širinu table prema veličini ekrana',
   'resetToDefaults': 'Vrati podrazumevane podešavanja',
@@ -100,6 +104,7 @@ const Map<String, String> stringsSrLatn = {
   // Counter strings
   'currentLevel': 'Trenutni nivo',
   'remainingMines': 'Preostale mine',
+  'unrevealedCells': 'Neotkrivena polja',
   'gameTime': 'Vreme igre (sekundi)',
   'operationCount': 'Broj operacija',
   'previousLevel': 'Prethodni nivo',

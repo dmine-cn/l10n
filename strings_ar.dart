@@ -9,6 +9,10 @@ const Map<String, String> stringsAr = {
   'showActionCounter': 'عرض عداد الإجراءات',
   'showActionCounterDesc': 'عرض إحصائيات عدد الإجراءات على واجهة اللعبة',
   'autoAdjustBoardWidth': 'ضبط عرض اللوحة تلقائيًا',
+  'showUnrevealedCounter': 'عرض عداد الخلايا غير المكشوفة',
+  'showUnrevealedCounterDesc': 'عرض عدد الخلايا غير المكشوفة في واجهة اللعبة',
+  'showMineCounter': 'عرض عداد الألغام',
+  'showMineCounterDesc': 'عرض عدد الألغام المتبقية في واجهة اللعبة',
   'autoAdjustBoardWidthDesc': 'ضبط عرض اللوحة تلقائيًا بناءً على حجم الشاشة',
   'resetToDefaults': 'إعادة التعيين إلى الإعدادات الافتراضية',
   'resetToDefaultsDesc': 'استعادة جميع الإعدادات إلى القيم الافتراضية',
@@ -97,6 +101,7 @@ const Map<String, String> stringsAr = {
   // Counter strings
   'currentLevel': 'المستوى الحالي',
   'remainingMines': 'الألغام المتبقية',
+  'unrevealedCells': 'عدد الخلايا غير المكشوفة',
   'gameTime': 'مدة اللعبة (ثواني)',
   'operationCount': 'الإجراءات',
   'previousLevel': 'المستوى السابق',

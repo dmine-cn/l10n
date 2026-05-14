@@ -10,6 +10,10 @@ const Map<String, String> stringsHi = {
   'showActionCounter': 'कार्य काउंटर दिखाएं',
   'showActionCounterDesc': 'खेल इंटरफेस में क्रियाओं की संख्या दिखाएं',
   'autoAdjustBoardWidth': 'बोर्ड की चौड़ाई स्वचालित रूप से समायोजित करें',
+  'showUnrevealedCounter': 'खुले न हुए सेल काउंटर दिखाएं',
+  'showUnrevealedCounterDesc': 'गेम इंटरफेस पर खुले न हुए सेलों की संख्या दिखाएं',
+  'showMineCounter': 'खदान काउंटर दिखाएं',
+  'showMineCounterDesc': 'गेम इंटरफेस पर शेष खदानों की संख्या दिखाएं',
   'autoAdjustBoardWidthDesc':
       'स्क्रीन के आकार के अनुसार बोर्ड की चौड़ाई स्वचालित रूप से समायोजित करें',
   'resetToDefaults': 'डिफ़ॉल्ट पर रीसेट करें',
@@ -100,6 +104,7 @@ const Map<String, String> stringsHi = {
   // Counter strings
   'currentLevel': 'वर्तमान लेवल',
   'remainingMines': 'बाकी माइन',
+  'unrevealedCells': 'खुले न हुए सेल',
   'gameTime': 'खेल का समय (सेकंड)',
   'operationCount': 'कार्रवाइयों की संख्या',
   'previousLevel': 'पिछला लेवल',

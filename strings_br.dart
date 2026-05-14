@@ -10,6 +10,10 @@ const Map<String, String> stringsBr = {
   'showActionCounter': 'Diskouez kontador ar reodoù',
   'showActionCounterDesc': 'Diskouez niver a reodoù war urzh ar c\'hoari',
   'autoAdjustBoardWidth': 'Kefluniaut automatikek ledander an daouarn',
+  'showUnrevealedCounter': 'Diskouer kontador kelloù dianvet',
+  'showUnrevealedCounterDesc': 'Diskouer niver kelloù dianvet war etrezek ar c\'hoari',
+  'showMineCounter': 'Diskouer kontador minennoù',
+  'showMineCounterDesc': 'Diskouer niver minennoù chomet war etrezek ar c\'hoari',
   'autoAdjustBoardWidthDesc':
       'Kefluniaut automatikek ledander an daouarn hervez ment ar skramm',
   'resetToDefaults': 'Adkeghañ d\'arventennoù dre ziouer',
@@ -101,6 +105,7 @@ const Map<String, String> stringsBr = {
   // Counter strings
   'currentLevel': 'Nivel bremañ',
   'remainingMines': 'Muniloù a-zindan',
+  'unrevealedCells': 'Kelloù dianvet',
   'gameTime': 'Amzer c\'hoari (eilenn)',
   'operationCount': 'Niver a reodoù',
   'previousLevel': 'Nivel diaraok',

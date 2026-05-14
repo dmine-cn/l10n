@@ -10,6 +10,10 @@ const Map<String, String> stringsBg = {
   'showActionCounter': 'Показвай брояч на действия',
   'showActionCounterDesc': 'Показвай броя на действията в интерфейса',
   'autoAdjustBoardWidth': 'Автоматично подстрой ширина на дъската',
+  'showUnrevealedCounter': 'Показва брояч на неоткрити клетки',
+  'showUnrevealedCounterDesc': 'Показва броя на неоткритите клетки в игралния интерфейс',
+  'showMineCounter': 'Показва брояч на мини',
+  'showMineCounterDesc': 'Показва броя на останалите мини в игралния интерфейс',
   'autoAdjustBoardWidthDesc':
       'Автоматично подстрой ширината на дъската според размера на екрана',
   'resetToDefaults': 'Възстанови стандартни настройки',
@@ -100,6 +104,7 @@ const Map<String, String> stringsBg = {
   // Counter strings
   'currentLevel': 'Текущо ниво',
   'remainingMines': 'Оставащи мини',
+  'unrevealedCells': 'Неоткрити клетки',
   'gameTime': 'Игрово време (секунди)',
   'operationCount': 'Брой действия',
   'previousLevel': 'Предишно ниво',

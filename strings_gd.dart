@@ -10,6 +10,10 @@ const Map<String, String> stringsGd = {
   'showActionCounter': 'Seall cunntar gnìomhan',
   'showActionCounterDesc': 'Seall àireamh gnìomhan air sgrìn a\' gheama',
   'autoAdjustBoardWidth': 'Atharraich leud a\' bhùird gu fèin-ghluasadach',
+  'showUnrevealedCounter': 'Seall cunntaire ceallan gun fhoillseachadh',
+  'showUnrevealedCounterDesc': 'Seall àireamh nan ceallan gun fhoillseachadh air eadar-aghaidh a\' gheama',
+  'showMineCounter': 'Seall cunntaire mhèinnean',
+  'showMineCounterDesc': 'Seall àireamh nam mèinnean a tha air fhàgail air eadar-aghaidh a\' gheama',
   'autoAdjustBoardWidthDesc':
       'Atharraich leud a\' bhùird a rèir meud an sgrìn gu fèin-ghluasadach',
   'resetToDefaults': 'Ath-nuadhachadh gu roghainnean bunaiteach',
@@ -100,6 +104,7 @@ const Map<String, String> stringsGd = {
   // Counter strings
   'currentLevel': 'An ìre làithreach',
   'remainingMines': 'Mèinnean air fhàgail',
+  'unrevealedCells': 'Ceallan gun fhoillseachadh',
   'gameTime': 'Ùine a\' gheama (diogan)',
   'operationCount': 'Àireamh Gnìomhan',
   'previousLevel': 'An ìre roimhe',

@@ -10,6 +10,10 @@ const Map<String, String> stringsJa = {
   'showActionCounter': '操作回数を表示',
   'showActionCounterDesc': 'ゲーム画面に操作回数を表示します',
   'autoAdjustBoardWidth': '盤面の幅を自動調整',
+  'showUnrevealedCounter': '未開封マスカウンターを表示',
+  'showUnrevealedCounterDesc': 'ゲーム画面に未開封マスの数を表示',
+  'showMineCounter': '地雷カウンターを表示',
+  'showMineCounterDesc': 'ゲーム画面に残り地雷数を表示',
   'autoAdjustBoardWidthDesc': '画面サイズに合わせて盤面の幅を自動調整します',
   'resetToDefaults': '初期設定に戻す',
   'resetToDefaultsDesc': 'すべての設定を元の値にリセットします',
@@ -98,6 +102,7 @@ const Map<String, String> stringsJa = {
   // Counter strings
   'currentLevel': '現在のレベル',
   'remainingMines': '残り地雷数',
+  'unrevealedCells': '未開封マス数',
   'gameTime': 'プレイ時間（秒）',
   'operationCount': '操作回数',
   'previousLevel': '前のレベル',

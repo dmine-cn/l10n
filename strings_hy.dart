@@ -9,6 +9,10 @@ const Map<String, String> stringsHy = {
   'showActionCounter': 'Ցույց տալ գործողությունների ծրագրավորման սիմվոլը',
   'showActionCounterDesc':
       'Ցույց տալ գործողությունների քանակի չափումը խաղի ինտերֆեյսում',
+  'showUnrevealedCounter': 'Ցուցադրել չբացված բջիջների հաշվիչ',
+  'showUnrevealedCounterDesc': 'Ցուցադրել խաղի ինտերֆեյսում չբացված բջիջների քանակը',
+  'showMineCounter': 'Ցուցադրել ականների հաշվիչ',
+  'showMineCounterDesc': 'Ցուցադրել խաղի ինտերֆեյսում մնացած ականների քանակը',
   'autoAdjustBoardWidth': 'Ավտոմատ ճշգրտում տախտակի լայնությունը',
   'autoAdjustBoardWidthDesc':
       'Ավտոմատ ճշգրտում տախտակի լայնությունը էկրանի չափերի համաձայն',
@@ -102,6 +106,7 @@ const Map<String, String> stringsHy = {
   // Counter strings
   'currentLevel': 'Ընթացիկ Մակարդակ',
   'remainingMines': 'Մնացած Միների քանակ',
+  'unrevealedCells': 'Չբացված բջիջներ',
   'gameTime': 'Խաղի ժամանակ (վայրկյան)',
   'operationCount': 'Գործողությունների քանակ',
   'previousLevel': 'Նախորդ Մակարդակ',

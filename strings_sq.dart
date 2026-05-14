@@ -9,6 +9,10 @@ const Map<String, String> stringsSq = {
   'showActionCounter': 'Shfaq Numëruesin e Veprimeve',
   'showActionCounterDesc':
       'Shfaq statistikat e numërimit të veprimeve në ndërfaqen e lojës',
+  'showUnrevealedCounter': 'Shfaq numëruesin e qelizave të pazbuluara',
+  'showUnrevealedCounterDesc': 'Shfaq numrin e qelizave të pazbuluara në ndërfaqen e lojës',
+  'showMineCounter': 'Shfaq numëruesin e minave',
+  'showMineCounterDesc': 'Shfaq minat e mbetura në ndërfaqen e lojës',
   'autoAdjustBoardWidth': 'Rregullo Automatikisht Gjerësinë e Bordit',
   'autoAdjustBoardWidthDesc':
       'Rregullo automatikisht gjerësinë e bordit bazuar në madhësinë e ekranit',
@@ -101,6 +105,7 @@ const Map<String, String> stringsSq = {
   // Counter strings
   'currentLevel': 'Niveli Aktual',
   'remainingMines': 'Minat e Mbetura',
+  'unrevealedCells': 'Qelizat e pazbuluara',
   'gameTime': 'Kohëzgjatja e Lojës (sekonda)',
   'operationCount': 'Veprime',
   'previousLevel': 'Niveli i Mëparshëm',

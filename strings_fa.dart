@@ -10,6 +10,10 @@ const Map<String, String> stringsFa = {
   'showActionCounter': 'نمایش شمارنده اقدامات',
   'showActionCounterDesc': 'نمایش تعداد اقدامات در رابط بازی',
   'autoAdjustBoardWidth': 'تنظیم خودکار عرض تخته',
+  'showUnrevealedCounter': 'نمایش شمارنده خانه‌های آشکار نشده',
+  'showUnrevealedCounterDesc': 'نمایش تعداد خانه‌های آشکار نشده در رابط کاربری بازی',
+  'showMineCounter': 'نمایش شمارنده مین',
+  'showMineCounterDesc': 'نمایش تعداد مین‌های باقی‌مانده در رابط کاربری بازی',
   'autoAdjustBoardWidthDesc': 'تنظیم خودکار عرض تخته بر اساس اندازه صفحه',
   'resetToDefaults': 'بازنشانی به پیش‌فرض',
   'resetToDefaultsDesc': 'بازگرداندن تمام تنظیمات به مقادیر اولیه',
@@ -99,6 +103,7 @@ const Map<String, String> stringsFa = {
   // Counter strings
   'currentLevel': 'مرحله فعلی',
   'remainingMines': 'مین باقیمانده',
+  'unrevealedCells': 'خانه‌های آشکار نشده',
   'gameTime': 'زمان بازی (ثانیه)',
   'operationCount': 'تعداد اقدامات',
   'previousLevel': 'مرحله قبلی',

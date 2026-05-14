@@ -8,6 +8,11 @@ const Map<String, String> stringsEn = {
   'showTimerDesc': 'Display game timer on game interface',
   'showActionCounter': 'Show Action Counter',
   'showActionCounterDesc': 'Display action count statistics on game interface',
+  'showUnrevealedCounter': 'Show Unrevealed Counter',
+  'showUnrevealedCounterDesc':
+      'Display the count of unrevealed cells on game interface',
+  'showMineCounter': 'Show Mine Counter',
+  'showMineCounterDesc': 'Display remaining mine count on game interface',
   'autoAdjustBoardWidth': 'Auto Adjust Board Width',
   'autoAdjustBoardWidthDesc':
       'Automatically adjust board width based on screen size',
@@ -99,6 +104,7 @@ const Map<String, String> stringsEn = {
   // Counter strings
   'currentLevel': 'Current Level',
   'remainingMines': 'Remaining Mines',
+  'unrevealedCells': 'Unrevealed Cells',
   'gameTime': 'Duration (seconds)',
   'operationCount': 'Actions',
   'previousLevel': 'Previous Level',

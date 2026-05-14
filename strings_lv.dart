@@ -10,6 +10,10 @@ const Map<String, String> stringsLv = {
   'showActionCounter': 'Rādīt darbību skaitītāju',
   'showActionCounterDesc': 'Rādīt darbību skaitu spēles laukumā',
   'autoAdjustBoardWidth': 'Automātiski pielāgot laukuma platumu',
+  'showUnrevealedCounter': 'Rādīt neatklāto šūnu skaitītāju',
+  'showUnrevealedCounterDesc': 'Rādīt neatklāto šūnu skaitu spēles saskarnē',
+  'showMineCounter': 'Rādīt mīnu skaitītāju',
+  'showMineCounterDesc': 'Rādīt atlikušo mīnu skaitu spēles saskarnē',
   'autoAdjustBoardWidthDesc':
       'Pielāgot laukuma platumu atbilstoši ekrāna izmēram',
   'resetToDefaults': 'Atstatīt uz noklusējumu',
@@ -100,6 +104,7 @@ const Map<String, String> stringsLv = {
   // Counter strings
   'currentLevel': 'Pašreizējais līmenis',
   'remainingMines': 'Atlikušās mīnas',
+  'unrevealedCells': 'Neatklātās šūnas',
   'gameTime': 'Spēles laiks (sekundes)',
   'operationCount': 'Darbību skaits',
   'previousLevel': 'Iepriekšējais līmenis',

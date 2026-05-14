@@ -10,6 +10,10 @@ const Map<String, String> stringsMk = {
   'showActionCounter': 'Прикажи број на акции',
   'showActionCounterDesc': 'Го прикажува бројот на акции на таблото',
   'autoAdjustBoardWidth': 'Автоматско прилагодување на ширина',
+  'showUnrevealedCounter': 'Прикажи бројач на неоткриени полиња',
+  'showUnrevealedCounterDesc': 'Прикажи број на неоткриени полиња на игралниот интерфејс',
+  'showMineCounter': 'Прикажи бројач на мини',
+  'showMineCounterDesc': 'Прикажи преостанати мини на игралниот интерфејс',
   'autoAdjustBoardWidthDesc':
       'Автоматски го прилагодува ширината на таблото според големината на екранот',
   'resetToDefaults': 'Врати ги стандардните подесувања',
@@ -101,6 +105,7 @@ const Map<String, String> stringsMk = {
   // Counter strings
   'currentLevel': 'Моментално ниво',
   'remainingMines': 'Останати мини',
+  'unrevealedCells': 'Неоткриени полиња',
   'gameTime': 'Време на игра (секунди)',
   'operationCount': 'Број на акции',
   'previousLevel': 'Претходно ниво',

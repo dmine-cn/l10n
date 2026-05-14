@@ -10,6 +10,10 @@ const Map<String, String> stringsPt = {
   'showActionCounter': 'Mostrar contador de ações',
   'showActionCounterDesc': 'Exibe a contagem de ações na tela do jogo',
   'autoAdjustBoardWidth': 'Ajustar largura do tabuleiro automaticamente',
+  'showUnrevealedCounter': 'Mostrar contador de células não reveladas',
+  'showUnrevealedCounterDesc': 'Mostrar o número de células não reveladas na interface do jogo',
+  'showMineCounter': 'Mostrar contador de minas',
+  'showMineCounterDesc': 'Mostrar as minas restantes na interface do jogo',
   'autoAdjustBoardWidthDesc':
       'Ajusta a largura do tabuleiro conforme o tamanho da tela',
   'resetToDefaults': 'Restaurar padrões',
@@ -100,6 +104,7 @@ const Map<String, String> stringsPt = {
   // Counter strings
   'currentLevel': 'Nível atual',
   'remainingMines': 'Minas restantes',
+  'unrevealedCells': 'Células não reveladas',
   'gameTime': 'Tempo de jogo (segundos)',
   'operationCount': 'Número de operações',
   'previousLevel': 'Nível anterior',

@@ -10,6 +10,10 @@ const Map<String, String> stringsCo = {
   'showActionCounter': 'Affissà u contatore d\'azzioni',
   'showActionCounterDesc':
       'Affissà u numeru d\'azzioni nant\'interfaccia di u ghjocu',
+  'showUnrevealedCounter': 'Mustra u cuntadore di caselle micca rivelate',
+  'showUnrevealedCounterDesc': 'Mustra u numeru di caselle micca rivelate nantu à l\'interfaccia di ghjocu',
+  'showMineCounter': 'Mustra u cuntadore di mine',
+  'showMineCounterDesc': 'Mustra e mine rimanenti nantu à l\'interfaccia di ghjocu',
   'autoAdjustBoardWidth': 'Aghjustà automàticamente a larghezza di u tavulinu',
   'autoAdjustBoardWidthDesc':
       'Aghjustà automàticamente a larghezza di u tavulinu secondu a dimensione di u schermu',
@@ -102,6 +106,7 @@ const Map<String, String> stringsCo = {
   // Counter strings
   'currentLevel': 'Livellu attuale',
   'remainingMines': 'Mine rimaste',
+  'unrevealedCells': 'Caselle micca rivelate',
   'gameTime': 'Tempu di ghjocu (sicondi)',
   'operationCount': 'Numeru d\'azzioni',
   'previousLevel': 'Livellu precedente',

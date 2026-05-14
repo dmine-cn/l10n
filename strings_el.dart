@@ -10,6 +10,10 @@ const Map<String, String> stringsEl = {
   'showActionCounter': 'Εμφάνιση μετρητή ενεργειών',
   'showActionCounterDesc':
       'Εμφάνιση του αριθμού των ενεργειών στη διεπαφή του παιχνιδιού',
+  'showUnrevealedCounter': 'Εμφάνιση μετρητή μη αποκαλυφθέντων κελιών',
+  'showUnrevealedCounterDesc': 'Εμφάνιση του αριθμού των μη αποκαλυφθέντων κελιών στη διεπαφή παιχνιδιού',
+  'showMineCounter': 'Εμφάνιση μετρητή ναρκών',
+  'showMineCounterDesc': 'Εμφάνιση των υπολοίπων ναρκών στη διεπαφή παιχνιδιού',
   'autoAdjustBoardWidth': 'Αυτόματη προσαρμογή πλάτους πίνακα',
   'autoAdjustBoardWidthDesc':
       'Αυτόματη προσαρμογή του πλάτους του πίνακα σύμφωνα με το μέγεθος της οθόνης',
@@ -102,6 +106,7 @@ const Map<String, String> stringsEl = {
   // Counter strings
   'currentLevel': 'Τρέχον επίπεδο',
   'remainingMines': 'Υπόλοιπες ναρκών',
+  'unrevealedCells': 'Μη αποκαλυφθέντα κελιά',
   'gameTime': 'Χρόνος παιχνιδιού (δευτερόλεπτα)',
   'operationCount': 'Αριθμός λειτουργιών',
   'previousLevel': 'Προηγούμενο επίπεδο',

@@ -10,6 +10,10 @@ const Map<String, String> stringsSv = {
   'showActionCounter': 'Visa åtgärdsräknare',
   'showActionCounterDesc': 'Visar antal åtgärder på spelskärmen',
   'autoAdjustBoardWidth': 'Justera brickans bredd automatiskt',
+  'showUnrevealedCounter': 'Visa räknare för oupptäckta rutor',
+  'showUnrevealedCounterDesc': 'Visa antalet oupptäckta rutor i spelgränssnittet',
+  'showMineCounter': 'Visa minräknare',
+  'showMineCounterDesc': 'Visa återstående minor i spelgränssnittet',
   'autoAdjustBoardWidthDesc':
       'Justerar automatiskt brickans bredd efter skärmens storlek',
   'resetToDefaults': 'Återställ standardinställningar',
@@ -100,6 +104,7 @@ const Map<String, String> stringsSv = {
   // Counter strings
   'currentLevel': 'Aktuell nivå',
   'remainingMines': 'Återstående minor',
+  'unrevealedCells': 'Oupptäckta rutor',
   'gameTime': 'Speltid (sekunder)',
   'operationCount': 'Antal operationer',
   'previousLevel': 'Föregående nivå',

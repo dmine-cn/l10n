@@ -10,6 +10,10 @@ const Map<String, String> stringsNl = {
   'showActionCounter': 'Actieteller weergeven',
   'showActionCounterDesc': 'Toon het aantal acties op de spelinterface',
   'autoAdjustBoardWidth': 'Automatisch bordbreedte aanpassen',
+  'showUnrevealedCounter': 'Teller voor onontdekte vakjes weergeven',
+  'showUnrevealedCounterDesc': 'Toon het aantal onontdekte vakjes in de game-interface',
+  'showMineCounter': 'Mijnteller weergeven',
+  'showMineCounterDesc': 'Toon het aantal resterende mijnen in de game-interface',
   'autoAdjustBoardWidthDesc':
       'Pas de bordbreedte automatisch aan op schermgrootte',
   'resetToDefaults': 'Herstel naar standaardinstellingen',
@@ -100,6 +104,7 @@ const Map<String, String> stringsNl = {
   // Counter strings
   'currentLevel': 'Huidig niveau',
   'remainingMines': 'Resterende mijnen',
+  'unrevealedCells': 'Onontdekte vakjes',
   'gameTime': 'Speltijd (seconden)',
   'operationCount': 'Aantal bewerkingen',
   'previousLevel': 'Vorige niveau',

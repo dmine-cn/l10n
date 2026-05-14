@@ -10,6 +10,10 @@ const Map<String, String> stringsEo = {
   'showActionCounter': 'Montri agadnombron',
   'showActionCounterDesc': 'Montri nombron da agadoj en la luda interfaco',
   'autoAdjustBoardWidth': 'Aŭtomate ĝustigi tabularon larĝecon',
+  'showUnrevealedCounter': 'Montru nombrilon de nemalkovritaj ĉeloj',
+  'showUnrevealedCounterDesc': 'Montru la nombron de nemalkovritaj ĉeloj en la ludinterfaco',
+  'showMineCounter': 'Montru nombrilon de minoj',
+  'showMineCounterDesc': 'Montru la restantajn minojn en la ludinterfaco',
   'autoAdjustBoardWidthDesc':
       'Aŭtomate ĝustigi tabularon larĝecon laŭ ekrana grandeco',
   'resetToDefaults': 'Reenigi al defaŭltoj',
@@ -100,6 +104,7 @@ const Map<String, String> stringsEo = {
   // Counter strings
   'currentLevel': 'Nuna nivelo',
   'remainingMines': 'Restantaj minoj',
+  'unrevealedCells': 'Nemalkovritaj ĉeloj',
   'gameTime': 'Luda tempo (sekundoj)',
   'operationCount': 'Nombro da operacioj',
   'previousLevel': 'Antaŭa nivelo',

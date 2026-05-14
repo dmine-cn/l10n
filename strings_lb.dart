@@ -10,6 +10,10 @@ const Map<String, String> stringsLb = {
   'showActionCounter': 'Handlungszieler uweisen',
   'showActionCounterDesc': 'Weist d\'Zuel vun den Handlungen am Spill u',
   'autoAdjustBoardWidth': 'Breett automatesch uupassen',
+  'showUnrevealedCounter': 'Zähler fir net opgedeckt Felder weisen',
+  'showUnrevealedCounterDesc': 'Zuel vun den net opgedeckte Felder um Spillinterface weisen',
+  'showMineCounter': 'Minenzähler weisen',
+  'showMineCounterDesc': 'Rescht Minen um Spillinterface weisen',
   'autoAdjustBoardWidthDesc':
       'Passt d’Breett vum Spielfield automatesch un den Schiirmduerchmesser un',
   'resetToDefaults': 'Op Standard zrécksetzen',
@@ -100,6 +104,7 @@ const Map<String, String> stringsLb = {
   // Counter strings
   'currentLevel': 'Momentaner Level',
   'remainingMines': 'Minen iwwer',
+  'unrevealedCells': 'Net opgedeckte Felder',
   'gameTime': 'Spillzäit (Sekonnen)',
   'operationCount': 'Operatiounen',
   'previousLevel': 'Vierä Level',

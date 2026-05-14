@@ -10,6 +10,10 @@ const Map<String, String> stringsCa = {
   'showActionCounter': 'Mostra comptador d\'accions',
   'showActionCounterDesc':
       'Mostra el nombre d\'accions a la interfície del joc',
+  'showUnrevealedCounter': 'Mostra el comptador de caselles sense revelar',
+  'showUnrevealedCounterDesc': 'Mostra el nombre de caselles sense revelar a la interfís del joc',
+  'showMineCounter': 'Mostra el comptador de mines',
+  'showMineCounterDesc': 'Mostra les mines restants a la interfís del joc',
   'autoAdjustBoardWidth': 'Ajusta automàticament l\'amplada del tauler',
   'autoAdjustBoardWidthDesc':
       'Ajusta automàticament l\'amplada del tauler segons la mida de la pantalla',
@@ -102,6 +106,7 @@ const Map<String, String> stringsCa = {
   // Counter strings
   'currentLevel': 'Nivell actual',
   'remainingMines': 'Mines restants',
+  'unrevealedCells': 'Caselles sense revelar',
   'gameTime': 'Temps de joc (segons)',
   'operationCount': 'Nombre d\'operacions',
   'previousLevel': 'Nivell anterior',

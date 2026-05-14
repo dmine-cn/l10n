@@ -10,6 +10,10 @@ const Map<String, String> stringsUz = {
   'showActionCounter': 'Harakatlar sonini ko\'rsatish',
   'showActionCounterDesc': 'O\'yin ekrani harakatlar sonini ko\'rsatadi',
   'autoAdjustBoardWidth': 'Tahtaning kengligini avtomatik sozlash',
+  'showUnrevealedCounter': 'Ochilmagan hujayra hisoblagichini ko\'rsatish',
+  'showUnrevealedCounterDesc': 'O\'yin interfeysida ochilmagan hujayralar sonini ko\'rsatish',
+  'showMineCounter': 'Mina hisoblagichini ko\'rsatish',
+  'showMineCounterDesc': 'O\'yin interfeysida qolgan minalar sonini ko\'rsatish',
   'autoAdjustBoardWidthDesc':
       'Ekran o\'lchamiga ko\'ra tahtaning kengligini avtomatik moslashtirish',
   'resetToDefaults': 'Boshlang\'ich sozlamalariga tiklash',
@@ -101,6 +105,7 @@ const Map<String, String> stringsUz = {
   // Counter strings
   'currentLevel': 'Joriy daraja',
   'remainingMines': 'Qolgan minlar',
+  'unrevealedCells': 'Ochilmagan hujayralar',
   'gameTime': 'O\'yin vaqti (soniya)',
   'operationCount': 'Amallar soni',
   'previousLevel': 'Oldingi daraja',

@@ -10,6 +10,10 @@ const Map<String, String> stringsHu = {
   'showActionCounter': 'Művelet számláló megjelenítése',
   'showActionCounterDesc':
       'A műveletek számának megjelenítése a játékfelületen',
+  'showUnrevealedCounter': 'Rejtett mezők számlálójának megjelenítése',
+  'showUnrevealedCounterDesc': 'Rejtett mezők számának megjelenítése a játékfelületen',
+  'showMineCounter': 'Aknaszámláló megjelenítése',
+  'showMineCounterDesc': 'Hátralévő aknák számának megjelenítése a játékfelületen',
   'autoAdjustBoardWidth': 'A tábla szélességének automatikus igazítása',
   'autoAdjustBoardWidthDesc':
       'A tábla szélességének automatikus igazítása a képernyő méretéhez',
@@ -103,6 +107,7 @@ const Map<String, String> stringsHu = {
   // Counter strings
   'currentLevel': 'Aktuális szint',
   'remainingMines': 'Hátralévő aknák',
+  'unrevealedCells': 'Rejtett mezők',
   'gameTime': 'Játékidő (másodperc)',
   'operationCount': 'Műveletek száma',
   'previousLevel': 'Előző szint',

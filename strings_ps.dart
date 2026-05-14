@@ -10,6 +10,10 @@ const Map<String, String> stringsPs = {
   'showActionCounter': 'د عملونو شمیرونکی ښکاره کړئ',
   'showActionCounterDesc': 'د لوبې پاڼه کې د عملونو شمیراتو احصایې ښکاره کړئ',
   'autoAdjustBoardWidth': 'د بورډ عرض خودکار تنظیم کړئ',
+  'showUnrevealedCounter': 'د نه ښکاره شویو حجرو شمېرنکی ښکاره کړئ',
+  'showUnrevealedCounterDesc': 'د لوبې په انٹرفیس کې د نه ښکاره شویو حجرو شمېر ښکاره کړئ',
+  'showMineCounter': 'د کان شمېرنکی ښکاره کړئ',
+  'showMineCounterDesc': 'د لوبې په انٹرفیس کې د پاتې کانونو شمېر ښکاره کړئ',
   'autoAdjustBoardWidthDesc':
       'د سکرین سایز پر بنسټ د بورډ عرض خودکار تنظیم کړئ',
   'resetToDefaults': 'په mặc định ته راستنیدل',
@@ -100,6 +104,7 @@ const Map<String, String> stringsPs = {
   // Counter strings
   'currentLevel': 'الحالي لیول',
   'remainingMines': 'د ماینونو پاتې شمیر',
+  'unrevealedCells': 'نه ښکاره شوې حجرې',
   'gameTime': 'د لوبې وخت (ثانیې)',
   'operationCount': 'د عملیاتو شمیر',
   'previousLevel': 'مخکینی لیول',

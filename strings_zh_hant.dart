@@ -9,6 +9,10 @@ const Map<String, String> stringsZhHant = {
   'showActionCounter': '顯示動作數計數器',
   'showActionCounterDesc': '在遊戲介面顯示動作次數統計',
   'autoAdjustBoardWidth': '自動調整棋盤寬度',
+  'showUnrevealedCounter': '顯示未揭開格子計數器',
+  'showUnrevealedCounterDesc': '在遊戲介面顯示未揭開格子數量',
+  'showMineCounter': '顯示地雷計數器',
+  'showMineCounterDesc': '在遊戲介面顯示剩餘地雷數',
   'autoAdjustBoardWidthDesc': '自動根據螢幕大小調整棋盤寬度',
   'resetToDefaults': '重置為預設設定',
   'resetToDefaultsDesc': '恢復所有設定為預設值',
@@ -97,6 +101,7 @@ const Map<String, String> stringsZhHant = {
   // Counter strings
   'currentLevel': '當前關次',
   'remainingMines': '剩餘地雷數',
+  'unrevealedCells': '未揭開格子數量',
   'gameTime': '遊戲用時（秒）',
   'operationCount': '操作次數',
   'previousLevel': '上一關',

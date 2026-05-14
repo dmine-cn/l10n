@@ -9,6 +9,10 @@ const Map<String, String> stringsAst = {
   'showActionCounter': 'Amosar contador de accionez',
   'showActionCounterDesc':
       'Amosar l\'estadística del númberu d\'accionez na interfaz del xocu',
+  'showUnrevealedCounter': 'Amosar contador de caselles sin revelar',
+  'showUnrevealedCounterDesc': 'Amosar el númberu de caselles sin revelar na interfaz del xuegu',
+  'showMineCounter': 'Amosar contador de mines',
+  'showMineCounterDesc': 'Amosar les mines que queden na interfaz del xuegu',
   'autoAdjustBoardWidth': 'Axustar automáticamente l\'anchu del tableru',
   'autoAdjustBoardWidthDesc':
       'Axustar automáticamente l\'anchu del tableru según el tamañu de la pantalla',
@@ -100,6 +104,7 @@ const Map<String, String> stringsAst = {
   // Counter strings
   'currentLevel': 'Nivel actual',
   'remainingMines': 'Númberu de minas restantes',
+  'unrevealedCells': 'Caselles sin revelar',
   'gameTime': 'Tempu de xocu (segundos)',
   'operationCount': 'Númberu d\'operaciones',
   'previousLevel': 'Nivel anterior',

@@ -10,6 +10,10 @@ const Map<String, String> stringsIw = {
   'showActionCounter': 'הצג מונה פעולות',
   'showActionCounterDesc': 'הצג את מספר הפעולות בממשק המשחק',
   'autoAdjustBoardWidth': 'התאם אוטומטית את רוחב הלוח',
+  'showUnrevealedCounter': 'הצג מונה תאים לא נחשפים',
+  'showUnrevealedCounterDesc': 'הצג את מספר התאים הלא נחשפים בממשק המשחק',
+  'showMineCounter': 'הצג מונה מוקשים',
+  'showMineCounterDesc': 'הצג את מספר המוקשים שנותרו בממשק המשחק',
   'autoAdjustBoardWidthDesc': 'התאם אוטומטית רוחב הלוח לפי גודל המסך',
   'resetToDefaults': 'אפס להגדרות ברירת מחדל',
   'resetToDefaultsDesc': 'אפס את כל ההגדרות לערכים המקוריים',
@@ -99,6 +103,7 @@ const Map<String, String> stringsIw = {
   // Counter strings
   'currentLevel': 'שלב נוכחי',
   'remainingMines': 'מוקשים שנותרו',
+  'unrevealedCells': 'תאים לא נחשפים',
   'gameTime': 'זמן משחק (שניות)',
   'operationCount': 'מספר פעולות',
   'previousLevel': 'שלב קודם',

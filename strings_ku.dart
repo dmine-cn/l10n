@@ -10,6 +10,10 @@ const Map<String, String> stringsKu = {
   'showActionCounter': 'Hejmara karan nîşan bide',
   'showActionCounterDesc': 'Hejmara karan li ser pelabêra lîstikê nîşan bide',
   'autoAdjustBoardWidth': 'Berhêla tabloya awtomatîk hilbijêre',
+  'showUnrevealedCounter': 'hejmarê hucreyên nevekirî nîşan bide',
+  'showUnrevealedCounterDesc': 'Hejmara hucreyên nevekirî li ser navbera lîstikê nîşan bide',
+  'showMineCounter': 'hejmarê mînan nîşan bide',
+  'showMineCounterDesc': 'Hejmara mînanên mayî li ser navbera lîstikê nîşan bide',
   'autoAdjustBoardWidthDesc': 'Berhêla tabloya bi pelabêrê awtomatîk hilbijêre',
   'resetToDefaults': 'Mîhenganan ve avake',
   'resetToDefaultsDesc': 'Hemû mîhenganan bi nirxên avakî ve avake',
@@ -99,6 +103,7 @@ const Map<String, String> stringsKu = {
   // Counter strings
   'currentLevel': 'Statîya Niha',
   'remainingMines': 'Zevîyên Maqewî',
+  'unrevealedCells': 'Hucreyên nevekirî',
   'gameTime': 'Demê Lîstîkê (saniye)',
   'operationCount': 'Hejmara Karan',
   'previousLevel': 'Statîya Pêş',

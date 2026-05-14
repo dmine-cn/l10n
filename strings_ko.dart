@@ -10,6 +10,10 @@ const Map<String, String> stringsKo = {
   'showActionCounter': '동작 횟수 표시',
   'showActionCounterDesc': '게임 화면에 동작 횟수를 표시합니다',
   'autoAdjustBoardWidth': '보드 너비 자동 조절',
+  'showUnrevealedCounter': '미공개 칸 카운터 표시',
+  'showUnrevealedCounterDesc': '게임 화면에 미공개 칸 개수 표시',
+  'showMineCounter': '지뢰 카운터 표시',
+  'showMineCounterDesc': '게임 화면에 남은 지뢰 개수 표시',
   'autoAdjustBoardWidthDesc': '화면 크기에 맞춰 보드 너비를 자동으로 조절합니다',
   'resetToDefaults': '기본값으로 초기화',
   'resetToDefaultsDesc': '모든 설정을 원래 값으로 초기화합니다',
@@ -98,6 +102,7 @@ const Map<String, String> stringsKo = {
   // Counter strings
   'currentLevel': '현재 레벨',
   'remainingMines': '남은 지뢰',
+  'unrevealedCells': '미공개 칸 개수',
   'gameTime': '게임 시간 (초)',
   'operationCount': '동작 횟수',
   'previousLevel': '이전 레벨',

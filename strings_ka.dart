@@ -10,6 +10,10 @@ const Map<String, String> stringsKa = {
   'showActionCounter': 'მოქმედებების მთვლელის ჩვენება',
   'showActionCounterDesc':
       'მოქმედებების რაოდენობის ჩვენება თამაშის ინტერფეისში',
+  'showUnrevealedCounter': 'გამოჩენა გაუხსნელი უჯრების მრიცხველი',
+  'showUnrevealedCounterDesc': 'თამაშის ინტერფეისზე გაუხსნელი უჯრების რაოდენობის ჩვენება',
+  'showMineCounter': 'გამოჩენა ნაღმების მრიცხველი',
+  'showMineCounterDesc': 'თამაშის ინტერფეისზე დარჩენილი ნაღმების რაოდენობის ჩვენება',
   'autoAdjustBoardWidth': 'დაფის სიგანის ავტომატური მორგება',
   'autoAdjustBoardWidthDesc':
       'დაფის სიგანის ავტომატური მორგება ეკრანის ზომის მიხედვით',
@@ -101,6 +105,7 @@ const Map<String, String> stringsKa = {
   // Counter strings
   'currentLevel': 'მიმდინარე დონე',
   'remainingMines': 'დარჩენილი მინები',
+  'unrevealedCells': 'გაუხსნელი უჯრები',
   'gameTime': 'თამაშის დრო (წამი)',
   'operationCount': 'ოპერაციების რაოდენობა',
   'previousLevel': 'წინა დონე',

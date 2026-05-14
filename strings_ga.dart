@@ -10,6 +10,10 @@ const Map<String, String> stringsGa = {
   'showActionCounter': 'Taispeáin comhaireamh gníomhartha',
   'showActionCounterDesc':
       'Taispeáin líon na ngníomhartha ar chomhéadan an chluiche',
+  'showUnrevealedCounter': 'Taispeáin cuntar ceall neamhnochta',
+  'showUnrevealedCounterDesc': 'Taispeáin líon na gceall neamhnochta ar chomhéadan an chluiche',
+  'showMineCounter': 'Taispeáin cuntar mianach',
+  'showMineCounterDesc': 'Taispeáin líon na mianach atá fágtha ar chomhéadan an chluiche',
   'autoAdjustBoardWidth': 'Coigeartaigh leithead an bhord go huathoibríoch',
   'autoAdjustBoardWidthDesc':
       'Coigeartaigh leithead an bhord go huathoibríoch de réir méid na scáileáin',
@@ -102,6 +106,7 @@ const Map<String, String> stringsGa = {
   // Counter strings
   'currentLevel': 'Leibhéal reatha',
   'remainingMines': 'Mianraí fágtha',
+  'unrevealedCells': 'Cealla neamhnochta',
   'gameTime': 'Am cluiche (soicind)',
   'operationCount': 'Líon na n-oibríochtaí',
   'previousLevel': 'Leibhéal roimhe seo',

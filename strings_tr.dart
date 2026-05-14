@@ -10,6 +10,10 @@ const Map<String, String> stringsTr = {
   'showActionCounter': 'Hamle Sayacını Göster',
   'showActionCounterDesc': 'Oyun ekranında hamle sayısını gösterir',
   'autoAdjustBoardWidth': 'Tahta Genişliğini Otomatik Ayarla',
+  'showUnrevealedCounter': 'Açılmamış hücre sayacını göster',
+  'showUnrevealedCounterDesc': 'Oyun arayüzünde açılmamış hücre sayısını göster',
+  'showMineCounter': 'Mayın sayacını göster',
+  'showMineCounterDesc': 'Oyun arayüzünde kalan mayın sayısını göster',
   'autoAdjustBoardWidthDesc':
       'Ekran boyutuna göre tahta genişliğini otomatik ayarlar',
   'resetToDefaults': 'Varsayılanlara Sıfırla',
@@ -100,6 +104,7 @@ const Map<String, String> stringsTr = {
   // Counter strings
   'currentLevel': 'Mevcut Bölüm',
   'remainingMines': 'Kalan Mayınlar',
+  'unrevealedCells': 'Açılmamış hücreler',
   'gameTime': 'Oyun Süresi (saniye)',
   'operationCount': 'İşlem Sayısı',
   'previousLevel': 'Önceki Bölüm',

@@ -10,6 +10,10 @@ const Map<String, String> stringsId = {
   'showActionCounter': 'Tampilkan penghitung aksi',
   'showActionCounterDesc': 'Tampilkan jumlah aksi di antarmuka permainan',
   'autoAdjustBoardWidth': 'Sesuaikan lebar papan secara otomatis',
+  'showUnrevealedCounter': 'Tampilkan penghitung sel belum terungkap',
+  'showUnrevealedCounterDesc': 'Tampilkan jumlah sel belum terungkap di antarmuka game',
+  'showMineCounter': 'Tampilkan penghitung ranjau',
+  'showMineCounterDesc': 'Tampilkan sisa ranjau di antarmuka game',
   'autoAdjustBoardWidthDesc':
       'Sesuaikan lebar papan sesuai ukuran layar secara otomatis',
   'resetToDefaults': 'Atur ulang ke default',
@@ -100,6 +104,7 @@ const Map<String, String> stringsId = {
   // Counter strings
   'currentLevel': 'Level saat ini',
   'remainingMines': 'Ranjau tersisa',
+  'unrevealedCells': 'Sel belum terungkap',
   'gameTime': 'Waktu bermain (detik)',
   'operationCount': 'Jumlah operasi',
   'previousLevel': 'Level sebelumnya',
